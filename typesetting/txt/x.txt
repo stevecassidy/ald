@@ -1,0 +1,43 @@
+\start\
+
+
+
+
+
+[ap\head\Xx
+
+
+--X, x
+ /\times,0\[cp8.5]eks\minion,0\[cp8.7]/   (\minion,0\[cf2]plural forms \optima,0\[cf3]Xs, X's, x's\minion,0\[cf1])[hmp3] \minion,0\[cf2]noun \minion,0\[cf1]\optima,0\[cf3]X\minion,0\[cf1] is the 
+24th letter of the English alphabet.
+
+--x
+ /\times,0\[cp8.5]eks\minion,0\[cp8.7]/  \optima,0\[cf3][hmp3]1\minion,0\ \minion,0\[cf2]noun \minion,0\[cf1]You use \optima,0\[cf3]x\minion,0\[cf1] to represent the name 
+of a person or place when you can't or don't want 
+to use their real name.  [cf2]The head of the drug ring 
+in Australia is Mr X[j4]he's known to police as a 
+prominent Sydney businessman.  \optima,0\[cf3][hmp3]2\minion,0\ \minion,0\[cf2]noun \minion,0\[cf1]In algebra, 
+\optima,0\[cf3]x\minion,0\[cf1] is used as a symbol to represent an unknown 
+value.  [cf2]2x + 2y ;eq 6
+
+--Xmas
+ /\times,0\[cp8.5][j24]kr[j11]sm[j17]s, [j24]eksm[j17]s\minion,0\[cp8.7]/[hmp3] \minion,0\[cf2]abbreviation \minion,0\[cf1]for \optima,0\[cf3]Christ~
+mas\minion,0\[cf1] in informal written English.
+
+--x-ray
+ /\times,0\[cp8.5][j24]eks-re[j11], eks-[j24]re[j11]\minion,0\[cp8.7]/  \optima,0\[cf3][hmp3]1\minion,0\ \minion,0\[cf2]noun \minion,0\[cf1]\optima,0\[cf3]X-rays\minion,0\[cf1] are a type 
+of radiation that can pass through solid objects. 
+ They are used to take photographs of the inside 
+of things, such as the human body and luggage at 
+airports.  \optima,0\[cf3][hmp3]2\minion,0\ \minion,0\[cf2]noun \minion,0\[cf1]An \optima,0\[cf3]x-ray\minion,0\[cf1] is a photograph of the 
+inside of part of the human body taken by x-rays. 
+ Doctors use these to help them diagnose a patient's 
+condition or disease.  [cf2]They took an x-ray just to be 
+sure my arm wasn't broken.
+
+[j30]
+ ... WORD FAMILY
+ \minion,0\[cf2]verb\minion,0\[cf1] x-ray\minion,0\[cf2]
+
+[j31]
+[fa[xp

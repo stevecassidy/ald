@@ -1,0 +1,36 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: make_aust_lex - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\TEMP\RSP1E.tmp" with contents
+[
+/nologo /MLd /Gm /GX /ZI /Od /I "d:\festival\speech_tools\include" /I "d:\festival\festival\src\modules\OGIcommon" /I "d:\festival\encoder" /I "d:\festival\festival\src\include" /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/make_aust_lex.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"D:\festival\make_aust_lex\make_aust_lex.cpp"
+]
+Creating command line "cl.exe @C:\TEMP\RSP1E.tmp" 
+Creating temporary file "C:\TEMP\RSP1F.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib wsock32.lib winmm.lib /nologo /subsystem:console /incremental:yes /pdb:"Debug/make_aust_lex.pdb" /debug /machine:I386 /nodefaultlib:"LIBC" /out:"Debug/make_aust_lex.exe" /pdbtype:sept 
+.\Debug\make_aust_lex.obj
+.\Debug\StdAfx.obj
+..\speech_tools\lib\libeststring.lib
+..\speech_tools\lib\libestools.lib
+..\speech_tools\lib\libestbase.lib
+]
+Creating command line "link.exe @C:\TEMP\RSP1F.tmp"
+<h3>Output Window</h3>
+Compiling...
+make_aust_lex.cpp
+Linking...
+
+
+
+<h3>Results</h3>
+make_aust_lex.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
