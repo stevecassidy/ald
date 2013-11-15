@@ -48,7 +48,7 @@ def process_definition(tokens):
             done_hw = True
             in_pron = not in_pron
             pron.append(tok)
-        if not done_hw:
+        elif not done_hw:
             headword.append(tok)
         elif in_pron:
             pron.append(tok)
@@ -68,6 +68,6 @@ if __name__=='__main__':
     tokens = tokenize_text(text)
     
     for defn in next_def(tokens):
-        print process_definition(defn)
-        
+        d = process_definition(defn)
+        print d
         
