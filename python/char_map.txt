@@ -1,0 +1,53 @@
+# these ones are from John Dines
+p	p
+b	b
+t	t
+d	d
+k	k
+g	g
+f	f
+v	v
+[j19]	T
+[j21]	D
+s	s
+z	z
+[j14]	S
+[j15]	Z
+m	m
+n	n
+[j18]	N
+l	l
+r	r
+j	j
+w	w
+h	h
+i	i:
+[j11]	I
+e	E
+[j12]	A
+a	a:
+... 	V
+[j16]	O
+[j20]	o:
+[j23]	U
+u	u:
+[j13]	@:
+[j17]	@
+[j24]	`
+[j25]   ;
+o       @
+,       ,
+-	-
+# new additions
+[cf1]   .
+[cf3]   r
+[ju11]   I
+...   a
+[ch   "
+| %
+# these, i think, are typesetting directives that don't
+# themselves produce characters (they map to empty strings)
+[hmp1]
+[fj
+[hmp.5]
+[cp8.7]
