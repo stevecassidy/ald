@@ -145,12 +145,9 @@ def file_to_dict(filename):
 
     file_dict = dict()
 
-    with open(filename, 'r') as f:
-        text = f.read()
-
-        for headwords, pron in extract_prons(filename):
-            for head in headwords:
-                file_dict[head] = pron
+    for headwords, pron in extract_prons(filename):
+        for head in headwords:
+            file_dict[head] = pron
 
     return file_dict
 
