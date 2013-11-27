@@ -5,7 +5,22 @@ import string
 import os
 import csv
 import re
+import getopt
+import sys
 
+USAGE = """ USAGE: python pronunciation.py [OPTION]... DIRECTORY OUT_FILE
+
+          Given typesetting files in DIRECTORY, produce SAMPA lexicon
+          as OUT_FILE.
+
+          Options:
+
+          -d DELIMITER
+                use the given delimiter for the lexicon file
+
+          -m CHAR_MAP
+                use the given character map file for the translation
+          """
 
 class UnknownSymbolError(Exception):
     """Raised when an unknown symbol is encountered while
@@ -16,9 +31,12 @@ class UnknownSymbolError(Exception):
         self.symbol = symbol
 
 
-def make_sampa_lex(directory, out_file, delimiter = '\t', char_map='char_map.txt'):
+def make_sampa_lex(directory, out_file, delimiter=None, char_map=None):
     """Take the directory of typesetting files and produce
        a MAUS-compatible SAMPA lexicon"""
+
+    delimiter = delimiter or '\t'
+    char_map = char_map or 'char_map.txt'
 
     typeset_dict = compile_dict(directory)
     sampa_dict = dict_convert(typeset_dict, char_map)
@@ -228,3 +246,39 @@ def def_blocks(filename):
 
     with open(filename, 'r') as f:
         return re.compile('\[j31\]|--').split(f.read())
+
+
+def main(argv=None):
+    if argv is None:
+        argv = sys.argv
+    try:
+        opts, args = getopt.getopt(argv[1:], 'hd:m:', ['help'])
+    except getopt.error, msg:
+        print(msg)
+        print('use --help for usage information')
+        sys.exit(2)
+
+    delimiter = None
+    char_map = None
+
+    for o, a in opts:
+        if o in ('-h', '--help'):
+            print USAGE
+            sys.exit(0)
+        elif o == '-d':
+            delimiter = a
+        elif o == '-m':
+            char_map = a
+
+    if len(args) != 2:
+        print('incorrect number of arguments, use --help for usage information')
+        sys.exit(2)
+
+    directory = args[0]
+    out_file = args[1]
+
+    make_sampa_lex(directory, out_file, delimiter, char_map)
+
+
+if __name__ == "__main__":
+    main()
