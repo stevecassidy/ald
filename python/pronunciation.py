@@ -52,7 +52,7 @@ def dict_convert(dictionary, char_map='char_map.txt'):
 
     for k, v in dictionary.items():
         try:
-            converted_dict[k.lower()] = pronstring_to_sampa(v, char_map)
+            converted_dict[k] = pronstring_to_sampa(v, char_map)
         except UnknownSymbolError as use:
             print('Unknown symbol encountered.')
             print('Word: ' + k)
@@ -175,7 +175,8 @@ Regexes for strings that should not appear in a headword
 (will be stripped out, one by one, in order, when each 
 headstring is processed)
 """
-EXCLUDE_FROM_HEAD = ['\r', '\[nb', '\[xp.*?\[ap', '\[.*?\]']
+EXCLUDE_FROM_HEAD = ['\r', '\[nb', '\[xp.*?\[ap', \
+                     '\[.*?\]', r'\\minion,0\\', "'"]
 
 def process_headstring(headstring):
     """Take the string that spans from a definition delimiter to the
@@ -185,7 +186,7 @@ def process_headstring(headstring):
     for regex in EXCLUDE_FROM_HEAD:
         headstring = re.sub(regex, '', headstring)
 
-    return [hs.strip() for hs in headstring.split(',') if hs.strip()]
+    return [hs.strip().lower() for hs in headstring.split(',') if hs.strip()]
 
 
 """ 
@@ -206,7 +207,7 @@ def process_pronstring(pronstring):
     for reg in EXCLUDE_FROM_PRON:
         pronstring = re.sub(reg, '', pronstring)
 
-    return pronstring
+    return pronstring.split(',')[0] # take only the first pronunciaton
 
 
 def extract_prons(filename):
@@ -217,7 +218,7 @@ def extract_prons(filename):
     for block in def_blocks(filename):
         spl = block.split('/')
         if len(spl) < 2: continue #this isn't a proper definition block 
-        headstring = spl[0].split('\r')[0] # drop anything on the next line
+        headstring = spl[0]
 
         found_pron = False
         for splstr in spl[1:]:

@@ -45,6 +45,7 @@ o       @
 ...   a
 [ch   "
 | %
+[iw-1] @
 # these, i think, are typesetting directives that don't
 # themselves produce characters (they map to empty strings)
 [hmp1]
