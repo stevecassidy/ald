@@ -31,28 +31,40 @@ class UnknownSymbolError(Exception):
         self.symbol = symbol
 
 
-def make_sampa_lex(directory, out_file, delimiter=None, char_map=None):
+class AusConversionError(Exception):
+    """Raised when an unknown symbol is encountered while
+       attempting to convert to SAMPA_Aus"""
+
+    def __init__(self, bad_string):
+        self.bad_string = bad_string
+
+
+def make_sampa_lex(directory, out_file,
+                   delimiter=None, char_map_filename=None):
     """Take the directory of typesetting files and produce
        a MAUS-compatible SAMPA lexicon"""
 
     delimiter = delimiter or '\t'
-    char_map = char_map or 'char_map.txt'
+    char_map_filename = char_map_filename or 'char_map.txt'
 
     typeset_dict = compile_dict(directory)
-    sampa_dict = dict_convert(typeset_dict, char_map)
+    sampa_dict = dict_convert(typeset_dict, char_map_filename)
     dict_to_lex(sampa_dict, out_file, delimiter)
 
 
-def dict_convert(dictionary, char_map='char_map.txt'):
+def dict_convert(dictionary,
+                 char_map_filename='char_map.txt', 
+                 aus_map_filename='aus_map.txt'):
     """Take a word -> typeset pronunciation dictionary and
        produce a word -> SAMPA pronunciation dictionary"""
 
     converted_dict = dict()
-    char_map = load_char_map(char_map)
+    char_map = load_char_map(char_map_filename)
+    aus_map = load_char_map(aus_map_filename)
 
     for k, v in dictionary.items():
         try:
-            converted_dict[k] = pronstring_to_sampa(v, char_map)
+            converted_dict[k] = pronstring_to_sampa(v, char_map, aus_map)
         except UnknownSymbolError as use:
             print('Unknown symbol encountered.')
             print('Word: ' + k)
@@ -63,8 +75,8 @@ def dict_convert(dictionary, char_map='char_map.txt'):
     return converted_dict
 
 
-def load_char_map(filename='char_map.txt'):
-    """Load the SAMPA character map from a file"""
+def load_char_map(filename):
+    """Load a character map from a file"""
 
     char_map = dict()
 
@@ -80,16 +92,40 @@ def load_char_map(filename='char_map.txt'):
                 char_map[symbol_pair[0]] = symbol_pair[1]
             else:
                 """if a symbol appears alone on a line, then
-                   it is ignored in the SAMPA tranalation
-                   (used for non-character typesetting directives)"""
+                   it is ignored in the tranalation"""
                 char_map[symbol_pair[0]] = ''
 
     return char_map
+    
+
+def convert_to_aus_sampa(sampa_str, aus_map):
+    """Take a pronunciation string in the SAMPA variant used in Dines'
+       mapping and convert it to SAMPA_Aus."""
+       
+    aus_str = ''   
+      
+    # get a list of the keys, longest first, then match them with the string
+    sorted_keys = sorted(aus_map.keys(), key=lambda x: len(x), reverse=True)
+    while sampa_str:
+        matched = False
+        for key in sorted_keys:
+            match = re.match(re.escape(key), sampa_str)
+            if match:
+                matched = True
+                aus_str += aus_map[match.group()]
+                sampa_str = sampa_str[match.end():]
+                break
+        
+        if not matched:
+            print("Could not convert to SAMPA_Aus: " + sampa_str)
+            raise AusConversionError(sampa_str)
+                
+    return aus_str
 
 
-def pronstring_to_sampa(pronstring, char_map):
+def pronstring_to_sampa(pronstring, char_map, aus_map):
     """Take a pronunciation string from the typesetting file and
-       produce the equivalent SAMPA representation"""
+       produce the equivalent SAMPA representation."""
 
     # divide the string into typesetting symbols (with special cases)
     symbols = []
@@ -123,8 +159,11 @@ def pronstring_to_sampa(pronstring, char_map):
         sampa_str = ''.join([char_map[symb] for symb in symbols])
     except KeyError as ker:
         raise UnknownSymbolError(ker.message)
+    
+    #convert the SAMPA string to SAMPA_Aus
+    aus_sampa_str = convert_to_aus_sampa(sampa_str, aus_map)
 
-    return sampa_str
+    return aus_sampa_str
 
 
 def dict_to_lex(dictionary, out_file, delimiter='\t'):
