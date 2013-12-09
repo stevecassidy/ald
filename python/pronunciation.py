@@ -47,19 +47,19 @@ class AusConversionError(Exception):
 class SuffixRule:
     """Represents a rule for adding a suffix to a word"""
     
-    def __init__(self, ortho_condition, pron_condition, 
-                 ortho_suffix, pron_suffix):
+    def __init__(self, orth_condition, pron_condition, 
+                 orth_suffix, pron_suffix):
                  
         """Condition (regex) on the orthographic representation of the word
            for the suffix to be applied"""
-        self.ortho_condition = ortho_condition
+        self.orth_condition = orth_condition
         
         """Condition (regex) on the SAMPA_Aus pronunciation of the word
            for the suffix to be applied"""
         self.pron_condition = pron_condition
         
         """Suffix as appended to the orthographic representation"""
-        self.ortho_suffix = ortho_suffix
+        self.orth_suffix = orth_suffix
         
         """Suffix as appended to the SAMPA_Aus representation"""
         self.pron_suffix = pron_suffix
@@ -139,6 +139,16 @@ def load_char_map(filename):
     return char_map
     
     
+def add_suffix(word, suffix):
+    """Add a suffix (from a SuffixRule) to a word"""
+    
+    while len(suffix) > 0 and suffix[0] == '<':
+        suffix = suffix[1:]
+        word = word[:-1]
+        
+    return word + suffix
+   
+         
 def apply_suffix_rules(dictionary, rules):
     """Apply a set of suffix rules to a dictionary 
        and return the extended dictionary"""
@@ -147,10 +157,11 @@ def apply_suffix_rules(dictionary, rules):
     
     for rule in rules:
         for orth, pron in dictionary.items():
-            if re.search(rule.ortho_condition, orth) and \
-               re.search(rule.pron_condition, pron) and \
-               orth + rule.ortho_suffix not in extended_dict.keys():
-                extended_dict[orth + rule.ortho_suffix] = pron + rule.pron_suffix
+            if re.search(rule.orth_condition, orth) and \
+               re.search(rule.pron_condition, pron):
+                new_orth = add_suffix(orth, rule.orth_suffix)
+                if new_orth not in extended_dict.keys():
+                    extended_dict[new_orth] = add_suffix(pron, rule.pron_suffix)
                 
     return extended_dict
 

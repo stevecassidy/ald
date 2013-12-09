@@ -21,10 +21,12 @@ rules, run:
 
 python pronunciation.py -s suffix_rules.txt ../typesetting aus_sampa.lex
 
-If you wish to incorporate another dictionary, for example the maplist task
-lexicon (maplist_task.txt), use the -l option:
+If you wish to incorporate another lexicon, for example the maptask
+lexicon (maptask_landmarks.txt), use the -l option (the incorporated
+lexicon will not be subjected to heuristic extension if the -s option
+is used simultaneously with the -l option):
 
-python pronunciation.py -l maplist_task.txt ../typesetting aus_sampa.lex
+python pronunciation.py -l maptask_landmarks.txt ../typesetting aus_sampa.lex
 
 For more detailed usage information run:
 
@@ -43,9 +45,7 @@ This Python 2.7 script is designed to parse the ALD typesetting files and
 extract orthographic representation -> phonetic representation pairs, and
 to convert those pairs to the format required by the MAUS alignment system.
 
-A brief overview of the typical usage (using make_sampa_lex()):
-- Each typesetting file is divided into chunks, each containing up to one
-word definition.
+A brief overview of the typical usage: 
 - For each chunk containing a definition, the raw typesetting strings
 containing the headword (orthographic representation) and pronunciation
 (which is comprised of typesetting directives which instruct the printer
@@ -62,7 +62,10 @@ tables provided by Linda Buckley (see aus_map below)
 data structure
 - The dictionary is (optionally) extended to variant forms of some words
 using some rules which specify the addition of suffixes (see suffix_rules 
-below)
+below). NOTE: this is a bit of a scattershot approach and will certainly
+produce pronunciations for words that aren't real. If you're only going
+to use the resultant lexicon to look up pronunciations of known words,
+then that is probably not a problem, but otherwise, be careful.
 - The dictionary is then written to a lexicon file (space-separated)
 
 -------------------------------------------------------------------------------
@@ -99,3 +102,10 @@ each word that matches the regexes specified in (1) and (2)
 
 (4) is the suffix to be appended to the SAMPA_Aus representation of
 each word that matches the regexes specified in (1) and (2)
+
+NOTE: for (3) and (4), one or more less-than characters ('<') can
+be placed at the beginning of the suffix. For each of these,
+one character will be deleted from the end of the word before
+the suffix (minus the '<' characters) is appended. For example,
+if the word is 'sky' and the suffix is '<ies', then the 'y' will
+be deleted to produce 'skies'.
