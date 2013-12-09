@@ -169,11 +169,11 @@ def apply_suffix_rules(dictionary, rules):
 def load_suffix_rules(filename):
     """Load a set of suffix rules from a file"""
     
-    suffixes = set()
+    suffixes = []
     lists = load_lists(filename, 4)
     
     for rule_list in lists:
-        suffixes.add(SuffixRule(rule_list[0], rule_list[1], rule_list[2], rule_list[3]))
+        suffixes.append(SuffixRule(rule_list[0], rule_list[1], rule_list[2], rule_list[3]))
         
     return suffixes
     
@@ -399,7 +399,7 @@ def main(argv=None):
     if argv is None:
         argv = sys.argv
     try:
-        opts, args = getopt.getopt(argv[1:], 'hd:m:a:s:', ['help'])
+        opts, args = getopt.getopt(argv[1:], 'hd:m:a:s:l:', ['help'])
     except getopt.error, msg:
         print(msg)
         print('use --help for usage information')

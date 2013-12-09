@@ -108,4 +108,11 @@ be placed at the beginning of the suffix. For each of these,
 one character will be deleted from the end of the word before
 the suffix (minus the '<' characters) is appended. For example,
 if the word is 'sky' and the suffix is '<ies', then the 'y' will
-be deleted to produce 'skies'.
+be deleted to produce 'skies'. 
+
+Also note that the rules are applied top-to-bottom: if a suffix rule 
+produces a word that collides with a word that was originally in the 
+dictionary, the original will not be overwritten, but if it collides
+with a word built using a suffix rule that appears on a previous line
+in the suffix rule file, the suffix rule appearing on the lowest line
+in the file will take precedence.
