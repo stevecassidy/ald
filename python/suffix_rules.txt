@@ -1,0 +1,23 @@
+#
+# Plurals
+#
+[^e]$                       [szSZ(tS)(dZ)]$         es  iz
+e$                          [szSZ(tS)(dZ)]$         s   iz
+[a-z]$                      [ptkfT]$                s   s
+[^oy]$                      ^[szSZ(tS)(dZ)ptkfT]$   s   z
+[bcdfghjklmnpqrstvwxz]o$    $                       es  z
+#
+# Possessives
+#
+[^s]$                      [szSZ(tS)(dZ)]$         s   iz
+[^s]$                      [ptkfT]$                s   s
+[^s]$                      ^[szSZ(tS)(dZ)ptkfT]$   s   z
+#
+# Past tense
+#
+[^e]$                       [pkTfsS(ts)]$           ed  t
+[^e]$                       [bgDvzZ(dZ)mnNl(r\\)]$  ed  d
+[^e]$                       [td]$                   ed  Id
+e$                          [pkTfsS(ts)]$           d   t
+e$                          [bgDvzZ(dZ)mnNl(r\\)]$  d   d
+e$                          [td]$                   d   Id

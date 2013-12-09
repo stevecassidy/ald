@@ -20,6 +20,12 @@ USAGE = """ USAGE: python pronunciation.py [OPTION]... DIRECTORY OUT_FILE
 
           -m CHAR_MAP
                 use the given character map file for the translation
+                
+          -a AUS_MAP
+                use the given character map for the SAMPA_Aus conversion
+                
+          -s SUFFIX_RULES
+                (optional) extend the dictionary with the given suffix rules
           """
 
 class UnknownSymbolError(Exception):
@@ -37,19 +43,65 @@ class AusConversionError(Exception):
 
     def __init__(self, bad_string):
         self.bad_string = bad_string
+        
+class SuffixRule:
+    """Represents a rule for adding a suffix to a word"""
+    
+    def __init__(self, ortho_condition, pron_condition, 
+                 ortho_suffix, pron_suffix):
+                 
+        """Condition (regex) on the orthographic representation of the word
+           for the suffix to be applied"""
+        self.ortho_condition = ortho_condition
+        
+        """Condition (regex) on the SAMPA_Aus pronunciation of the word
+           for the suffix to be applied"""
+        self.pron_condition = pron_condition
+        
+        """Suffix as appended to the orthographic representation"""
+        self.ortho_suffix = ortho_suffix
+        
+        """Suffix as appended to the SAMPA_Aus representation"""
+        self.pron_suffix = pron_suffix
 
 
 def make_sampa_lex(directory, out_file,
-                   delimiter=None, char_map_filename=None):
+                   delimiter=None, 
+                   char_map_filename=None,
+                   aus_map_filename=None,
+                   suffix_rule_filename=None,
+                   include_lex_filename=None):
     """Take the directory of typesetting files and produce
        a MAUS-compatible SAMPA lexicon"""
 
     delimiter = delimiter or '\t'
     char_map_filename = char_map_filename or 'char_map.txt'
+    aus_map_filename = aus_map_filename or 'aus_map.txt'
 
     typeset_dict = compile_dict(directory)
     sampa_dict = dict_convert(typeset_dict, char_map_filename)
+    
+    if suffix_rule_filename is not None:
+        suffix_rules = load_suffix_rules(suffix_rule_filename)
+        sampa_dict = apply_suffix_rules(sampa_dict, suffix_rules)
+
+    if include_lex_filename is not None:
+        sampa_dict.update(load_lex(include_lex_filename))
+        
     dict_to_lex(sampa_dict, out_file, delimiter)
+
+
+def load_lex(lex_filename):
+    """Load a lexicon file as a dictionary"""
+
+    dictionary = dict()
+
+    with open(lex_filename,  'r') as f:
+        for line in f:
+            line_pair = line.split()
+            dictionary[line_pair[0]] = line_pair[1]
+
+    return dictionary
 
 
 def dict_convert(dictionary,
@@ -76,9 +128,53 @@ def dict_convert(dictionary,
 
 
 def load_char_map(filename):
-    """Load a character map from a file"""
-
+    """Load a character map (as a dictionary) from a file"""
+    
     char_map = dict()
+    
+    lists = load_lists(filename, 2)
+    for list_pair in lists:
+        char_map[list_pair[0]] = list_pair[1]
+        
+    return char_map
+    
+    
+def apply_suffix_rules(dictionary, rules):
+    """Apply a set of suffix rules to a dictionary 
+       and return the extended dictionary"""
+       
+    extended_dict = dict(dictionary)
+    
+    for rule in rules:
+        for orth, pron in dictionary.items():
+            if re.search(rule.ortho_condition, orth) and \
+               re.search(rule.pron_condition, pron) and \
+               orth + rule.ortho_suffix not in extended_dict.keys():
+                extended_dict[orth + rule.ortho_suffix] = pron + rule.pron_suffix
+                
+    return extended_dict
+
+    
+def load_suffix_rules(filename):
+    """Load a set of suffix rules from a file"""
+    
+    suffixes = set()
+    lists = load_lists(filename, 4)
+    
+    for rule_list in lists:
+        suffixes.add(SuffixRule(rule_list[0], rule_list[1], rule_list[2], rule_list[3]))
+        
+    return suffixes
+    
+
+def load_lists(filename, n):
+    """Load some lists of symbols from a file, one list per line.
+       Each list should contain n symbols, and the symbols are
+       whitespace-delimited. If a line does not contain
+       at least n symbols, the list corresponding to that
+       line will be padded with empty strings. """
+
+    loaded_lists = []
 
     # anything appearing after a hash on a line is a comment
     comment_regex = re.compile('#.*$', re.DOTALL)
@@ -87,15 +183,15 @@ def load_char_map(filename):
         for line in f:
             line = comment_regex.sub('', line)
             if not line.strip(): continue
-            symbol_pair = line.split()
-            if len(symbol_pair) > 1:
-                char_map[symbol_pair[0]] = symbol_pair[1]
+            symbols = line.split()
+            if len(symbols) >= n:
+                loaded_lists.append(symbols[:n])
             else:
-                """if a symbol appears alone on a line, then
-                   it is ignored in the tranalation"""
-                char_map[symbol_pair[0]] = ''
+                while len(symbols) < n:
+                    symbols.append('')
+                loaded_lists.append(symbols)
 
-    return char_map
+    return loaded_lists
     
 
 def convert_to_aus_sampa(sampa_str, aus_map):
@@ -292,7 +388,7 @@ def main(argv=None):
     if argv is None:
         argv = sys.argv
     try:
-        opts, args = getopt.getopt(argv[1:], 'hd:m:', ['help'])
+        opts, args = getopt.getopt(argv[1:], 'hd:m:a:s:', ['help'])
     except getopt.error, msg:
         print(msg)
         print('use --help for usage information')
@@ -300,6 +396,9 @@ def main(argv=None):
 
     delimiter = None
     char_map = None
+    aus_map = None
+    suffix_rules = None
+    include_lex = None
 
     for o, a in opts:
         if o in ('-h', '--help'):
@@ -309,6 +408,12 @@ def main(argv=None):
             delimiter = a
         elif o == '-m':
             char_map = a
+        elif o == '-a':
+            aus_map = a
+        elif o == '-s':
+            suffix_rules = a
+        elif o == '-l':
+            include_lex = a
 
     if len(args) != 2:
         print('incorrect number of arguments, use --help for usage information')
@@ -317,7 +422,7 @@ def main(argv=None):
     directory = args[0]
     out_file = args[1]
 
-    make_sampa_lex(directory, out_file, delimiter, char_map)
+    make_sampa_lex(directory, out_file, delimiter, char_map, aus_map, suffix_rules, include_lex)
 
 
 if __name__ == "__main__":
