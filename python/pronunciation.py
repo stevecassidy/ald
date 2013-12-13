@@ -118,7 +118,7 @@ def make_sampa_lex(directory, out_file,
     if include_lex_filename is not None:
         sampa_dict.update(load_lex(include_lex_filename))
         
-    dict_to_lex(sampa_dict, out_file, delimiter)
+    dict_to_lex_files(sampa_dict, out_file, delimiter)
 
 
 def load_lex(lex_filename):
@@ -332,6 +332,22 @@ def dict_to_lex(dictionary, out_file, delimiter='\t'):
             f.write(k + delimiter + dictionary[k] + '\n')
 
 
+def dict_to_lex_files(dictionary, out_file, delimiter='\t'):
+    """Export a dictionary to separate lexicon files per letter
+    file names will be out_file_a.txt, out_file_b.txt etc."""
+
+    alphabet = list(string.ascii_lowercase)
+
+    for k in sorted(dictionary.keys()):
+        if k.lower()[0] in alphabet:
+            fn = out_file+'-'+k[0].lower()+'.txt'
+        else:
+            fn = out_file+'-other.txt'
+        f = open(fn, 'a')
+        f.write(k + delimiter + dictionary[k] + '\n')
+        f.close()
+        
+
 def dict_to_csv(dictionary, out_file, dialect='excel-tab'):
     """Export a dictionary to a file (with specified csv dialect)"""
     
@@ -383,7 +399,7 @@ def process_headstring(headstring):
     for regex in EXCLUDE_FROM_HEAD:
         headstring = re.sub(regex, '', headstring)
 
-    return [hs.strip().lower() for hs in headstring.split(',') if hs.strip()]
+    return [hs.strip() for hs in headstring.split(',') if hs.strip()]
 
 
 """ 
