@@ -1,26 +1,57 @@
 #
 # Plurals
 #
+#singular nouns ending with a sibilant -> add -es or -s pronounced /iz/
 [^e]$                           [szSZ(tS)(dZ)]$         es      iz
 e$                              [szSZ(tS)(dZ)]$         s       iz
+#
+#singular nouns ending in voiceless consonant -> add -s pronounced /s/
 [a-z]$                          [ptkfT]$                s       s
+#
+#other endings -> add -s pronounced /z/
 [^oy]$                          ^[szSZ(tS)(dZ)ptkfT]$   s       z
+#
+#nouns ending in -o preceded by a consonant -> add -es pronounced /z/
 [bcdfghjklmnpqrstvwxz]o$        $                       es      z
+#
+#nouns ending in -y preceded by a consonant, replace -y with -ies and add /z/
 [bcdfghjklmnpqrstvwxz(qu)]y$    $                       <ies    z
+#
 #not sure what the right pronunciation is for this one:
 #([aeio]|[^q]u)y$                $                       s       s 
 #
 # Possessives
 #
+#nouns ending in a sibilant -> add -s pronounced /iz/
 [^s]$                           [szSZ(tS)(dZ)]$         s       iz
+#
+#nouns ending in a voiceless consonant -> add -s pronounced /s/
 [^s]$                           [ptkfT]$                s       s
+#
+#others -> add -s pronounced /z/
 [^s]$                           ^[szSZ(tS)(dZ)ptkfT]$   s       z
 #
-# Past tense
+# Past tense (simple past)
 #
+#after unvoiced sounds -> -ed pronounced /t/
 [^e]$                           [pkTfsS(ts)]$           ed      t
+#
+#after voiced sound -> -ed pronounced /d/
 [^e]$                           [bgDvzZ(dZ)mnNl(r\\)]$  ed      d
+#
+#ending in -d or -t -> -ed pronouned /Id/
 [^e]$                           [td]$                   ed      Id
+#
+#same as above, but for verbs already ending with -e
 e$                              [pkTfsS(ts)]$           d       t
 e$                              [bgDvzZ(dZ)mnNl(r\\)]$  d       d
 e$                              [td]$                   d       Id
+#
+# Present participle
+#
+#add -ing, pronounced /IN/
+$                               $                       ing     IN
+#
+#if it ends in an -e, alternatively try deleting the -e
+e$                              $                       <ing    IN
+
