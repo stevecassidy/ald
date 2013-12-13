@@ -26,6 +26,20 @@ USAGE = """ USAGE: python pronunciation.py [OPTION]... DIRECTORY OUT_FILE
                 
           -s SUFFIX_RULES
                 (optional) extend the dictionary with the given suffix rules
+
+          -t TARGET_WORDS
+                (optional) if the -s option is invoked, supply a list of 
+                target words to be included in the extended dictionary
+                (if the -t option is omitted, then the -s option will
+                result in the inclusion of all possible extensions which
+                are valid given the supplied suffix rules)
+
+          -g MISSING_WORDS
+                (optional) if the -s and -t options are invoked, then 
+                a list of words which appear in the target word list
+                but which were not able to be constructed by the supplied
+                suffix rules (and which thus do not appear in the extended
+                dictionary) will be written to this file
           """
 
 class UnknownSymbolError(Exception):
@@ -70,7 +84,9 @@ def make_sampa_lex(directory, out_file,
                    char_map_filename=None,
                    aus_map_filename=None,
                    suffix_rule_filename=None,
-                   include_lex_filename=None):
+                   include_lex_filename=None,
+                   target_words_filename=None,
+                   missing_words_filename=None):
     """Take the directory of typesetting files and produce
        a MAUS-compatible SAMPA lexicon"""
 
@@ -83,7 +99,21 @@ def make_sampa_lex(directory, out_file,
     
     if suffix_rule_filename is not None:
         suffix_rules = load_suffix_rules(suffix_rule_filename)
-        sampa_dict = apply_suffix_rules(sampa_dict, suffix_rules)
+        if target_words_filename is not None:
+            target_words = []
+            with open(target_words_filename, 'r') as f:
+                for line in f:
+                    target_words.append(line.strip())
+
+            (sampa_dict, missing_words) = extend_dictionary(sampa_dict, 
+                                                            suffix_rules, 
+                                                            target_words)
+            if missing_words_filename is not None:
+                with open(missing_words_filename, 'wb') as f:
+                    for word in missing_words:
+                        f.write(word + '\n')
+        else:
+            sampa_dict = apply_suffix_rules(sampa_dict, suffix_rules)
 
     if include_lex_filename is not None:
         sampa_dict.update(load_lex(include_lex_filename))
@@ -147,7 +177,28 @@ def add_suffix(word, suffix):
         word = word[:-1]
         
     return word + suffix
-   
+
+
+def extend_dictionary(dictionary, rules, target_words):
+    """Given a dictionary, a set of suffix rules, and a 
+       list of target words, attempt to extend the 
+       dictionary to cover the target words using the
+       suffix rules, and return the extended dictionary
+       and a list of words that could not be added"""
+
+    all_extensions = apply_suffix_rules(dictionary, rules)
+    extended_dict = dict(dictionary)
+    missing_words = []
+
+    for t_word in target_words:
+        if t_word not in dictionary.keys():
+            if t_word in all_extensions.keys():
+                extended_dict[t_word] = all_extensions[t_word]
+            else:
+                missing_words.append(t_word)
+
+    return (extended_dict, missing_words)
+
          
 def apply_suffix_rules(dictionary, rules):
     """Apply a set of suffix rules to a dictionary 
@@ -399,7 +450,7 @@ def main(argv=None):
     if argv is None:
         argv = sys.argv
     try:
-        opts, args = getopt.getopt(argv[1:], 'hd:m:a:s:l:', ['help'])
+        opts, args = getopt.getopt(argv[1:], 'hd:m:a:s:l:t:g:', ['help'])
     except getopt.error, msg:
         print(msg)
         print('use --help for usage information')
@@ -410,6 +461,8 @@ def main(argv=None):
     aus_map = None
     suffix_rules = None
     include_lex = None
+    target_words = None
+    missing_words = None
 
     for o, a in opts:
         if o in ('-h', '--help'):
@@ -425,6 +478,10 @@ def main(argv=None):
             suffix_rules = a
         elif o == '-l':
             include_lex = a
+        elif o == '-t':
+            target_words = a
+        elif o == '-g':
+            missing_words = a
 
     if len(args) != 2:
         print('incorrect number of arguments, use --help for usage information')
@@ -433,7 +490,8 @@ def main(argv=None):
     directory = args[0]
     out_file = args[1]
 
-    make_sampa_lex(directory, out_file, delimiter, char_map, aus_map, suffix_rules, include_lex)
+    make_sampa_lex(directory, out_file, delimiter, char_map, aus_map, 
+                   suffix_rules, include_lex, target_words, missing_words)
 
 
 if __name__ == "__main__":

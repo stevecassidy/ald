@@ -21,6 +21,12 @@ rules, run:
 
 python pronunciation.py -s suffix_rules.txt ../typesetting aus_sampa.lex
 
+If you wish to limit the heuristic extension to a pre-defined list of
+target words (to prevent false positives), also use the -t option. The
+target_words file should have one target word per line:
+
+python pronunciation.py -s suffix_rules.txt -t target_words ../typesetting aus_sampa.lex
+
 If you wish to incorporate another lexicon, for example the maptask
 lexicon (maptask_landmarks.txt), use the -l option (the incorporated
 lexicon will not be subjected to heuristic extension if the -s option
@@ -62,10 +68,7 @@ tables provided by Linda Buckley (see aus_map below)
 data structure
 - The dictionary is (optionally) extended to variant forms of some words
 using some rules which specify the addition of suffixes (see suffix_rules 
-below). NOTE: this is a bit of a scattershot approach and will certainly
-produce pronunciations for words that aren't real. If you're only going
-to use the resultant lexicon to look up pronunciations of known words,
-then that is probably not a problem, but otherwise, be careful.
+below). 
 - The dictionary is then written to a lexicon file (space-separated)
 
 -------------------------------------------------------------------------------
