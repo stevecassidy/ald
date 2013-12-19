@@ -11,7 +11,7 @@ import sys
 USAGE = """ USAGE: python pronunciation.py [OPTION]... DIRECTORY OUT_FILE
 
           Given typesetting files in DIRECTORY, produce SAMPA lexicon
-          as OUT_FILE.
+          as OUT_FILE-a, OUT_FILE-b, ... etc.
 
           Options:
 
@@ -25,21 +25,29 @@ USAGE = """ USAGE: python pronunciation.py [OPTION]... DIRECTORY OUT_FILE
                 use the given character map for the SAMPA_Aus conversion
                 
           -s SUFFIX_RULES
-                (optional) extend the dictionary with the given suffix rules
+                extend the dictionary with the given suffix rules
 
           -t TARGET_WORDS
-                (optional) if the -s option is invoked, supply a list of 
+                if the -s option is invoked, supply a list of 
                 target words to be included in the extended dictionary
                 (if the -t option is omitted, then the -s option will
                 result in the inclusion of all possible extensions which
                 are valid given the supplied suffix rules)
 
           -g MISSING_WORDS
-                (optional) if the -s and -t options are invoked, then 
+                if the -s and -t options are invoked, then 
                 a list of words which appear in the target word list
                 but which were not able to be constructed by the supplied
                 suffix rules (and which thus do not appear in the extended
                 dictionary) will be written to this file
+
+          -l INCLUDE_LEX
+                specify an existing lexicon file, the entries
+                of which will be incorporated into the output lexicon
+
+          -c 
+                write the lexicon to a single file, rather than separating
+                into multiple files by first letter 
           """
 
 class UnknownSymbolError(Exception):
@@ -86,7 +94,8 @@ def make_sampa_lex(directory, out_file,
                    suffix_rule_filename=None,
                    include_lex_filename=None,
                    target_words_filename=None,
-                   missing_words_filename=None):
+                   missing_words_filename=None,
+                   combined_file=False):
     """Take the directory of typesetting files and produce
        a MAUS-compatible SAMPA lexicon"""
 
@@ -118,7 +127,10 @@ def make_sampa_lex(directory, out_file,
     if include_lex_filename is not None:
         sampa_dict.update(load_lex(include_lex_filename))
         
-    dict_to_lex_files(sampa_dict, out_file, delimiter)
+    if combined_file:
+        dict_to_lex(sampa_dict, out_file, delimiter)
+    else:
+        dict_to_lex_files(sampa_dict, out_file, delimiter)
 
 
 def load_lex(lex_filename):
@@ -466,7 +478,7 @@ def main(argv=None):
     if argv is None:
         argv = sys.argv
     try:
-        opts, args = getopt.getopt(argv[1:], 'hd:m:a:s:l:t:g:', ['help'])
+        opts, args = getopt.getopt(argv[1:], 'hd:m:a:s:l:t:g:c', ['help'])
     except getopt.error, msg:
         print(msg)
         print('use --help for usage information')
@@ -479,6 +491,7 @@ def main(argv=None):
     include_lex = None
     target_words = None
     missing_words = None
+    combined_file = False
 
     for o, a in opts:
         if o in ('-h', '--help'):
@@ -498,6 +511,8 @@ def main(argv=None):
             target_words = a
         elif o == '-g':
             missing_words = a
+        elif o == '-c':
+            combined_file = True
 
     if len(args) != 2:
         print('incorrect number of arguments, use --help for usage information')
@@ -507,7 +522,7 @@ def main(argv=None):
     out_file = args[1]
 
     make_sampa_lex(directory, out_file, delimiter, char_map, aus_map, 
-                   suffix_rules, include_lex, target_words, missing_words)
+                   suffix_rules, include_lex, target_words, missing_words, combined_file)
 
 
 if __name__ == "__main__":
