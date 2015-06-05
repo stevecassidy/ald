@@ -5,7 +5,10 @@ This project contains data from the print version of the
 Australian Learners Dictionary, published by NCELTR at Macquarie University in 1997. 
 
 The dictionary was edited by Chris Candlin and David Blair and was designed
-to support second language learners of Australian English. 
+to support second language learners of Australian English.   This data has now
+been made available by Macquarie University to support research.  It is 
+distributed under a Creative Commons Non Commercial Sharealike Licence
+https://creativecommons.org/licenses/by-nc/2.5/au/
 
 The data here represents the only electronic record of the final publication
 and is in the form of typesetting files from the publisher.  There are 
