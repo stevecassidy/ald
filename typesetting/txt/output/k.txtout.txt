@@ -1,0 +1,1154 @@
+{'comment': "plural forms [chKs, K's, k's",
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'K, k',
+ 'note': ' ',
+ 'pronounce': "kEI'",
+ 'ps': "noun '",
+ 'rest': '[chK or [chk is the eleventh letter of the English alphabet.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ['for [chkilometres.  [cf2]The next town is about 40 k from '
+             'here.'],
+ 'headword': 'k',
+ 'note': ' ',
+ 'pronounce': "kEI'",
+ 'ps': "abbreviation '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['A [chkaleidoscope is a toy which consists of a tube '
+             'containing pieces of coloured glass and mirrors. When you '
+             'look through it, you see colourful symmetrical patterns which '
+             'change as you turn it.'],
+ 'headword': 'kaleidoscope',
+ 'note': ' ',
+ 'pronounce': "k@`la:Id@sk@Up'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'kangaroo',
+ 'note': ' ',
+ 'pronounce': "kANg@`ru:'",
+ 'ps': "noun '",
+ 'rest': 'The [chkangaroo is a native animal of Australia.  It has powerful '
+         'hind legs and a tail for leaping, and a small head and short front '
+         'legs.  The female carries her young in a pouch.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'karate',
+ 'note': ' ',
+ 'pronounce': "k@`ra:ti:'",
+ 'ps': "noun '",
+ 'rest': '[chKarate is a Japanese style of self-defence which involves '
+         'fighting without weapons.  You use only your hands, feet, elbows '
+         'and knees.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'kayak',
+ 'note': ' ',
+ 'pronounce': "`ka:IAk'",
+ 'ps': "noun '",
+ 'rest': 'A [chkayak is a light, covered canoe used in sport.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'kebab',
+ 'note': ' ',
+ 'pronounce': "k@`bAb'",
+ 'ps': "noun '",
+ 'rest': '[chKebab is the shortened form of [chshish kebab.  A kebab '
+         'consists of small pieces of grilled meat on a thin stick or skewer.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ' ',
+ 'headword': 'keel',
+ 'note': ' ',
+ 'pronounce': "ki:l'",
+ 'ps': "noun '",
+ 'rest': "[ch1' The [chkeel of a boat is the long piece of timber or metal "
+         'that stretches along the bottom and supports the rest of the '
+         "frame.  [ch2' [chkeel over'   If someone or something [chkeels "
+         'over, they fall over suddenly.  They collapse.  Khaled was so weak '
+         'after his illness, he nearly keeled over as he tried to get out of '
+         'bed.',
+ 'senses': ' '}
+
+{'comment': 'adjective forms [chkeener, keenest',
+ 'definition': "'",
+ 'example': ["[ch1' Someone who is [chkeen is eager and enthusiastic to do "
+             "something.  [cf2]I'm keen to try the new restaurant that has "
+             'just opened.'],
+ 'headword': 'keen',
+ 'note': ' ',
+ 'pronounce': "ki:n'",
+ 'ps': "adjective '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': 'verb forms [chkeeps, kept, keeping',
+ 'definition': "'",
+ 'example': ["[ch1' If someone or something [chkeeps in a particular state "
+             'or place, they remain in that state or place. [cf2]I wish '
+             'they would keep quiet.'],
+ 'headword': 'keep',
+ 'note': ' ',
+ 'pronounce': "ki:p'",
+ 'ps': "verb '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ['A [chkeeper is someone who guards or looks after things or '
+             'animals.   [cf2]The keeper has to be careful about changing '
+             'the diet of the monkeys[j4]some foods seem to make them '
+             'cranky.'],
+ 'headword': 'keeper',
+ 'note': ' ',
+ 'pronounce': "`ki:p@'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ' ',
+ 'headword': 'keeping',
+ 'note': ' ',
+ 'pronounce': "`ki:pIN'",
+ 'ps': "noun '",
+ 'rest': "[ch1' If something is in your [chkeeping, it is in your care.  I "
+         "hope the money is safe in your keeping.  [ch2' [chin keeping "
+         "with'   If some~ thing is [chin keeping with something else, it is "
+         'suitable for it or in harmony with it.  Her modern ideas were in '
+         'keeping with the times.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'keepsake',
+ 'note': ' ',
+ 'pronounce': "`ki:psEIk'",
+ 'ps': "noun '",
+ 'rest': 'A [chkeepsake is something that you keep in memory of a person or '
+         'event.  It is like a memento.  The ring was a keepsake from her '
+         'grandmother.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'keg',
+ 'note': ' ',
+ 'pronounce': "kEg'",
+ 'ps': "noun '",
+ 'rest': 'A [chkeg is a barrel, especially for storing beer.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'kelp',
+ 'note': ' ',
+ 'pronounce': "kElp'",
+ 'ps': "noun '",
+ 'rest': '[chKelp is a type of large brown seaweed.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['A [chkennel is a house built for a dog to sleep in.'],
+ 'headword': 'kennel',
+ 'note': ' ',
+ 'pronounce': "`kEn@l'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'kept',
+ 'note': ' ',
+ 'pronounce': "kEpt'",
+ 'ps': "verb '",
+ 'rest': '[chKept is the past tense and past participle of [chkeep.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ['A [chkerb is a raised edge of stones or concrete at the side '
+             'of a street.  It separates the footpath from the road.'],
+ 'headword': 'kerb',
+ 'note': ' ',
+ 'pronounce': "k@:b'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ' ',
+ 'headword': 'kernel',
+ 'note': ' ',
+ 'pronounce': "`k@:n@l'",
+ 'ps': "noun '",
+ 'rest': "[ch1' The [chkernel is the inner part of the hard shell of a nut.  "
+         "You can usually eat it.  [ch2' noun The [chkernel is also the "
+         "central part or core of something.  We haven't yet reached the "
+         'kernel of the problem.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'kero',
+ 'note': ' ',
+ 'pronounce': "`kEr@U'",
+ 'ps': "noun '",
+ 'rest': '[chKero is the shortened form of [chkerosene.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ['[chKerosene is a liquid used as a fuel in lamps, heaters and '
+             'engines.'],
+ 'headword': 'kerosene',
+ 'note': ' ',
+ 'pronounce': "kEr@`si:n, `kEr@si:n'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ['[chKetchup is a spicy cold sauce usually made from tomatoes '
+             'and eaten with meat or sausages.'],
+ 'headword': 'ketchup',
+ 'note': ' ',
+ 'pronounce': "`kEtS@p'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'kettle',
+ 'note': ' ',
+ 'pronounce': "`kEtl'",
+ 'ps': "noun '",
+ 'rest': 'A [chkettle is a container for boiling water.  It has a handle, a '
+         "lid, and a spout for easy pouring.  I'll put the kettle on so we "
+         'can make a cup of tea.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["[ch1a' A [chkey is a small piece of specially shaped metal.  "
+             "It is used to open a lock.  [cf2]I wish I hadn't locked my "
+             "suitcase[j4]I can't find the key to open it.  [chb' noun A "
+             '[chkey is also used to start a car engine or machinery, and '
+             'to wind up clocks or toys.  [cf2]Which is the ignition key to '
+             "the car?  [ch2' '[cf2]noun The [chkey is something that "
+             'explains how to understand things such as maps, diagrams or '
+             'codes. [cf2]Look in the front of the book for the key to the '
+             'abbreviations.'],
+ 'headword': 'key',
+ 'note': ' ',
+ 'pronounce': "ki:'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'keyboard',
+ 'note': ' ',
+ 'pronounce': "`ki:b@:d'",
+ 'ps': "noun '",
+ 'rest': 'A [chkeyboard is the set of keys on a typewriter, computer or '
+         'piano.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["[ch1' In music, the [chkeynote is the first note of a key or "
+             "scale.  [ch2' adjective [chKeynote is used to describe "
+             'something that is of main interest.  [cf2]The keynote speaker '
+             'at the conference was a visiting professor.'],
+ 'headword': 'keynote',
+ 'note': ' ',
+ 'pronounce': "`ki:n@Ut'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'kg',
+ 'note': ' ',
+ 'pronounce': "kEI`dZi:, `kIl@grAm'",
+ 'ps': "abbreviation '",
+ 'rest': 'for [chkilogram or [chkilograms.  She weighs 60 kg.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['[chKhaki is a greenish- brown colour.'],
+ 'headword': 'khaki',
+ 'note': ' ',
+ 'pronounce': "ka:`ki:, `ka:ki:'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ' ',
+ 'headword': 'Khmer',
+ 'note': ' ',
+ 'pronounce': "k@`mE@'",
+ 'ps': "noun '",
+ 'rest': "[ch1' [chKhmer is a language spoken in Cambodia.  It is a member "
+         "of the Mon- Khmer family of languages.  [ch2' adjective You also "
+         'use [chKhmer to describe someone who is a member of the Khmer '
+         'Republic.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'kibble',
+ 'note': ' ',
+ 'pronounce': "`kIb@l'",
+ 'ps': "verb '",
+ 'rest': 'If wheat or grain has been [chkibbled, it has been ground into '
+         'small particles.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["[ch1' When a person or animal [chkicks, they strike with "
+             'their foot.  [cf2]The boys were kicking a ball around the '
+             'oval.'],
+ 'headword': 'kick',
+ 'note': ' ',
+ 'pronounce': "kIk'",
+ 'ps': "verb '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': 'verb forms [chkids, kidded, kidding',
+ 'definition': "'",
+ 'example': ["[ch1' In informal language, you can call a child or young "
+             'person a [chkid.  [cf2]Our neighbours have three teenage '
+             "kids.  [ch2' noun A [chkid is a young goat.  [ch3' '[cf2]verb "
+             'In informal language, if you [chkid someone, you say things '
+             "that are not true, as a joke, to trick them.  [cf2]Don't take "
+             "him seriously[j4]he's only kidding."],
+ 'headword': 'kid',
+ 'note': ' ',
+ 'pronounce': "kId'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': 'verb forms [chkidnaps, kidnapped, kidnapping',
+ 'definition': "'",
+ 'example': ['If someone is [chkidnapped, they are taken away by force and '
+             'held prisoner.  Often money is demanded for their release.  '
+             '[cf2]Police are looking for the man who kidnapped the small '
+             'child.'],
+ 'headword': 'kidnap',
+ 'note': ' ',
+ 'pronounce': "`kIdnAp'",
+ 'ps': "verb '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['Your [chkidneys are the two organs in your lower back area '
+             'which remove liquid waste from the blood by producing urine.'],
+ 'headword': 'kidney',
+ 'note': ' ',
+ 'pronounce': "`kIdni:'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["[ch1' When someone or something [chkills a person, animal or "
+             'plant, they cause them to die. [cf2]Spiders kill insects for '
+             'food.'],
+ 'headword': 'kill',
+ 'note': ' ',
+ 'pronounce': "kIl'",
+ 'ps': "verb '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['A [chkilling is a murder.  [cf2]Police have reported two '
+             'killings in the last month.'],
+ 'headword': 'killing',
+ 'note': ' ',
+ 'pronounce': "`kIlIN'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'kiln',
+ 'note': ' ',
+ 'pronounce': "kIln'",
+ 'ps': "noun '",
+ 'rest': 'A [chkiln is a large oven for baking bricks or pottery.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'kilo',
+ 'note': ' ',
+ 'pronounce': "`ki:l@U'",
+ 'ps': "noun '",
+ 'rest': "[chKilo is a shortened form of [chkilogram.  She's on a diet "
+         'trying to lose two kilos.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'kilobyte',
+ 'note': ' ',
+ 'pronounce': "`kIl@ba:It'",
+ 'ps': "noun '",
+ 'rest': 'A [chkilobyte is equal to 1024 bytes of computer information.  The '
+         'symbol for this is [chK.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'kilogram',
+ 'note': ' ',
+ 'pronounce': "`kIl@grAm'",
+ 'ps': "noun '",
+ 'rest': 'A [chkilogram is a unit of weight equal to 1000 grams.  The '
+         'abbreviation for this is [chkg.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'kilohertz',
+ 'note': ' ',
+ 'pronounce': "`kIl@h@:ts'",
+ 'ps': "noun '",
+ 'rest': 'A [chkilohertz is a unit of frequency equal to 1000 cycles per '
+         'second.  The abbreviation for this is [chkHz.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'kilojoule',
+ 'note': ' ',
+ 'pronounce': "`kIl@dZu:l'",
+ 'ps': "noun '",
+ 'rest': 'A [chkilojoule is equal to 1000 joules, which are units used to '
+         'express the energy value of food.  The abbreviation for this is '
+         '[chkJ.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'kilometre',
+ 'note': ' ',
+ 'pronounce': "k@`lOm@t@, `kIl@mi:t@'",
+ 'ps': "noun '",
+ 'rest': 'A [chkilometre is the unit of length equal to 1000 metres.  The '
+         'abbreviation for this is [chkm.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'kilowatt',
+ 'note': ' ',
+ 'pronounce': "`kIl@wOt'",
+ 'ps': "noun '",
+ 'rest': 'A [chkilowatt is equal to 1000 watts.  The abbreviation for this '
+         'is [chkW.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'kilt',
+ 'note': ' ',
+ 'pronounce': "kIlt'",
+ 'ps': "noun '",
+ 'rest': 'A [chkilt is a short pleated skirt made of tartan cloth and worn '
+         'mainly by men of the Scottish Highlands.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'kimono',
+ 'note': ' ',
+ 'pronounce': "`kIm@n@U, k@`m@Un@U'",
+ 'ps': "noun '",
+ 'rest': 'A [chkimono is a traditional Japanese costume that has wide '
+         'sleeves, wraps around the body and is tied at the waist.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['Your [chkin are the members of your family and your relatives.'],
+ 'headword': 'kin',
+ 'note': ' ',
+ 'pronounce': "kIn'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': 'adjective forms [chkinder, kindest',
+ 'definition': "'",
+ 'example': ["[ch1' Someone who is [chkind is caring and thoughtful.    "
+             '[cf2]She was the kindest lady I have ever known.'],
+ 'headword': 'kind',
+ 'note': ' ',
+ 'pronounce': "ka:Ind'",
+ 'ps': "adjective '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ['A [chkindergarten is a school or class that young children '
+             'around the age of five attend before they go to primary '
+             'school.'],
+ 'headword': 'kindergarten',
+ 'note': ' ',
+ 'pronounce': "`kInd@ga:tn'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["[ch1' If something [chkindles or you kindle something, it "
+             'starts to burn or you set it alight.  [cf2]At last the fire '
+             'began to kindle.'],
+ 'headword': 'kindle',
+ 'note': ' ',
+ 'pronounce': "`kInd@l'",
+ 'ps': "verb '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'kindling',
+ 'note': ' ',
+ 'pronounce': "`kIndlIN'",
+ 'ps': "noun '",
+ 'rest': '[chKindling is material, such as dry sticks or leaves, that you '
+         "use to start a fire. Let's gather some kindling and burn those big "
+         'logs.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["[ch1' A [chkindly person is someone who is sympathetic and "
+             'tries to help.  [cf2]She could always go to her kindly aunt '
+             "for advice.  [ch2' adverb If you do something [chkindly, you "
+             'do it in a kind manner.  [cf2]He acted kindly towards the '
+             'strangers.'],
+ 'headword': 'kindly',
+ 'note': ' ',
+ 'pronounce': "`ka:Indli:'",
+ 'ps': "adjective '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'kindred',
+ 'note': ' ',
+ 'pronounce': "`kIndr@d'",
+ 'ps': "adjective '",
+ 'rest': '[chThings that are [chkindred are related by a common source or '
+         'have similar qualities.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'kindy',
+ 'note': ' ',
+ 'pronounce': "`kIndi:'",
+ 'ps': "noun Kindy '",
+ 'rest': "is the shortened form of kindergarten'.",
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["[ch1' A [chking is a man who rules over a country or empire.  "
+             'He is descended from a royal family.  [cf2]England has been '
+             "ruled by many kings and queens.  [ch2' noun Someone of great "
+             'importance or influence in their field can be called a '
+             '[chking.  [cf2]He was the cattle king of the district.'],
+ 'headword': 'king',
+ 'note': ' ',
+ 'pronounce': "kIN'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ' ',
+ 'headword': 'kingdom',
+ 'note': ' ',
+ 'pronounce': "`kINd@m'",
+ 'ps': "noun '",
+ 'rest': "[ch1' A [chkingdom is a country ruled by a king or queen.  [ch2' "
+         'noun A [chkingdom is also any of the large divisions in nature '
+         'such as the animal, plant or mineral kingdoms.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["[ch1' A [chkink is a twist in something like wire, rope, "
+             'thread or hair.  [cf2]It is hard to comb your hair[j4]it is '
+             'full of kinks.'],
+ 'headword': 'kink',
+ 'note': ' ',
+ 'pronounce': "kINk'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ' ',
+ 'headword': 'kinship',
+ 'note': ' ',
+ 'pronounce': "`kInSIp'",
+ 'ps': "noun '",
+ 'rest': "[ch1' [chKinship is the relationship between members of a family.  "
+         "The family tree has revealed some unknown kinships.  [ch2' noun If "
+         'you have an understanding with someone or a likeness to them, you '
+         'have a [chkinship with them.  Bob felt real kinship with the other '
+         'members of the club.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'kiosk',
+ 'note': ' ',
+ 'pronounce': "`ki:Osk'",
+ 'ps': "noun '",
+ 'rest': 'A [chkiosk is a small shop in a park or at a railway station that '
+         'sells such things as newspapers, cigarettes, films, snacks and '
+         'souvenirs.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['If you [chkiss someone or something, you touch them with your '
+             'lips.  It is done as a sign of affection or as a greeting.  '
+             '[cf2]They kissed and said goodbye.'],
+ 'headword': 'kiss',
+ 'note': ' ',
+ 'pronounce': "kIs'",
+ 'ps': "verb '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["[ch1' A [chkit is a set of tools or articles needed for a "
+             'special purpose.  [cf2]The scout leader checked the first-aid '
+             'kit before starting out on the bushwalk.'],
+ 'headword': 'kit',
+ 'note': ' ',
+ 'pronounce': "kIt'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'kitchen',
+ 'note': ' ',
+ 'pronounce': "`kItS@n'",
+ 'ps': "noun '",
+ 'rest': 'A [chkitchen is the room or place where food is cooked and '
+         'prepared.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'kitchenette',
+ 'note': ' ',
+ 'pronounce': "kItS@`nEt'",
+ 'ps': "noun '",
+ 'rest': 'A [chkitchenette is a small kitchen.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'kitchen tea',
+ 'note': ' ',
+ 'pronounce': "kItS@n `ti:'",
+ 'ps': 'noun',
+ 'rest': 'A kitchen tea is a party given for a woman who is going to get '
+         'married. Her friends give her presents for her home.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'kite',
+ 'note': ' ',
+ 'pronounce': "ka:It'",
+ 'ps': "noun '",
+ 'rest': 'A [chkite is a toy which consists of a light frame covered with '
+         'paper or thin cloth. You let it fly in the wind on the end of a '
+         'long string.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'kitsch',
+ 'note': ' ',
+ 'pronounce': "kItS'",
+ 'ps': "noun '",
+ 'rest': '[chKitsch is showy or worthless art or literature.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'kitten',
+ 'note': ' ',
+ 'pronounce': "`kItn'",
+ 'ps': "noun '",
+ 'rest': 'A [chkitten is a very young cat.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'kiwi',
+ 'note': ' ',
+ 'pronounce': "`ki:wi:'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '1',
+             'note': ' ',
+             'ps': ' ',
+             'rest': 'A kiwi is a small bird of New Zealand that cannot '
+                     'fly. 2 In informal language, you call a person who '
+                     'comes from New Zealand a [chkiwi.'}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'kJ',
+ 'note': ' ',
+ 'pronounce': "`kIl@dZu:l'",
+ 'ps': "abbreviation '",
+ 'rest': 'for [chkilojoule or [chkilojoules.  A 30 g piece of cheese is '
+         'equal to 500 kJ.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['[chKleptomania is a mental illness where a person cannot stop '
+             "themselves from stealing things which they don't really "
+             'need.  It is an impulsive, obsessive action.'],
+ 'headword': 'kleptomania',
+ 'note': ' ',
+ 'pronounce': "klEpt@`mEIni:@'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'km',
+ 'note': ' ',
+ 'pronounce': "k@`lOm@t@, `kIl@mi:t@'",
+ 'ps': "abbreviation '",
+ 'rest': 'for [chkilometre or [chkilometres.  The bridge is 5 km away.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ['A [chknack is a special skill that you have or that you '
+             "develop to do a particular thing.  [cf2]Don't give up "
+             "trying[j4]you'll soon get the knack of it."],
+ 'headword': 'knack',
+ 'note': ' ',
+ 'pronounce': "nAk'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'knackered',
+ 'note': ' ',
+ 'pronounce': "`nAk@d'",
+ 'ps': 'adjective',
+ 'rest': 'In informal language, if you say you are knackered, you mean you '
+         'are very tired.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'knapsack',
+ 'note': ' ',
+ 'pronounce': "`nApsAk'",
+ 'ps': "noun '",
+ 'rest': 'A [chknapsack is a canvas or leather bag that you carry on your '
+         'back.  Hikers and climbers usually use them to carry food and '
+         'clothing.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ['[chKnave is an old-fashioned word for a man or boy who is not '
+             'honest.'],
+ 'headword': 'knave',
+ 'note': ' ',
+ 'pronounce': "nEIv'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'knead',
+ 'note': ' ',
+ 'pronounce': "ni:d'",
+ 'ps': "verb '",
+ 'rest': 'When you [chknead dough you press, push and stretch it with your '
+         'hands to get it thoroughly mixed.  She was kneading some dough to '
+         'make bread.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["[ch1' Your [chknee is the joint between the thigh and the "
+             'lower leg, where it bends.  See the picture at [chbody.  '
+             '[cf2]When you ski you have to bend your knees a lot.'],
+ 'headword': 'knee',
+ 'note': ' ',
+ 'pronounce': "ni:'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'kneecap',
+ 'note': ' ',
+ 'pronounce': "`ni:kAp'",
+ 'ps': "noun '",
+ 'rest': 'Your [chkneecap is the flat bone at the front of your knee.',
+ 'senses': ' '}
+
+{'comment': 'verb forms [chkneels, knelt or [chkneeled, kneeling',
+ 'definition': ' ',
+ 'example': ['If you [chkneel, you rest on one or both knees.  [cf2]The '
+             'congregation was kneeling in prayer.'],
+ 'headword': 'kneel',
+ 'note': ' ',
+ 'pronounce': "ni:l'",
+ 'ps': "verb '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'knew',
+ 'note': ' ',
+ 'pronounce': "nju:'",
+ 'ps': "verb '",
+ 'rest': '[chKnew is the past tense of [chknow.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'knickers',
+ 'note': ' ',
+ 'pronounce': "`nIk@z'",
+ 'ps': "noun '",
+ 'rest': '[chKnickers are underpants worn by women and girls.  She bought '
+         "herself a pair of knickers[j4]they're frilly and lacy.",
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ["'times,0'[cp8.5]"],
+ 'headword': 'knick',
+ 'note': ' ',
+ 'pronounce': ' ',
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': 'plural form [chknives',
+ 'definition': "'",
+ 'example': ["[ch1' A [chknife is a tool for cutting things, or it can be a "
+             'weapon. It has a handle and a sharp blade.  [cf2]We need to '
+             'set an extra knife and fork on the table for Annie.'],
+ 'headword': 'knife',
+ 'note': ' ',
+ 'pronounce': "na:If'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["[ch1' In the Middle Ages, a [chknight was a man with a high "
+             "position in society who fought in wars for the king.  [ch2' "
+             'noun In modern times, a [chknight is a man who has been given '
+             "the title 'Sir' by a British king or queen for services to "
+             "his country.  [ch3' '[cf2]noun In chess, a [chknight is the "
+             "piece shaped like a horse's head."],
+ 'headword': 'knight',
+ 'note': ' ',
+ 'pronounce': "na:It'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': 'verb forms [chknits, knitted or [chknit, [chknitting',
+ 'definition': "'",
+ 'example': ["[ch1' When you [chknit, you make a garment or fabric from "
+             'strands of wool or yarn using long needles or a machine.  '
+             '[cf2]I like to knit while watching TV.'],
+ 'headword': 'knit',
+ 'note': ' ',
+ 'pronounce': "nIt'",
+ 'ps': "verb '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ['[chKnitting is the article that you knit or the act of '
+             "knitting.  [cf2]Please bring me my knitting[j4]it's in the "
+             'family room.'],
+ 'headword': 'knitting',
+ 'note': ' ',
+ 'pronounce': "`nItIN'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["[ir(s76),(s75+6)]knob   [ch1' A [chknob is a round handle for "
+             'opening things or for turning things on or off.  [cf2]The new '
+             'house featured brass knobs on cup~ boards and doors.'],
+ 'headword': '',
+ 'note': ' ',
+ 'pronounce': "nOb'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["[oi0,(s75+6)]   [ch1' If someone or something [chknocks on a "
+             'door or window, they tap or strike it.  [cf2]You must knock '
+             'before you enter.'],
+ 'headword': 'knock',
+ 'note': ' ',
+ 'pronounce': "nOk'",
+ 'ps': "verb '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["[ir(s76),(s75+6)]knot   [ch1' A [chknot is the part where "
+             'pieces of thread, string or rope are tied together. [cf2]Pull '
+             "the knot tight so it won't come undone."],
+ 'headword': '',
+ 'note': ' ',
+ 'pronounce': "nOt'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': 'verb forms [chknows, knew, known, knowing',
+ 'definition': "'",
+ 'example': ["[ch1' If you [chknow something, you understand it to be true "
+             'or a fact.  You are certain in your mind about it.  [cf2]He '
+             'knew they were away on holidays last month.'],
+ 'headword': 'know',
+ 'note': ' ',
+ 'pronounce': "n@U'",
+ 'ps': "verb '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["[ch1' A [chknowing look or remark is one that shows that you "
+             'have a secret understanding of something, more than is '
+             'obvious. [cf2]He turned his head and gave us a knowing wink. '
+             "[ch2 ' adjective Someone who is [chknowing is intelligent and "
+             'wise.'],
+ 'headword': 'knowing',
+ 'note': ' ',
+ 'pronounce': "`n@UIN'",
+ 'ps': "adjective '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["[ch1a' Your [chknowledge is the experience and facts you have "
+             'gained or learnt through living and studying.  It is what you '
+             'know.  [cf2]He has a vast knowledge of marine animals.'],
+ 'headword': 'knowledge',
+ 'note': ' ',
+ 'pronounce': "`nOlIdZ'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['[chKnown is the past participle of [chknow.  [fp[gc--knuckle '
+             "'times,0'[cp8.5]"],
+ 'headword': 'known',
+ 'note': ' ',
+ 'pronounce': "n@Un'",
+ 'ps': "verb '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ['for [chknockout.'],
+ 'headword': 'KO',
+ 'note': ' ',
+ 'pronounce': "kEI `@U'",
+ 'ps': "abbreviation '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'koala',
+ 'note': ' ',
+ 'pronounce': "k@U`a:l@'",
+ 'ps': "noun '",
+ 'rest': 'A [chkoala is a furry, grey, Australian animal that lives and '
+         'feeds in certain types of gum tree.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ['A [chkookaburra is an Australian bird with a harsh call which '
+             'sounds like laughter.  It eats mainly fish.'],
+ 'headword': 'kookaburra',
+ 'note': ' ',
+ 'pronounce': "`kUk@bV r@'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ' ',
+ 'headword': 'Korean',
+ 'note': ' ',
+ 'pronounce': "k@`ri:@n'",
+ 'ps': "noun '",
+ 'rest': "[ch1' [chKorean is the language of the people of Korea.  [ch2' "
+         'adjective You can also use [chKorean to describe someone or '
+         'something that comes from Korea.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['[chKosher is used to describe food, especially meat, that has '
+             'been prepared according to Jewish law.  [cf2]Is this food '
+             'kosher?'],
+ 'headword': 'kosher',
+ 'note': ' ',
+ 'pronounce': "`k@US@'",
+ 'ps': "adjective '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ["'times,0'[cp8.5]k..."],
+ 'headword': 'kung',
+ 'note': ' ',
+ 'pronounce': ' ',
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+

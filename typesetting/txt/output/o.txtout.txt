@@ -1,0 +1,3925 @@
+{'comment': "plural forms Os, O's, o's",
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'O, o',
+ 'note': ' ',
+ 'pronounce': "@U'",
+ 'ps': "'",
+ 'rest': 'O or o is the fifteenth letter of the English alphabet.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['If you call someone an oaf, you mean that you think they are '
+             'stupid and clumsy. [cf2]Mind my foot, you oaf.'],
+ 'headword': 'oaf',
+ 'note': ' ',
+ 'pronounce': "@Uf'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'oar',
+ 'note': ' ',
+ 'pronounce': "@:'",
+ 'ps': "noun '",
+ 'rest': 'An oar is a long pole with one flat end.  You use it for rowing a '
+         'boat.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'oath',
+ 'note': ' ',
+ 'pronounce': "@UT'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '1',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': "' An oath is a very solemn promise to do something.  "
+                     "He made them swear an oath of loyalty.  '"},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '2',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': "' An oath is also a swear word.  The air was thick "
+                     'with oaths and curses.'}]}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['If someone is obe~ dient, they do what they are told to.  '
+             '[cf2]She believes that children should be unquestioningly '
+             'obedient.'],
+ 'headword': 'obedient',
+ 'note': ' ',
+ 'pronounce': "@`bi:di:@nt'",
+ 'ps': "adjective '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['If someone is obese, they are very fat.  [cf2]Overeating and '
+             'lack of exercise can make you obese.'],
+ 'headword': 'obese',
+ 'note': ' ',
+ 'pronounce': "@U`bi:s'",
+ 'ps': "adjective '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['If you obey someone or something, you do what you are told '
+             'to.  [cf2]It is important to obey the instructions exactly.'],
+ 'headword': 'obey',
+ 'note': ' ',
+ 'pronounce': "@U`bEI'",
+ 'ps': "verb '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'object',
+ 'note': ' ',
+ 'pronounce': "`ObdZEkt'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': "'",
+             'example': ' ',
+             'id': '3',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': "a' In grammar, the object in a sentence or clause is "
+                     'the person or thing that receives the action of the '
+                     "verb, for example John in the sentence 'The dog bit "
+                     "John.  '"},
+            {'comment': ' ',
+             'definition': "'",
+             'example': ["b' The object of a preposition is the person or "
+                         'thing that follows it, for example me in the '
+                         "phrase '[cf2]before me. 4a ' '[cf2]verb If you "
+                         'object, you protest about something or express '
+                         'disagreement.  [cf2]I went to sit at the front, '
+                         'but Nadia objected.'],
+             'id': 1,
+             'note': ' ',
+             'ps': "noun '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'objective',
+ 'note': ' ',
+ 'pronounce': "@b`dZEktIv'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ["' Your objective is what you are trying to "
+                         'achieve.  It is your aim or goal.  An objective '
+                         'is something more difficult and complex than an '
+                         'object, and will take longer to achieve.  '
+                         "[cf2]What's your next objective now that you've "
+                         'graduated?'],
+             'id': '1',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': "'",
+             'example': ["' If someone or something is objective, they "
+                         'are fair and unbiased.  [cf2]The witness was so '
+                         "upset that he couldn't be relied on to give an "
+                         'objective account of the accident.'],
+             'id': '2',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'oblige',
+ 'note': ' ',
+ 'pronounce': "@`bla:IdZ'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '1',
+             'note': ' ',
+             'ps': "verb '",
+             'rest': "' In very polite and rather old-fashioned language, "
+                     'if you say that someone obliges you, you mean that '
+                     'they do you a favour. Could you oblige me by putting '
+                     "my suitcase in the rack?  '"},
+            {'comment': ' ',
+             'definition': "'",
+             'example': ["a' In polite language, if you say that you are "
+                         'obliged to someone, you mean that you are '
+                         'grateful to them.  [cf2]I am much obliged to my '
+                         'colleages who commented on an earlier draft of '
+                         "this paper. '   b adjective If you are obliged "
+                         'to do something, you have to do it.  [cf2]The '
+                         'last bus had gone, so we were obliged to walk.'],
+             'id': '2',
+             'note': ' ',
+             'ps': "adjective    '[cf2] '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['An oblong is a rectangle, especially a rather long, thin one.'],
+ 'headword': 'oblong',
+ 'note': ' ',
+ 'pronounce': "`OblON'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'obscene',
+ 'note': ' ',
+ 'pronounce': ' ',
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ["' If something is obscene, it deals with sex in "
+                         'a crude and offensive way.  [cf2]The police '
+                         'seized a number of obscene videos.'],
+             'id': '1',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': "'",
+             'example': ["' If something is obscene, it is shocking and "
+                         'offensive.  [cf2]This is an obscene waste of '
+                         'resources.'],
+             'id': '2',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'obscure',
+ 'note': ' ',
+ 'pronounce': ' ',
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '2',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': "' If something is obscure, it is hard to "
+                     'understand.  It is not clear.  This paragraph is '
+                     'rather obscure[j4]you need to expand your ideas a '
+                     "bit.  '"},
+            {'comment': ' ',
+             'definition': "'",
+             'example': ["' If something obscures something else, it "
+                         'makes it hard to see because it is dark or '
+                         'hidden.  [cf2]The moon was obscured by clouds.'],
+             'id': '3',
+             'note': ' ',
+             'ps': "verb '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'observe',
+ 'note': ' ',
+ 'pronounce': "@b`z@:v'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ["' If you observe someone or something, you "
+                         'watch them carefully.  [cf2]The pupils observed '
+                         'the demonstration with interest.'],
+             'id': '1',
+             'note': ' ',
+             'ps': "verb '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ["' In rather formal language, if you say you "
+                         'observe something, you mean that you notice it. '
+                         "[cf2]I observed that Harry wasn't wearing a tie."],
+             'id': '2',
+             'note': ' ',
+             'ps': "verb '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ["' In rather formal language, if you say someone "
+                         'observes something, you mean that they make a '
+                         "remark or comment.  [cf2]'It's hot today', "
+                         'Helga observed.'],
+             'id': '3',
+             'note': ' ',
+             'ps': "verb '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': "'",
+             'example': ["' In formal language, if you say someone "
+                         'observes a law or rule, you mean that they obey '
+                         'it.  [cf2]Any contestant who fails to observe '
+                         'the rules will be disqualified.'],
+             'id': '4',
+             'note': ' ',
+             'ps': "verb '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["If you have an obses~ sion about something, you can't get it "
+             'out of your mind.  [cf2]The idea of revenge has become an '
+             'obsession with him.'],
+ 'headword': 'obsession',
+ 'note': ' ',
+ 'pronounce': "@b`sES@n'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'obsolete',
+ 'note': ' ',
+ 'pronounce': "`Obs@li:t'",
+ 'ps': "adjective '",
+ 'rest': 'If something is [chobsolete, it is no longer used because a newer '
+         'or better thing is doing the same job.  These ledgers are obsolete '
+         "now that we've got all our records on computer.",
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ['An obstacle is some~ thing that stops you from making '
+             "progress.  It hinders you.  [cf2]I'd love to go on holiday, "
+             'but having to look after my parents is an obstacle.'],
+ 'headword': 'obstacle',
+ 'note': ' ',
+ 'pronounce': "`Obst@k@l'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['An obstetrician is a doctor who takes care of pregnant women '
+             'before, during and after childbirth.  [cf2]I had to visit the '
+             'obstetrician each month, and then each fortnight for the last '
+             'six weeks of my pregnancy.'],
+ 'headword': 'obstetrician',
+ 'note': ' ',
+ 'pronounce': "Obst@`trIS@n'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['If someone is obstinate, they are stubborn.  They are '
+             'reluctant to change their mind or give up something they have '
+             "decided to do.  [cf2]Don't be so obstinate[j4]it's clear that "
+             "it's not going to work."],
+ 'headword': 'obstinate',
+ 'note': ' ',
+ 'pronounce': "`Obst@n@t'",
+ 'ps': "adjective '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'obstruct',
+ 'note': ' ',
+ 'pronounce': "@b`strV kt'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ["' If you obstruct some~ thing such as a passage "
+                         'or channel, you block it so that things cannot '
+                         'move freely.  [cf2]Our way forward was '
+                         'obstructed by a fallen tree.'],
+             'id': '1',
+             'note': ' ',
+             'ps': "verb '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': "'",
+             'example': ["' If you obstruct an action, you make it "
+                         'difficult to carry out.  [cf2]Darkness '
+                         'obstructed the rescue effort.'],
+             'id': '2',
+             'note': ' ',
+             'ps': "verb '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['In rather formal language, if you say you obtain something, '
+             'you mean that you get it.  [cf2]I obtained my degree at '
+             'Macquarie University.'],
+ 'headword': 'obtain',
+ 'note': ' ',
+ 'pronounce': "@b`tEIn'",
+ 'ps': "verb '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ["'times,0'[cp8.5]"],
+ 'headword': 'obtuse',
+ 'note': ' ',
+ 'pronounce': ' ',
+ 'ps': "adjective '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['If something is obvious, you notice it or understand it '
+             'easily.  [cf2]The accident left him with an obvious limp.'],
+ 'headword': 'obvious',
+ 'note': ' ',
+ 'pronounce': "`Obvi:@s'",
+ 'ps': "adjective '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'occasion',
+ 'note': ' ',
+ 'pronounce': "@`kEIZ@n'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ["' An occasion is a particular time when "
+                         'something happens.  [cf2]There will be '
+                         'occasions when you feel depressed.'],
+             'id': '1',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ["' An occasion is an important event or "
+                         'celebration.  [cf2]Her birthday party was quite '
+                         'an occasion.'],
+             'id': '2',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['If something is described as occasional, it happens from time '
+             'to time, but not often or regularly.  [cf2]We have the '
+             'occasional drink together after work.'],
+ 'headword': 'occasional',
+ 'note': ' ',
+ 'pronounce': "@`kEIZ@n@l'",
+ 'ps': "adjective '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'occupation',
+ 'note': ' ',
+ 'pronounce': "Okj@`pEIS@n'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '1',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': "' Your [choccupation is your job.  'What's your "
+                     "occupation?' 'I'm a writer.'  '"},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '2',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': "' An occupation is also something that someone is "
+                     'busy doing.  Brett likes making model planes[j4]he '
+                     "can spend hours at this occupation.  '"},
+            {'comment': ' ',
+             'definition': "'",
+             'example': ["' The occupation of a country occurs when a "
+                         'foreign force invades it and takes control.'],
+             'id': '3',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'occupied',
+ 'note': ' ',
+ 'pronounce': "`Okj@pa:Id'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': "'",
+             'example': ["' If something is occupied, someone is using "
+                         'it.  It is not available to be used by someone '
+                         "else.  [cf2]We can't ring up now[j4]the phone "
+                         "booth's occupied."],
+             'id': '1',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': ''}]}
+
+{'comment': 'verb forms occupies, occupied, occupying',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'occupy',
+ 'note': ' ',
+ 'pronounce': "`Okj@pa:I'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '1',
+             'note': ' ',
+             'ps': "verb '",
+             'rest': "a' If people occupy a place, they live or work "
+                     'there.  The students occupy old houses around the '
+                     "university.  '"},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '2',
+             'note': ' ',
+             'ps': "verb '",
+             'rest': "' When a foreign force occupies a country, it "
+                     "invades it and takes control.  '"},
+            {'comment': ' ',
+             'definition': "'",
+             'example': ["' If you occupy yourself in doing something, "
+                         'that is how you spend your time.  You keep busy '
+                         'doing it.  [cf2]My grandfather used to occupy '
+                         'himself with knitting.'],
+             'id': '3',
+             'note': ' ',
+             'ps': "verb '",
+             'rest': ''}]}
+
+{'comment': 'verb forms occurs, occurred, [choccurring',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'occur',
+ 'note': ' ',
+ 'pronounce': "@`k@:'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ["' If something occurs, it happens. [cf2]At what "
+                         'time did the accident occur?'],
+             'id': '1',
+             'note': ' ',
+             'ps': "verb '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': "'",
+             'example': ["' occur to'  If an idea occurs to you, you "
+                         'think it.  [cf2]It occurred to me that she '
+                         'might be lying, but I dismissed the thought.'],
+             'id': '2',
+             'note': ' ',
+             'ps': "'",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ['An ocean is a large expanse of sea.  [cf2]...the Pacific '
+             'Ocean.'],
+ 'headword': 'ocean',
+ 'note': ' ',
+ 'pronounce': "`@US@n'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ["You use o'clock in telling the time, when it is a whole "
+             "number of hours.  [cf2]It's nearly nine o'clock."],
+ 'headword': 'o',
+ 'note': ' ',
+ 'pronounce': "@`klOk'",
+ 'ps': "adverb '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'Oct',
+ 'note': ' ',
+ 'pronounce': ' ',
+ 'ps': "abbreviation '",
+ 'rest': '. for October.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'October',
+ 'note': ' ',
+ 'pronounce': "Ok`t@Ub@'",
+ 'ps': "noun '",
+ 'rest': 'October is the tenth month of the year.',
+ 'senses': ' '}
+
+{'comment': 'adjective forms odder, oddest',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'odd',
+ 'note': ' ',
+ 'pronounce': "Od'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ["' If someone or something is odd, they are "
+                         "strange or unusual.  [cf2]He's an odd guy[j4]I "
+                         "can't make him out."],
+             'id': '1',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '2',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': "' Odd numbers are numbers which cannot be divided by "
+                     'two.  For example, one, three, five and seven are '
+                     "odd numbers.  The opposite of this is even.  '"},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '3',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': "' If two things are odd, they don't match. He was "
+                     "wearing odd socks[j4]one brown and one black.  '"},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ["a' In informal language, if you talk about odd "
+                         'things, you mean that there are several '
+                         "different ones but they aren't very impor~ "
+                         "tant.  [cf2]I'll join you later[j4]I've got a "
+                         'few odd things to do first.'],
+             'id': '4',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ["' odds'  The odds of something happening are "
+                         'the chances that it will happen.  [cf2]I got '
+                         'odds of 8-1 on Lucky Lady in the 2.30.'],
+             'id': '7',
+             'note': ' ',
+             'ps': "'",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': "'",
+             'example': ["' odds and ends'  Odds and ends are minor "
+                         'things of different types that you deal with '
+                         'together.  [cf2]I went into the office to sort '
+                         'out some odds and ends of correspondence.'],
+             'id': '8',
+             'note': ' ',
+             'ps': "'",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ['In rather formal lan~ guage, if you say that someone or '
+             'something is odious, you mean that they are extremely '
+             "unpleas~ ant.  You dislike them very much.  [cf2]He's an "
+             'odious man[j4]I avoid him whenever I can.'],
+ 'headword': 'odious',
+ 'note': ' ',
+ 'pronounce': "`@Udi:@s'",
+ 'ps': "adjective '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ["An odour is a smell.  [cf2]There's a strong odour of "
+             'mothballs in the cupboard.'],
+ 'headword': 'odour',
+ 'note': ' ',
+ 'pronounce': "`@Ud@'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'of',
+ 'note': ' ',
+ 'pronounce': "Ov'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ["'  You use of to talk about a part in a whole "
+                         'or a member in a group. [cf2]...the handle of '
+                         'the coffee pot.'],
+             'id': '5',
+             'note': ' ',
+             'ps': "preposition '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '6',
+             'note': ' ',
+             'ps': "preposition '",
+             'rest': "' You use of followed by a pronoun when you are "
+                     "commenting on someone's behav~ iour.  It was nice of "
+                     'him to invite me.'}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'off',
+ 'note': ' ',
+ 'pronounce': "Of'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ["'  means 'away'. [cf2]She took the ball and ran "
+                         'off.'],
+             'id': '1',
+             'note': ' ',
+             'ps': "adverb Off'",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ["means 'away from'. [cf2]...a holiday off the "
+                         'usual tourist routes.'],
+             'id': '2',
+             'note': ' ',
+             'ps': "preposition Off'",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': "'",
+             'example': ['If something moves off some~ thing else, it '
+                         'becomes separated from it or it leaves it. '
+                         '[cf2]The picture fell off the wall.'],
+             'id': '3',
+             'note': ' ',
+             'ps': 'preposition',
+             'rest': ''},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ['If an island or a ship is off a place on a '
+                         'mainland, it is near it. [cf2]Rottnest Island '
+                         'is off Fremantle.'],
+             'id': '6',
+             'note': ' ',
+             'ps': 'preposition',
+             'rest': ''},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '7',
+             'note': ' ',
+             'ps': 'adverb',
+             'rest': 'If a machine or appliance is off, it is not '
+                     'operating because power is not passing into it. Are '
+                     "you sure the iron's off? '"},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ['If you are off or have time off, you are not '
+                         "working. [cf2]It's my day off."],
+             'id': '8',
+             'note': ' ',
+             'ps': 'adverb',
+             'rest': ''},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ['An off time is a time when things do not go as '
+                         "well as at other times. [cf2]I've had an off "
+                         "week, and I haven't finished the work."],
+             'id': '9',
+             'note': ' ',
+             'ps': 'adjective',
+             'rest': ''},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '1',
+             'note': ' ',
+             'ps': 'adjective',
+             'rest': '0If food or drink is off, it is no longer safe to '
+                     "eat. All the meat had gone off. '"},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '1',
+             'note': ' ',
+             'ps': 'adjective',
+             'rest': '1 If a waiter says that something in a restaurant is '
+                     "off, they mean that there is none of it left. I'm "
+                     "sorry, but the chocolate cake's off. '"},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ["2If you say that someone's behaviour or "
+                         'performance is off, you mean that it is not '
+                         'good. [cf2]It was a bit off not to thank us.'],
+             'id': '1',
+             'note': ' ',
+             'ps': 'adjective',
+             'rest': ''},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '1',
+             'note': ' ',
+             'ps': "adjective Off'",
+             'rest': "3 means 'cancelled'. The negotiations are off. '"},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ['4 If you are off something, you are no longer '
+                         "using or liking it. [cf2]I'm off coffee."],
+             'id': '1',
+             'note': ' ',
+             'ps': 'preposition',
+             'rest': ''},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '1',
+             'note': ' ',
+             'ps': 'adverb',
+             'rest': '5 If you say that something is a certain amount of '
+                     'money off, you mean that it has been reduced by that '
+                     "amount. We got ten per cent off. '"},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '1',
+             'note': ' ',
+             'ps': ' ',
+             'rest': "6 badly off Badly off  means 'poor'. 17 better off "
+                     '(a) If someone is better off than another person, '
+                     "they have more money than the other person. '"},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '1',
+             'note': ' ',
+             'ps': ' ',
+             'rest': '9  off the wall If you say that someone is off the '
+                     "wall, you mean that they are crazy. '"},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '2',
+             'note': ' ',
+             'ps': ' ',
+             'rest': "0 well off If you say someone is well off', you mean "
+                     'they have a lot of money.'}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ["'times,0'[cp8.5]"],
+ 'headword': 'off',
+ 'note': ' ',
+ 'pronounce': ' ',
+ 'ps': "adjective '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'offence',
+ 'note': ' ',
+ 'pronounce': "@`fEns'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '1',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': "' An offence is a crime. When arrested he admitted "
+                     "the offence.  '"},
+            {'comment': ' ',
+             'definition': "'",
+             'example': ["' If something gives offence, it causes someone "
+                         'to become angry or upset.  [cf2]Such blunt '
+                         'speaking is likely to cause offence.'],
+             'id': '2',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'offensive',
+ 'note': ' ',
+ 'pronounce': "@`fEnsIv'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': "'",
+             'example': ["' If something is offensive, it makes people "
+                         'angry or upset.  [cf2]His attitude is deeply '
+                         'offensive to most law-abiding citizens.'],
+             'id': '1',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'offer',
+ 'note': ' ',
+ 'pronounce': "`Of@'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': "'",
+             'example': ["' If you offer someone something, you ask them "
+                         'if they would like to have it.  [cf2]It is '
+                         'usual to offer guests something to drink when '
+                         'they visit.'],
+             'id': '1',
+             'note': ' ',
+             'ps': "verb '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': "'",
+             'example': ["' If you offer a certain amount of money for "
+                         'something, you say that you are willing to pay '
+                         'that price.  [cf2]He offered the owner $100 000 '
+                         'for the house.'],
+             'id': '3',
+             'note': ' ',
+             'ps': "verb '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'office',
+ 'note': ' ',
+ 'pronounce': "`Of@s'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ["' Your office is the place where you work or do "
+                         'business.  [cf2]I seldom leave the office '
+                         'before seven.'],
+             'id': '1',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ["' An office is also a department or "
+                         'organisation that performs some particular '
+                         "function.  [cf2]They've opened a new office in "
+                         'Taiwan.'],
+             'id': '2',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'officer',
+ 'note': ' ',
+ 'pronounce': "`Of@s@'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '1',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': "' An officer in the army, navy or air force is "
+                     "someone who is in command of other people.  '"},
+            {'comment': ' ',
+             'definition': "'",
+             'example': ["' A member of the police force can be referred "
+                         'to as an officer.  [cf2]Several additional '
+                         'officers have been assigned to the case.'],
+             'id': '2',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'official',
+ 'note': ' ',
+ 'pronounce': "@`fIS@l'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '1',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': "' An official is a someone who holds a position of "
+                     'responsibility in an organisation.  Union officials '
+                     "called a twenty-four hour strike.  '"},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ["a' If something is official, it is approved by "
+                         'someone in authority or by the government.  '
+                         "[cf2]The official announcement hasn't been made "
+                         'yet, but everyone seems to know.'],
+             'id': '2',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': "'",
+             'example': ["b' If something is official, it relates to what "
+                         'someone does as a public figure rather than as '
+                         'a private person.  [cf2]The Prime Minister is '
+                         'on an official visit to Thailand.'],
+             'id': 1,
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ["'times,0'[cp8.5]"],
+ 'headword': 'off',
+ 'note': ' ',
+ 'pronounce': ' ',
+ 'ps': "adjective '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ["'times,0'[cp8.5]"],
+ 'headword': 'off',
+ 'note': ' ',
+ 'pronounce': ' ',
+ 'ps': "adjective '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ['If something happens often, it happens frequently.  [cf2]I '
+             'often go for a walk in the park at lunchtime.'],
+ 'headword': 'often',
+ 'note': ' ',
+ 'pronounce': "`Of@n, `Oft@n'",
+ 'ps': "adverb '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'oh',
+ 'note': ' ',
+ 'pronounce': "@U'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ["' Oh is an exclamation that you use to express "
+                         "surprise or admiration.  [cf2]Oh, I wasn't "
+                         'expecting you back yet.'],
+             'id': '1',
+             'note': ' ',
+             'ps': "interjection '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ["' You can use oh at the beginning of a sentence "
+                         "when you are speaking.  Often it doesn't have "
+                         'any real meaning, but it can be used to attract '
+                         "someone's attention or if you are not really "
+                         'sure what to say.  [cf2]Oh, look at this.'],
+             'id': '2',
+             'note': ' ',
+             'ps': "interjection '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'oil',
+ 'note': ' ',
+ 'pronounce': "@:Il'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '1',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': "' Oil is a thick liquid made from animal or "
+                     'vegetable fats.  It is often used in cooking and to '
+                     "dress salads.  Fry the mushrooms in a little oil.  '"},
+            {'comment': ' ',
+             'definition': "'",
+             'example': ["' Oil is also a thick liquid made from "
+                         'petroleum which is used as a fuel and for '
+                         'lubricating machines.  [cf2]The oil in my car '
+                         'needs changing.'],
+             'id': '2',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'ointment',
+ 'note': ' ',
+ 'pronounce': "`@:Intm@nt'",
+ 'ps': "noun '",
+ 'rest': 'An ointment is a smooth thick greasy substance which you rub into '
+         'your skin in order to heal sores or wounds.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'OK',
+ 'note': ' ',
+ 'pronounce': "@U `kEI'",
+ 'ps': "abbreviation '",
+ 'rest': 'for okay.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'okay',
+ 'note': ' ',
+ 'pronounce': "@U`kEI'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': "'",
+             'example': ["a' In informal language, if you say that "
+                         'something is okay, you mean that it is '
+                         "satisfactory or acceptable.  [cf2]'How's your "
+                         "new job?'  'It's not wonderful, but it's okay.'"],
+             'id': '1',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': "'",
+             'example': ["' In informal language, you can say okay to "
+                         "show that you agree with something.  [cf2]'I'll "
+                         "pick you up at seven.'  'Okay, thanks.'"],
+             'id': '2',
+             'note': ' ',
+             'ps': "interjection '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'old',
+ 'note': ' ',
+ 'pronounce': "@Uld'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': "'",
+             'example': ["' If someone is old, they have lived for a long "
+                         'time.    [cf2]The old man fetched a ladder.'],
+             'id': '1',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ["' An old friend is someone you've been friends "
+                         "with for a long time.  [cf2]Amanda's a very old "
+                         'friend of mine[j4]we were at school together.'],
+             'id': '4',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ["' If you say someone is a certain number of "
+                         'years old, you mean that they have lived for '
+                         'that length of time. [cf2]Sarah is seven years '
+                         'old, and Tim is five.'],
+             'id': '5',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ["Old age is the last part of a person's life, from when they "
+             'are about seventy or eighty.  [cf2]In his old age he turned '
+             'his attention to a whole new area of investigation.'],
+ 'headword': 'old age',
+ 'note': ' ',
+ 'pronounce': "@Uld `EIdZ'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ["'times,0'[cp8.5]o"],
+ 'headword': 'old',
+ 'note': ' ',
+ 'pronounce': ' ',
+ 'ps': "adjective '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'olive',
+ 'note': ' ',
+ 'pronounce': ' ',
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '1',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': "' Olives are small green or black bitter fruits "
+                     'which come from the olive tree.  Olive oil, which is '
+                     "used in cooking, is obtained by pressing olives.  '"},
+            {'comment': ' ',
+             'definition': "'",
+             'example': ["' Olive is a yellowish or brownish green."],
+             'id': '2',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['The Olympic Games are the international sports com~ petitions '
+             'that are held every four years in a different country.  A '
+             'shortened form of this is the Olympics. [cf2]...the Olympic '
+             'Games in Sydney in the year 2000.'],
+ 'headword': 'Olympic Games',
+ 'note': ' ',
+ 'pronounce': "@lImpIk `gEImz'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'ombudsman',
+ 'note': ' ',
+ 'pronounce': "`Omb@dzm@n'",
+ 'ps': "noun '",
+ 'rest': "An ombuds~ man is someone who is appointed to investigate people's "
+         'complaints against the government, banks or insurance companies.  '
+         "An ombudsman protects citizens' interests.",
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'omelette',
+ 'note': ' ',
+ 'pronounce': "`Oml@t'",
+ 'ps': "noun '",
+ 'rest': 'An omelette is a dish that you make by mixing together the yolk '
+         'and white of eggs and frying them in a flat pan without stirring.  '
+         'You can add things such as cheese or mushrooms, and you fold the '
+         'omelette into a long, thin shape to serve it.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'omen',
+ 'note': ' ',
+ 'pronounce': "`@Um@n'",
+ 'ps': "noun '",
+ 'rest': 'An omen is a supernatural sign of what is likely to happen in the '
+         'future.  I interpreted the rainbow as an omen that we would be '
+         'successful.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['If something is ominous, it indicates that something bad is '
+             'likely to happen.  [cf2]That scraping sound is '
+             "ominous[j4]we'd better call the engineer."],
+ 'headword': 'ominous',
+ 'note': ' ',
+ 'pronounce': "`Om@n@s'",
+ 'ps': "adjective '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': 'verb forms omits, omitted, omitting',
+ 'definition': ' ',
+ 'example': ["'times,0'[cp8.5]o"],
+ 'headword': 'omit',
+ 'note': ' ',
+ 'pronounce': ' ',
+ 'ps': "verb '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'on',
+ 'note': ' ',
+ 'pronounce': "On'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '1',
+             'note': ' ',
+             'ps': "preposition '",
+             'rest': "' If you are on something, it is underneath you.   '"},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ["' If something is on something else, it is "
+                         'touching its top or side surface.  '
+                         "[cf2]'Where's my book?'  'On the table.'"],
+             'id': '2',
+             'note': ' ',
+             'ps': "preposition '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '3',
+             'note': ' ',
+             'ps': "preposition '",
+             'rest': "' If something is on a piece of paper, it is written "
+                     "or drawn there. He's signed his name on the last "
+                     "page.  '"},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '4',
+             'note': ' ',
+             'ps': "preposition '",
+             'rest': "' If you are on a bus, train, plane or ferry, you "
+                     'are travelling in it.  I know where to get on the '
+                     "bus, but where do I get off?  '"},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '5',
+             'note': ' ',
+             'ps': "preposition '",
+             'rest': "' If something happens on a certain day, that's when "
+                     'it happens. I usually play tennis on Fridays and '
+                     "squash on Mondays.  '"},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ["' If you put something on, you wear it.  "
+                         '[cf2]Put on your shoes.'],
+             'id': '6',
+             'note': ' ',
+             'ps': "adverb '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '7',
+             'note': ' ',
+             'ps': "preposition '",
+             'rest': "' If something such as a book or play is on a "
+                     'particular subject, it is about that subject.  Have '
+                     "you seen my book on Australian wildflowers?  '"},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '8',
+             'note': ' ',
+             'ps': "adverb '",
+             'rest': "' If something such as a movie or play is on, it is "
+                     "being shown.  There's nothing good on at the moment."}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'once',
+ 'note': ' ',
+ 'pronounce': "wV ns'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': "'",
+             'example': ["' If something happens once, it happens one "
+                         "time only.  [cf2]You mustn't let the ball "
+                         'bounce more than once.'],
+             'id': '1',
+             'note': ' ',
+             'ps': "adverb '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ["' Once can also mean 'when' or 'as soon as'.  "
+                         "[cf2]We'll set off once George is ready."],
+             'id': '3',
+             'note': ' ',
+             'ps': "conjunction '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': "'",
+             'example': ["' at once'  If two things happen at once, they "
+                         'happen at the same time.  [cf2]Both phones were '
+                         'ringing at once.'],
+             'id': '4',
+             'note': ' ',
+             'ps': "'",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'oncoming',
+ 'note': ' ',
+ 'pronounce': "`OnkV mIN'",
+ 'ps': "adjective '",
+ 'rest': 'An oncoming vehicle is one that is approaching.  It is one that is '
+         'moving towards you.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'one',
+ 'note': ' ',
+ 'pronounce': "wV n'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '1',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': "' One is the number l.  One and one makes two.  '"},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ["' One describes a single thing or person.  "
+                         '[cf2]Take one tablet in the morning and two at '
+                         'night.'],
+             'id': '2',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '3',
+             'note': ' ',
+             'ps': "pronoun '",
+             'rest': "' One refers to a single thing or person.  One of "
+                     "the books had been damaged.  '"},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ["' One refers to a person or thing of a "
+                         'particular type, often something that has '
+                         "already been mentioned.  [cf2]'Would you like a "
+                         "drink?'  'I've got one already, thanks.'"],
+             'id': '4',
+             'note': ' ',
+             'ps': "pronoun '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '5',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': "' One can mean 'single' or 'only'.  The rose was the "
+                     "one flower she was not allowed to pick.  '"},
+            {'comment': ' ',
+             'definition': "'",
+             'example': ["' In very formal language, one is used to refer "
+                         "to people in general. 7 ' one day'   (a)  One "
+                         'day refers to an indefinite time in the future '
+                         "or past.  [cf2]I'd love to go back there one "
+                         'day.'],
+             'id': '6',
+             'note': ' ',
+             'ps': "pronoun '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'only',
+ 'note': ' ',
+ 'pronounce': "`@Unli:'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ["' Only means that there are no other things or "
+                         'people apart from the ones you mention.  '
+                         '[cf2]We were the only passengers.'],
+             'id': '1',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '2',
+             'note': ' ',
+             'ps': "adverb '",
+             'rest': "' Only means 'not more than'.  Only four of us can "
+                     "fit in the car.  '"},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ["' You can use only to emphasise that something "
+                         'is small or unimportant.  [cf2]It was only a '
+                         'little accident[j4]nothing to worry about.'],
+             'id': '3',
+             'note': ' ',
+             'ps': "adverb '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ["' You can use only to emphasise that some "
+                         'action depends on something else happening.  '
+                         "Otherwise it will not occur.  [cf2]I'll drop in "
+                         'only if I have enough time.'],
+             'id': '4',
+             'note': ' ',
+             'ps': "adverb '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '5',
+             'note': ' ',
+             'ps': "'",
+             'rest': "' only child'  If you are an only child, you do not "
+                     'have any brothers or sisters.'}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ['The onset of something unpleasant is the beginning of it.  '
+             '[cf2]We sought refuge before the onset of the storm.'],
+ 'headword': 'onset',
+ 'note': ' ',
+ 'pronounce': "`OnsEt'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'onto',
+ 'note': ' ',
+ 'pronounce': "`Ont@'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '3',
+             'note': ' ',
+             'ps': "preposition '",
+             'rest': "' If you hold onto something, you hold it firmly and "
+                     "you don't let go.  '"},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ["' If you get onto a topic, you reach it in your "
+                         'discussion.  [cf2]We ran out of time, so we '
+                         "didn't get onto the last item on the agenda."],
+             'id': '4',
+             'note': ' ',
+             'ps': "preposition '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'ooze',
+ 'note': ' ',
+ 'pronounce': "u:z'",
+ 'ps': "verb '",
+ 'rest': 'If a thick liquid oozes somewhere, it flows there rather slowly.  '
+         'Blood was oozing through the bandages.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'opal',
+ 'note': ' ',
+ 'pronounce': "`@Up@l'",
+ 'ps': "noun '",
+ 'rest': 'An opal is a precious stone that is milky white or black with '
+         'brightly coloured glints.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ["If something is opaque, you can't see through it.  [cf2]The "
+             'photos were protected from the sunlight in an opaque box.'],
+ 'headword': 'opaque',
+ 'note': ' ',
+ 'pronounce': "@U`pEIk'",
+ 'ps': "adjective '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'open',
+ 'note': ' ',
+ 'pronounce': "`@Up@n'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ["' If something is open, it isn't closed or "
+                         'covered.  [cf2]The door was open, so I walked '
+                         'straight in.'],
+             'id': '1',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ["' If a shop or office is open, it is doing "
+                         'business.  You can go there to buy or arrange '
+                         'things.  [cf2]We are open from 9 to 5 on '
+                         'weekdays and 9 to 12 on Saturdays.'],
+             'id': '2',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ["' If something is open, it is not blocked or "
+                         'limited. [cf2]From the verandah you get a nice '
+                         'open view of the mountain.'],
+             'id': '3',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ["' If you are open with someone, you are honest "
+                         'and tell them exactly what the situation is.  '
+                         "[cf2]I'll be open with you[j4]you won't get "
+                         'promoted without more qualifications.'],
+             'id': '4',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': "'",
+             'example': ["' If you open something, you make it no longer "
+                         'closed or covered.  [cf2]I opened the door and '
+                         'went in.'],
+             'id': '5',
+             'note': ' ',
+             'ps': "verb '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '7',
+             'note': ' ',
+             'ps': "verb '",
+             'rest': "' If a shop or office opens, it starts being "
+                     'available for business. What time do you open on '
+                     "Sundays?  '"},
+            {'comment': ' ',
+             'definition': "'",
+             'example': ["' in the open'   (a) In the open means "
+                         'outdoors.  [cf2]Most summer nights, we eat in '
+                         "the open on our patio. '   (b)  If something is "
+                         'done in the open, it is done frankly, without '
+                         'concealment.  [cf2]These agreements must be '
+                         'made in the open.'],
+             'id': '8',
+             'note': ' ',
+             'ps': "'",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ["'times,0'[cp8.5]"],
+ 'headword': 'open',
+ 'note': ' ',
+ 'pronounce': ' ',
+ 'ps': "adjective '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['An opera is a musical performance which tells a story like a '
+             'play, but with songs instead of spoken words.  [cf2]What is '
+             'your favourite opera?'],
+ 'headword': 'opera',
+ 'note': ' ',
+ 'pronounce': "`Opr@, `Op@r@'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'operate',
+ 'note': ' ',
+ 'pronounce': "`Op@rEIt'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ["' If you operate a machine, you use it in the "
+                         'way that is intended.  [cf2]How do you operate '
+                         'this photocopier?'],
+             'id': '1',
+             'note': ' ',
+             'ps': "verb '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': "'",
+             'example': ["' When surgeons operate, they do something "
+                         "inside a patient's body to find out what is "
+                         'wrong or to make them better. [cf2]They want '
+                         'Iannis to get stronger before they operate '
+                         'again.'],
+             'id': '2',
+             'note': ' ',
+             'ps': "verb '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'ophthalmologist',
+ 'note': ' ',
+ 'pronounce': "OfTAl`mOl@dZ@st'",
+ 'ps': "noun '",
+ 'rest': 'An ophthalmologist is a doctor who is qualified to diagnose and '
+         'treat diseases of the eyes.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ['Your opinion is what you think about something.  [cf2]My '
+             'opinion is that we ought to wait.'],
+ 'headword': 'opinion',
+ 'note': ' ',
+ 'pronounce': "@`pInj@n'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'opponent',
+ 'note': ' ',
+ 'pronounce': "@`p@Un@nt'",
+ 'ps': "noun '",
+ 'rest': 'Your opponent in a game, fight or contest is someone who is on the '
+         'opposite side to you.  I faced a tough opponent in the first round '
+         'of the competition.',
+ 'senses': ' '}
+
+{'comment': 'plural form opportu~ nities',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'opportunity',
+ 'note': ' ',
+ 'pronounce': "Op@`tju:n@ti:'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ["' An opportunity is a chance to do something.  "
+                         "[cf2]I don't often get the opportunity to "
+                         'travel.'],
+             'id': '1',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '2',
+             'note': ' ',
+             'ps': "'",
+             'rest': "' opportunity shop'  An opportunity shop sells "
+                     'second-hand items such as clothes, toys, books, and '
+                     'sometimes furniture.  It is usually run by a charity '
+                     'group.'}]}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['If you oppose something, you are not in favour of it and you '
+             'try to prevent it from happening.  [cf2]We formed a committee '
+             'to oppose the building of the new road.'],
+ 'headword': 'oppose',
+ 'note': ' ',
+ 'pronounce': "@`p@Uz'",
+ 'ps': "verb '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'opposite',
+ 'note': ' ',
+ 'pronounce': "`Op@s@t'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ["' If one thing is opposite another, it is "
+                         'directly facing it.   [cf2]I sat opposite Tanya '
+                         'at the restaurant.'],
+             'id': '1',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': "'",
+             'example': ["' If something is the opposite of something "
+                         "else, the two things couldn't be more "
+                         "different.  [cf2]'Hot' is the opposite of "
+                         "'cold'."],
+             'id': '2',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'oppression',
+ 'note': ' ',
+ 'pronounce': "@`prES@n'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': "'",
+             'example': ["' Oppression is the cruel and unjust use of "
+                         'power and force by a stronger group against a '
+                         "weaker group of people. 2 ' noun If you feel a "
+                         'sense of oppression, you feel unhappy and '
+                         'weighed down by the force of people and things '
+                         'around you.'],
+             'id': '1',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'optician',
+ 'note': ' ',
+ 'pronounce': "Op`tIS@n'",
+ 'ps': "noun '",
+ 'rest': 'An optician is someone who sells spectacles.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'optimism',
+ 'note': ' ',
+ 'pronounce': "`Opt@mIz@m'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '1',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': "' Optimism is a feeling that things will go well or "
+                     'turn out right. You should try to create a mood of '
+                     "optimism in your audience.  '"},
+            {'comment': ' ',
+             'definition': "'",
+             'example': ["' Optimism is also a general tendency to look "
+                         'on the bright side of things.  [cf2]One of '
+                         "Julia's best qualities is her unquenchable "
+                         'optimism.'],
+             'id': '2',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['An option is a choice.  It is something that you can do if '
+             'you want to.  [cf2]What are my options?'],
+ 'headword': 'option',
+ 'note': ' ',
+ 'pronounce': "`OpS@n'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'optometrist',
+ 'note': ' ',
+ 'pronounce': "Op`tOm@tr@st'",
+ 'ps': "noun '",
+ 'rest': "An optometrist is someone who is qualified to test people's "
+         'eyesight and prescribe glasses if necessary.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'or',
+ 'note': ' ',
+ 'pronounce': "@:'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ["' Or is used to link a number of alternatives.  "
+                         '[cf2]Would you like tea or coffee?'],
+             'id': '1',
+             'note': ' ',
+             'ps': "conjunction '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ["' Or is used with numbers to show that you mean "
+                         'an approximate quantity.  [cf2]There were about '
+                         'nine or ten of us.'],
+             'id': '2',
+             'note': ' ',
+             'ps': "conjunction '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '3',
+             'note': ' ',
+             'ps': "conjunction '",
+             'rest': "' If you tell someone to do something or something "
+                     'unpleasant will happen, you are warning them that '
+                     "they should do as you say.  Don't talk in the exam "
+                     'room or your paper will be cancelled.'}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'oral',
+ 'note': ' ',
+ 'pronounce': "`Or@l'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ["' Oral means relating to the mouth.  "
+                         '[cf2]...oral surgery.'],
+             'id': '1',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '2',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': "' Oral means spoken as opposed to written.  The oral "
+                     'exam is tomorrow.'}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'orange',
+ 'note': ' ',
+ 'pronounce': "`OrIndZ'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '1',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': "' An orange is a juicy sweet fruit of the citrus "
+                     "family.  '"},
+            {'comment': ' ',
+             'definition': "'",
+             'example': ["' Orange is a colour between red and yellow."],
+             'id': '2',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'orator',
+ 'note': ' ',
+ 'pronounce': "`Or@t@'",
+ 'ps': "noun '",
+ 'rest': 'An orator is someone who speaks well in public.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ['An orchard is a farm or area where fruit trees are grown.  '
+             '[cf2]Ian grew up on an orchard.'],
+ 'headword': 'orchard',
+ 'note': ' ',
+ 'pronounce': "`@:tS@d'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'orchestra',
+ 'note': ' ',
+ 'pronounce': "`@:k@str@'",
+ 'ps': "noun '",
+ 'rest': 'An orchestra is a large group of musicians who play together under '
+         'the direction of a conductor.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ['An ordeal is a difficult experience.  [cf2]The lost '
+             'bushwalkers were lucky to survive their ordeal.'],
+ 'headword': 'ordeal',
+ 'note': ' ',
+ 'pronounce': "@:`di:l, `@:di:l'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'order',
+ 'note': ' ',
+ 'pronounce': "`@:d@'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '1',
+             'note': ' ',
+             'ps': "verb '",
+             'rest': "' If someone who has authority over you orders you "
+                     'to do something, they tell you that you must do it.  '
+                     "The soldiers were ordered to report for duty.  '"},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ["' If you order something, you ask for it to be "
+                         'brought or supplied to you. [cf2]The waiter '
+                         'asked if we were ready to order.'],
+             'id': '2',
+             'note': ' ',
+             'ps': "verb '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ["' The order of things is the way that they are "
+                         'arranged one after the other.  [cf2]The cards '
+                         'are filed in alphabetical order.'],
+             'id': '3',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '4',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': "a' Order is the state that exists when everything is "
+                     "in its correct place.  I can't live in a mess[j4]I "
+                     "like order.  '"},
+            {'comment': ' ',
+             'definition': "'",
+             'example': ' ',
+             'id': '7',
+             'note': ' ',
+             'ps': "'",
+             'rest': "' out of order' (a) If a machine is out of order, it "
+                     "is not working properly. '   (b)  If a member of "
+                     "parliament is ruled out of order, they're not "
+                     "following the rules for speaking in a debate.  '"},
+            {'comment': ' ',
+             'definition': "'",
+             'example': ["' tall order'  A tall order is a requirement "
+                         'which is hard to meet.  [cf2]He wants the '
+                         "report by next week[j4]it's a tall order but we "
+                         'should just make it.'],
+             'id': '8',
+             'note': ' ',
+             'ps': "'",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["Ordinal numbers are numbers such as first, '[cf2]second and "
+             "'[cf2]third.  They tell you the place of something in a "
+             'series.'],
+ 'headword': 'ordinal number',
+ 'note': ' ',
+ 'pronounce': "@:d@n@l `nV mb@'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'ordinary',
+ 'note': ' ',
+ 'pronounce': "`@:d@n@ri:, `@:d@nri:'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ["' If some~ thing is ordinary, it is similar to "
+                         'other things of the same type.  There is '
+                         'nothing special about it. [cf2]The letter came '
+                         'in an ordinary plain envelope.'],
+             'id': '1',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': "'",
+             'example': ["' If something is ordinary, it is of rather "
+                         'poor quality.    [cf2]In spite of the '
+                         'spectacular decor in the restaurant, the food '
+                         'was very ordinary.'],
+             'id': '2',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'organ',
+ 'note': ' ',
+ 'pronounce': "`@:g@n'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '1',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': "' An organ is a part of your body which performs a "
+                     'particular function.  For example, the heart, lungs, '
+                     'kidneys and liver are all organs.  Fortunately the '
+                     "bullet didn't pierce any vital organs.  '"},
+            {'comment': ' ',
+             'definition': "'",
+             'example': ["' An organ is a large musical instrument "
+                         'permanently installed in a building such as a '
+                         'church.  It has many pipes of different sizes '
+                         'through which air is forced to make sounds. You '
+                         'play it with a keyboard and pedals, like a '
+                         'piano.'],
+             'id': '2',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'organic',
+ 'note': ' ',
+ 'pronounce': "@:`gAnIk'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ["' Organic refers to living things or the "
+                         'substances they are composed of.  '
+                         '[cf2]...organic chemistry.'],
+             'id': '1',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '2',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': "' Organic also refers to the way that the different "
+                     'parts of a whole structure fit together naturally.  '
+                     "The central space is organic to the architect's "
+                     "design.  '"},
+            {'comment': ' ',
+             'definition': "'",
+             'example': ["' Organic gardening does not use chemical "
+                         'fertilisers and pesticides.  Because of this '
+                         'the plants are supposed to be more natural and '
+                         'healthy.  [cf2]Do you know where I can buy '
+                         'organic vegetables?'],
+             'id': '3',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'organisation',
+ 'note': ' ',
+ 'pronounce': "@:g@na:I`zEIS@n'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ["' An organi~ [chsation is something such as an "
+                         'association, a company or a government '
+                         'department.  It is a group of people who work '
+                         'together in a structured way with a common '
+                         'aim.  [cf2]I first joined this organisation in '
+                         '1993.'],
+             'id': '1',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '2',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': "' The organisation of something is arranging it or "
+                     'dealing with it.  Will you be responsible for the '
+                     "organisation of a mailing list?  '"},
+            {'comment': ' ',
+             'definition': "'",
+             'example': ["' The organi~ [chsation of something is how it "
+                         'is made up and how its various parts work '
+                         'together.  [cf2]She drew me a diagram to show '
+                         'the organisation of the files.'],
+             'id': '3',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'organise',
+ 'note': ' ',
+ 'pronounce': "`@:g@na:Iz'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ["' If you organise some~ thing, you make "
+                         'arrangements for it to happen. You plan it.  '
+                         "[cf2]We're organising a party for Stella's "
+                         'birthday.'],
+             'id': '1',
+             'note': ' ',
+             'ps': "verb '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': "'",
+             'example': ["' If you organise things, you tidy them up and "
+                         'put them in particular places so that people '
+                         'can find them easily.  [cf2]The invoices need '
+                         'to be organised in date order.'],
+             'id': '2',
+             'note': ' ',
+             'ps': "verb '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['An organism is a plant or animal, especially one that is so '
+             'small that you can only see it with a microscope.'],
+ 'headword': 'organism',
+ 'note': ' ',
+ 'pronounce': "`@:g@nIz@m'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'orgasm',
+ 'note': ' ',
+ 'pronounce': "`@:gAz@m'",
+ 'ps': "noun '",
+ 'rest': 'An orgasm is the moment of greatest pleasure and release in sexual '
+         'inter~ course.  ...to have an orgasm.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['An orgy is a party at which people get very drunk and behave '
+             'in an uncon~ trolled way.  Often they also take drugs and '
+             'have sex.'],
+ 'headword': 'orgy',
+ 'note': ' ',
+ 'pronounce': "`@:dZi:'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ["'times,0'[cp8.5]"],
+ 'headword': 'oriental',
+ 'note': ' ',
+ 'pronounce': ' ',
+ 'ps': "adjective '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'origin',
+ 'note': ' ',
+ 'pronounce': "`Or@dZ@n'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ["' The origin of something is its beginning or "
+                         'cause.  [cf2]What was the origin of your '
+                         'interest in the subject?'],
+             'id': '1',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': "'",
+             'example': ["' Your origins are your family background.  "
+                         '[cf2]I hope one day my sons will go back to '
+                         'Vietnam to trace their origins.'],
+             'id': '2',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'original',
+ 'note': ' ',
+ 'pronounce': "@`rIdZ@n@l'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ["' Original means relating to how something was "
+                         'at first.  [cf2]The house still has original '
+                         'fireplaces.'],
+             'id': '1',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ["' If something is original, it is imaginative "
+                         'and different from things that have been done '
+                         "before. [cf2]The fancy dress costumes weren't "
+                         'very original[j4] there were seven pirates!'],
+             'id': '2',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': "'",
+             'example': ["' If something such as a document or painting "
+                         'is an original, it is the real one and not a '
+                         'copy.  [cf2]You must present the originals of '
+                         'your qualifications; photocopies are not '
+                         'acceptable.'],
+             'id': '3',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ['In formal language, if you say something originates in a '
+             'certain place or at a certain time, you mean it began there '
+             'or then.  [cf2]The story of Santa Claus originates in Europe.'],
+ 'headword': 'originate',
+ 'note': ' ',
+ 'pronounce': "@`rIdZ@nEIt'",
+ 'ps': "verb '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'ornament',
+ 'note': ' ',
+ 'pronounce': "`@:n@m@nt'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '1',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': "' An ornament is a small item or accessory which "
+                     "decorates its sur~ roundings.  '"},
+            {'comment': ' ',
+             'definition': "'",
+             'example': ["' In the house, an ornament is a small item "
+                         'usually made of porcelain or pottery which is '
+                         'placed on a piece of furniture.  It serves no '
+                         'useful purpose but is purely for decoration.'],
+             'id': '2',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['An orphan is a someone whose mother and father are both dead.'],
+ 'headword': 'orphan',
+ 'note': ' ',
+ 'pronounce': "`@:f@n'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['An orthodontist is a dentist whose job is to straighten '
+             'crooked teeth.'],
+ 'headword': 'orthodontist',
+ 'note': ' ',
+ 'pronounce': "@:T@`dOnt@st'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'orthodox',
+ 'note': ' ',
+ 'pronounce': "`@:T@dOks'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '1',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': "' If something is orthodox, it is in accordance with "
+                     'the methods or theories that are most widely '
+                     'accepted.  Michael is qualified in orthodox medicine '
+                     "as well as alternative therapies.  '"},
+            {'comment': ' ',
+             'definition': "'",
+             'example': ["' Orthodox'  The Orthodox Church is a branch of "
+                         'Christianity that originates in Eastern '
+                         'Europe.  Its main forms are Greek Orthodox and '
+                         'Russian Orthodox.  [cf2]They were married by an '
+                         'Orthodox priest.'],
+             'id': '2',
+             'note': ' ',
+             'ps': "'",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['An orthopaedic surgeon is a doctor who is trained to treat '
+             'problems with bones, joints and other parts of the skeleton.'],
+ 'headword': 'orthopaedic surgeon',
+ 'note': ' ',
+ 'pronounce': "@:T@;pi:dIk `s@:dZ@n'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['An osteopath is someone who treats diseases by manipulation '
+             'and massage.  Osteopathy is not fully accepted by the medical '
+             'profession.'],
+ 'headword': 'osteopath',
+ 'note': ' ',
+ 'pronounce': "`Osti:@pAT'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'other',
+ 'note': ' ',
+ 'pronounce': "`V D@'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ["' Other people or things are ones that are "
+                         'different from or additional to the ones '
+                         'already mentioned.  [cf2]You must pass in '
+                         'English and at least one other subject.'],
+             'id': '1',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': "'",
+             'example': ["' If you say you did something the other day or "
+                         'the other week, you mean that you did it fairly '
+                         'recently.  [cf2]I saw Greg in town the other '
+                         "day. 3 ' every other'   If you say something "
+                         'happens every other day, you mean it happens on '
+                         'each alternate or second day.  [cf2]Li Ling '
+                         'visits her family every other year[j4]the air '
+                         'fares are too expensive for her to go more '
+                         'often.'],
+             'id': '2',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'otherwise',
+ 'note': ' ',
+ 'pronounce': "`V D@wa:Iz'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': "'",
+             'example': ' ',
+             'id': '1',
+             'note': ' ',
+             'ps': "adverb '",
+             'rest': "' Otherwise means 'in other ways'.  You use it to "
+                     "point out a contrast. He's rather slow but otherwise "
+                     "his work is good. 2a ' conjunction You use otherwise "
+                     "to state what will happen if someone doesn't do as "
+                     "you suggest. We'd better leave now, otherwise we'll "
+                     "be late.  '"},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': 1,
+             'note': ' ',
+             'ps': "adverb '",
+             'rest': "b' You can also use otherwise as an adverb with the "
+                     "same meaning.  How about Thursday?  We won't be able "
+                     'to do it at all otherwise.'}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'ought',
+ 'note': ' ',
+ 'pronounce': "@:t'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '1',
+             'note': ' ',
+             'ps': "verb '",
+             'rest': "' You use ought when you are giving advice.  If you "
+                     'say someone ought to do something, you mean that it '
+                     'would be a good idea if they did it.  Jasper ought '
+                     "to show more respect to his father.  '"},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '2',
+             'note': ' ',
+             'ps': "verb '",
+             'rest': "' If you say that something ought to happen, you "
+                     'mean that you expect it to happen and you think it '
+                     'will.  Tren ought to win the race[j4] he was the '
+                     'fastest qualifier.'}]}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['You use our to show that something belongs to yourself and '
+             'one or more other people.  It is the possessive form of we.  '
+             '[cf2]In our family there are three boys and two girls.'],
+ 'headword': 'our',
+ 'note': ' ',
+ 'pronounce': "a:U@'",
+ 'ps': "pronoun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ['You use ours to show that something belongs or relates to you '
+             'and to one other person.  [cf2]The house is ours at '
+             "last[j4]we've just paid it off."],
+ 'headword': 'ours',
+ 'note': ' ',
+ 'pronounce': "`a:U@z'",
+ 'ps': "pronoun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'ourselves',
+ 'note': ' ',
+ 'pronounce': "a:U@`sElvz'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': "'",
+             'example': ["' When we is the subject of a sentence, you use "
+                         'ourselves to refer to the same people as the '
+                         'object of a verb or preposition.  [cf2]We '
+                         'managed to untie ourselves and raise the alarm.'],
+             'id': '1',
+             'note': ' ',
+             'ps': "pronoun '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'out',
+ 'note': ' ',
+ 'pronounce': "a:Ut'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '1',
+             'note': ' ',
+             'ps': "adverb '",
+             'rest': "' If you go out, you move so that you are no longer "
+                     "inside something.  '"},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '2',
+             'note': ' ',
+             'ps': "adverb '",
+             'rest': "a' If you are out, you are not at home or in your "
+                     "office.  I'm sorry, Mrs Bloch is out.  '"},
+            {'comment': ' ',
+             'definition': "'",
+             'example': ' ',
+             'id': '3',
+             'note': ' ',
+             'ps': "adverb '",
+             'rest': "' If something such as a light goes out, it goes "
+                     "off.  4 ' out of'   The opposite of this is into."}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'outback',
+ 'note': ' ',
+ 'pronounce': "`a:UtbAk'",
+ 'ps': "noun '",
+ 'rest': 'The Australian outback is the remote part where very few people '
+         'live.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ['An outbreak of some~ thing unpleasant is a lot of it suddenly '
+             'happening. [cf2]Doctors are expecting an outbreak of flu this '
+             'winter.'],
+ 'headword': 'outbreak',
+ 'note': ' ',
+ 'pronounce': "`a:UtbrEIk'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'outburst',
+ 'note': ' ',
+ 'pronounce': "`a:Utb@:st'",
+ 'ps': "noun '",
+ 'rest': 'An outburst is a sudden display of strong emotion, especially '
+         "anger.  I knew he was bitter but I wasn't expecting such an "
+         'outburst.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ['The outcome of some~ thing is its result or how it turns '
+             'out.  [cf2]What was the outcome of your appeal?'],
+ 'headword': 'outcome',
+ 'note': ' ',
+ 'pronounce': "`a:UtkV m'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'outcry',
+ 'note': ' ',
+ 'pronounce': "`a:Utkra:I'",
+ 'ps': "noun '",
+ 'rest': 'An outcry is a strong protest about something by a large number of '
+         "people.  If bus fares double, there'll be an outcry.",
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'outdoors',
+ 'note': ' ',
+ 'pronounce': "a:Ut`d@:z'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '1',
+             'note': ' ',
+             'ps': "adverb '",
+             'rest': "' If something happens outdoors, it happens in the "
+                     'open air, not inside a building.  We generally eat '
+                     "outdoors during the summer.  '"},
+            {'comment': ' ',
+             'definition': "'",
+             'example': ["' If you go outdoors, you go out of a building "
+                         'into the open air.'],
+             'id': '2',
+             'note': ' ',
+             'ps': "adverb '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'outer',
+ 'note': ' ',
+ 'pronounce': "`a:Ut@'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ["' If something is described as outer, it is "
+                         'located outside something else.  [cf2]We '
+                         'removed our outer layers of clothing when we '
+                         'came into the warm.'],
+             'id': '1',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ["' Outer also describes things as they seem to "
+                         'other people.  [cf2]Despite his outer calm, he '
+                         'was deeply troubled.'],
+             'id': '2',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ['An outfit is a set of clothes which you wear together.  '
+             '[cf2]I bought a new outfit for the wedding.'],
+ 'headword': 'outfit',
+ 'note': ' ',
+ 'pronounce': "`a:UtfIt'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'outgoing',
+ 'note': ' ',
+ 'pronounce': "a:Ut`g@UIN'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '1',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': "' If someone is outgoing, they are very friendly and "
+                     'mix easily with people.  They are not shy.  I like '
+                     "Manfred[j4] he has a nice outgoing personality.  '"},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ["' You use outgoing to describe someone or "
+                         'something departing.  The opposite of this is '
+                         'incoming.  [cf2]...the outgoing Prime Minister.'],
+             'id': '2',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ['If you go on an outing, you go somewhere to enjoy yourself.  '
+             '[cf2]Sometimes the old couple took their outing in the park.'],
+ 'headword': 'outing',
+ 'note': ' ',
+ 'pronounce': "`a:UtIN'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'outline',
+ 'note': ' ',
+ 'pronounce': "`a:Utla:In'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': "'",
+             'example': ["' An outline of something is a line drawn round "
+                         'the outside of it which shows its shape.  '
+                         '[cf2]Our teacher gave us an outline of '
+                         'Australia and we had to draw in the major '
+                         'features.'],
+             'id': '1',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'outlook',
+ 'note': ' ',
+ 'pronounce': "`a:UtlUk'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ["' Your outlook is your general attitude to "
+                         "things.  [cf2]They enjoyed the child's fresh "
+                         'outlook on life.'],
+             'id': '1',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '2',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': "' The outlook from somewhere is the view you see "
+                     "from that place.  There's a marvellous outlook from "
+                     "the veranda.  '"},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ["' The outlook for something is what is likely "
+                         'to happen to it in the future.  [cf2]The '
+                         'economic outlook is improving.'],
+             'id': '3',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ['An outpatient is someone who comes to a hospital for '
+             'treatment but is not admitted to stay there.  They go home '
+             "again after they've been treated."],
+ 'headword': 'outpatient',
+ 'note': ' ',
+ 'pronounce': "`a:UtpEIS@nt'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'outrage',
+ 'note': ' ',
+ 'pronounce': "a:Ut`rEIdZ'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '2',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': "' Outrage is a feeling of very strong anger.  The "
+                     "crime provoked public outrage.  '"},
+            {'comment': ' ',
+             'definition': "'",
+             'example': ["' If you say that something is an outrage, you "
+                         'mean that it is shocking and disgraceful.  '
+                         '[cf2]The way they have handled the affair is an '
+                         'outrage.'],
+             'id': '3',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'outright',
+ 'note': ' ',
+ 'pronounce': "`a:Utra:It'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ["' Outright is used to emphasise that something "
+                         "is complete or total. [cf2]That's an outright "
+                         'lie!'],
+             'id': '1',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ["' Outright is used to emphasise that something "
+                         'happens immediately or at once.  [cf2]In cases '
+                         'of serious misconduct the employee can be '
+                         'dismissed outright.'],
+             'id': '2',
+             'note': ' ',
+             'ps': "adverb '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ['The outset of an activity is its beginning.  [cf2]It would '
+             "have saved time if you'd told the truth at the outset of the "
+             'enquiry.'],
+ 'headword': 'outset',
+ 'note': ' ',
+ 'pronounce': "`a:UtsEt'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'outside',
+ 'note': ' ',
+ 'pronounce': "a:Ut`sa:Id'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ["' If something is outside, it is outdoors.  It "
+                         "is not in a building.  [cf2]It's such a lovely "
+                         "day, I can't wait to get outside."],
+             'id': '1',
+             'note': ' ',
+             'ps': "adverb '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ["' If something is outside, it is not in or part "
+                         'of the place you mention, but often it is near '
+                         "it.  [cf2]Let's meet outside and go in together."],
+             'id': '2',
+             'note': ' ',
+             'ps': "adverb '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '3',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': "' If something is described as outside, it is in the "
+                     "outer part of something.  There's a pen in the "
+                     "outside pocket of my case.  '"},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ["' If something is described as outside, it is "
+                         'independent.  It is not part of the '
+                         'organisation concerned.  [cf2]We commissioned a '
+                         'report from an outside consultant.'],
+             'id': '4',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': "'",
+             'example': ["' The outside of something is the external "
+                         'part.  [cf2]Only the outside of the book was '
+                         'damaged.'],
+             'id': '5',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ["' If something is outside something else, it is "
+                         'not in it or part of it, but often it is near '
+                         'it.  [cf2]I live just outside Sydney.'],
+             'id': '7',
+             'note': ' ',
+             'ps': "preposition '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '8',
+             'note': ' ',
+             'ps': "'",
+             'rest': "' inside and out'  Inside and out means 'inside and "
+                     "outside'.  You must sterilise the bottles "
+                     "thoroughly, inside and out.  '"},
+            {'comment': ' ',
+             'definition': "'",
+             'example': ["' outside chance'  An outside chance of "
+                         'something hap~ pening is a very small chance.  '
+                         "[cf2]There's an outside chance that Vintage "
+                         'Crop will win the Melbourne Cup.'],
+             'id': '9',
+             'note': ' ',
+             'ps': "'",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'outskirts',
+ 'note': ' ',
+ 'pronounce': "`a:Utsk@:ts'",
+ 'ps': "noun '",
+ 'rest': 'The outskirts of a city or town are the outer areas, those that '
+         'are furthest from its centre.  By now we were approaching the '
+         'outskirts of Brisbane.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['If someone is outspoken, they are prepared to say what they '
+             'think, even though it may get them into trouble or upset '
+             "people.  [cf2]Dominique's outspoken remarks about Jenny's "
+             'appearance offended her deeply.'],
+ 'headword': 'outspoken',
+ 'note': ' ',
+ 'pronounce': "`a:Utsp@Uk@n'",
+ 'ps': "adjective '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'outstanding',
+ 'note': ' ',
+ 'pronounce': "a:Ut`stAndIN'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ["' If something is outstanding, it is of "
+                         'extremely high quality.  [cf2]She gave an '
+                         'outstanding performance.'],
+             'id': '1',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '2',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': "' If a bill is outstanding, it hasn't been paid "
+                     'yet.  Their out~ standing debts total nearly half a '
+                     'million dollars.'}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'outward',
+ 'note': ' ',
+ 'pronounce': "`a:Utw@d'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': "'",
+             'example': ["' The outward part of something is the part on "
+                         'the outside.  [cf2]The outward surface of the '
+                         "wall was badly weathered. 2 ' adjective Outward "
+                         'also describes what people are able to see.  '
+                         '[cf2]He gave no outward clue about what he was '
+                         'thinking.'],
+             'id': '1',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': "'",
+             'example': ["' Outward is another form of outwards."],
+             'id': '3',
+             'note': ' ',
+             'ps': "adverb '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ['If something moves or faces outwards, it moves or faces '
+             "towards the outside.  [cf2]Let's start in the centre and work "
+             'our way outwards.'],
+ 'headword': 'outwards',
+ 'note': ' ',
+ 'pronounce': "`a:Utw@dz'",
+ 'ps': "adverb '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': 'verb forms outwits, outwitted, outwitting',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'outwit',
+ 'note': ' ',
+ 'pronounce': "a:Ut`wIt'",
+ 'ps': "verb '",
+ 'rest': 'If you outwit someone, you beat them by being more clever or '
+         'cunning than they are.  Our rivals foresaw what we had in mind and '
+         'outwitted us.  [cb8][mgdict_oval,-4][mgdict_oval,-1][ol0][cb0][qr',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': '',
+ 'note': ' ',
+ 'pronounce': "`@Uv@l'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '1',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': "' An oval is a shape like a circle that has been "
+                     'stretched in one dimension. A more formal name for '
+                     "this is ellipse.  '"},
+            {'comment': ' ',
+             'definition': "'",
+             'example': ["' An oval is a field on which you can play "
+                         'sport.'],
+             'id': '2',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': ''}]}
+
+{'comment': 'plural form ovaries',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'ovary',
+ 'note': ' ',
+ 'pronounce': "`@Uv@ri:'",
+ 'ps': "noun '",
+ 'rest': "A woman's ovaries are the organs of her body that produce eggs for "
+         'reproduction.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'oven',
+ 'note': ' ',
+ 'pronounce': "`V v@n'",
+ 'ps': "noun '",
+ 'rest': 'An oven is a compartment in which you heat food to bake or roast '
+         'it.  Put the pies in a moderate oven for 25 minutes.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'over',
+ 'note': ' ',
+ 'pronounce': "`@Uv@'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '2',
+             'note': ' ',
+             'ps': ' ',
+             'rest': '2 over and over again If you do something over and '
+                     'over again, you do it many times. They played that '
+                     "song over and over again. '"},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ["3 over the top If you say that a person's "
+                         'behaviour is over the top, you mean that it is '
+                         'extreme. [cf2]They started shouting at each '
+                         'other, which was over the top.'],
+             'id': '2',
+             'note': ' ',
+             'ps': ' ',
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'overalls',
+ 'note': ' ',
+ 'pronounce': "`@Uv@r@:lz'",
+ 'ps': "noun '",
+ 'rest': '[oi0,(s75+6)]  You wear overalls over your other clothes to keep '
+         'them clean when you are doing a dirty job.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'overarm',
+ 'note': ' ',
+ 'pronounce': "`@Uv@ra:m'",
+ 'ps': "noun '",
+ 'rest': '[oi0,(s75+6)]  Overarm is a style of swimming where your head and '
+         'body lie flat in the water, you bring each arm in turn up over '
+         'your head into the water, and your legs kick up and down.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ['If you are overawed, you are nervous because of the '
+             "importance of a person or occasion.  [cf2]Don't let him "
+             'overawe you[j4]present your case clearly.'],
+ 'headword': 'overawe',
+ 'note': ' ',
+ 'pronounce': "@Uv@r`@:'",
+ 'ps': "verb '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ['If you over~ [chbalance, you are unable to keep your balance '
+             "and you fall over.  [cf2]Don't lean so far out[j4]you'll "
+             'overbalance.'],
+ 'headword': 'overbalance',
+ 'note': ' ',
+ 'pronounce': "@Uv@`bAl@ns'",
+ 'ps': "verb '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'overbearing',
+ 'note': ' ',
+ 'pronounce': "@Uv@`bE@rIN'",
+ 'ps': "adjective '",
+ 'rest': 'If someone is overbearing, they are bossy and domineering. They '
+         'try to make other people do what they want in a rather unpleasant '
+         'way.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'overboard',
+ 'note': ' ',
+ 'pronounce': "`@Uv@b@:d'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '1',
+             'note': ' ',
+             'ps': "adverb '",
+             'rest': "' If you fall over~ board, you fall over the side of "
+                     "a ship into the water.  '"},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ["' go overboard'  In informal speech, if you say "
+                         'someone goes overboard about something, you '
+                         'mean that they are excessively enthusiastic. '
+                         "[cf2]Martha's really gone overboard with this "
+                         'keep-fit routine.'],
+             'id': '2',
+             'note': ' ',
+             'ps': "'",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'overcast',
+ 'note': ' ',
+ 'pronounce': "`@Uv@ka:st'",
+ 'ps': "adjective '",
+ 'rest': 'If the weather is overcast, there are a lot of clouds in the sky.  '
+         "I hope it doesn't rain[j4]it looks a bit overcast.",
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'overcoat',
+ 'note': ' ',
+ 'pronounce': "`@Uv@k@Ut'",
+ 'ps': "noun '",
+ 'rest': 'An overcoat is a thick warm coat that you wear over your other '
+         'clothes when you go outside in the cold.  Usually it reaches to '
+         'about your knees.',
+ 'senses': ' '}
+
+{'comment': 'verb forms overcomes, overcame, overcome, overcoming',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'overcome',
+ 'note': ' ',
+ 'pronounce': "@Uv@`kV m'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '1',
+             'note': ' ',
+             'ps': "verb '",
+             'rest': "' If you overcome something such as a fear or a "
+                     'problem, you deal with it successfully.  I finally '
+                     "overcame my anxiety about learning to drive.  '"},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ["' If an emotion overcomes you, it is suddenly "
+                         'so strong that you have to give way to it.  '
+                         '[cf2]He was overcome by sobs as he read the '
+                         'statement.'],
+             'id': '2',
+             'note': ' ',
+             'ps': "verb '",
+             'rest': ''}]}
+
+{'comment': 'verb forms overdoes, overdid, overdone, overdoing',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'overdo',
+ 'note': ' ',
+ 'pronounce': "@Uv@`du:'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ["' If you overdo something, you do it to "
+                         'excess.  [cf2]Be careful not to overdo the '
+                         'exercise at first.'],
+             'id': '1',
+             'note': ' ',
+             'ps': "verb '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '2',
+             'note': ' ',
+             'ps': "verb '",
+             'rest': "' If you overdo food, you cook it for too long.  I'm "
+                     "afraid the sprouts are overdone[j4]they've gone "
+                     'soggy.'}]}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['An overdose of a drug is too much of it.  It is a dose that '
+             'is large enough to kill you or make you very sick.  [cf2]He '
+             'was so unhappy that he deliberately took an overdose.'],
+ 'headword': 'overdose',
+ 'note': ' ',
+ 'pronounce': "`@Uv@d@Us'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ['If you have an overdraft, you have a negative balance in your '
+             'bank account and you have to pay interest on the money you '
+             "owe the bank.  [cf2]I'm still struggling to pay off my "
+             'overdraft.'],
+ 'headword': 'overdraft',
+ 'note': ' ',
+ 'pronounce': "`@Uv@dra:ft'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'overdue',
+ 'note': ' ',
+ 'pronounce': "@Uv@`dju:'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ["' If something is overdue, it has not happened "
+                         'or been dealt with by the time that was '
+                         'planned.  [cf2]Our train is already ten minutes '
+                         'overdue.'],
+             'id': '1',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '2',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': "' If you say something is overdue, you mean that it "
+                     'should have happened earlier.  The council clean-up '
+                     'is long overdue.'}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ['If a container or a river overflows, the liquid in it flows '
+             'over the edges. [cf2]The glass overflowed as he poured the '
+             'beer into it too quickly.'],
+ 'headword': 'overflow',
+ 'note': ' ',
+ 'pronounce': "@Uv@`fl@U'",
+ 'ps': "verb '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'overhaul',
+ 'note': ' ',
+ 'pronounce': "`@Uv@h@:l'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '1',
+             'note': ' ',
+             'ps': "verb '",
+             'rest': "' If you overhaul a machine or vehicle, you clean "
+                     "it, check it and repair any damage.  '"},
+            {'comment': ' ',
+             'definition': "'",
+             'example': ["' If you overhaul a system or an organisation, "
+                         'you examine it carefully and change it, if '
+                         'necessary, to make it more efficient.'],
+             'id': '2',
+             'note': ' ',
+             'ps': "verb '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'overhead',
+ 'note': ' ',
+ 'pronounce': "@Uv@`hEd'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': "'",
+             'example': ["a' Something that is over~ head is directly "
+                         'above you.  [cf2]Be careful because there are '
+                         'power lines overhead.'],
+             'id': '1',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': ''}]}
+
+{'comment': 'verb forms overhears, [choverheard, overhearing',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'overhear',
+ 'note': ' ',
+ 'pronounce': "@Uv@`hI@'",
+ 'ps': "verb '",
+ 'rest': 'If you overhear someone speaking to someone else, you hear what '
+         'they say, usually without them knowing.  The house was so quiet I '
+         "couldn't help overhearing what Tito said on the phone.",
+ 'senses': ' '}
+
+{'comment': 'verb forms overlaps, [choverlapped, overlapping',
+ 'definition': "'",
+ 'example': ['If one thing overlaps another, it partly covers it.  [cf2]The '
+             'tree overlaps the patio and gives some shade.'],
+ 'headword': 'overlap',
+ 'note': ' ',
+ 'pronounce': "@Uv@`lAp'",
+ 'ps': "verb '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'overlook',
+ 'note': ' ',
+ 'pronounce': "@Uv@`lUk'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': "'",
+             'example': ' ',
+             'id': '1',
+             'note': ' ',
+             'ps': "verb '",
+             'rest': "a' If you overlook something, you do not notice it.  "
+                     "I'm afraid I overlooked the invoice[j4]please accept "
+                     "my apologies. b ' verb If you overlook someone's "
+                     'mistake or bad behaviour, you do not punish or scold '
+                     "the person for what they've done.  The clerk said "
+                     "he'd overlook my lateness this time.  '"},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ["' If a place overlooks another place, there is "
+                         'a clear view from the first place out over the '
+                         'second one.  [cf2]The old convent on the side '
+                         'of the hill overlooked the valley.'],
+             'id': '2',
+             'note': ' ',
+             'ps': "verb '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["Overnight means 'all night', from the evening to the "
+             'morning.  [cf2]I stayed in town overnight to catch the early '
+             'train.'],
+ 'headword': 'overnight',
+ 'note': ' ',
+ 'pronounce': "@Uv@`na:It'",
+ 'ps': "adverb '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'overpower',
+ 'note': ' ',
+ 'pronounce': "@Uv@`pa:U@'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '1',
+             'note': ' ',
+             'ps': "verb '",
+             'rest': "' If you overpower someone, you overcome them with "
+                     'your greater strength.  There were so many police '
+                     "that they soon overpowered the demonstrators.  '"},
+            {'comment': ' ',
+             'definition': "'",
+             'example': ["' If an emotion overpowers you, it gets the "
+                         "better of you.  You can't resist it.  [cf2]My "
+                         'curiosity overpowered my judgment[j4]I had to '
+                         'look.'],
+             'id': '2',
+             'note': ' ',
+             'ps': "verb '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ['If someone in a position of authority overrules a person or '
+             'overrules their decision, they decide against the decision '
+             'that the other person had made.  [cf2]The High Court '
+             'overruled the verdict made in the Supreme Court.'],
+ 'headword': 'overrule',
+ 'note': ' ',
+ 'pronounce': "@Uv@`ru:l'",
+ 'ps': "verb '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['Places overseas are those you have to travel across the sea '
+             "to get to. [cf2]I've never been overseas."],
+ 'headword': 'overseas',
+ 'note': ' ',
+ 'pronounce': "@Uv@`si:z'",
+ 'ps': "adverb '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'oversight',
+ 'note': ' ',
+ 'pronounce': "`@Uv@sa:It'",
+ 'ps': "noun '",
+ 'rest': "An oversight is some~ thing which, by mistake, didn't get done.  "
+         "I'm sorry your name isn't on the list[j4]it must be an oversight.",
+ 'senses': ' '}
+
+{'comment': 'verb forms overtakes, [chovertook, overtaken, overtaking',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'overtake',
+ 'note': ' ',
+ 'pronounce': "@Uv@`tEIk'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ["' If you overtake someone or something, you "
+                         'catch up to them and pass them.  [cf2]The red '
+                         'car overtook us and was soon out of sight.'],
+             'id': '1',
+             'note': ' ',
+             'ps': "verb '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ["' If something overtakes you, it affects you "
+                         'suddenly and often unpleasantly.  [cf2]Out in '
+                         'the street he was overtaken by fear.'],
+             'id': '2',
+             'note': ' ',
+             'ps': "verb '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'overtime',
+ 'note': ' ',
+ 'pronounce': "`@Uv@ta:Im'",
+ 'ps': "noun '",
+ 'rest': 'If you do overtime, you do extra work outside your regular working '
+         'hours, usually for a higher rate of pay.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'overturn',
+ 'note': ' ',
+ 'pronounce': "@Uv@`t@:n'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ["' If something [choverturns, it turns onto its "
+                         'side or upside down. [cf2]The high winds caused '
+                         'the truck to overturn on the bridge.'],
+             'id': '1',
+             'note': ' ',
+             'ps': "verb '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '2',
+             'note': ' ',
+             'ps': "verb '",
+             'rest': "' If someone in authority overturns a decision, they "
+                     'change it.  They state that the original decision is '
+                     'not valid.  The verdict was overturned on appeal.'}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'overweight',
+ 'note': ' ',
+ 'pronounce': "@Uv@`wEIt'",
+ 'ps': "adjective '",
+ 'rest': 'If you are [choverweight, you have more fat on your body than you '
+         "should have in order to be healthy.  You're not really fat, just a "
+         'few kilos overweight.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['If something over~ whelms you, it affects you so much that '
+             "you can't function properly.  [cf2]He was so overwhelmed by "
+             'fear that he was unable to move.'],
+ 'headword': 'overwhelm',
+ 'note': ' ',
+ 'pronounce': "@Uv@`wElmd'",
+ 'ps': "verb '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ['If you overwork, you work too hard.  [cf2]Be careful not to '
+             "overwork, or you'll become jaded."],
+ 'headword': 'overwork',
+ 'note': ' ',
+ 'pronounce': "@Uv@`w@:k'",
+ 'ps': "verb '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['When a woman ovulates, an egg is released from one of her '
+             'ovaries.'],
+ 'headword': 'ovulate',
+ 'note': ' ',
+ 'pronounce': "`@vj@lEIt'",
+ 'ps': "verb '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'owe',
+ 'note': ' ',
+ 'pronounce': "@U'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '1',
+             'note': ' ',
+             'ps': "verb '",
+             'rest': "' If you owe money to someone, you are in their debt "
+                     'for the amount.  I must pay the butcher the two '
+                     "dollars I owe him.  '"},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '2',
+             'note': ' ',
+             'ps': "verb '",
+             'rest': "' If you say that you owe someone something, you "
+                     'mean you realise that you should give it to them. I '
+                     "owe you an apology for being so rude earlier.  '"},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ["' If you owe something to someone or some~ "
+                         'thing, you have it because of that person or '
+                         'thing. [cf2]I owe my life to the skill of the '
+                         'surgeon.'],
+             'id': '3',
+             'note': ' ',
+             'ps': "verb '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': "'",
+             'example': ["' owing to'  If something happens owing to "
+                         'something else, the second thing is the cause '
+                         'of the first.  [cf2]My flight was cancelled '
+                         'owing to fog.'],
+             'id': '4',
+             'note': ' ',
+             'ps': "'",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'owl',
+ 'note': ' ',
+ 'pronounce': "a:Ul'",
+ 'ps': "noun '",
+ 'rest': 'An owl is a bird with a round face and big eyes.  It catches small '
+         'animals such as mice at night.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'own',
+ 'note': ' ',
+ 'pronounce': "@Un'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ["' If you own something, it belongs to you.  "
+                         '[cf2]Do you own your home or lease it?'],
+             'id': '1',
+             'note': ' ',
+             'ps': "verb '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ["a' If something is your own, it belongs to "
+                         'you.  You are not borrowing it or sharing it.  '
+                         '[cf2]The boys want to have their own bedrooms.'],
+             'id': '2',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': "'",
+             'example': ' ',
+             'id': '5',
+             'note': ' ',
+             'ps': "'",
+             'rest': "' on your own'   (a) If you are on your own, you are "
+                     "alone.  'Is your wife here?'  'No, I came on my "
+                     "own.' '   (b)  If you do something on your own, you "
+                     'do it without anyone helping you.  The toddler '
+                     "insisted on getting off the chair on his own.  '"},
+            {'comment': ' ',
+             'definition': "'",
+             'example': ["' own up'  If you own up to something, you "
+                         'confess or admit it.  [cf2]Eventually Kim owned '
+                         "up that he'd broken the vase."],
+             'id': '6',
+             'note': ' ',
+             'ps': "'",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'oxygen',
+ 'note': ' ',
+ 'pronounce': "`Oks@dZ@n'",
+ 'ps': "noun '",
+ 'rest': 'Oxygen is a colourless gas that has no smell and exists in the '
+         'air.  All plants and animals need oxygen in order to breathe.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'oyster',
+ 'note': ' ',
+ 'pronounce': "`@:Ist@'",
+ 'ps': "noun '",
+ 'rest': 'An oyster is a large flat shellfish which is eaten as a delicacy.  '
+         '[fa[xp',
+ 'senses': ' '}
+

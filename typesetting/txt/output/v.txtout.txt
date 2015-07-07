@@ -1,0 +1,2309 @@
+{'comment': "plural forms Vs, V's, v's",
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'V, v',
+ 'note': ' ',
+ 'pronounce': "vi:'",
+ 'ps': "noun '",
+ 'rest': 'V or v is the twenty-second letter of the English alphabet.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'v',
+ 'note': ' ',
+ 'pronounce': "`v@:s@s'",
+ 'ps': "abbreviation '",
+ 'rest': 'for versus.',
+ 'senses': ' '}
+
+{'comment': 'plural form vacancies',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'vacancy',
+ 'note': ' ',
+ 'pronounce': "`vEIk@nsi:'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ["' A vacancy is a job that is available at a "
+                         'place of work.  [cf2]The factory has a vacancy '
+                         'for a skilled fitter.'],
+             'id': '1',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ["' A vacancy in a hotel or guest house is a room "
+                         'which is available to be occupied.  [cf2]NO '
+                         'VACANCIES'],
+             'id': '2',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'vacant',
+ 'note': ' ',
+ 'pronounce': "`vEIk@nt'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ["' If something is vacant, it is not being "
+                         'used.  [cf2]Is this seat vacant?'],
+             'id': '1',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '2',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': "' If a job or position is vacant, nobody has been "
+                     'appointed to it.  The position of marketing manager '
+                     "is vacant at the moment.  '"},
+            {'comment': ' ',
+             'definition': "'",
+             'example': ["' If a house or unit, or a room in a hotel is "
+                         'vacant, nobody is living or staying there.  '
+                         '[cf2]The house is vacant at the moment but '
+                         'tenants will be moving in next week.'],
+             'id': '3',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'vacation',
+ 'note': ' ',
+ 'pronounce': "v@`kEIS@n'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ["' A vacation is a holiday.  [cf2]I'm planning "
+                         'to take a vacation in Bali.'],
+             'id': '1',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '2',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': "' A vacation is a part of the year when schools and "
+                     'colleges are closed.  I took a Christmas job during '
+                     'the summer vacation.'}]}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['A vaccine is a substance which is made from the germs of a '
+             'particular disease.  It is injected into people in small '
+             'doses to prevent them from getting the disease.'],
+ 'headword': 'vaccine',
+ 'note': ' ',
+ 'pronounce': "`vAksi:n, vAk`si:n'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'vacuum',
+ 'note': ' ',
+ 'pronounce': "`vAkju:m'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '1',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': "' A vacuum is an empty space which contains no air "
+                     "or other gas.  '"},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '2',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': "' A vacuum or vacuum cleaner is an electrical "
+                     '~appliance which sucks up dust and dirt from floors '
+                     "and carpets.  '"},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ["' If you vacuum the floor or carpet, you clean "
+                         'it by using a vacuum cleaner.  [cf2]I just want '
+                         'to vacuum the lounge room before the guests '
+                         'arrive.'],
+             'id': '3',
+             'note': ' ',
+             'ps': "verb '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': [''],
+ 'headword': 'vagina',
+ 'note': ' ',
+ 'pronounce': "v@`dZa:In@'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'vague',
+ 'note': ' ',
+ 'pronounce': "vEIg'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ["' If something is vague, it is not very clear "
+                         'or definite.  [cf2]We could see only vague '
+                         'shapes in the fog.'],
+             'id': '1',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': "'",
+             'example': ["' If someone is vague, they do not have things "
+                         "clearly fixed in their mind. [cf2]Meng couldn't "
+                         'get any sense out of the woman[j4] she was '
+                         'quite vague.'],
+             'id': '2',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'vain',
+ 'note': ' ',
+ 'pronounce': "vEIn'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '1',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': "' If someone is vain, they are very proud of their "
+                     "own appearance, intelligence or ability.  Celine's "
+                     "the vainest girl I've ever met[j4] she spends hours "
+                     "admiring herself in the mirror.  '"},
+            {'comment': ' ',
+             'definition': "'",
+             'example': ["' in vain'  In formal language, if you say "
+                         'something is in vain, you mean it is not '
+                         'successful.  [cf2]All our efforts to cheer him '
+                         'up were in vain.'],
+             'id': '2',
+             'note': ' ',
+             'ps': "'",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'valid',
+ 'note': ' ',
+ 'pronounce': "`vAl@d'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ["' If something such as a ticket is valid, it is "
+                         'officially in order.  [cf2]The passport is not '
+                         'valid[j4]it expired last month.'],
+             'id': '1',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': "'",
+             'example': ["' If something such as an argument or "
+                         'conclusion is valid, it is based on sound '
+                         'reasoning.  [cf2]They have no valid objection '
+                         'to the proposal.'],
+             'id': '2',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'valley',
+ 'note': ' ',
+ 'pronounce': "`vAli:'",
+ 'ps': "noun '",
+ 'rest': 'A valley is a piece of low land between two hills or mountains.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'valuable',
+ 'note': ' ',
+ 'pronounce': "`vAlju:b@l'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '1',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': "' If something is valuable, it is worth a lot of "
+                     "money.  She owns a lot of valuable jewellery.  '"},
+            {'comment': ' ',
+             'definition': "'",
+             'example': ["' If something such as help or advice is "
+                         'valuable, it is useful. [cf2]Thank you for your '
+                         'valuable help.'],
+             'id': '2',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': ''}]}
+
+{'comment': 'verb forms values, valued, valuing',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'value',
+ 'note': ' ',
+ 'pronounce': "`vAlju:'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ["' good value'  If something is good value, it "
+                         'is a bargain.  It is well worth what it costs.  '
+                         '[cf2]This wine is really good value at $10.'],
+             'id': '3',
+             'note': ' ',
+             'ps': "'",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': "'",
+             'example': ["' values'  Your values are your moral "
+                         'principles and your beliefs about what is '
+                         'important in society.  [cf2]It seemed to her '
+                         'that the younger generation had no values.'],
+             'id': '4',
+             'note': ' ',
+             'ps': "'",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'valve',
+ 'note': ' ',
+ 'pronounce': "vAlv'",
+ 'ps': "noun '",
+ 'rest': 'A valve is a device which opens and shuts to control the flow of a '
+         'liquid or gas. One of the valves in his heart had become blocked.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'van',
+ 'note': ' ',
+ 'pronounce': "vAn'",
+ 'ps': "noun '",
+ 'rest': 'A van is a fairly small vehicle used for carrying goods.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['A vandal is someone who deliberately destroys or damages '
+             "other people's property.  [cf2]The windows of the disused "
+             'factory were broken by vandals.'],
+ 'headword': 'vandal',
+ 'note': ' ',
+ 'pronounce': "`vAnd@l'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['Vanilla is a food flavouring. It can be extracted from the '
+             'pod of a tropical plant, or created artificially.'],
+ 'headword': 'vanilla',
+ 'note': ' ',
+ 'pronounce': "v@`nIl@'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ['If something vanishes, it disappears.  It is no longer '
+             'visible.  [cf2]The ship vanished over the horizon.'],
+ 'headword': 'vanish',
+ 'note': ' ',
+ 'pronounce': "`vAnIS'",
+ 'ps': "verb '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'vanity',
+ 'note': ' ',
+ 'pronounce': "`vAn@ti:'",
+ 'ps': "noun '",
+ 'rest': 'Vanity is the quality of being vain, or too proud of your '
+         'appearance, intelligence or ability.  The defeat was a blow to his '
+         'vanity.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'vapour',
+ 'note': ' ',
+ 'pronounce': "`vEIp@'",
+ 'ps': "noun '",
+ 'rest': 'Vapour is made up of tiny particles of liquid in the air, such as '
+         'steam, mist or fog.',
+ 'senses': ' '}
+
+{'comment': 'plural form varieties',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'variety',
+ 'note': ' ',
+ 'pronounce': "v@`ra:I@ti:'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ["' Variety is things being different from each "
+                         'other. [cf2]The shop has a large variety of '
+                         'clothes.'],
+             'id': '1',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '2',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': "' A variety of something is a particular kind or "
+                     'sort.  Which variety of beer is it[j4]Fosters, VB or '
+                     'Tooheys?'}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'various',
+ 'note': ' ',
+ 'pronounce': "`vE@ri:@s'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ["' If things are described as various, there are "
+                         'several different ones.  Often you use this '
+                         'word to refer to a number of things in a vague '
+                         "way, without giving details.  [cf2]I've still "
+                         'got various matters to sort out.'],
+             'id': '1',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': "'",
+             'example': ' ',
+             'id': '2',
+             'note': ' ',
+             'ps': "'",
+             'rest': "' many and various'  If you say things are many and "
+                     'various, you mean that there are a lot of different '
+                     'ones.  Note that various is not used after the noun '
+                     "it describes except in this phrase.  John's got some "
+                     'flaws, but his good points are many and various.'}]}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['Varnish is a clear liquid which is used as a finish on wood '
+             'or woodwork to give a hard shiny surface when it dries.'],
+ 'headword': 'varnish',
+ 'note': ' ',
+ 'pronounce': "`va:nIS'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'vary',
+ 'note': ' ',
+ 'pronounce': "`vE@ri:'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ["' If something varies, it is different at "
+                         'different times.  If things vary, there are '
+                         'differences between them.  [cf2]The temperature '
+                         'never varies very much.'],
+             'id': '1',
+             'note': ' ',
+             'ps': "verb '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': "'",
+             'example': ["' If you vary something, you change it.  [cf2]I "
+                         'decided to vary my routine and walk to work.'],
+             'id': '2',
+             'note': ' ',
+             'ps': "verb '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'vase',
+ 'note': ' ',
+ 'pronounce': "va:z'",
+ 'ps': "noun '",
+ 'rest': 'A vase is a container used to hold and display flowers.  Vases are '
+         'usually made of china or glass.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['If something is vast, it is very large indeed.  It is huge or '
+             'enormous.  [cf2]Australia is a vast continent.'],
+ 'headword': 'vast',
+ 'note': ' ',
+ 'pronounce': "va:st'",
+ 'ps': "adjective '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'vat',
+ 'note': ' ',
+ 'pronounce': "vAt'",
+ 'ps': "noun '",
+ 'rest': 'A vat is a large container like a barrel used for storing liquids '
+         'such as beer and whisky.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ['A VCR is a video cassette recorder.'],
+ 'headword': 'VCR',
+ 'note': ' ',
+ 'pronounce': "vi: si: `a:'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['A VDU is the screen of a computer where the information is '
+             'displayed.'],
+ 'headword': 'VDU',
+ 'note': ' ',
+ 'pronounce': "vi: di: `ju:'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'veal',
+ 'note': ' ',
+ 'pronounce': "vi:l'",
+ 'ps': "noun '",
+ 'rest': 'Veal is meat from a calf.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'vegan',
+ 'note': ' ',
+ 'pronounce': "`vi:g@n'",
+ 'ps': "noun '",
+ 'rest': "A vegan is someone who doesn't eat or use any products that come "
+         'from animals.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['A vegetable is a plant or part of a plant which you eat as '
+             'part of a savoury dish.  Potatoes, carrots, peas, beans, '
+             'cabbage, broccoli and pumpkin are a few of the most common '
+             'vegetables that people eat in Australia.'],
+ 'headword': 'vegetable',
+ 'note': ' ',
+ 'pronounce': "`vEdZt@b@l'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["A vegetarian is someone who doesn't eat meat.  Some "
+             "vegetarians also don't eat fish or any products that come "
+             'from animals.'],
+ 'headword': 'vegetarian',
+ 'note': ' ',
+ 'pronounce': "vEdZ@`tE@ri:@n'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'vegetation',
+ 'note': ' ',
+ 'pronounce': "vEdZ@`tEIS@n'",
+ 'ps': "noun '",
+ 'rest': 'Vegetation refers to plants in general.  The bushfires destroyed '
+         'most of the vegetation in the area.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'vegie',
+ 'note': ' ',
+ 'pronounce': "`vEdZi:'",
+ 'ps': ' ',
+ 'rest': "<noun> Vegie' is an informal word for vegetable'.",
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['If someone is vehement about something, they express very '
+             'strong feelings about it.  [cf2]Luke was vehement in his '
+             'opposition to the plan.'],
+ 'headword': 'vehement',
+ 'note': ' ',
+ 'pronounce': "`vi:@m@nt'",
+ 'ps': "adjective '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ['A vehicle is a form of transport, especially one that travels '
+             'on the road such as a car, van or bus.  [cf2]He swerved to '
+             'avoid an oncoming vehicle.'],
+ 'headword': 'vehicle',
+ 'note': ' ',
+ 'pronounce': "`vi:Ik@l, `vi:@k@l'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'veil',
+ 'note': ' ',
+ 'pronounce': "vEIl'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '1',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': "' A veil is a piece of cloth which women sometimes "
+                     "wear to cover their face and head.  '"},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ["' If you veil something, you hide or disguise "
+                         'it.  [cf2]We put up wall hangings to veil the '
+                         'damp patches in the plaster.'],
+             'id': '2',
+             'note': ' ',
+             'ps': "verb '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'vein',
+ 'note': ' ',
+ 'pronounce': "vEIn'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': "'",
+             'example': ' ',
+             'id': '1',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': "' A vein is a blood vessel that carries blood from "
+                     'some part of your body back to your heart so that it '
+                     'can receive more oxygen. A blood vessel that carries '
+                     'blood from your heart out to some part of your body '
+                     "is called an artery. 2 ' noun The thin lines on a "
+                     'leaf which carry sap are also called veins.'}]}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['Velvet is a fabric which has a short thick smooth pile like a '
+             'carpet, so that it feels very rich to the touch.  It can be '
+             'made of cotton, nylon or silk thread.'],
+ 'headword': 'velvet',
+ 'note': ' ',
+ 'pronounce': "`vElv@t'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'veneer',
+ 'note': ' ',
+ 'pronounce': "v@`nI@'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': "'",
+             'example': ["' If a piece of furniture is made of veneer, it "
+                         'has a thin layer of fine wood glued onto the '
+                         "outside of cheap wood or chipboard. 2 ' noun A "
+                         'veneer is a thin layer or coating on '
+                         'something.  [cf2]The veneer is chipping off the '
+                         'kitchen units.'],
+             'id': '1',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ['A [chvenereal disease is a disease which is passed from one '
+             'person to another by sexual intercourse, for example AIDS, '
+             'syphilis and gonorrhoea.'],
+ 'headword': 'venereal disease',
+ 'note': ' ',
+ 'pronounce': "v@`nI@ri:@l d@zi:z'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'vengeance',
+ 'note': ' ',
+ 'pronounce': "`vEndZ@ns'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': "'",
+             'example': ["' In formal language, vengeance is another word "
+                         "for revenge.    '[cf3]2 with a vengeance  '  If "
+                         'you do something with a ven~ geance, you do it '
+                         'with great energy and often much more than was '
+                         'expected or necessary.    [cf2]After his wife '
+                         'died he threw himself into his work with a '
+                         'vengeance.'],
+             'id': '1',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'venom',
+ 'note': ' ',
+ 'pronounce': "`vEn@m'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '1',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': "' The venom of a snake or spider is the poison that "
+                     'they inject into you if they bite or sting you.  An '
+                     'antidote to the venom of the taipan was developed in '
+                     "1955.  '"},
+            {'comment': ' ',
+             'definition': "'",
+             'example': ["' Venom is intense bitterness of feeling.  "
+                         '[cf2]She spoke of his betrayal with venom.'],
+             'id': '2',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['If you ventilate a room, you bring in fresh air, usually by '
+             'opening a window.'],
+ 'headword': 'ventilate',
+ 'note': ' ',
+ 'pronounce': "`vEnt@lEIt'",
+ 'ps': "verb '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'venture',
+ 'note': ' ',
+ 'pronounce': "`vEntS@'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ["' A venture is an under~ taking in which you "
+                         "can't be sure of the outcome and there is a "
+                         'certain amount of risk involved. [cf2]Andrea is '
+                         'trying to raise capital for a new business '
+                         'venture.'],
+             'id': '1',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '2',
+             'note': ' ',
+             'ps': "verb '",
+             'rest': "' If you venture somewhere, you go there even though "
+                     "you aren't quite sure what to expect, for example "
+                     "because you haven't been there before.  I was "
+                     'pleasantly surprised when at last I ventured into '
+                     "town.  '"},
+            {'comment': ' ',
+             'definition': "'",
+             'example': ["' In rather formal language, if you say you "
+                         'venture to do something, you mean that you do '
+                         "it although you aren't sure what the reaction "
+                         'will be.  [cf2]I was so overawed by the company '
+                         'that it was a while before I ventured to speak.'],
+             'id': '3',
+             'note': ' ',
+             'ps': "verb '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ['A veranda is an area joining onto the outside of a house, '
+             'with a roof over it but usually without walls.  Verandas are '
+             'usually on the ground floor of a house.  [cf2]It was so hot '
+             'we all slept on the veranda last night.'],
+ 'headword': 'veranda',
+ 'note': ' ',
+ 'pronounce': "v@`rAnd@'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'verb',
+ 'note': ' ',
+ 'pronounce': "v@:b'",
+ 'ps': "noun '",
+ 'rest': 'In grammar, a verb is a word that refers to an action as opposed '
+         'to a thing.  It describes what happens or what somebody does.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'verbal',
+ 'note': ' ',
+ 'pronounce': "`v@:b@l'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '1',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': "' Verbal means relating to words or language.  Sam's "
+                     "verbal skills are improving.  '"},
+            {'comment': ' ',
+             'definition': "'",
+             'example': ["' Sometimes verbal refers to spoken rather than "
+                         "written language.    [cf2]I've only had a "
+                         'verbal answer to my letter.'],
+             'id': '2',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'verdict',
+ 'note': ' ',
+ 'pronounce': "`v@:dIkt'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '1',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': "' A verdict in a court of law is the decision of the "
+                     'jury on whether a person accused of a crime is '
+                     'guilty or not guilty.  The jury brought in a verdict '
+                     "of guilty.  '"},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ["' A verdict can also be a judgment or decision "
+                         'that is made in any circumstances.  [cf2]Well, '
+                         "I'll tell you my verdict[j4] I think he "
+                         "shouldn't have walked out in the first place."],
+             'id': '2',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': ''}]}
+
+{'comment': 'verb forms verifies, verified, verifying',
+ 'definition': "'",
+ 'example': ['In rather formal language, if you say you verify something, '
+             "you mean that you confirm that it is true.  [cf2]I've heard "
+             "the rumours but I've been unable to verify them."],
+ 'headword': 'verify',
+ 'note': ' ',
+ 'pronounce': "`vEr@fa:I'",
+ 'ps': "verb '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'versatile',
+ 'note': ' ',
+ 'pronounce': "`v@:s@ta:Il'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ["' If you are versatile, you are able to do lots "
+                         'of different things because you are adaptable '
+                         'and have a range of skills.  [cf2]These days '
+                         'workers have to be versatile as technology '
+                         'changes so rapidly.'],
+             'id': '1',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': "'",
+             'example': ["' If something such as ~a machine or piece of "
+                         'equipment is versatile, it can be used in many '
+                         'different ways or for different purposes.  '
+                         '[cf2]This ladder is very versatile[j4]it can be '
+                         'extended to various lengths or folded into a '
+                         'step ladder.'],
+             'id': '2',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'verse',
+ 'note': ' ',
+ 'pronounce': "v@:s'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '1',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': "' In formal language, verse is another word for "
+                     "poetry.  '"},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ["' In a song or poem, a verse is a group of "
+                         'lines forming one of the sections into which it '
+                         "is divided.  [cf2]She started to sing 'Waltzing "
+                         "Matilda', but forgot the words after the first "
+                         'verse.'],
+             'id': '2',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '3',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': "' A verse is also the shortest division of a holy "
+                     'book such as the Bible or Koran.  She quoted from '
+                     'Luke, chapter 3, verse 5: Every mountain and hill '
+                     'shall be brought low.'}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ['A version of something is a form of it which is different in '
+             'some details to other ones.  One thing is transformed by some '
+             "process into different versions.  [cf2]I've made some "
+             'corrections to the first version of the report.'],
+ 'headword': 'version',
+ 'note': ' ',
+ 'pronounce': "`v@:Z@n'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ["Versus means 'against'. It is used mostly in talking about "
+             'the two teams that play against each other in a sports '
+             "match.  [cf2]It looks as though it'll be Australia versus "
+             'Japan in the final.'],
+ 'headword': 'versus',
+ 'note': ' ',
+ 'pronounce': "`v@:s@s'",
+ 'ps': "preposition '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': 'plural form vertebrae',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'vertebra',
+ 'note': ' ',
+ 'pronounce': "`v@:t@br@'",
+ 'ps': "noun '",
+ 'rest': 'Your vertebrae are the bones of your spine or backbone.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'vertical',
+ 'note': ' ',
+ 'pronounce': "`v@:tIk@l'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '1',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': "' If something is vertical, it runs straight up and "
+                     "down.    ...a vertical line.  '"},
+            {'comment': ' ',
+             'definition': "'",
+             'example': ["' If something is vertical, it is standing up "
+                         'straight.  [cf2]The wire is suspended between '
+                         'vertical poles.'],
+             'id': '2',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'very',
+ 'note': ' ',
+ 'pronounce': "`vEri:'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': "'",
+             'example': ["' You use very to emphasise the adjective or "
+                         "adverb that follows.  [cf2]It's very hot today."],
+             'id': '1',
+             'note': ' ',
+             'ps': "adverb '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'vessel',
+ 'note': ' ',
+ 'pronounce': "`vEs@l'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '1',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': "' A vessel is a ship or boat. They sailed down the "
+                     "east coast of Australia in a small fishing vessel.  '"},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '2',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': "' In formal language, a vessel is a bowl or other "
+                     'container.  The incense was carried in two golden '
+                     "vessels.  '"},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '3',
+             'note': ' ',
+             'ps': "'",
+             'rest': "' blood vessel' A blood vessel is an artery or vein "
+                     'through which blood circulates around the body.  He '
+                     'was so angry that I thought he was going to burst a '
+                     'blood vessel.'}]}
+
+{'comment': 'verb forms vets, vetted, vetting',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'vet',
+ 'note': ' ',
+ 'pronounce': "vEt'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '1',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': "' A vet is a doctor who treats animals.  This word "
+                     'is a shortened form of the formal term veterinary '
+                     "surgeon.  '"},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ["' If you vet someone or something for a "
+                         'particular purpose, you check very carefully to '
+                         'make sure they are suitable and acceptable.  '
+                         '[cf2]You have to be vetted before getting a job '
+                         'in the security services.'],
+             'id': '2',
+             'note': ' ',
+             'ps': "verb '",
+             'rest': ''}]}
+
+{'comment': 'verb forms vetoes, vetoed, vetoing',
+ 'definition': "'",
+ 'example': ['If someone vetoes something, they use their authority to '
+             'prevent it from happening. [cf2]We all wanted to put up '
+             'Christmas decorations in the canteen, but the boss vetoed the '
+             'idea.'],
+ 'headword': 'veto',
+ 'note': ' ',
+ 'pronounce': "`vi:t@U'",
+ 'ps': "verb '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': 'verb forms vexes, vexed, vexing',
+ 'definition': ' ',
+ 'example': ['If something vexes you, it makes you cross, worried or '
+             'puzzled.  [cf2]I was vexed by his refusal.'],
+ 'headword': 'vex',
+ 'note': ' ',
+ 'pronounce': "vEks'",
+ 'ps': "verb '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ["Via means 'by way of'.  You use it to say that you go through "
+             'a place while you are travelling.  [cf2]He went from Sydney '
+             'to Mel~ bourne via Yass.'],
+ 'headword': 'via',
+ 'note': ' ',
+ 'pronounce': "`va:I@'",
+ 'ps': "preposition '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['If something vibrates, it shakes or trembles rapidly.  [cf2]I '
+             'could feel the washing machine vibrating.'],
+ 'headword': 'vibrate',
+ 'note': ' ',
+ 'pronounce': "va:I`brEIt'",
+ 'ps': "verb '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ' ',
+ 'headword': 'Vic',
+ 'note': ' ',
+ 'pronounce': "vIk`t@:ri:@'",
+ 'ps': "abbreviation '",
+ 'rest': '.  for Victoria.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'vice',
+ 'note': ' ',
+ 'pronounce': "va:Is'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': "'",
+             'example': ["a' In rather formal language, a vice is a bad "
+                         "aspect of someone's character.    [cf2]His main "
+                         'vice is that he tends to be rather '
+                         'self-obsessed.'],
+             'id': '1',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '2',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': "' A vice is also a device that you use to hold "
+                     'something firmly while you are working on it.  She '
+                     'clamped the piece of wood into a vice.'}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ['If you say something and then say vice versa, you mean that '
+             'what you say is also true the other way round. [cf2]Agnes '
+             'loathes Belinda and vice versa.'],
+ 'headword': 'vice versa',
+ 'note': ' ',
+ 'pronounce': "va:Is@ `v@:s@, va:Is `v@:s@'",
+ 'ps': "adverb '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ['In rather formal language, if you say something is in the '
+             'vicinity of something else, you mean that it is near or close '
+             "by.  [cf2]I'm not sure exactly where the florist is, but it's "
+             'in the vicinity of the post office.'],
+ 'headword': 'vicinity',
+ 'note': ' ',
+ 'pronounce': "v@`sIn@ti:'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ['If someone or something is vicious, they are savage or '
+             "cruel.  [cf2]Don't go into number 14[j4]they've got a vicious "
+             'dog.'],
+ 'headword': 'vicious',
+ 'note': ' ',
+ 'pronounce': "`vIS@s'",
+ 'ps': "adjective '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ['A victim is someone who suffers an accident or a crime.  '
+             '[cf2]Bystanders rushed to pull the victims from the car.'],
+ 'headword': 'victim',
+ 'note': ' ',
+ 'pronounce': "`vIkt@m'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': 'plural form victories',
+ 'definition': "'",
+ 'example': ['If someone is victim~ ised, they are singled out to be '
+             'treated badly.  [cf2]He claimed that he was being victimised '
+             'because of his colour.  [cj3,6,9]--victory '
+             "[iw-1]'times,0'[cp8.5]"],
+ 'headword': 'victimise',
+ 'note': ' ',
+ 'pronounce': "`vIkt@ma:Iz'",
+ 'ps': "verb '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'video',
+ 'note': ' ',
+ 'pronounce': "`vIdi:@U'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': "'",
+             'example': ["' A video is a machine which records television "
+                         'programs onto tapes and plays back these and '
+                         'other recordings through a television set.    '
+                         "[cf2]Don't forget to set the video before you "
+                         'go to bed.'],
+             'id': '1',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['Videotape is mag~ netic tape used for recording film and '
+             'television pictures and sound.  [cf2]These days most '
+             'productions are shot on videotape rather than film.'],
+ 'headword': 'videotape',
+ 'note': ' ',
+ 'pronounce': "`vIdi:@UtEIp'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'Vietnamese',
+ 'note': ' ',
+ 'pronounce': "vi:;Etn@`mi:z'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': "'",
+             'example': ' ',
+             'id': '1',
+             'note': ' ',
+             'ps': ' ',
+             'rest': "noun Vietnamese' is the standard language spoken in "
+                     "Vietnam. '"},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '2',
+             'note': ' ',
+             'ps': 'adjective',
+             'rest': 'If someone or something comes from Vietnam, you '
+                     "describe them as Vietnamese'."}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'view',
+ 'note': ' ',
+ 'pronounce': "vju:'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ["' A view is whatever you can see from a "
+                         'particular place, for instance from the top of '
+                         'a hill, or out of a window.  [cf2]The unit has '
+                         'marvellous views of the city.'],
+             'id': '1',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ["a' Your view on a subject is your opinion about "
+                         "it.    [cf2]We must take everyone's view into "
+                         'consid~ eration.'],
+             'id': '2',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ["' in view of'  You use in view of to give the "
+                         'circumstances which explain why something '
+                         'happens.  [cf2]In view of the fact that he made '
+                         'a full apology, Anna decided to forgive him.'],
+             'id': '3',
+             'note': ' ',
+             'ps': "'",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ['A viewer is someone who watches a television program.  '
+             '[cf2]Several viewers com~ ~plained about the violence.'],
+ 'headword': 'viewer',
+ 'note': ' ',
+ 'pronounce': "`vju:@'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'vigorous',
+ 'note': ' ',
+ 'pronounce': "`vIg@r@s'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ["' If someone or something is vigorous, they are "
+                         'very strong and healthy.  [cf2]Carlos is '
+                         'amazingly vigorous for a man of 70[j4]he still '
+                         'plays tennis twice a week with his son.'],
+             'id': '1',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': "'",
+             'example': ["' A vigorous action is done forcefully with a "
+                         'lot of energy.  [cf2]He greeted me with a '
+                         'vigorous shake of my hand.'],
+             'id': '2',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'vile',
+ 'note': ' ',
+ 'pronounce': "va:Il'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ["' If something is vile, it is very unpleasant "
+                         'or disgusting.  [cf2]The walls are painted a '
+                         'vile green.'],
+             'id': '1',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ["' In formal language, if you say something is "
+                         'vile, you mean that it is wicked or evil.  '
+                         '[cf2]The perpetrators of this vile crime must '
+                         'be brought to justice.'],
+             'id': '2',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'village',
+ 'note': ' ',
+ 'pronounce': "`vIlIdZ'",
+ 'ps': "noun '",
+ 'rest': 'A village is a small town, usually in the country.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'villain',
+ 'note': ' ',
+ 'pronounce': "`vIl@n'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ["' A villain is someone who does criminal or "
+                         'evil things.  [cf2]He is a notorious villain '
+                         'and gang leader.'],
+             'id': '1',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ["' In informal language, you can call someone a "
+                         'villain if they are always getting up to '
+                         'mischief.  [cf2]Raoul is a real little '
+                         'villain[j4]he keeps pinching the chocolate '
+                         'biscuits.'],
+             'id': '2',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ['If someone is vindictive, they are spiteful and try to harm '
+             "people that they think have treated them badly.  [cf2]Don't "
+             "cross Antoine[j4]he's a very vindictive person."],
+ 'headword': 'vindictive',
+ 'note': ' ',
+ 'pronounce': "vIn`dIktIv'",
+ 'ps': "adjective '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'vine',
+ 'note': ' ',
+ 'pronounce': "va:In'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '1',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': "' A vine is a climbing plant with a woody stem, such "
+                     "as the ones on which grapes grow.  '"},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '2',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': "' A vine is also a creeping plant, such as the ones "
+                     'on which pumpkins or melons grow.'}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'vinegar',
+ 'note': ' ',
+ 'pronounce': "`vInIg@'",
+ 'ps': "noun '",
+ 'rest': 'Vinegar is a sour liquid made from wine or cider.  It is used to '
+         'flavour food and is an ingredient of salad dressings and sauces.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'vineyard',
+ 'note': ' ',
+ 'pronounce': "`vInj@d'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ["' If you describe something as vintage, you "
+                         'mean that it is a typical or very good example '
+                         'of its kind, dating from some time ago. [cf2]Do '
+                         'you remember when he turned up in his pyjamas? '
+                         "That's vintage Desmond!"],
+             'id': '2',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '3',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': "' A vintage car is an old car of a type that isn't "
+                     'made any more which people buy and restore as a '
+                     'hobby.'}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'vinyl',
+ 'note': ' ',
+ 'pronounce': "`va:In@l'",
+ 'ps': "noun '",
+ 'rest': 'Vinyl is a type of strong flexible plastic.  It is used as a floor '
+         'covering and as upholstery.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'violent',
+ 'note': ' ',
+ 'pronounce': "`va:I@l@nt'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ["' If someone is violent, they are aggressive "
+                         'and use force to injure people or destroy '
+                         'things.  [cf2]He was abusive, and I was afraid '
+                         'that he might become violent.'],
+             'id': '1',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': "'",
+             'example': ["' If something such as a storm or an explosion "
+                         'is violent, it has great force and is very '
+                         'destructive.  [cf2]Violent waves dashed against '
+                         'the rock.'],
+             'id': '2',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'violin',
+ 'note': ' ',
+ 'pronounce': "va:I@`lIn'",
+ 'ps': "noun '",
+ 'rest': 'A violin is a stringed musical instrument which you play with a '
+         'bow.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['A VIP is a celebrity or someone who is treated especially '
+             'well because of their status.  This word is an abbreviation '
+             'of very important person.  [cf2]The premier and the other '
+             'VIPs took their seats in the front row.'],
+ 'headword': 'VIP',
+ 'note': ' ',
+ 'pronounce': "vi: a:I `pi:'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'virgin',
+ 'note': ' ',
+ 'pronounce': "`v@:dZ@n'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '1',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': "' A virgin is someone who has never had sexual "
+                     "intercourse.  '"},
+            {'comment': ' ',
+             'definition': "'",
+             'example': ["' If something such as land or forest is "
+                         'described as virgin, it is in its original '
+                         'natural state.  It has not been cultivated or '
+                         'spoilt by humans.  [cf2]There are 4000 acres of '
+                         'virgin bush in Tasmania.'],
+             'id': '2',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'virile',
+ 'note': ' ',
+ 'pronounce': "`vIra:Il'",
+ 'ps': "adjective '",
+ 'rest': 'If a man is virile, he is physically strong and characteristically '
+         'masculine in his appearance and behaviour.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'virtue',
+ 'note': ' ',
+ 'pronounce': "`v@:tSu:'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': "'",
+             'example': ["a' A virtue is a good aspect of someone's "
+                         'character.    [cf2]Salim is very generous[j4] '
+                         "that's just one of his many virtues."],
+             'id': '1',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['If something such as a disease or poison is virulent, it is '
+             'very powerful and deadly.  [cf2]This is a particularly '
+             'virulent strain of the bacteria.'],
+ 'headword': 'virulent',
+ 'note': ' ',
+ 'pronounce': "`vIr@l@nt'",
+ 'ps': "adjective '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'virus',
+ 'note': ' ',
+ 'pronounce': "`va:Ir@s'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '1',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': "a' A virus is an extremely small organism which "
+                     'causes disease.  Doctors have succeeded in isolating '
+                     "the virus responsible for the outbreak.  '"},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '2',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': "' A virus is also a computer program that has been "
+                     'especially written to cause damage or annoyance if '
+                     'it is loaded onto a computer along with other '
+                     'programs or data.'}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ['A visa is a stamp or document which shows that you have '
+             'official permission to visit a particular country and remain '
+             "there for a certain length of time.  [cf2]You'll need a visa "
+             'to go to New Caledonia.'],
+ 'headword': 'visa',
+ 'note': ' ',
+ 'pronounce': "`vi:z@'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['If something is visible, it can be seen.  [cf2]The boat was '
+             'just visible on the horizon.'],
+ 'headword': 'visible',
+ 'note': ' ',
+ 'pronounce': "`vIz@b@l'",
+ 'ps': "adjective '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'vision',
+ 'note': ' ',
+ 'pronounce': "`vIZ@n'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '1',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': "' Your vision is your ability to see.  My vision has "
+                     'deteriorated lately[j4]I ought to go to the '
+                     "optician.  '"},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ["' A vision is a hallucination or an experience "
+                         'in which someone sees something that is not '
+                         'physically present.  [cf2]He ~saw a vision of '
+                         'the Virgin Mary.'],
+             'id': '2',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ["' A vision is also a mental picture of how "
+                         "something is or might be.  [cf2]Jack's an "
+                         'idealist[j4]he has a vision of a perfect world.'],
+             'id': '3',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '4',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': "' Vision is the ability to imagine clearly how "
+                     'things ought to be and how to bring that situation '
+                     'about.  Governor Macquarie was a man of vision. He '
+                     'was concerned for the future of the colony of New '
+                     'South Wales.'}]}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['If you visit a person or a place, you go to see them, usually '
+             'for a fairly short time. [cf2]Carmen visits her mother every '
+             'Sunday.'],
+ 'headword': 'visit',
+ 'note': ' ',
+ 'pronounce': "`vIz@t'",
+ 'ps': "verb '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ['Visual means relating to seeing.  [cf2]Will you be using any '
+             'visual aids during your lecture?'],
+ 'headword': 'visual',
+ 'note': ' ',
+ 'pronounce': "`vIZu:@l'",
+ 'ps': "adjective '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ['A visual display unit is a computer terminal which presents '
+             'information on a screen.'],
+ 'headword': 'visual display unit',
+ 'note': ' ',
+ 'pronounce': ";vIZju:@l d@`splEI ju:n@t'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ['If you visualise some~ thing, you picture it to yourself in '
+             'your mind.  You imagine what it looks like or how it is.  '
+             "[cf2]I haven't seen the house, but I can visualise it from "
+             'your description.'],
+ 'headword': 'visualise',
+ 'note': ' ',
+ 'pronounce': "`vIZj@la:Iz'",
+ 'ps': "verb '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['If something is vital, it is necessary and extremely '
+             'important.  It is essential. [cf2]If you want to lose weight, '
+             'exercise is vital.'],
+ 'headword': 'vital',
+ 'note': ' ',
+ 'pronounce': "`va:It@l'",
+ 'ps': "adjective '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'vitality',
+ 'note': ' ',
+ 'pronounce': "va:I`tAl@ti:'",
+ 'ps': "noun '",
+ 'rest': 'If someone is full of vitality, they are very active and '
+         'energetic.  She positively glows with health and vitality.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ["'times,0'[cp8.5]"],
+ 'headword': 'vitamin',
+ 'note': ' ',
+ 'pronounce': ' ',
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'vivacious',
+ 'note': ' ',
+ 'pronounce': "v@`vEIS@s'",
+ 'ps': "adjective '",
+ 'rest': 'If someone is vivacious, they have a very lively personality. '
+         "Michael's new girlfriend is a vivacious brunette.",
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'vivid',
+ 'note': ' ',
+ 'pronounce': "`vIv@d'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '1',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': "' If something such as a colour or a design is "
+                     'vivid, it is very bright, bold and strong.  He uses '
+                     "vivid blues and greens in his paintings.  '"},
+            {'comment': ' ',
+             'definition': "'",
+             'example': ["' If something such as a description is vivid, "
+                         'it is clear and lively.  It makes you able to '
+                         'imagine the thing very well.  [cf2]Angelo told '
+                         'his story in vivid detail.'],
+             'id': '2',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'vocabulary',
+ 'note': ' ',
+ 'pronounce': "v@`kAbj@l@ri:'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '1',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': "' The vocabu~ lary of a language is all the words "
+                     'that are used in it.  Is there any vocabulary in '
+                     "this passage that you don't know?  '"},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ["' Your vocabulary is all the words that you "
+                         'know or use in a language. [cf2]Lisa has a very '
+                         'wide vocabulary for her age.'],
+             'id': '2',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'vocal',
+ 'note': ' ',
+ 'pronounce': "`v@Uk@l'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '1',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': "' Vocal means relating to the human voice.  The "
+                     'young Italian soprano is famous for her large vocal '
+                     "range.  '"},
+            {'comment': ' ',
+             'definition': "'",
+             'example': ["' If someone is vocal, they are insistent on "
+                         'making their views known.  [cf2]The debate has '
+                         'been dominated by a small group of vocal '
+                         'protestors.'],
+             'id': '2',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'vocalist',
+ 'note': ' ',
+ 'pronounce': "`v@Uk@l@st'",
+ 'ps': "noun '",
+ 'rest': 'A vocalist is a singer, especially one who performs with a band.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ['A vogue is a fashion for something such as a particular style '
+             'of clothing or type of music.  [cf2]The present vogue is for '
+             'short skirts.'],
+ 'headword': 'vogue',
+ 'note': ' ',
+ 'pronounce': "v@Ug'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'voice',
+ 'note': ' ',
+ 'pronounce': "v@:Is'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ["' You use your voice to speak or sing.  "
+                         "[cf2]She's got a lovely voice."],
+             'id': '1',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': "'",
+             'example': ["' If you have a voice in a decision, you have a "
+                         'say in it.  Your opinion is taken into '
+                         'consideration.  [cf2]They complained that they '
+                         'had had no voice in the debate.'],
+             'id': '2',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'void',
+ 'note': ' ',
+ 'pronounce': "v@:Id'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '1',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': "' In legal language, if some~ thing is void, it is "
+                     'not valid.  It is treated as if it did not exist at '
+                     'all.  The contract was void because it had not been '
+                     "properly drawn up.  '"},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ["' In rather literary language, a void is an "
+                         'empty space. [cf2]The spacecraft hurtled into '
+                         'the black void.'],
+             'id': '2',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['A volcano is a moun~ tain formed from rock which has erupted '
+             "in molten form through a crack in the earth's surface.  If it "
+             'is an active volcano, it is likely to erupt again and send '
+             'lava, gases, steam and ash into the sky.'],
+ 'headword': 'volcano',
+ 'note': ' ',
+ 'pronounce': "vOl`kEIn@U'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'volley',
+ 'note': ' ',
+ 'pronounce': "`vOli:'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '1',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': "' A volley of shots is several of them fired at the "
+                     "same time or in quick succession.  '"},
+            {'comment': ' ',
+             'definition': "'",
+             'example': ["' In tennis, if you play a volley, you hit the "
+                         'ball back to the other player without letting '
+                         'it bounce first.'],
+             'id': '2',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'volleyball',
+ 'note': ' ',
+ 'pronounce': "`vOli:b@:l'",
+ 'ps': "noun '",
+ 'rest': 'Volleyball is a game played between two teams.  It involves '
+         'hitting a large ball over a high net with your hands and not '
+         'allowing it to touch the ground.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'volume',
+ 'note': ' ',
+ 'pronounce': "`vOlju:m'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '1',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': "' The volume of some~ thing is the amount of space "
+                     "it occupies.  Volume is measured in cubic units.  '"},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ["' The volume of something is the amount of it.  "
+                         '[cf2]He never expected such a large volume of '
+                         'work.'],
+             'id': '2',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ["' The volume of a sound is how loud it is.  "
+                         '[cf2]I asked him to turn down the volume of his '
+                         'radio.'],
+             'id': '3',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ["' A volume is a book, especially a large one "
+                         'which forms part of a series.  [cf2]The '
+                         'encyclopedia consists of sixteen volumes.'],
+             'id': '4',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'voluntary',
+ 'note': ' ',
+ 'pronounce': "`vOl@ntri:'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': "'",
+             'example': ["' If something is voluntary, you do not have to "
+                         'do it.  You can do it if you want to.  '
+                         '[cf2]Contributions are supposed to be '
+                         'voluntary, but many people feel pressured into '
+                         "paying. 2 ' adjective If you do voluntary work, "
+                         'you are not paid for it.  You give your time to '
+                         'help a charity or a community organisation.  '
+                         '[cf2]Myra does a lot of voluntary work at the '
+                         'local hospital.'],
+             'id': '1',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'volunteer',
+ 'note': ' ',
+ 'pronounce': "vOl@n`tI@'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ["' A volunteer is someone who does work without "
+                         'receiving payment for it, especially work that '
+                         "is useful to society. [cf2]Charities can't "
+                         'survive without the help of volunteers.'],
+             'id': '1',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': "'",
+             'example': ["' A volunteer is also someone who joins the "
+                         'armed forces because they want to and not '
+                         "because they are forced to do so by law. 3 ' "
+                         'verb If you volunteer to do something, you '
+                         'offer to do it without being forced to do it.  '
+                         "[cf2]Adele's always willing to help[j4]she "
+                         'volunteered to do the washing up.'],
+             'id': '2',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['If you vomit, you throw up food from your stomach out through '
+             "your mouth. [cf2]I ate a bad oyster and I couldn't stop "
+             'vomiting.'],
+ 'headword': 'vomit',
+ 'note': ' ',
+ 'pronounce': "`vOm@t'",
+ 'ps': "verb '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['If you vote, you register your support for a particular '
+             'person or plan by marking your choice on a piece of paper or '
+             'by raising your hand at a meeting.  [cf2]In Australia all '
+             'citizens must vote at elections.'],
+ 'headword': 'vote',
+ 'note': ' ',
+ 'pronounce': "v@Ut'",
+ 'ps': "verb '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['A voucher is a specially printed piece of paper that is worth '
+             'a certain amount of money when you use it to buy something.  '
+             '[cf2]I received a book voucher worth $75 for my birthday.'],
+ 'headword': 'voucher',
+ 'note': ' ',
+ 'pronounce': "`va:UtS@'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'vowel',
+ 'note': ' ',
+ 'pronounce': "`va:U@l'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': "'",
+             'example': ["' A vowel is a sound in a language which you "
+                         'make with your mouth open. A sequence of two '
+                         "vowels is called a  diphthong. 2 ' noun A vowel "
+                         'is a letter of the alphabet used to represent '
+                         'these sounds.  In English the letters a, e, i, '
+                         'o, u and sometimes y are vowels.'],
+             'id': '1',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'voyage',
+ 'note': ' ',
+ 'pronounce': "`v@:IIdZ'",
+ 'ps': "noun '",
+ 'rest': 'A voyage is a long journey that you make by sea or air.  Have you '
+         "seen Rick's slides of his voyage to the Antarctic?",
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'vs',
+ 'note': ' ',
+ 'pronounce': "`v@:s@s'",
+ 'ps': "abbreviation '",
+ 'rest': 'for versus.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'vulgar',
+ 'note': ' ',
+ 'pronounce': "`vV lg@'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ["' If something is vulgar, it is crude and "
+                         "offensive.  [cf2]I don't feel comfortable with "
+                         'Mel[j4]he tells far too many vulgar jokes.'],
+             'id': '1',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '2',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': "' If something is vulgar, it is ostentatious and in "
+                     'poor taste.  She wears a lot of vulgar gold '
+                     'jewellery.'}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ["'times,0'[cp8.5]"],
+ 'headword': 'vulnerable',
+ 'note': ' ',
+ 'pronounce': ' ',
+ 'ps': "adjective '",
+ 'rest': '',
+ 'senses': ' '}
+

@@ -1,0 +1,3303 @@
+{'comment': "plural forms Ns, N's, n's",
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'N, n',
+ 'note': ' ',
+ 'pronounce': "En'",
+ 'ps': "noun '",
+ 'rest': 'or n is the fourteenth letter of the English alphabet.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ["for words that start with the letter 'n', such as north and "
+             'noun.'],
+ 'headword': 'N',
+ 'note': ' ',
+ 'pronounce': ' ',
+ 'ps': "abbreviation '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ' ',
+ 'headword': 'N',
+ 'note': ' ',
+ 'pronounce': "En `EI'",
+ 'ps': "abbreviation '",
+ 'rest': "for not applicable or 'not available.",
+ 'senses': ' '}
+
+{'comment': 'verb forms nags, nagged, nagging',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'nag',
+ 'note': ' ',
+ 'pronounce': "nAg'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': "'",
+             'example': ["' If something, such as a doubt or suspicion, "
+                         "nags at you, you can't get it out of your "
+                         "mind.  [cf2]I can't think of the name of the "
+                         "book.  It's been nagging at me all day."],
+             'id': '2',
+             'note': ' ',
+             'ps': "verb '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': '',
+ 'note': ' ',
+ 'pronounce': "nEIl'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '1',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': "a' Nails are long, thin pieces of metal with one "
+                     'pointed end.  You use them to join together pieces '
+                     'of wood by hitting them through the two layers of '
+                     "wood with a hammer.  '"},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ["' Your nails are the tough, horny parts on the "
+                         "end of your fingers and toes.  [cf2]Don't bite "
+                         'your nails.'],
+             'id': '2',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['If someone is naive, they are too trusting.  They believe '
+             'what they are told, or accept the way things seem to be, '
+             "without wondering whether or not it's true.  [cf2]Don't be "
+             "naive[bj4]he's trying to sell you rubbish."],
+ 'headword': 'naive',
+ 'note': ' ',
+ 'pronounce': "na:I`i:v'",
+ 'ps': "adjective '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'naked',
+ 'note': ' ',
+ 'pronounce': "`nEIk@d'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': "'",
+             'example': ["' If you are naked, you are not wearing any "
+                         'clothes.  [cf2]I prefer to sleep naked in '
+                         'summer.'],
+             'id': '1',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'name',
+ 'note': ' ',
+ 'pronounce': "nEIm'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ["a' A name is what a particular person or place "
+                         'is called.  [cf2]My name is Wun Sei Chung.'],
+             'id': '1',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ["' If you have a name for something, you have "
+                         'the reputation of being good at it or you are '
+                         'well known for doing it.  [cf2]He has a name '
+                         'for being a fast worker.'],
+             'id': '2',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ["' If you name someone or something, you mention "
+                         'their name or reveal who they are.  [cf2]Can '
+                         'you name all the state capitals?'],
+             'id': '3',
+             'note': ' ',
+             'ps': "verb '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'nap',
+ 'note': ' ',
+ 'pronounce': "nAp'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ["' A nap is a short sleep during the day.  "
+                         '[cf2]He always has a nap after lunch.'],
+             'id': '1',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': "'",
+             'example': ["' The nap of a fabric is the fuzzy bits of "
+                         'fibre that lie above the surface.'],
+             'id': '2',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ['A napkin is a square piece of cloth or absorbent paper which '
+             'people wipe their hands and mouth with if these get dirty or '
+             'sticky when they are eating.'],
+ 'headword': 'napkin',
+ 'note': ' ',
+ 'pronounce': "`nApk@n'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': 'plural form nappies',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': '',
+ 'note': ' ',
+ 'pronounce': "`nApi:'",
+ 'ps': "noun '",
+ 'rest': '[ir(s76),(s75+6)]nappy      A nappy is a piece of absorbent '
+         'material which a baby wears around its bottom until it has learnt '
+         'to use the toilet.  Some nappies are made of washable material, '
+         'but most people buy disposable ones from the supermarket or '
+         'chemist.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'narcotic',
+ 'note': ' ',
+ 'pronounce': "na:`kOtIk'",
+ 'ps': "noun '",
+ 'rest': 'A narcotic is a drug that eases pain and makes you sleepy.  '
+         'Narcotics are addictive and they are commonly used illegally.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["'Narration is the telling of a story, especially the spoken "
+             'commentary of a documentary or a story on film.'],
+ 'headword': 'narration',
+ 'note': ' ',
+ 'pronounce': "n@`rEIS@n'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ['A narrative is the story of something that happened.  [cf2]He '
+             'bored us with a long narrative about his accident.'],
+ 'headword': 'narrative',
+ 'note': ' ',
+ 'pronounce': "`nAr@tIv'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': 'adjective forms narrower, [chnarrowest',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'narrow',
+ 'note': ' ',
+ 'pronounce': "`nAr@U'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': "'",
+             'example': ["' If someone has narrow beliefs, opinions, or "
+                         'views, they have a very limited way of looking '
+                         'at things.'],
+             'id': '2',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'nasal',
+ 'note': ' ',
+ 'pronounce': "`nEIz@l'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '1',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': "' In medical or technical language, nasal refers to "
+                     'the nose.  This spray will help to clear the nasal '
+                     "passages.  '"},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ["' If someone has a nasal voice, they make "
+                         'speech sounds using the air in their nose as '
+                         'well as their mouth.  [cf2]Some American '
+                         'accents sound very nasal.'],
+             'id': '2',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': ''}]}
+
+{'comment': 'adjective forms nastier, nastiest',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'nasty',
+ 'note': ' ',
+ 'pronounce': "`na:sti:'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ["' If someone is nasty, they are unpleasant and "
+                         'unkind to other people.  [cf2]What a nasty rude '
+                         'man!'],
+             'id': '1',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ["' If something is nasty, it is unpleasant or "
+                         'you think it might have a seriously bad effect. '
+                         "[cf2]There's a nasty smell in here."],
+             'id': '2',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'nation',
+ 'note': ' ',
+ 'pronounce': "`nEIS@n'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ["' A nation is an independent country.  [cf2]The "
+                         'last decade has seen many new nations emerge.'],
+             'id': '1',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': "'",
+             'example': ["' A nation is made up of all the people of one "
+                         'country who live there.  [cf2]The Prime '
+                         'Minister gave an address to the nation.'],
+             'id': '2',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'national',
+ 'note': ' ',
+ 'pronounce': "`nASn@l'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ["' If something is national, it relates to the "
+                         'whole country.  [cf2]The Prime Minister intends '
+                         'to introduce national legislation in this area.'],
+             'id': '1',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '2',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': "' An Australian, U.S., Greek or other national is a "
+                     'citizen of Australia, the U.S.A., Greece or so on.  '
+                     'Most overseas nationals require a visa to enter '
+                     "Australia.  '"},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '3',
+             'note': ' ',
+             'ps': "'",
+             'rest': "' national anthem'  A country's national anthem is a "
+                     'song or piece of music that has been officially '
+                     'chosen as a symbol of that country.  It is played on '
+                     'public occasions, for example at sports matches '
+                     "between teams from different countries.  Australia's "
+                     "national anthem is 'Advance Australia Fair'.  '"},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '4',
+             'note': ' ',
+             'ps': "'",
+             'rest': "' National Party'  The National Party is an "
+                     'Australian political party.'}]}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['If a government nationalises a factory or an industry, it '
+             'takes it away from private owners and runs it as part of the '
+             'state system.'],
+ 'headword': 'nationalise',
+ 'note': ' ',
+ 'pronounce': "`nASn@la:Iz'",
+ 'ps': "verb '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'nationalism',
+ 'note': ' ',
+ 'pronounce': "`nASn@lIzm'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '1',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': "' Nationalism is love for your country and pride in "
+                     "it.  '"},
+            {'comment': ' ',
+             'definition': "'",
+             'example': ["' Nationalism is the desire to form a nation of "
+                         'your own instead of being part of another '
+                         'country.'],
+             'id': '2',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'native',
+ 'note': ' ',
+ 'pronounce': "`nEItIv'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '1',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': "a' Your native town or country is the place where "
+                     'you were born.  Sometimes I still miss my native '
+                     "village.  '"},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '2',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': "' native speaker'  If you are a native speaker of a "
+                     'language, you have known it since you first learned '
+                     'to speak as a child.  Talking with native speakers '
+                     'will improve your fluency.'}]}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['In informal language, if you say someone natters about '
+             'something, you mean they talk about it for a long time in a '
+             'relaxed way. [cf2]She can natter on the phone for hours.'],
+ 'headword': 'natter',
+ 'note': ' ',
+ 'pronounce': "`nAt@'",
+ 'ps': "verb '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': 'adjective forms nattier, nattiest',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'natty',
+ 'note': ' ',
+ 'pronounce': "`nAti:'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ["' If something such as behaviour or a certain "
+                         'skill is natural, you were born with it and you '
+                         'did not need to learn it.  [cf2]She has a '
+                         'natural talent for singing.'],
+             'id': '2',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': "'",
+             'example': ["' Natural surroundings or physical features are "
+                         'not artificial or created by people.  [cf2]We '
+                         'sheltered in a natural harbour.'],
+             'id': '3',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['If migrants are naturalised, they have become citizens of '
+             "their new country.  [cf2]I was born in Korea, and now I'm a "
+             'naturalised Australian citizen.'],
+ 'headword': 'naturalised',
+ 'note': ' ',
+ 'pronounce': "`nAtS@r@la:Izd'",
+ 'ps': "adjective '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': 'adjective forms naughtier, [chnaughtiest',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'nature',
+ 'note': ' ',
+ 'pronounce': "`nEItS@'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '1',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': "' Nature is everything in the world that was not "
+                     "made or constructed by people.  I'm sick of city "
+                     "life[bj4]I want to get back to nature.  '"},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ["' A person's nature is their character or the "
+                         'way they behave.  [cf2]She has a very gentle '
+                         'nature.'],
+             'id': '2',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ["' The nature of something is its basic char~ "
+                         'acteristics or qualities.  [cf2]The nature of '
+                         'the phenomenon is not yet clear.'],
+             'id': '3',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ["' better nature' Your better nature is your "
+                         'conscience, or the nicer side of your '
+                         "personality.  [cf2]It wasn't really convenient, "
+                         'but my better nature made me help them out.'],
+             'id': '4',
+             'note': ' ',
+             'ps': "'",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': "'",
+             'example': ["' second nature'  If behaving in a certain way "
+                         'is second nature to you, you do it '
+                         'automatically, without thinking.  [cf2]The '
+                         'computer system was a pain to learn at first, '
+                         "but now it's second nature."],
+             'id': '5',
+             'note': ' ',
+             'ps': "'",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['Nausea is the feeling of being sick in your stomach. When you '
+             'suffer from nausea, you feel as if you are going to vomit.'],
+ 'headword': 'nausea',
+ 'note': ' ',
+ 'pronounce': "`n@:si:@'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ["'Your navel is the small round hollow in the middle of your "
+             'abdomen.'],
+ 'headword': 'navel',
+ 'note': ' ',
+ 'pronounce': "`nEIv@l'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['If you navigate while you are travelling in a vehicle, you '
+             'look at a map and work out which direction you should take to '
+             "get where you want.  [cf2]You drive and I'll navigate."],
+ 'headword': 'navigate',
+ 'note': ' ',
+ 'pronounce': "`nAv@gEIt'",
+ 'ps': "verb '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': 'plural form navies',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'navy',
+ 'note': ' ',
+ 'pronounce': "`nEIvi:'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '1',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': "' A country's navy is part of its armed forces.  It "
+                     'is made up of ships with sailors who are trained to '
+                     "fight at sea or to defend the country's coast.  '"},
+            {'comment': ' ',
+             'definition': "'",
+             'example': ["' Navy is also a very dark blue colour, so dark "
+                         'that it is almost black.  This colour is also '
+                         'called navy blue.'],
+             'id': '2',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ' ',
+ 'headword': 'NB',
+ 'note': ' ',
+ 'pronounce': "En `bi:'",
+ 'ps': "abbreviation '",
+ 'rest': "for the Latin words nota bene, which mean 'note well'.  This is "
+         'used in written language, to point out something that is '
+         'particularly important or perhaps surprising.  The meeting will '
+         'begin at 10.00 (NB not 10.30 as usual).',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ' ',
+ 'headword': 'NE',
+ 'note': ' ',
+ 'pronounce': "n@:T`i:st'",
+ 'ps': "abbreviation '",
+ 'rest': 'for north-east.',
+ 'senses': ' '}
+
+{'comment': 'adjective and adverb forms nearer, nearest',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'near',
+ 'note': ' ',
+ 'pronounce': "nI@'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ["a' If something is near someone or something "
+                         'else, it is close to it in place, in time, or '
+                         'in some other way.  [cf2]I parked near the '
+                         'school.'],
+             'id': '1',
+             'note': ' ',
+             'ps': "preposition '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '2',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': "' Your near relatives are the ones who are most "
+                     'closely related to you, for example your parents and '
+                     'brothers and sisters rather than all your cousins. '
+                     'Is there any history of heart trouble among your '
+                     "near relatives?  '"},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ["' If you near something, you get close to it.  "
+                         '[cf2]As the plane neared the city, we could see '
+                         'the lights below us.'],
+             'id': '3',
+             'note': ' ',
+             'ps': "verb '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['If something is nearby, it is close to where you are or to '
+             'something mentioned.  [cf2]Excuse me, is there a post office '
+             'nearby?'],
+ 'headword': 'nearby',
+ 'note': ' ',
+ 'pronounce': "nI@`ba:I'",
+ 'ps': "adverb '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'nearly',
+ 'note': ' ',
+ 'pronounce': "`nI@li:'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ["' If something nearly happens, it almost "
+                         "happens but doesn't actually do so.  If "
+                         'something is nearly ready, nearly perfect and '
+                         'so on, then it is almost in that state but not '
+                         'quite.  [cf2]I ran all the way and still nearly '
+                         'missed the bus.'],
+             'id': '1',
+             'note': ' ',
+             'ps': "adverb '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ["' not nearly'  In informal language, you use "
+                         'not nearly to emphasise that something is '
+                         "certainly not the case.  [cf2]I haven't nearly "
+                         'finished packing yet!'],
+             'id': '2',
+             'note': ' ',
+             'ps': "'",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'neat',
+ 'note': ' ',
+ 'pronounce': "ni:t'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ["' If someone is neat, they are tidy in their "
+                         'habits and careful about their appear~ ance.  '
+                         '[cf2]Frieda was always so neat, but my side of '
+                         'the room was a complete mess.'],
+             'id': '1',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ["' If something is neat, it is tidy and in good "
+                         'order. [cf2]My bedroom never seems to stay neat '
+                         'for long.'],
+             'id': '2',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': "'",
+             'example': ["' In informal language, if you say something is "
+                         'neat, you mean that it is very clever or '
+                         'efficient or you like it very much. [cf2]Hey, '
+                         "that's a neat idea!"],
+             'id': '3',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'necessary',
+ 'note': ' ',
+ 'pronounce': "`nEs@s@ri:'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ["' If something is necessary, you need it.  "
+                         '[cf2]Before you begin, check you have all the '
+                         'necessary ingredients.'],
+             'id': '1',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': "'",
+             'example': ["' If it is necessary to do something, it is "
+                         'important that you do it.  [cf2]It is necessary '
+                         'to clean the filter every three months.'],
+             'id': '2',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'neck',
+ 'note': ' ',
+ 'pronounce': "nEk'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': "'",
+             'example': ["' Your neck is the part of your body that joins "
+                         'your head to your shoulders.  It forms part of '
+                         'your spine.'],
+             'id': '1',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ["' neck and neck'  If two competitors are neck "
+                         "and neck, you can't tell which of them will win "
+                         'because at the moment they are doing equally '
+                         'well.  [cf2]The two horses were neck and neck '
+                         'at the first bend.'],
+             'id': '3',
+             'note': ' ',
+             'ps': "'",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'necklace',
+ 'note': ' ',
+ 'pronounce': "`nEkl@s'",
+ 'ps': "noun '",
+ 'rest': 'A necklace is a piece of jewellery which you wear around your neck.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ["Nee is a French word which means 'born'.  It can be used in "
+             "written language after a woman's surname to indicate a "
+             'different surname she had before she was married.  '
+             '[cf2]...[hm-p1]Christine White, nee Thomas.'],
+ 'headword': 'nee',
+ 'note': ' ',
+ 'pronounce': "nEI'",
+ 'ps': "adjective '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'need',
+ 'note': ' ',
+ 'pronounce': "ni:d'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ["' If you need something, you must have it in "
+                         'order to succeed in what you are doing.  [cf2]I '
+                         'need a ruler to draw these lines straight.'],
+             'id': '1',
+             'note': ' ',
+             'ps': "verb '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ["' If you need something, you require it as a "
+                         'basic necessity of life.  [cf2]Humans need '
+                         'water to survive.'],
+             'id': '2',
+             'note': ' ',
+             'ps': "verb '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ["' If you need to do something, or if something "
+                         'needs to be done, it is important that it is '
+                         'done.  [cf2]I need to leave at four to go to '
+                         'the dentist.'],
+             'id': '3',
+             'note': ' ',
+             'ps': "verb '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': "'",
+             'example': ["' in need' If someone is in need of something, "
+                         "they are in difficulty because they haven't got "
+                         "it.  [cf2]I'm in need of several thousand "
+                         'dollars to pay my debts.'],
+             'id': '4',
+             'note': ' ',
+             'ps': "'",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': '',
+ 'note': ' ',
+ 'pronounce': "`ni:dl'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '4',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': "a' The needle of a syringe is the pointed tip that "
+                     'pierces the skin when a doctor injects drugs or '
+                     "takes a blood sample.  '"},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': 1,
+             'note': ' ',
+             'ps': "noun '",
+             'rest': "b' In informal language, if you say that a doctor "
+                     'gives you a needle, you mean that they give you an '
+                     'injection.'}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'negative',
+ 'note': ' ',
+ 'pronounce': "`nEg@tIv'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ["a' A negative answer to a question or "
+                         "suggestion is one that says 'no'. [cf2]She got "
+                         'a totally negative response to her idea.'],
+             'id': '1',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '3',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': "' In photography, a negative is a picture in which "
+                     'the light and dark parts are reversed.  The film in '
+                     'a camera records images as negatives, from which '
+                     "positive prints are made.  '"},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ["' In maths, a negative value is one which is "
+                         'less than zero.  It is written with a minus '
+                         'sign in front of the number.'],
+             'id': '4',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'neglect',
+ 'note': ' ',
+ 'pronounce': "n@`glEkt'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': "'",
+             'example': ["' If you neglect something, you don't pay as "
+                         'much attention to it as you ought to.  [cf2]He '
+                         'neglected his studies, and so failed his exams. '
+                         "2 ' verb If you neglect someone or something, "
+                         "you don't look after  them properly.  [cf2]The "
+                         'children were neglected for days at a time '
+                         'while the couple went out drinking.'],
+             'id': '1',
+             'note': ' ',
+             'ps': "verb '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'negligee',
+ 'note': ' ',
+ 'pronounce': "`nEgl@ZEI'",
+ 'ps': "noun '",
+ 'rest': "A negligee is a woman's dressing gown that is very flimsy and "
+         'feminine in style.  Francine was wearing her sexy black negligee.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["If someone is negligent, they don't take enough care over "
+             'what they are supposed to be doing.  [cf2]She has been '
+             'negligent in her duties.'],
+ 'headword': 'negligent',
+ 'note': ' ',
+ 'pronounce': "`nEgl@dZ@nt'",
+ 'ps': "adjective '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ['If something is negligible, it is so small or slight that it '
+             'is hardly worth considering.  [cf2]The impact of this price '
+             'rise on the inflation rate will be negligible.'],
+ 'headword': 'negligible',
+ 'note': ' ',
+ 'pronounce': "`nEgl@dZ@bl'",
+ 'ps': "adjective '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'negotiable',
+ 'note': ' ',
+ 'pronounce': "nE`g@USi:@bl'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ["' If something is negotiable, it is not "
+                         'definitely fixed, but can be revised as a '
+                         'result of discussion and negotiation. [cf2]The '
+                         'salary is negotiable, according to the '
+                         'experience of the candidate appointed.'],
+             'id': '1',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '2',
+             'note': ' ',
+             'ps': "'",
+             'rest': "' not negotiable'  If not negotiable is written on a "
+                     'cheque, it must be deposited in an account.  You '
+                     'cannot get cash for it.'}]}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['If you negotiate with somebody, you have a discussion '
+             'together and try to come to an agreement, for example about '
+             'buying or selling something, or the wages and conditions for '
+             'a job.  [cf2]The union is still negotiating with management '
+             'about the wage claim.'],
+ 'headword': 'negotiate',
+ 'note': ' ',
+ 'pronounce': "n@`g@USi:;EIt'",
+ 'ps': "verb '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['Your neighbours are the people who live near you.  [cf2]We '
+             'invited all the neighbours to the party.'],
+ 'headword': 'neighbour',
+ 'note': ' ',
+ 'pronounce': "`nEIb@'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'neither',
+ 'note': ' ',
+ 'pronounce': "`na:ID@, `ni:D@'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ["' You use neither when there are two (or more) "
+                         'parts to what you are saying, and both (or all) '
+                         'the parts are negative.  [cf2]Neither Gill nor '
+                         'Ben came to the party.'],
+             'id': '1',
+             'note': ' ',
+             'ps': "conjunction '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ["' You use neither to refer to two items when "
+                         'you are making a negative statement about them '
+                         'both.  [cf2]Neither of the girls wanted to go.'],
+             'id': '2',
+             'note': ' ',
+             'ps': "pronoun '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ['Your nephew is the son of your sister or brother, or the son '
+             "of your spouse's sister or brother."],
+ 'headword': 'nephew',
+ 'note': ' ',
+ 'pronounce': "`nEfju:, `nEvju:'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'nerd',
+ 'note': ' ',
+ 'pronounce': "n@:d'",
+ 'ps': ' ',
+ 'rest': '<noun> In informal language, a nerd is an idiot.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'nerve',
+ 'note': ' ',
+ 'pronounce': "n@:v'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': "'",
+             'example': ["' A nerve is one of the long thin fibres in "
+                         'your body which carry messages between your '
+                         'brain and your body.  These messages control '
+                         "your movement and your sense of touch. 2' noun "
+                         'Your nerve is the courage you have to do '
+                         "something dangerous or difficult.  [cf2]He's "
+                         'going to sing at the concert[bj4]I hope his '
+                         "nerve doesn't fail him."],
+             'id': '1',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': "'",
+             'example': ["' get on your nerves'  In informal language, if "
+                         'you say someone or something gets on your '
+                         'nerves, you mean they are very irritating.  '
+                         '[cf2]Her continual whinging really gets on my '
+                         "nerves.   4' nerves'   Your nerves are your "
+                         'ability to cope with pressure and stress.  '
+                         '[cf2]I asked the doctor for something to calm '
+                         'my nerves.'],
+             'id': '3',
+             'note': ' ',
+             'ps': "'",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["'If you are nervous, you are anxious or worried about what "
+             'will happen. [cf2]I was really nervous before the interview, '
+             'but it went fine.'],
+ 'headword': 'nervous',
+ 'note': ' ',
+ 'pronounce': "`n@:v@s'",
+ 'ps': "adjective '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'nest',
+ 'note': ' ',
+ 'pronounce': "nEst'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '1',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': "' A nest is a home that a bird builds out of twigs "
+                     "and leaves.    '"},
+            {'comment': ' ',
+             'definition': "'",
+             'example': ["' Other animals, such as rabbits, turtles and "
+                         'some insects, also build nests to use as their '
+                         'homes.'],
+             'id': '2',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'net',
+ 'note': ' ',
+ 'pronounce': "nEt'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '1',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': "' Net is a fabric which has large gaps between the "
+                     'fibres so that you can see through it.  It is used '
+                     'to make veils and curtains.  Another word for this '
+                     "is netting.  The bride's veil was white net with "
+                     "flowers sewn on it.  '"},
+            {'comment': ' ',
+             'definition': "'",
+             'example': ' ',
+             'id': '2',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': "a' A net is a bag with holes in it that is used to "
+                     'catch fish.  It can be either a small one on the end '
+                     'of a stick that you use in a river or stream, or a '
+                     'very large one that is thrown over the side of a '
+                     "ship at sea. b ' noun In tennis, volleyball and some "
+                     'other games, the net is the barrier in the centre of '
+                     "the court over which you have to hit the ball.  '"},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '3',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': "a' In business, a net profit or loss is the amount "
+                     'that is left after all the expenses have been paid.  '
+                     'Another spelling for this is nett.  The opposite of '
+                     "this is gross.  '"},
+            {'comment': ' ',
+             'definition': "'",
+             'example': ' ',
+             'id': 1,
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': "b' The net effect or result of something is the most "
+                     'important effect or result, without taking any '
+                     'notice of the details.  The net result of the '
+                     "meeting was that the project was cancelled.  c' "
+                     'adjective The net weight of something is its actual '
+                     'weight, not including the weight of the packaging.  '
+                     'Another spelling for this is nett. The opposite of '
+                     'this is gross.  The net weight of this can of '
+                     'tomatoes is 325 grams.'}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'netball',
+ 'note': ' ',
+ 'pronounce': "`nEtb@:l'",
+ 'ps': "noun '",
+ 'rest': 'Netball is a game in which two teams of seven players try to score '
+         'goals by throwing a large round ball through a ring on the top of '
+         'a pole.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'nettle',
+ 'note': ' ',
+ 'pronounce': "`nEtl'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': "'",
+             'example': ' ',
+             'id': '1',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': "' A nettle is a weed which has long spiky leaves "
+                     "which sting if you touch them.   2' verb If you "
+                     "nettle someone, you annoy and irritate them.  Don't "
+                     'let her nettle you[bj4]just ignore her.'}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'network',
+ 'note': ' ',
+ 'pronounce': "`nEtw@:k'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ["' A network is made up of a number of lines or "
+                         'routes that connect and form a system.  The '
+                         'connections give access to the various parts of '
+                         'the system.  [cf2]There is a network of tunnels '
+                         'under the city.'],
+             'id': '1',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ["' A network is a collection of people, groups "
+                         'or companies which are connected because of '
+                         'their work or common interests.  [cf2]He '
+                         'started a support network for AIDS sufferers.'],
+             'id': '2',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '3',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': "' A network is a group of radio or TV stations in "
+                     'different areas of a country which share programs '
+                     'for broadcasting.'}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ["We say someone is neurotic if we think they can't stop "
+             'thinking about something or if they worry too much.  '
+             "[cf2]Roula's quite neurotic about her weight."],
+ 'headword': 'neurotic',
+ 'note': ' ',
+ 'pronounce': "nju:`rOtIk'",
+ 'ps': "adjective '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'neuter',
+ 'note': ' ',
+ 'pronounce': "`nju:t@'",
+ 'ps': "adjective '",
+ 'rest': 'If something is neuter, it is neither masculine nor feminine.  In '
+         'German, all nouns are either masculine, feminine, or neuter.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'neutral',
+ 'note': ' ',
+ 'pronounce': "`nju:tr@l'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '1',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': "a' If a person or country remains neutral in a "
+                     'dispute or war, they do not support one side or the '
+                     "other.  Switzerland was neutral in World War II.  '"},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '3',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': "' If a car or vehicle is in neutral, its engine "
+                     'power is not being transmitted to the wheels.  The '
+                     'car has to be put into gear before it can be '
+                     "driven.  '"},
+            {'comment': ' ',
+             'definition': "'",
+             'example': ["' The neutral wire is one of the three wires in "
+                         'household electrical cords.  It is covered in '
+                         'blue rubber, or black in older cords. See also '
+                         'earth and live.'],
+             'id': '4',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ["Never means 'not at any time', or 'not in any "
+             "circumstances'.  It may refer to the past or to the future.  "
+             "[cf2]I've never eaten kangaroo meat."],
+ 'headword': 'never',
+ 'note': ' ',
+ 'pronounce': "`nEv@'",
+ 'ps': "adverb '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ["In formal language, nevertheless means 'even so' or 'all the "
+             "same'.  You use it at the beginning of a sentence to "
+             'emphasise a contrast to what you said before. [cf2]He was '
+             'sick on Wednesday.  Nevertheless, he still went to work.'],
+ 'headword': 'nevertheless',
+ 'note': ' ',
+ 'pronounce': "nEv@D@`lEs'",
+ 'ps': "adverb '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': 'adjective forms newer, newest',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'new',
+ 'note': ' ',
+ 'pronounce': "nju:'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ["' If something is new, it has only just come "
+                         "into existence.  [cf2]Most people can't afford "
+                         'to buy a new car, so they get a second-hand one.'],
+             'id': '1',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ["' If something is new, it is a change from what "
+                         "there has been before.  [cf2]This car's beyond "
+                         "repair[bj4] I'll have to get a new one."],
+             'id': '2',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': "'",
+             'example': ["' If you are new to a place or a situation, you "
+                         "haven't been in it for long.  [cf2]I remember "
+                         'when I was new to Australia, I was struck by '
+                         'the open spaces.'],
+             'id': '3',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'news',
+ 'note': ' ',
+ 'pronounce': "nju:z'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ["' News is information about something that has "
+                         'just happened.  [cf2]Have you heard the news?  '
+                         "Otto's won the lottery!"],
+             'id': '1',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': "'",
+             'example': ["' News is information in the newspapers and on "
+                         'the TV and radio about important events that '
+                         'have just happened around the world.  '
+                         "[cf2]There's never any news in the papers these "
+                         "days[bj4]it's all ads!"],
+             'id': '2',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'next',
+ 'note': ' ',
+ 'pronounce': "nEkst'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ["' The next time or occasion is the one "
+                         'immediately following.  [cf2]I arrived on the '
+                         '3rd, and left the next day.'],
+             'id': '1',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ["' The next place is the closest or nearest.  "
+                         '[cf2]Rasha is in the next room.'],
+             'id': '2',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ["' If something happens next, it happens "
+                         "immediately after some~ thing else.  [cf2]I'll "
+                         'do the washing first, and next the ironing.'],
+             'id': '3',
+             'note': ' ',
+             'ps': "adverb '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ["' next to'  If you're next to something, you're "
+                         "beside it.  [cf2]Siri's the one standing next "
+                         'to the window.'],
+             'id': '4',
+             'note': ' ',
+             'ps': "'",
+             'rest': ''}]}
+
+{'comment': 'plural form next of kin',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'next of kin',
+ 'note': ' ',
+ 'pronounce': "nEkst@v`kIn.'",
+ 'ps': "noun '",
+ 'rest': 'In formal language, especially in official documents, your closest '
+         'relative is referred to as your next of kin.  Police will not '
+         'release the names of the victims until next of kin have been '
+         'notified.  [cb8][mgdict_nib,-4][mgdict_nib,-1][ol0][cb0][qr',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['[ir(s76),(s75+6)]nib  The nib of a [cj3,6,9]fountain pen is '
+             'the part that you write with, where the ink comes out.  '
+             "[nb--nibble 'times,0'[cp8.5]"],
+ 'headword': '',
+ 'note': ' ',
+ 'pronounce': "nIb'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'nice',
+ 'note': ' ',
+ 'pronounce': "na:Is'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': "'",
+             'example': ["' If something is nice it is attractive, "
+                         "pleasant or agreeable.  [cf2]That's a nice "
+                         'dress[bj4]is it new?'],
+             'id': '1',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ["' A nice plan or idea is one that solves a "
+                         'problem, or is exactly what you need.  '
+                         '[cf2]Janice came up with a nice solution.'],
+             'id': '3',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '4',
+             'note': ' ',
+             'ps': "'",
+             'rest': "' nice to have met you'  People sometimes say nice "
+                     'to have met you when they are saying goodbye to '
+                     "someone they've just met for the first time.  '"},
+            {'comment': ' ',
+             'definition': "'",
+             'example': ["' nice to meet you'  People sometimes say nice "
+                         'to meet you as a greeting when they meet '
+                         'someone for the first time.'],
+             'id': '5',
+             'note': ' ',
+             'ps': "'",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'niche',
+ 'note': ' ',
+ 'pronounce': "ni:S'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '1',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': "' A niche is a hollow recess in a wall.  '"},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '2',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': "' A niche is a suitable or appropriate position for "
+                     "someone.  Gyorgi's really found his niche, working "
+                     'at the local library.'}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'nick',
+ 'note': ' ',
+ 'pronounce': "nIk'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': "'",
+             'example': ' ',
+             'id': '1',
+             'note': ' ',
+             'ps': "verb '",
+             'rest': "a' If you nick yourself, you cut yourself slightly.  "
+                     "He nicked himself with the razor. b' noun A nick is "
+                     "a small cut.  '"},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '2',
+             'note': ' ',
+             'ps': "verb '",
+             'rest': "' In informal language, if you say someone nicks "
+                     'something, you mean they steal it.  He nicked $5 out '
+                     "of my purse.  '"},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ["' in good nick'  In informal language, if you "
+                         'say that someone or something is  in good nick, '
+                         'you mean that they are very healthy or in good '
+                         "condition.  [cf2]I'm in pretty good nick for my "
+                         'age.'],
+             'id': '3',
+             'note': ' ',
+             'ps': "'",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '4',
+             'note': ' ',
+             'ps': "'",
+             'rest': "' in the nick of time'  In informal language, if you "
+                     'say something happens in the nick of time, you mean '
+                     'it happens at the last possible moment.  I managed '
+                     "to stop in the nick of time. '"},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '5',
+             'note': ' ',
+             'ps': "'",
+             'rest': "' nick off'  In informal language, if you  nick off, "
+                     'you leave without telling anyone. <He nicked off '
+                     "before I could catch him>.  '"},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '6',
+             'note': ' ',
+             'ps': ' ',
+             'rest': "' nick out'  'In informal language, if you nick "
+                     "out', you go somewhere for a short time. <She's just "
+                     'nicked out to the post office>.'}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'nickname',
+ 'note': ' ',
+ 'pronounce': "`nIknEIm'",
+ 'ps': ' ',
+ 'rest': 'A nickname is an affec~ tionate, informal name for someone, often '
+         'used by close friends or relatives.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'nicotine',
+ 'note': ' ',
+ 'pronounce': "nIk@`ti:n'",
+ 'ps': "noun '",
+ 'rest': 'Nicotine is an addictive substance found in tobacco.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ['Your niece is the daughter of your sister or brother, or the '
+             "daughter of your spouse's sister or brother."],
+ 'headword': 'niece',
+ 'note': ' ',
+ 'pronounce': "ni:s'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': 'adjective forms niftier, niftiest',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'nifty',
+ 'note': ' ',
+ 'pronounce': "`nIfti:'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ["' In informal language, if you say someone or "
+                         'something is nifty, you mean you think they are '
+                         'very smart or clever.  [cf2]You should watch '
+                         "him [cj3,6,9]work[bj4]he's very nifty at "
+                         'selling things.'],
+             'id': '1',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ["' You say something is nifty, in informal "
+                         'language, if you think it is stylish.  [cf2]She '
+                         'was wearing a nifty blue outfit.'],
+             'id': '2',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': "'",
+             'example': ["' Night is the period of darkness between "
+                         'sunset and sunrise.  [cf2]She stayed out all '
+                         'night.'],
+             'id': '1',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'nightclothes',
+ 'note': ' ',
+ 'pronounce': "`na:Itkl@UDz'",
+ 'ps': ' ',
+ 'rest': '<plural noun> Night~ clothes are clothes to wear in bed.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'nightdress',
+ 'note': ' ',
+ 'pronounce': "`na:ItdrEs'",
+ 'ps': ' ',
+ 'rest': "<noun> A nightdress' is a loose dress to wear in bed. An informal "
+         'word for this is <nightie>.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'nightshirt',
+ 'note': ' ',
+ 'pronounce': "`na:ItS@:t'",
+ 'ps': 'noun',
+ 'rest': "A nightshirt' is a long shirt to wear in bed.",
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'nightmare',
+ 'note': ' ',
+ 'pronounce': "`na:ItmE@'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ["' A nightmare is a frightening dream.  "
+                         "[cf2]I've been having terrible night~ mares "
+                         'lately.'],
+             'id': '1',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': "'",
+             'example': ["' If you say an experience or situation is a "
+                         'nightmare, you mean that it is very unpleasant '
+                         'or difficult.  [cf2]The trip home was a '
+                         'nightmare[bj4]the kids were sick and the car '
+                         'broke down!'],
+             'id': '2',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ['Nil is another word for nothing or zero.  [cf2]The final '
+             'score was two-nil in our favour.'],
+ 'headword': 'nil',
+ 'note': ' ',
+ 'pronounce': "nIl'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['If someone is nimble, they are light on their feet and able '
+             'to move quickly.  [cf2]The youngest and most nimble of the '
+             'acrobats climbed the human pyramid.'],
+ 'headword': 'nimble',
+ 'note': ' ',
+ 'pronounce': "`ni:mbl'",
+ 'ps': "adjective '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'nine',
+ 'note': ' ',
+ 'pronounce': "na:In'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '1',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': "' Nine is the number 9, eight plus one.  There were "
+                     'nine of us altogether[bj4]far too many to fit into '
+                     "the car.  '"},
+            {'comment': ' ',
+             'definition': "'",
+             'example': ["' If you have nine things, the number of things "
+                         'you have amounts to nine.  [cf2]There are only '
+                         "nine balloons in the box. Who's taken the other "
+                         'ones?'],
+             'id': '2',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'nineteen',
+ 'note': ' ',
+ 'pronounce': "na:In`ti:n'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '1',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': "' Nineteen is the number 19, ten plus nine.  "
+                     'Twenty-five started the race, but only nineteen '
+                     "finished.  '"},
+            {'comment': ' ',
+             'definition': "'",
+             'example': ["' If you have nineteen things, the number of "
+                         'things you have amounts to nineteen.  '
+                         '[cf2]There are nineteen people in our English '
+                         'class.'],
+             'id': '2',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'nineteenth',
+ 'note': ' ',
+ 'pronounce': "na:In`ti:nT'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '1',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': "' The nineteenth person or thing is the one that "
+                     'comes in order after the eighteenth.  Elsa came '
+                     "nineteenth in the marathon.  '"},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '2',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': "' A nineteenth is also one of nineteen parts.  We'll "
+                     'get a nineteenth each.'}]}
+
+{'comment': 'plural form nineties',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'ninety',
+ 'note': ' ',
+ 'pronounce': "`na:Inti:'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '1',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': "' Ninety is the number 90, ten lots of nine.  We can "
+                     "accommodate parties of up to ninety.  '"},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '2',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': "' If you have ninety things, the number of things "
+                     "you have amounts to ninety.  I've got ninety pages "
+                     "to read still[bj4]I want to finish it today.  '"},
+            {'comment': ' ',
+             'definition': "'",
+             'example': ["' nineties' The nineties in the twentieth "
+                         'century is the decade from 1990 to 1999, in the '
+                         'eighteenth century from 1880 to 1889 and so on.'],
+             'id': '3',
+             'note': ' ',
+             'ps': "'",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'ninth',
+ 'note': ' ',
+ 'pronounce': "na:InT'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '1',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': "' The ninth person or thing is the one that comes in "
+                     'order after the eighth. Pearson Street is the ninth '
+                     'street on your left after you turn onto the '
+                     "highway.  '"},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '2',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': "' A ninth is also one of nine parts.  I sliced the "
+                     'cake into rather uneven ninths.'}]}
+
+{'comment': 'verb forms nips, nipped, nipping',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'nip',
+ 'note': ' ',
+ 'pronounce': "nIp'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ["' In informal language, you say you nip over, "
+                         'across or down to somewhere if you are going '
+                         'there quickly and usually only for a short '
+                         "time. [cf2]I'll just nip down to the shops for "
+                         'some bread.'],
+             'id': '1',
+             'note': ' ',
+             'ps': "verb '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '2',
+             'note': ' ',
+             'ps': "verb '",
+             'rest': "' If an animal nips someone or something, it bites "
+                     "them lightly.  The dog nipped my leg playfully.  '"},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '3',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': "' A nip is also a small measure of alcohol.  Irish "
+                     "coffee is coffee with a nip of whisky in it.  '"},
+            {'comment': ' ',
+             'definition': "'",
+             'example': ["' nip in the air'  In informal language, if you "
+                         'say that there is a nip in the air, you mean '
+                         'that is quite cold.'],
+             'id': '4',
+             'note': ' ',
+             'ps': "'",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'nippers',
+ 'note': ' ',
+ 'pronounce': "`nI.p@z'",
+ 'ps': ' ',
+ 'rest': "<plural noun> Nippers' are junior lifesavers.",
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ["Nipples are the raised red or brown parts on a woman's "
+             "breasts or a man's chest.  Babies suck milk through their "
+             "mother's nipples."],
+ 'headword': 'nipple',
+ 'note': ' ',
+ 'pronounce': "`nIpl'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'nit',
+ 'note': ' ',
+ 'pronounce': "nIt'",
+ 'ps': "noun '",
+ 'rest': "A nit is the egg of a head louse, sometimes found in people's "
+         "hair.  There's an outbreak of nits in Tom's class, so we're all "
+         'using a special shampoo.',
+ 'senses': ' '}
+
+{'comment': 'plural form noes',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'no',
+ 'note': ' ',
+ 'pronounce': "n@U'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ["' No is a negative response or exclamation.  "
+                         'You use it to express denial or disagreement or '
+                         'refusal.  The opposite of this is yes.  '
+                         "[cf2]'Are you Mike?'  'No, I'm Steve.'"],
+             'id': '1',
+             'note': ' ',
+             'ps': "adverb '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ["' You use no before a noun or noun phrase to "
+                         "mean 'not any'.  [cf2]She has no living "
+                         'relatives.'],
+             'id': '2',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ["' A no is a negative vote, or a refusal.  "
+                         '[cf2]When the motion was put to the vote, the '
+                         'noes carried it.'],
+             'id': '3',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'no',
+ 'note': ' ',
+ 'pronounce': "`nV mb@'",
+ 'ps': "abbreviation '",
+ 'rest': '.    for number.  In reply, please quote Reference No. 3665.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'noble',
+ 'note': ' ',
+ 'pronounce': "`n@Ubl'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '1',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': "' People say you are noble if you act honestly and "
+                     'in the interests of others, even if it may not be to '
+                     'your own advantage. That was very noble of you, to '
+                     "give up your place like that.  '"},
+            {'comment': ' ',
+             'definition': "'",
+             'example': ' ',
+             'id': '2',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': "a' Something described as noble belongs, or looks as "
+                     'if it belongs, to the aristocracy (or nobility).  '
+                     "Apparently she's descended from one of the noble "
+                     "families of Europe.  '"},
+            {'comment': ' ',
+             'definition': "'",
+             'example': ["b' A noble is someone who belongs to a high "
+                         'rank in society, by having a hereditary title.'],
+             'id': 1,
+             'note': ' ',
+             'ps': "noun '",
+             'rest': ''}]}
+
+{'comment': 'plural form nobodies',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'nobody',
+ 'note': ' ',
+ 'pronounce': "`n@UbOdi:'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': "'",
+             'example': ["' Nobody means 'not a single person'. "
+                         '[cf2]Nobody likes losing their job.'],
+             'id': '1',
+             'note': ' ',
+             'ps': "pronoun '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'nocturnal',
+ 'note': ' ',
+ 'pronounce': "nOk`t@:n@l'",
+ 'ps': "adjective '",
+ 'rest': 'Animals that are nocturnal are usually active at night and sleep '
+         'during the day.',
+ 'senses': ' '}
+
+{'comment': 'verb forms nods, nodded, nodding',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'nod',
+ 'note': ' ',
+ 'pronounce': "nOd'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': "'",
+             'example': ["' nod off'  In infor~ mal language, if you say "
+                         'someone nods off you mean they fall asleep, '
+                         "especially if they're just dozing in the "
+                         'daytime.  [cf2]The meeting was so boring that I '
+                         'kept feeling myself nodding off.  [nb--nodule '
+                         "'times,0'[cp8.5]"],
+             'id': '2',
+             'note': ' ',
+             'ps': "'",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'noise',
+ 'note': ' ',
+ 'pronounce': "n@:Iz'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ["' A noise is a sound.  [cf2]I'm sure I heard a "
+                         'noise in the kitchen.'],
+             'id': '1',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': "'",
+             'example': ["' Noise is loud and unpleasant sound.  [cf2]The "
+                         'children were making a lot of noise.'],
+             'id': '2',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'nominate',
+ 'note': ' ',
+ 'pronounce': "`nOm@nEIt'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '1',
+             'note': ' ',
+             'ps': "verb '",
+             'rest': "' If you nominate someone for an elected position, "
+                     'you put their name forward as a candidate.  Each '
+                     'candidate must be nominated by a financial member.   '
+                     "'"},
+            {'comment': ' ',
+             'definition': "'",
+             'example': ["' If you nominate for an elected position, you "
+                         'put your own name forward as a candidate.  '
+                         "[cf2]I'll nominate for president next year, I "
+                         'think.'],
+             'id': '2',
+             'note': ' ',
+             'ps': "verb '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["'If someone is nonchalant, they are not worried or concerned "
+             "about what is happening.  [cf2]I don't know how you can be so "
+             'nonchalant about the interview.'],
+ 'headword': 'nonchalant',
+ 'note': ' ',
+ 'pronounce': "`nOnS@l@nt'",
+ 'ps': "adjective '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ['If you say something is nondescript, you mean it is ordinary '
+             'and uninteresting, without anything particularly notable '
+             'about it.  [cf2]They live in a nondescript house on one of '
+             'those new estates.'],
+ 'headword': 'nondescript',
+ 'note': ' ',
+ 'pronounce': "`nOnd@skrIpt'",
+ 'ps': "adjective '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ["None means 'not one' or 'not any'.  [cf2]None of the jumpers "
+             'fitted her.'],
+ 'headword': 'none',
+ 'note': ' ',
+ 'pronounce': "nV n'",
+ 'ps': "pronoun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': 'plural form nonentities',
+ 'definition': ' ',
+ 'example': ["If you call someone a nonentity, you think they're of no "
+             'interest or importance.  [cf2]In the office Tibor was always '
+             'a bit of a nonentity, but at the party he really blossomed.'],
+ 'headword': 'nonentity',
+ 'note': ' ',
+ 'pronounce': "nOn`Ent@ti:'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'nonetheless',
+ 'note': ' ',
+ 'pronounce': "nV nD@`lEs'",
+ 'ps': "adverb '",
+ 'rest': 'Nonetheless is another word for nevertheless.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'nonfiction',
+ 'note': ' ',
+ 'pronounce': "nOn`fIkS@n'",
+ 'ps': "noun '",
+ 'rest': 'Nonfiction is factual writing about real people and events, rather '
+         'than novels or stories.  I love reading nonfiction, especially '
+         'history and biography.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'nonflammable',
+ 'note': ' ',
+ 'pronounce': "nOn`flAm@bl'",
+ 'ps': "adjective '",
+ 'rest': 'If some~ thing is nonflammable, it does not catch fire easily.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'nonplussed',
+ 'note': ' ',
+ 'pronounce': "nOn`plV st'",
+ 'ps': "adjective '",
+ 'rest': 'If you are nonplussed at something, you feel puzzled or confused '
+         "and you aren't sure what to do about it. He looked rather "
+         'nonplussed at this answer.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ['If you say someone is talking nonsense, you think that what '
+             'they are saying has no meaning, or it is completely wrong or '
+             'very stupid or irrelevant.  [cf2]He became delirious and '
+             'started mumbling nonsense.'],
+ 'headword': 'nonsense',
+ 'note': ' ',
+ 'pronounce': "`nOns@ns'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'noodle',
+ 'note': ' ',
+ 'pronounce': "`nu:d@l'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '1',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': "' Noodles are a type of pasta, cut into long thin "
+                     "strips.  '"},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ["' In informal English, your noodle is your head "
+                         "or brain.  [cf2]That's a nasty bump on the "
+                         'noodle[bj4]how did you get it?'],
+             'id': '2',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ["Noon is midday, 12 o'clock in the daytime.  [cf2]We'll try "
+             'and finish the meeting by noon.'],
+ 'headword': 'noon',
+ 'note': ' ',
+ 'pronounce': "nu:n'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ["No-one means 'not a single person'."],
+ 'headword': 'no',
+ 'note': ' ',
+ 'pronounce': "`n@UwV n'",
+ 'ps': "pronoun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'noose',
+ 'note': ' ',
+ 'pronounce': "nu:s'",
+ 'ps': "noun '",
+ 'rest': 'A noose is a rope with a loop in it that is secured by a sliding '
+         'knot, so that the loop tightens when you pull the rope.  Her body '
+         'was discovered in the attic, hanging in a noose.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'nor',
+ 'note': ' ',
+ 'pronounce': "n@:'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '1',
+             'note': ' ',
+             'ps': "conjunction '",
+             'rest': "' Nor is used after neither to mention something "
+                     'else that is also negative. Neither Tomoko nor Aisha '
+                     "came to the party.  '"},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ["' Nor is used after a negative statement "
+                         '[cj3,6,9]to introduce another negative.  [cf2]I '
+                         "don't want to go, nor does Meike."],
+             'id': '2',
+             'note': ' ',
+             'ps': "conjunction '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': "'",
+             'example': ["'If something is normal, it is usual or "
+                         'ordinary.  [cf2]I decided not to follow my '
+                         'normal routine, but to go to the park.'],
+             'id': 1,
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'north',
+ 'note': ' ',
+ 'pronounce': "n@:T'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '1',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': "' If you are facing east, the direction where the "
+                     'sun rises, the north is the direction on your left.  '
+                     "The wind was blowing from the north.  '"},
+            {'comment': ' ',
+             'definition': "'",
+             'example': ["' The north of a country or region is the part "
+                         'which is most towards the north. [cf2]He lives '
+                         'in the north of Australia, near Darwin.'],
+             'id': '2',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'northward',
+ 'note': ' ',
+ 'pronounce': "`n@:T.w@d'",
+ 'ps': "adverb '",
+ 'rest': "Northward means 'toward the north'.  We headed northward for the "
+         'next two hours.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'nose',
+ 'note': ' ',
+ 'pronounce': "n@Uz'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '1',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': "a' The nose is the part of your body that you use to "
+                     'smell things.  See the picture at body.  Breathe in '
+                     "through your nose and out through your mouth.  '"},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '5',
+             'note': ' ',
+             'ps': "'",
+             'rest': "' poke your nose into'  In informal language, if you "
+                     'say someone pokes their nose into something, you '
+                     "mean they get involved in something that doesn't "
+                     "have anything to do with them.  He's always poking "
+                     "his nose into other people's business.  '"},
+            {'comment': ' ',
+             'definition': "'",
+             'example': ["' turn up your nose'  In informal language, you "
+                         'say you turn up your nose at something if you '
+                         "reject it because you think it's not good "
+                         'enough for you.  [cf2]She turned up her nose at '
+                         'the suggestion of borrowing my dress.'],
+             'id': '6',
+             'note': ' ',
+             'ps': "'",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['Nostalgia is an affectionate feeling for the past.  [cf2]I '
+             'look back on my childhood with nostalgia.'],
+ 'headword': 'nostalgia',
+ 'note': ' ',
+ 'pronounce': "nOs`tAldZ@'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ['Your nostrils are the two holes in your nose that you breathe '
+             'through.'],
+ 'headword': 'nostril',
+ 'note': ' ',
+ 'pronounce': "`nOstr@l'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'not',
+ 'note': ' ',
+ 'pronounce': "nOt'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': "'",
+             'example': ["' You use not in a sentence to show a negative "
+                         "or an opposite.  [cf2]I'm not happy."],
+             'id': '1',
+             'note': ' ',
+             'ps': "adverb '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['If something is notable, it is important or impressive.  '
+             '[cf2]Governor Macquarie is one of the most notable figures in '
+             'early Australian history.'],
+ 'headword': 'notable',
+ 'note': ' ',
+ 'pronounce': "`n@Ut@bl'",
+ 'ps': "adjective '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'notch',
+ 'note': ' ',
+ 'pronounce': "nOtS'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ["' A notch is a small sharp cut in something, "
+                         'especially on its edge.  [cf2]He carved a notch '
+                         'in the twig and wound the string round it.'],
+             'id': '1',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ["' In informal language, a notch is a level or "
+                         'step on a scale.  [cf2]I was quite '
+                         'impressed[bj4]she went up a notch or two in my '
+                         'estimation.'],
+             'id': '2',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'note',
+ 'note': ' ',
+ 'pronounce': "n@Ut'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ["' A note is a short informal letter you write "
+                         "to someone.  [cf2]I've written her a note about "
+                         'the meeting next week.'],
+             'id': '1',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ["a' A note is a written reminder of something. "
+                         '[cf2]Have you made a note of the dates for the '
+                         'school play?'],
+             'id': '2',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ["' In music, a note is an individual sound, or "
+                         'the symbol used to represent it in writing.  '
+                         '[cf2]The last notes slowly died away.'],
+             'id': '5',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': "'",
+             'example': ["' of note'  Someone or something of note is "
+                         "famous or is worth remem~ bering.  [cf2]She's a "
+                         'woman of some note in our community.'],
+             'id': '6',
+             'note': ' ',
+             'ps': "'",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'nothing',
+ 'note': ' ',
+ 'pronounce': "`nV TIN'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': "'",
+             'example': ["' You use nothing to refer to a complete "
+                         "absence.  [cf2]There's nothing in the box."],
+             'id': '1',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ["' If you say that an event or an achievement is "
+                         'nothing, you mean that it is not very important '
+                         "or significant.  [cf2]'Thanks for the lift.'  "
+                         "'Oh, it's nothing, I was coming this way "
+                         "anyway.'"],
+             'id': '3',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ["' for nothing'  If you do something for "
+                         'nothing, you do it free of charge.  [cf2]He '
+                         'fixed my bike for nothing, so I owe him a '
+                         'favour.'],
+             'id': '4',
+             'note': ' ',
+             'ps': "'",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'notice',
+ 'note': ' ',
+ 'pronounce': "`n@Ut@s'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ["' If you notice someone or something, you "
+                         'become aware of them.  [cf2]I noticed her at '
+                         'the back of the room.'],
+             'id': '1',
+             'note': ' ',
+             'ps': "verb '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '2',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': "a' A notice is written information about something, "
+                     'which is placed in a public spot for people to see.  '
+                     'Did you see the notice about the garage sale on the '
+                     "telegraph pole?  '"},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ["' Notice is also the amount of time between "
+                         'when you resign from a job or are dismissed and '
+                         'when you actually leave.  [cf2]I have to give a '
+                         "week's notice."],
+             'id': '3',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': "'",
+             'example': ["' take notice '  If you take notice of someone "
+                         'or something, you pay attention to them and act '
+                         "accordingly.  [cf2]Don't take any notice of "
+                         "Harold[bj4]he's always so negative."],
+             'id': '4',
+             'note': ' ',
+             'ps': "'",
+             'rest': ''}]}
+
+{'comment': 'verb forms notifies, notified, notifying',
+ 'definition': "'",
+ 'example': ['If someone notifies you of something, they inform you about '
+             'it, usually in a formal or official way.  [cf2]You will be '
+             'notified of the date of the hearing within 14 days.'],
+ 'headword': 'notify',
+ 'note': ' ',
+ 'pronounce': "`n@Ut@fa:I'",
+ 'ps': "verb '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['A notion is an idea that you have about something, especially '
+             'one that is vague or inaccurate.  [cf2]He has the silly '
+             "notion that Brisbane is only four hours' drive from Sydney."],
+ 'headword': 'notion',
+ 'note': ' ',
+ 'pronounce': "`n@US@n'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['If someone is notorious, they are famous or well known for '
+             'something bad.  [cf2]...the notorious Ned Kelly.'],
+ 'headword': 'notorious',
+ 'note': ' ',
+ 'pronounce': "n@`t@:ri:@s'",
+ 'ps': "adjective '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'nought',
+ 'note': ' ',
+ 'pronounce': "n@:t'",
+ 'ps': "noun '",
+ 'rest': 'Nought is the number 0, which represents zero.  One million is '
+         'written as one followed by six noughts.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ' ',
+ 'headword': 'noun',
+ 'note': ' ',
+ 'pronounce': "na:Un'",
+ 'ps': "noun '",
+ 'rest': 'Nouns are members of a class of words that includes the names of '
+         "people and things.  Mary, 'Melbourne, 'mountain and 'modesty are "
+         'nouns in English.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["'If you nourish something, you feed it so that it can survive "
+             'and grow.  [cf2]It is important to nourish the plants with '
+             'fertiliser.'],
+ 'headword': 'nourish',
+ 'note': ' ',
+ 'pronounce': "`nV rIS'",
+ 'ps': "verb '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'Nov',
+ 'note': ' ',
+ 'pronounce': "n@`vEmb@'",
+ 'ps': "abbreviation '",
+ 'rest': '.    for November.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'novel',
+ 'note': ' ',
+ 'pronounce': "`nOv@l'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '1',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': "' A novel is a long story in book form.  He writes "
+                     "novels and short stories for children.  '"},
+            {'comment': ' ',
+             'definition': "'",
+             'example': ["' If something is novel, it is new and "
+                         'different, and rather surprising.  [cf2]He came '
+                         'up with a novel analysis of the data.'],
+             'id': '2',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': ''}]}
+
+{'comment': 'plural form novelties',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'novelty',
+ 'note': ' ',
+ 'pronounce': "`nOv@lti:'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ["' Novelty is the quality of being new and "
+                         "different. [cf2]I'm still enjoying the novelty "
+                         'of my new job.'],
+             'id': '1',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ["' A novelty is something that is unusual or "
+                         'different.  [cf2]A white Christmas is a novelty '
+                         "if you're Australian."],
+             'id': '2',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '3',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': "' Novelties are small cheap gifts that you hand out, "
+                     'especially to children at parties.'}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'November',
+ 'note': ' ',
+ 'pronounce': "n@`vEmb@'",
+ 'ps': "noun '",
+ 'rest': 'November is the eleventh month of the year.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'now',
+ 'note': ' ',
+ 'pronounce': "na:U'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ["' Now means 'at this moment' or 'at present'.  "
+                         "[cf2]I'm leaving now."],
+             'id': '1',
+             'note': ' ',
+             'ps': "adverb '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ["' now that'  Now that is used to indicate that "
+                         'something happens because a certain stage has '
+                         "been reached.  [cf2]Now that Sue's arrived, we "
+                         'can begin.'],
+             'id': '2',
+             'note': ' ',
+             'ps': "'",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'noxious',
+ 'note': ' ',
+ 'pronounce': "`nOkS@s'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '1',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': "' A noxious substance is poisonous.  Clouds of "
+                     "noxious gas poured out of the ruptured container.  '"},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ["' If something is noxious, it is harmful or "
+                         'unpleasant.  [cf2]Our council has declared this '
+                         "a noxious weed[bj4]we're supposed to get rid of "
+                         'it.'],
+             'id': '2',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['[ir(s76),(s75+6)][cj6,9,14]nozzle    A nozzle is a plastic or '
+             'metal piece fitted to the end of a hose to control the flow '
+             'of water or other liquid that comes through.  [nb--NSW '
+             "'times,0'[cp8.5]"],
+ 'headword': '',
+ 'note': ' ',
+ 'pronounce': "`nOzl'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ' ',
+ 'headword': 'NT',
+ 'note': ' ',
+ 'pronounce': ";n@:D@n `tEr@tri:'",
+ 'ps': "abbreviation '",
+ 'rest': 'for Northern Territory.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'nuclear',
+ 'note': ' ',
+ 'pronounce': "`nju:kli:@'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': "'",
+             'example': ' ',
+             'id': '1',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': "' Nuclear weapons, such as atomic bombs, produce "
+                     'explosions created by processes involving the '
+                     "nucleus of the atom.   2' adjective Nuclear power is "
+                     'created by processes involving the nucleus of the '
+                     'atom.'}]}
+
+{'comment': 'plural form nuclei',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'nucleus',
+ 'note': ' ',
+ 'pronounce': "`nju:kli:@s'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '1',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': "' The nucleus is the central part of an atom.    '"},
+            {'comment': ' ',
+             'definition': "'",
+             'example': ["' The nucleus of something is the central and "
+                         'most important part of it.  [cf2]The nucleus of '
+                         "her idea is good but some of the details aren't "
+                         'right.'],
+             'id': '2',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'nude',
+ 'note': ' ',
+ 'pronounce': "nju:d'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': "'",
+             'example': ["' If someone is nude, they are not wearing any "
+                         'clothes.  [cf2]I like to sleep nude in summer.'],
+             'id': '1',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['If you nudge someone, you give them a gentle poke or push, '
+             'usually with your elbow.  [cf2]The girls nudged each other '
+             'when the teacher came into the room.'],
+ 'headword': 'nudge',
+ 'note': ' ',
+ 'pronounce': "nV dZ'",
+ 'ps': "verb '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'nugget',
+ 'note': ' ',
+ 'pronounce': "`nV g@t'",
+ 'ps': "noun '",
+ 'rest': 'A nugget is a solid, generally small, lump of something.  Digging '
+         'near the old mine we found a nugget of gold.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ['A nuisance is someone or something that is irritating or '
+             'annoying.  [cf2]My little sister can be a real nuisance.'],
+ 'headword': 'nuisance',
+ 'note': ' ',
+ 'pronounce': "`nju:s@ns'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'numb',
+ 'note': ' ',
+ 'pronounce': "nV m'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ["' If a part of your body is numb, it has no "
+                         'feeling in it.  [cf2]After the dentist gave me '
+                         'an injection, my mouth was numb for a couple of '
+                         'hours.'],
+             'id': '1',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': "'",
+             'example': ["' If you feel numb with a certain emotion, such "
+                         'as grief or fear, you are unable to speak or '
+                         'act because of this emotion.  [cf2]She stood '
+                         'fixed to the spot, numb with fear.'],
+             'id': '2',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'number',
+ 'note': ' ',
+ 'pronounce': "`nV m@'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '1',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': "' Numbers show how many things you are talking "
+                     "about.  They are represented by words such as 'one', "
+                     "'twenty' and 'thousand', and by symbols such as '2', "
+                     "'345' and '1 000 000'.  '"},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ["' A number is a figure or a series of figures "
+                         "which identifies a place or a thing. [cf2]I'm "
+                         'staying in room number 206.'],
+             'id': '2',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ["' The number of something is its sum or total.  "
+                         '[cf2]The final number of deaths is likely to '
+                         'exceed 1000.'],
+             'id': '3',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': "'",
+             'example': ["' A number of things or people means a "
+                         'collection of them, or several.  [cf2]I packed '
+                         'three books and a number of magazines.'],
+             'id': '4',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'numberplate',
+ 'note': ' ',
+ 'pronounce': "`nV mb@plEIt'",
+ 'ps': "noun '",
+ 'rest': 'A numberplate is a metal plate attached to the front and back of '
+         'your car, truck, motorbike or other vehicle, which displays its '
+         "registration number.  You'd better wash that mud off the "
+         "numberplate.  It's an offence to have the numbers covered.",
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'numeral',
+ 'note': ' ',
+ 'pronounce': "`nju:m@r@l'",
+ 'ps': "noun '",
+ 'rest': 'A numeral is a symbol which represents a number, for example 1, 2, '
+         '3, 4, 5, 6, 7, 8, 9 and 0.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ['The numerator of a fraction is the number that shows how many '
+             'of the equally divided parts of the whole you are referring '
+             'to.  For example, in the fraction 78, the numerator is 7.'],
+ 'headword': 'numerator',
+ 'note': ' ',
+ 'pronounce': "`nju:m@rEIt@'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ['If things are numerous, there are many of them.  [cf2]The '
+             'document has been through numerous drafts.'],
+ 'headword': 'numerous',
+ 'note': ' ',
+ 'pronounce': "`nju:m@r@s'",
+ 'ps': "adjective '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'nun',
+ 'note': ' ',
+ 'pronounce': "nV n'",
+ 'ps': "noun '",
+ 'rest': 'A nun is a woman who belongs to a religious order or group.  Nuns '
+         'generally live together in convents.',
+ 'senses': ' '}
+
+{'comment': 'plural form nurseries',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'nurse',
+ 'note': ' ',
+ 'pronounce': "n@:s'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ["a' If you nurse a baby, you hold it in your "
+                         'arms and look after it.  [cf2]He nursed the '
+                         'baby to sleep.'],
+             'id': '2',
+             'note': ' ',
+             'ps': "verb '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': "'",
+             'example': ' ',
+             'id': '1',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': "' A nursery is a place where young children are "
+                     'looked after.  It may be a centre where mothers '
+                     'leave their children while they are shopping or at '
+                     'work.  It may be the ward in a hospital where new '
+                     "babies sleep.  It may be the baby's room at "
+                     "home.[fj  2' noun A nursery is a place where young "
+                     'plants and trees are grown and sold.'}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'nut',
+ 'note': ' ',
+ 'pronounce': "nV t'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '1',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': "' A nut is the fruit which grows inside a hard shell "
+                     "on certain trees.  We can eat many types of nuts.  '"},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '2',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': "' A nut is a small piece of metal with a hole in it "
+                     'which is screwed onto[fj '
+                     '[fp[gc[cb9][mgdict_nut,-4][mgdict_nut,-1][ol0][cb0][qr '
+                     '[ol0][ir(s76),(s75+6)]  [hmp5.5]the end of a bolt in '
+                     "order to hold it in place.  '"},
+            {'comment': ' ',
+             'definition': "'",
+             'example': ["' In informal language, if you call someone a "
+                         'nut, you mean that they are foolish or mad.  '
+                         "[cf2]Deryl's a bit of a nut, but he's a good "
+                         'mate.'],
+             'id': '3',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'nutrition',
+ 'note': ' ',
+ 'pronounce': "nju:`trIS@n'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ["' Nutrition is the way you get nourishment for "
+                         'your body from the different types of food that '
+                         'you eat.  [cf2]Good nutrition means good health.'],
+             'id': '1',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': "'",
+             'example': ["' The nutrition in food is all the proteins, "
+                         'vitamins and minerals in it.  [cf2]His sole '
+                         'source of nutrition at the moment is Vegemite '
+                         'sandwiches!'],
+             'id': '2',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': ''}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'nutritionist',
+ 'note': ' ',
+ 'pronounce': "nju:`trIS@ni:st'",
+ 'ps': "noun '",
+ 'rest': 'A nutritionist is someone who helps people to plan their diets so '
+         'that they eat healthily.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ' ',
+ 'headword': 'NW',
+ 'note': ' ',
+ 'pronounce': "n@:T`wEst'",
+ 'ps': "abbreviation '",
+ 'rest': 'for north-west.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'nylon',
+ 'note': ' ',
+ 'pronounce': "`na:IlOn'",
+ 'ps': "noun '",
+ 'rest': 'Nylon is a strong artificial fibre.  It is used to make things '
+         'such as fabric, rope and the bristles of brushes.  [fa[xp',
+ 'senses': ' '}
+

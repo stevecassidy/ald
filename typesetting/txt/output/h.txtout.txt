@@ -1,0 +1,4715 @@
+{'comment': "plural forms [chHs, H's, h's",
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'H, h',
+ 'note': ' ',
+ 'pronounce': "EItS'",
+ 'ps': "noun '",
+ 'rest': '[chH or [chh is the eighth letter of the English alphabet.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ['A [chhabit is something that you have got used to doing.  You '
+             "do it regularly. [cf2]I'm in the habit of going for an "
+             'evening stroll.'],
+ 'headword': 'habit',
+ 'note': ' ',
+ 'pronounce': "`hAb@t'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'habitat',
+ 'note': ' ',
+ 'pronounce': '"`hAb@tAt\'',
+ 'ps': "noun '",
+ 'rest': 'The [chhabitat is the environment or conditions where plants and '
+         'animals live.  Australian native plants are well adapted to a hot, '
+         'dry habitat.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["[ch1' If you [chhack at something, you chop or slash it "
+             'roughly and with force.  [cf2]He hacked at the clump of grass '
+             'with the blade.'],
+ 'headword': 'hack',
+ 'note': ' ',
+ 'pronounce': "hAk'",
+ 'ps': "verb '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'hacksaw',
+ 'note': ' ',
+ 'pronounce': '"`hAks@:\'',
+ 'ps': "noun '",
+ 'rest': "A [chhacksaw is a saw that's used especially for cutting metal.",
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'had',
+ 'note': ' ',
+ 'pronounce': "hAd'",
+ 'ps': "verb '",
+ 'rest': '[chHad is the past tense and past participle of [chhave.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'hadn',
+ 'note': ' ',
+ 'pronounce': "`hAd.nt'",
+ 'ps': "verb '",
+ 'rest': "[chHadn't is the informal form of 'had not'.",
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ['[chHaemoglobin is the substance that gives blood its red '
+             'colour and carries oxygen from the lungs to other tissue.'],
+ 'headword': 'haemoglobin',
+ 'note': ' ',
+ 'pronounce': 'hi:m@"`gl@Ub@n\'',
+ 'ps': "noun[iw0] '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['[chIf you have [chhaemophilia, your blood does not clot '
+             'normally. It is a disease which can be passed down from '
+             'parent to child.'],
+ 'headword': 'haemophilia',
+ 'note': ' ',
+ 'pronounce': 'hi:m@"`fIli:@\'',
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["A [chhaemorrhage is heavy bleeding inside a person's body."],
+ 'headword': 'haemorrhage',
+ 'note': ' ',
+ 'pronounce': "`hEm@rIdZ'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ['If you have [chhaemorrhoids, the veins around your anus are '
+             'swollen and painful.'],
+ 'headword': 'haemorrhoid',
+ 'note': ' ',
+ 'pronounce': "`hEm@r@:i:d'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ['If you are [chhaggard, you look exhausted and sick.  [cf2]I '
+             'was shocked by how haggard she looked.'],
+ 'headword': 'haggard',
+ 'note': ' ',
+ 'pronounce': "`hAg@d'",
+ 'ps': "adjective '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'haggle',
+ 'note': ' ',
+ 'pronounce': "`hAg@l'",
+ 'ps': "verb '",
+ 'rest': 'If you [chhaggle, you argue about the price of what you are '
+         'buying.  Jason tried hard to get the shopkeeper to lower the price '
+         'of the carving[j4]they haggled over it for a long time.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["[ch1' [chHail is small round pieces of ice, called "
+             'hailstones, that sometimes fall from the clouds.  [cf2]It was '
+             'a violent storm[j4]the hail did a lot of damage to the '
+             "garden.  [ch2' '[cf2]verb If you [chhail a taxi in the "
+             'street, you raise your arm so that the driver will stop for '
+             "you.  [cf2]There's one with its light on[j4] step out and "
+             'hail it.'],
+ 'headword': 'hail',
+ 'note': ' ',
+ 'pronounce': "hEIl'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["[ch1a' [chHair is the thin threads that grow from the skin on "
+             'the top of your head and other parts of your body.  [cf2]I '
+             'need to have my hair cut.'],
+ 'headword': 'hair',
+ 'note': ' ',
+ 'pronounce': "hE@'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ' ',
+ 'headword': 'haircut',
+ 'note': ' ',
+ 'pronounce': "`hE@kV t'",
+ 'ps': "noun '",
+ 'rest': "[ch1' If you have a [chhaircut, someone such as a barber or "
+         "hairdresser cuts your hair.  I'm about due for a haircut.  [ch2 ' "
+         'noun A [chhaircut is also the way in which your hair is cut.  Most '
+         'of the girls have short haircuts.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'hairdo',
+ 'note': ' ',
+ 'pronounce': "`hE@du:'",
+ 'ps': "noun '",
+ 'rest': "[chHairdo is a rather informal word for the way in which someone's "
+         'hair is cut and styled.  I like your new hairdo.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['A [chhairdresser is a person who is trained to cut and style '
+             "people's hair."],
+ 'headword': 'hairdresser',
+ 'note': ' ',
+ 'pronounce': "`hE@drEs@'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'hair',
+ 'note': ' ',
+ 'pronounce': "`hE@rEIzIN'",
+ 'ps': "adjective '",
+ 'rest': 'If something is [chhair-raising, it is frightening or dangerous.  '
+         'The bus journey across the mountains was a hair-raising experience.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'hairstyle',
+ 'note': ' ',
+ 'pronounce': "`hE@sta:Il'",
+ 'ps': "noun '",
+ 'rest': "Your [chhairstyle is the way you wear your hair.  Cynthia's new "
+         'hairstyle suits her much better than the plaits.',
+ 'senses': ' '}
+
+{'comment': 'plural form [chhalves',
+ 'definition': "'",
+ 'example': ["[ch1' A [chhalf is one of the two equal parts into which "
+             'something can be divided.  [cf2]She cut the apple in half.'],
+ 'headword': 'half',
+ 'note': ' ',
+ 'pronounce': "ha:f'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ["'times,0'[cp8.5]"],
+ 'headword': 'half',
+ 'note': ' ',
+ 'pronounce': ' ',
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["'times,0'[cp8.5]"],
+ 'headword': 'half',
+ 'note': ' ',
+ 'pronounce': ' ',
+ 'ps': "adjective '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ["'times,0'[cp8.5]"],
+ 'headword': 'half',
+ 'note': ' ',
+ 'pronounce': ' ',
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['If something is described as [chhalfway, it is equally '
+             'distant from each of two points.  [cf2]The travellers had '
+             'reached the halfway point of their journey.'],
+ 'headword': 'halfway',
+ 'note': ' ',
+ 'pronounce': "`ha:f.wEI'",
+ 'ps': "adjective '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["[ch1' A [chhall is a passage in a building from which you can "
+             'get to other rooms.  You can also use [chhallway or '
+             '[chcorridor.  [cf2]The room you want is the second door on '
+             "the left up the hall.  [ch2' noun A [chhall is a large public "
+             'building or room which can be used by the community.  '
+             '[cf2]The school concert was held at the local hall.'],
+ 'headword': 'hall',
+ 'note': ' ',
+ 'pronounce': "h@:l'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['A [chhallmark is an official mark stamped on gold and silver '
+             'objects to guarantee their purity.'],
+ 'headword': 'hallmark',
+ 'note': ' ',
+ 'pronounce': "`h@:lma:k'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['If you [chhallucinate, you see and vividly experience things '
+             'that are not really there.  [cf2]Jeff was so tired that he '
+             'was beginning to hallucinate.'],
+ 'headword': 'hallucinate',
+ 'note': ' ',
+ 'pronounce': "h@`lu:s@nEIt'",
+ 'ps': "verb '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ['A [chhallway is a long, narrow area in a building along which '
+             'you walk to get from one room to another.'],
+ 'headword': 'hallway',
+ 'note': ' ',
+ 'pronounce': "`h@:lwEI'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': 'plural forms [chhalos or[ch haloes',
+ 'definition': "'",
+ 'example': ' ',
+ 'headword': 'halo',
+ 'note': ' ',
+ 'pronounce': "`hEIl@U'",
+ 'ps': "noun '",
+ 'rest': "[ch1' A [chhalo is a circle of light that is drawn around the head "
+         "of a holy person in religious pictures.  [ch2' noun A [chhalo is "
+         'also a circle of light that can be seen around the sun and moon at '
+         'certain times.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["[ch1' When you [chhalt, you stop moving forward.  [cf2]I "
+             'halted halfway up the hill to let the rest of the group catch '
+             'up.'],
+ 'headword': 'halt',
+ 'note': ' ',
+ 'pronounce': "h@:lt, hOlt'",
+ 'ps': "verb '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["[ch1' If you [chhalve something, you divide it into two equal "
+             "parts.  [cf2]She halved the pie between us.  [ch2' verb If "
+             'you [chhalve something, you reduce it by 50%.  [cf2]Low '
+             "rainfall early in the season has halved this year's wheat "
+             'crop.'],
+ 'headword': 'halve',
+ 'note': ' ',
+ 'pronounce': "ha:v'",
+ 'ps': "verb '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['[chHam is salted or smoked meat that comes from the upper '
+             "part of a pig's leg.  [cf2]I had two slices of ham and some "
+             'salad.'],
+ 'headword': 'ham',
+ 'note': ' ',
+ 'pronounce': "hAm'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'hamburger',
+ 'note': ' ',
+ 'pronounce': "`hAmb@:g@'",
+ 'ps': "noun '",
+ 'rest': 'A [chhamburger is a bread roll filled with a flat fried cake of '
+         'minced beef and usually onions and ketchup as well.  Often you buy '
+         'hamburgers as a takeaway meal.  '
+         '[cb8][mgdict_hammer,-4][mgdict_hammer,-1][ol0][cb0][qr',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["[ir(s76),(s75+6)]hammer   [ch1' A [chhammer is a tool used to "
+             'drive in nails.  It has a heavy metal head and a handle.  [ch '
+             "2' noun The [chhammer on a gun is the part which fires the "
+             'bullet when you pull the trigger.'],
+ 'headword': '',
+ 'note': ' ',
+ 'pronounce': "`hAm@'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'hammock',
+ 'note': ' ',
+ 'pronounce': "`hAm@k'",
+ 'ps': "noun '",
+ 'rest': 'A [chhammock is a length of net or strong cloth which is tied to '
+         'supports at both ends so that you can sleep in it.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["[ch1' A [chhamper is a large basket or box with a lid that is "
+             'used for carrying or sending food.  [cf2]The charity workers '
+             'were busy packing food hampers to distribute.'],
+ 'headword': 'hamper',
+ 'note': ' ',
+ 'pronounce': "`hAmp@'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'hamstring',
+ 'note': ' ',
+ 'pronounce': "`hAmstrIN'",
+ 'ps': "noun '",
+ 'rest': 'Your [chhamstring is a tendon at the back of your knee.  She '
+         'pulled a hamstring in the sprint final and came last.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["[ch1' Your [chhand is the part at the end of your arm below "
+             'the wrist, including your fingers.  [cf2]Hold it with both '
+             'hands.'],
+ 'headword': 'hand',
+ 'note': ' ',
+ 'pronounce': "hAnd'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'handbag',
+ 'note': ' ',
+ 'pronounce': "`hAndbAg'",
+ 'ps': "noun '",
+ 'rest': 'A [chhandbag is a small bag which a woman carries around with her, '
+         'containing things such as money, keys, pens and cosmetics.  Katie '
+         'bought a leather handbag to go with her smart new outfit.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['[chHandcuffs are two metal rings connected by a short piece '
+             "of chain. Police lock them around someone's wrists to prevent "
+             'them from using their hands freely.'],
+ 'headword': 'handcuffs',
+ 'note': ' ',
+ 'pronounce': "`hAndkV fs'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["[ch1' A [chhandful of something is the amount that you can "
+             'grip with one hand. [cf2]The boys threw handfuls of sand at '
+             'each other.'],
+ 'headword': 'handful',
+ 'note': ' ',
+ 'pronounce': "`hAndfUl'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["[ch1a' A [chhandicap is a physical or mental condition that "
+             'makes it difficult for someone to carry out some of the '
+             'activities of everyday life.  Note that many people with such '
+             'a condition prefer to call it a [chdisability.  [cf2]Niko was '
+             "born with multiple handicaps.  [chb' noun A [chhandicap is "
+             'something that makes it more difficult for you to achieve '
+             'something.  [cf2]Not being able to speak Japanese is a big '
+             "handicap if you want to do business in Japan.  [ch2' "
+             "'[cf2]noun A [chhandicap is an advantage or disadvantage "
+             'given to some competitors in a race or match, so that '
+             'everyone has a more equal chance to win.  [cf2]The favourite '
+             'in the Melbourne Cup will be carrying a 7 kg handicap.'],
+ 'headword': 'handicap',
+ 'note': ' ',
+ 'pronounce': "`hAndIkAp'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ' ',
+ 'headword': 'handicraft',
+ 'note': ' ',
+ 'pronounce': "`hAndi:kra:ft'",
+ 'ps': "noun '",
+ 'rest': "[ch1' A [chhandicraft is a skill, such as pottery, weaving, "
+         'embroidery or sewing, which involves using your hands to make '
+         "things.  Why don't you learn a handicraft in your spare time?  "
+         "[ch2' noun A [chhandicraft is also something that you make using "
+         'such a skill.  The children were eager to display their '
+         'handicrafts at the school exhibition.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ['(<plural form> handkerchieves) A [chhandkerchief is a small, '
+             'square piece of cloth or tissue that you carry with you.  You '
+             'can use it to blow your nose or wipe your face or eyes.  '
+             '[cf2]He wore a silk handkerchief in his breast pocket.'],
+ 'headword': 'handkerchief',
+ 'note': ' ',
+ 'pronounce': "`hANk@tS@f'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["[oi0,(s75+6)]  [ch1' A [chhandle is the part of an object "
+             'that you put your hand on in order to use, open or carry it.  '
+             '[cf2]Turn this handle to the right.'],
+ 'headword': 'handle',
+ 'note': ' ',
+ 'pronounce': "`hAndl'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'handmade',
+ 'note': ' ',
+ 'pronounce': "`hAndmEId'",
+ 'ps': "adjective '",
+ 'rest': 'If something is [chhandmade, it has been made by hand and not with '
+         'a machine.  They showed us some beautiful handmade rugs.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ' ',
+ 'headword': 'handout',
+ 'note': ' ',
+ 'pronounce': "`hAnda:Ut'",
+ 'ps': "noun '",
+ 'rest': "[ch1' A [chhandout is some~ thing such as food, clothing or money "
+         'that is given free to poor people.  They were reluctant to accept '
+         "handouts from charities.  [ch2' noun A [chhandout is a sheet of "
+         'information given out to the audience at a talk or lecture.  Has '
+         'everyone got a copy of both the handouts?',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ['When you give someone a [chhandshake, you grasp their right '
+             'hand in yours and gently squeeze it or shake it for a '
+             'moment.  You do this as a greeting or as a formal sign of '
+             'agreement.  [cf2]We all exchanged handshakes around the table.'],
+ 'headword': 'handshake',
+ 'note': ' ',
+ 'pronounce': "`hAndSEIk'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': 'adjective forms [chhandsomer, handsomest',
+ 'definition': "'",
+ 'example': ["[ch1' If someone is [chhandsome, they are good-looking and "
+             'attractive.  This word is usually used to describe men.  '
+             "[cf2]Daniel grew into a handsome youth.  [ch2' adjective If "
+             'something is [chhandsome, it is large in amount or generous.  '
+             '[cf2]The company made a handsome profit last year.'],
+ 'headword': 'handsome',
+ 'note': ' ',
+ 'pronounce': "`hAns@m'",
+ 'ps': "adjective '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ["'times,0'[cp8.5]h"],
+ 'headword': 'hands',
+ 'note': ' ',
+ 'pronounce': ' ',
+ 'ps': "adjective '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["Someone's [chhandwriting is the characteristic way they form "
+             'the letters and words when they write by hand. [cf2]His '
+             'handwriting was hard to read.'],
+ 'headword': 'handwriting',
+ 'note': ' ',
+ 'pronounce': "`hAndra:ItIN'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': 'adjective forms [chhandier, handiest',
+ 'definition': "'",
+ 'example': ["1a ' If something is [chhandy, it is useful or helpful.  "
+             '[cf2]This gardening book is very handy to have.'],
+ 'headword': 'handy',
+ 'note': ' ',
+ 'pronounce': "`hAndi:'",
+ 'ps': "adjective '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["([chhangs, hanged <for meaning 2),> [ch1' verb When something "
+             '[chhangs, it is attached or fixed to something at the top and '
+             'dangles free at the bottom.  [cf2]A mass of balloons hung '
+             'from the ceiling.'],
+ 'headword': 'hang',
+ 'note': ' ',
+ 'pronounce': "hAN'",
+ 'ps': "verb forms [chhangs, hung, hanging; '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'hangar',
+ 'note': ' ',
+ 'pronounce': "`hAN@'",
+ 'ps': "noun '",
+ 'rest': 'A [chhangar is a large shed in which aircraft are kept.  The plane '
+         'was safe in the hangar when the storm hit.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'hanger',
+ 'note': ' ',
+ 'pronounce': "`hAN@'",
+ 'ps': "noun '",
+ 'rest': 'A [chhanger is a curved piece of plastic, wood or wire, with a '
+         'hook, for hanging up clothes.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["'times,0'[cp8.5]"],
+ 'headword': 'hang',
+ 'note': ' ',
+ 'pronounce': ' ',
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'hangover',
+ 'note': ' ',
+ 'pronounce': "`hAN@Uv@'",
+ 'ps': "noun '",
+ 'rest': 'A [chhangover is the sick feeling you get after drinking too much '
+         'alcohol.  Angus had a bad hangover when he woke after his party.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ["'times,0'[cp8.5]"],
+ 'headword': 'hang',
+ 'note': ' ',
+ 'pronounce': ' ',
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ['[chHankie is an informal short form of [chhandkerchief.  '
+             '[cf2]She started crying again and reached for a hanky.'],
+ 'headword': 'hankie',
+ 'note': ' ',
+ 'pronounce': "`hANki:'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['If something is [chhaphazard, it is not neatly planned or '
+             'organised. [cf2]The trees grew in haphazard clumps.'],
+ 'headword': 'haphazard',
+ 'note': ' ',
+ 'pronounce': "hAp`hAz@d'",
+ 'ps': "adjective '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["[ch1' When an event [chhappens, it occurs or takes place.  "
+             '[cf2]When did the accident happen?'],
+ 'headword': 'happen',
+ 'note': ' ',
+ 'pronounce': "`hAp@n'",
+ 'ps': "verb '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': 'adjective forms [chhappier, happiest',
+ 'definition': "'",
+ 'example': ["1 ' If you are [chhappy, you feel pleasure or satisfaction.  "
+             '[cf2]I was really happy to see her again.'],
+ 'headword': 'happy',
+ 'note': ' ',
+ 'pronounce': "`hApi:'",
+ 'ps': "adjective '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['If someone [chharasses you, they keep annoying you or giving '
+             "you a hard time.  [cf2]Stop harassing me!  I'll give you my "
+             "answer when I've decided."],
+ 'headword': 'harass',
+ 'note': ' ',
+ 'pronounce': "`hAr@s, h@`rAs'",
+ 'ps': "verb '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["[ch1' A [chharbour is a sheltered part of the sea, by the "
+             'coast, where boats can anchor and be protected from storms.  '
+             "[ch2a' verb If you [chharbour someone, you shelter them or "
+             'give them a place to hide.  [cf2]Police suspect that someone '
+             "in the area is harbouring the escaped prisoner.  [chb' "
+             "'[cf2]verb If you [chharbour something, you keep it somewhere "
+             'hidden where it can continue to exist. [cf2]Dirty garbage '
+             'bins can harbour germs.'],
+ 'headword': 'harbour',
+ 'note': ' ',
+ 'pronounce': "`ha:b@'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': 'adjective forms [chharder, hardest',
+ 'definition': "'",
+ 'example': ["[ch1' If something is [chhard, it is solid and feels firm "
+             'when you touch it.  The opposite of this is [chsoft.  [cf2]I '
+             'like chocolates with hard centres.'],
+ 'headword': 'hard',
+ 'note': ' ',
+ 'pronounce': "ha:d'",
+ 'ps': "adjective '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["[ch1' If you [chhardly do some~ thing, then you only just do "
+             "it.  You almost don't do it.  [cf2]I could hardly get the "
+             'jumper over my head.'],
+ 'headword': 'hardly',
+ 'note': ' ',
+ 'pronounce': "`ha:dli:'",
+ 'ps': "adverb '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'hardship',
+ 'note': ' ',
+ 'pronounce': "`ha:dSIp'",
+ 'ps': "noun '",
+ 'rest': 'If you suffer [chhardship, you experience serious problems such as '
+         'poverty or sickness.  She has many hardships to contend with.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["[ch1' [chHardware is tools and building materials that you "
+             'use to do jobs in the house and garden.  [cf2]Make sure you '
+             "have the necessary hardware before you begin.  [ch2' noun "
+             '[chHardware is all the physical devices which make up a '
+             'computer system.'],
+ 'headword': 'hardware',
+ 'note': ' ',
+ 'pronounce': "`ha:dwE@'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': 'adjective forms [chhardier, hardiest',
+ 'definition': ' ',
+ 'example': ['If someone or something is [chhardy, they can endure tough '
+             'conditions.  [cf2]You have to be pretty hardy to get through '
+             'the army training.'],
+ 'headword': 'hardy',
+ 'note': ' ',
+ 'pronounce': "`ha:di:'",
+ 'ps': "adjective '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['[chIf you [chharm someone or something, you injure or damage '
+             'them.  [cf2]Fortunately no-one was harmed in the accident.'],
+ 'headword': 'harm',
+ 'note': ' ',
+ 'pronounce': "ha:m'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': 'plural form [chharmonies',
+ 'definition': "'",
+ 'example': ["[ch1' In music, [chharmony is the combination of notes and "
+             'chords and how they sound when they are played together.  '
+             '[cf2]This piece of music is written in three-part harmony.  '
+             "[ch2' noun If there is [chharmony between people or things, "
+             'they are in agreement or they go well together.  [cf2]The '
+             'change of directors restored harmony among the board members.'],
+ 'headword': 'harmony',
+ 'note': ' ',
+ 'pronounce': "`ha:m@ni:'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["[ch1' A [chharness is a set of leather straps and metal "
+             "pieces that fit around a horse's head and body so that it can "
+             'be ridden or used to pull a vehicle.  [cf2]Sam unbuckled the '
+             "harness from the mare.  [ch2' noun A [chharness is a set of "
+             "straps that fits around a person's body.  It can be used to "
+             'attach equipment to, or to hold a person in place for '
+             'safety.  [cf2]Check the harness before you descend the cliff.'],
+ 'headword': 'harness',
+ 'note': ' ',
+ 'pronounce': "`ha:n@s'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["[ch1' A [chharp is an upright stringed instrument which you "
+             "pluck with your fingers.  [ch2' [chharp on'   If you [chharp "
+             'on about something, you keep talking about it.  [cf2]She does '
+             'tend to harp on about her favourite hobby.'],
+ 'headword': 'harp',
+ 'note': ' ',
+ 'pronounce': "ha:p'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['A [chharpoon is a spear attached to a rope that can be thrown '
+             'or fired from a gun to catch large fish or whales.  [cf2]The '
+             'native fishermen were very accurate with the harpoon.'],
+ 'headword': 'harpoon',
+ 'note': ' ',
+ 'pronounce': "ha:`pu:n'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': 'adjective forms [chharsher, harshest',
+ 'definition': "'",
+ 'example': ["1a ' If someone is [chharsh, they are severe and unkind in "
+             'the way they behave towards someone else.  [cf2]The convicts '
+             'received harsh treatment for their crimes.'],
+ 'headword': 'harsh',
+ 'note': ' ',
+ 'pronounce': "ha:S'",
+ 'ps': "adjective '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['If you [chharvest grain, fruit or vegetables grown on a farm, '
+             'you gather or pick them when they are ripe.  [cf2]The crop '
+             'must be harvested before the rains come.'],
+ 'headword': 'harvest',
+ 'note': ' ',
+ 'pronounce': "`ha:v@st'",
+ 'ps': "verb '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'has',
+ 'note': ' ',
+ 'pronounce': "hAz'",
+ 'ps': "verb '",
+ 'rest': "[chHas is the form of [chhave used with 'he', 'she' or 'it' in the "
+         'present tense.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["[ch1' [chHash is a mixture of chopped, cooked food, "
+             'especially meat, which is reheated for another meal.  '
+             "[cf2]For dinner we had hash from yesterday's roast lamb.  "
+             "[ch2' [chmake a hash of'   If you [chmake a hash of "
+             "something, you mess up what you're trying to do.  You make a "
+             'bad job of it. [cf2]Linda was so nervous she made a hash of '
+             'her maths exam.'],
+ 'headword': 'hash',
+ 'note': ' ',
+ 'pronounce': "hAS'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['If you [chhassle someone, you bother and annoy them, often '
+             "because you keep urging them to do something.  [cf2]Ranlee's "
+             'hassling me to repay the loan.'],
+ 'headword': 'hassle',
+ 'note': ' ',
+ 'pronounce': "`hAs@l'",
+ 'ps': "verb '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['[ch[chHaste is acting quickly.  It can be doing something '
+             'quickly because of an urgent or dangerous situation, and it '
+             'can also be doing something too soon without thinking about '
+             'it carefully.  [cf2]They had clearly left in haste.'],
+ 'headword': 'haste',
+ 'note': ' ',
+ 'pronounce': "hEIst'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["[ch1' A [chhat is a covering for the head. There are many "
+             'different types of hats, with different shapes.  [cf2]You '
+             "should wear a hat if you're going to be out in the sun.  "
+             "[ch2' [chat the drop of a hat'  If you do something [chat the "
+             'drop of a hat, you do it very readily, without having to be '
+             'persuaded. [cf2]Robin will talk about her illness at the drop '
+             'of a hat.'],
+ 'headword': 'hat',
+ 'note': ' ',
+ 'pronounce': "hAt'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["[ch1' When a young bird, fish or insect [chhatches, it breaks "
+             'out of the egg in which it has developed.  [cf2]The baby '
+             'echidna is hatching out of its shell.'],
+ 'headword': 'hatch',
+ 'note': ' ',
+ 'pronounce': "hAtS'",
+ 'ps': "verb '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'hatchback',
+ 'note': ' ',
+ 'pronounce': "`hAtSbAk'",
+ 'ps': "noun '",
+ 'rest': 'A [chhatchback is a type of car with a door at the back which '
+         'opens upwards so that you can load things into the boot.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ' ',
+ 'headword': 'hatchet',
+ 'note': ' ',
+ 'pronounce': "`hAtS@t'",
+ 'ps': "noun '",
+ 'rest': "[ch1' A [chhatchet is a small axe with a short handle.  [ch2' "
+         "[chbury the hatchet'  When people [chbury the hatchet, they agree "
+         'to stop quarrelling with each other and become friendly again.  '
+         'They were willing to forget their differences and bury the hatchet.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['[chIf you [chhate someone or something, you dislike them very '
+             'strongly.  [cf2]The neighbours hated each other.'],
+ 'headword': 'hate',
+ 'note': ' ',
+ 'pronounce': "hEIt'",
+ 'ps': "verb '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ["'times,0'[cp8.5]"],
+ 'headword': 'hat',
+ 'note': ' ',
+ 'pronounce': ' ',
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': 'adjective forms [chhaughtier, haughtiest',
+ 'definition': "'",
+ 'example': ['If someone is [chhaughty, they are very proud and regard '
+             'other people with contempt.'],
+ 'headword': 'haughty',
+ 'note': ' ',
+ 'pronounce': "`h@:ti:'",
+ 'ps': "adjective '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["[ch1' If you [chhaul something, you use a lot of strength to "
+             'pull or drag it.  [cf2]The fishermen hauled in their heavy '
+             'catch.'],
+ 'headword': 'haul',
+ 'note': ' ',
+ 'pronounce': "h@:l'",
+ 'ps': "verb '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["[ch1' When a ghost [chhaunts a place, it appears there many "
+             'times.  [cf2]People say the spirit of the dead man haunts the '
+             "house.  [ch2' verb If something [chhaunts you, it disturbs "
+             'you and you cannot get it out of your mind.  [cf2]He was '
+             'haunted by guilt for the rest of his life.'],
+ 'headword': 'haunt',
+ 'note': ' ',
+ 'pronounce': "h@:nt'",
+ 'ps': "verb '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': 'verb forms [chhas, had, having',
+ 'definition': "'",
+ 'example': ["[ch1' [chHave is used as an auxiliary verb to form the "
+             "present perfect and past perfect tenses.  [cf2]I haven't seen "
+             'her all day.'],
+ 'headword': 'have',
+ 'note': ' ',
+ 'pronounce': "hAv'",
+ 'ps': "verb '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'haven',
+ 'note': ' ',
+ 'pronounce': "`hEIv@n'",
+ 'ps': "noun '",
+ 'rest': 'A [chhaven is a place of safety, shelter or rest.  The guest house '
+         'was a haven for weary travellers.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["[ch1' [chHavoc is damage and destruction on a large scale.  "
+             "[cf2]The terrible bushfires caused much havoc.  [ch2' [chplay "
+             "havoc with'   If some~ thing [chplays havoc with something, "
+             'it throws it into disorder.  [cf2]The violent electrical '
+             'storm played havoc with the traffic.'],
+ 'headword': 'havoc',
+ 'note': ' ',
+ 'pronounce': "`hAv@k'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["[ch1' A [chhawk is a bird of prey that catches and eats small "
+             'animals.  It has sharp claws and good eyesight.  [cf2]The '
+             'hawk swooped down on the mouse and carried it off in its '
+             "claws.  [ch2' verb If you [chhawk something, you try to sell "
+             'it to people on the street or by going to their homes.  '
+             '[cf2]I answered the door to a man hawking his paintings.'],
+ 'headword': 'hawk',
+ 'note': ' ',
+ 'pronounce': "h@:k'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'hay',
+ 'note': ' ',
+ 'pronounce': "hEI'",
+ 'ps': "noun '",
+ 'rest': '[chHay is dried cut grass that is used to feed animals.  The '
+         'drought was so severe that the farmers had to feed hay to their '
+         'cattle.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'hay fever',
+ 'note': ' ',
+ 'pronounce': "`hEI f[hmp.5]i:v@, hEI `fi:v.@'",
+ 'ps': "noun '",
+ 'rest': '[chHay fever is an allergy caused by pollen or dust.  It causes '
+         'inflammation of the nose, eyes and throat.  Sylvia suffers badly '
+         'from hay fever during spring.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ["If something goes [chhaywire, it becomes confused and doesn't "
+             "work in the way it's supposed to.  [cf2]The buses and trains "
+             'are all running late[j4]the system has gone haywire.'],
+ 'headword': 'haywire',
+ 'note': ' ',
+ 'pronounce': "`hEIwa:I@'",
+ 'ps': "adjective '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["[ch1' A [chhazard is something that is likely to be "
+             'dangerous.  [cf2]Heavy traffic is a hazard to pedestrians.'],
+ 'headword': 'hazard',
+ 'note': ' ',
+ 'pronounce': "`hAz@d'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['A [chhaze in the air makes things blurred to look at.  It can '
+             'be caused by smoke, dust or hot air rising from the ground.  '
+             '[cf2]The car left behind a haze of dust as it sped along the '
+             'dirt road.'],
+ 'headword': 'haze',
+ 'note': ' ',
+ 'pronounce': "hEIz'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["[ch1' A [chhazel is a type of tree which produces nuts that "
+             "you can eat.  [ch2' noun [chHazel is a light brown colour."],
+ 'headword': 'hazel',
+ 'note': ' ',
+ 'pronounce': "`hEIz@l'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ['[chHe is used to refer to a male person or animal that has '
+             "already been mentioned. [cf2]'Is Bill at home?'  'No, he went "
+             "for a walk.'"],
+ 'headword': 'he',
+ 'note': ' ',
+ 'pronounce': "hi:'",
+ 'ps': "pronoun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["[ch1a' Your [chhead is the top part of your body that is "
+             'joined to your trunk by your neck.  [cf2]Brian was hit on the '
+             'head with a cricket ball.'],
+ 'headword': 'head',
+ 'note': ' ',
+ 'pronounce': "hEd'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ' ',
+ 'headword': 'headache',
+ 'note': ' ',
+ 'pronounce': "`hEdEIk'",
+ 'ps': "noun '",
+ 'rest': "[ch1' A [chheadache is a feeling of pain in the head.  That noise "
+         "is awful[j4] it's giving me a headache.  [ch2' noun In informal "
+         'language, a [chheadache is a problem that someone experiences.  '
+         "The washing machine keeps breaking down[j4]it's a real headache.",
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'heading',
+ 'note': ' ',
+ 'pronounce': "`hE.dIN'",
+ 'ps': "noun '",
+ 'rest': 'A [chheading is the title of a piece of writing, written at the '
+         "top.  We found the information under the heading 'Birds of prey'.",
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ["'times,0'[cp8.5]"],
+ 'headword': 'headland',
+ 'note': ' ',
+ 'pronounce': ' ',
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'headlight',
+ 'note': ' ',
+ 'pronounce': "`hEdla:It'",
+ 'ps': "noun '",
+ 'rest': "A vehicle's [chheadlights are the lamps at the left and right of "
+         'its front which light up the road in the dark.  Turn on your '
+         'headlights as we go through the tunnel.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["[ch1' A [chheadline is the words printed in large letters at "
+             'the top of a story or article in a newspaper or magazine.  '
+             "[cf2]'RAIL STRIKE CHAOS' was the headline in the afternoon "
+             "paper.  [ch2' noun The [chheadlines on a news broadcast are "
+             "short summaries of the most important events. [cf2]Let's turn "
+             'on the radio and catch the news headlines.'],
+ 'headword': 'headline',
+ 'note': ' ',
+ 'pronounce': "`hEdla:In'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["'times,0'[cp8.5]hed-"],
+ 'headword': 'head',
+ 'note': ' ',
+ 'pronounce': ' ',
+ 'ps': "adverb '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': 'plural form [chheadquarters',
+ 'definition': ' ',
+ 'example': ['The [chheadquarters of an organisation is the central place '
+             'or office from which it is controlled.  [cf2]No time was '
+             'wasted in setting up a headquarters for the distribution of '
+             'aid to the refugees.'],
+ 'headword': 'headquarters',
+ 'note': ' ',
+ 'pronounce': "`hEdkw@:t@z, hEd`kw@:t@z'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'head start',
+ 'note': ' ',
+ 'pronounce': "hEd `sta:t'",
+ 'ps': "noun '",
+ 'rest': 'A [chhead start is something that gives you an advantage over '
+         'other people in a competitive situation.  I want to give my '
+         'children a good education so they have a head start in life.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'headstone',
+ 'note': ' ',
+ 'pronounce': "`hEdst@Un'",
+ 'ps': "noun '",
+ 'rest': 'A [chheadstone is a slab of stone that is placed upright in the '
+         "ground at the head of someone's grave.  It is engraved with their "
+         'name and the dates when they were born and died, and often a '
+         'message from their relatives. Vandals had smashed and defaced '
+         'several of the headstones in the cemetery.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'headstrong',
+ 'note': ' ',
+ 'pronounce': "`hEdstrON'",
+ 'ps': "adjective '",
+ 'rest': 'If someone is [chheadstrong, they are determined to do what they '
+         "want, and in their own way.  You can't give Danica any "
+         "advice[j4]she's too headstrong.",
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ['A [chheadteacher is the teacher who is in charge of a school.'],
+ 'headword': 'headteacher',
+ 'note': ' ',
+ 'pronounce': "`hEdti:tS@, hEd`ti:tS@'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ['If you make [chheadway, you move forward or get closer to '
+             'achieving something.  [cf2]We made little headway in the '
+             'heavy traffic.'],
+ 'headword': 'headway',
+ 'note': ' ',
+ 'pronounce': "`hEdwEI'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ['A [chheadwind is a wind that blows in the opposite direction '
+             'to the way you are travelling, and slows you down.  [cf2]The '
+             'plane arrived late because of a strong headwind.'],
+ 'headword': 'headwind',
+ 'note': ' ',
+ 'pronounce': "`hEdwInd'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ['When a part of your body that has been injured [chheals, it '
+             'becomes well and normal again.  [cf2]If you keep that cut '
+             'clean it will heal quickly.'],
+ 'headword': 'heal',
+ 'note': ' ',
+ 'pronounce': "hi:l'",
+ 'ps': "verb '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["[ch'Your [chhealth is your physical and mental condition.  "
+             "[cf2]She's run down and in poor health."],
+ 'headword': 'health',
+ 'note': ' ',
+ 'pronounce': "hElT'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["[ch1' A [chheap is a pile of things placed on top of one "
+             'another in an untidy way.  [cf2]The heap of books on the desk '
+             'made the room look messy.'],
+ 'headword': 'heap',
+ 'note': ' ',
+ 'pronounce': "hi:p'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': 'verb forms [chhears, heard, hearing',
+ 'definition': "'",
+ 'example': ["[ch1' If you [chhear something, you are aware of a sound.  "
+             "[cf2]'What's that noise?'  'I can't hear anything.'"],
+ 'headword': 'hear',
+ 'note': ' ',
+ 'pronounce': "hI@'",
+ 'ps': "verb '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["[ch1' Your [chhearing is your ability to hear sounds.  "
+             "[cf2]Our grandmother's beginning to lose her hearing.  [ch2' "
+             "noun Someone's [chhearing is the range or distance within "
+             'which they can hear something.  [cf2]Now that we are out of '
+             "Marco's hearing, I want to ask your advice[j4]I'm very "
+             'worried about him.'],
+ 'headword': 'hearing',
+ 'note': ' ',
+ 'pronounce': "`hI@rIN'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'hearing aid',
+ 'note': ' ',
+ 'pronounce': "`hI@rIN EId'",
+ 'ps': "noun '",
+ 'rest': 'A [chhearing aid is a device which helps people to hear better if '
+         'they are slightly deaf.  Usually it is a small piece of electronic '
+         'equipment worn in or behind the ear.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'hearsay',
+ 'note': ' ',
+ 'pronounce': "`hI@sEI'",
+ 'ps': "noun '",
+ 'rest': '[chHearsay is information that you have been told but which you '
+         "don't have direct knowledge of.  I thought that Julie was going to "
+         "be the new supervisor[j4]but that's only hearsay.",
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'hearse',
+ 'note': ' ',
+ 'pronounce': "h@:s'",
+ 'ps': "noun '",
+ 'rest': 'A [chhearse is the special vehicle used at a funeral to carry the '
+         'coffin.  A long procession of cars followed the hearse to the '
+         'cemetery.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["[ch1' Your [chheart is the organ that pumps blood through "
+             'your body.  [cf2]Stuart could feel his heart thumping after '
+             "the sudden fright.  [ch2' noun The [chheart is also the "
+             'centre of your emotions and feelings.  [cf2]She has a kind '
+             'heart.'],
+ 'headword': 'heart',
+ 'note': ' ',
+ 'pronounce': "ha:t'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'heartache',
+ 'note': ' ',
+ 'pronounce': "`ha:tEIk'",
+ 'ps': "noun '",
+ 'rest': '[chHeartache is deep and lasting sadness or sorrow.  The whole '
+         'experience has brought me nothing but heartache.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["[ch'[chHeartbreak is sudden and terrible sadness or "
+             'disappointment. [cf2]The news report showed the burnt-out '
+             'house and the heartbreak on the faces of the family left '
+             'homeless.'],
+ 'headword': 'heartbreak',
+ 'note': ' ',
+ 'pronounce': "`ha:tbrEIk'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ['[chHeartburn is a feeling of burning in the chest that you '
+             "get when your stomach cannot easily digest the food you've "
+             'eaten. [cf2]The rich fatty meal gave him heartburn.'],
+ 'headword': 'heartburn',
+ 'note': ' ',
+ 'pronounce': "`ha:tb@:n'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['If something [chheartens someone, it encourages them.  It '
+             'makes them feel more happy and cheerful.  [cf2]Ellie was '
+             'heartened by her good exam results.'],
+ 'headword': 'hearten',
+ 'note': ' ',
+ 'pronounce': "`ha:t@n'",
+ 'ps': "verb '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["If someone is [chheartless, they are unkind and don't show "
+             "any feelings.  They don't seem to feel bad when they hurt or "
+             'upset other people.  [cf2]How could he be so heartless as to '
+             'leave her with a week-old baby?'],
+ 'headword': 'heartless',
+ 'note': ' ',
+ 'pronounce': "`ha:tl@s'",
+ 'ps': "adjective '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': 'adjective forms [chheartier, heartiest',
+ 'definition': "'",
+ 'example': ["1 ' If someone is [chhearty, they are very cheerful and "
+             'outgoing.  They are not at all shy.  [cf2]She was a large, '
+             'hearty woman.'],
+ 'headword': 'hearty',
+ 'note': ' ',
+ 'pronounce': "`ha:ti:'",
+ 'ps': "adjective '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["[ch1a' [chHeat is being hot, or how hot something is.  "
+             "[cf2]The fire's nearly gone out but there's still some heat "
+             'in the coals.'],
+ 'headword': 'heat',
+ 'note': ' ',
+ 'pronounce': "hi:t'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'heater',
+ 'note': ' ',
+ 'pronounce': "`hi:.t@'",
+ 'ps': "noun '",
+ 'rest': 'A [chheater is a device that is used to warm the air in a room or '
+         'to heat water.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'heatwave',
+ 'note': ' ',
+ 'pronounce': "`hi:twEIv'",
+ 'ps': "noun '",
+ 'rest': 'A [chheatwave is a period of very hot weather.  The city is '
+         'experiencing its worst heatwave in ten years.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["[ch1' If you [chheave something, you use a lot of effort to "
+             'move it because it is heavy and usually awkward.  [cf2]The '
+             "men heaved the wardrobe onto the truck.   [ch2' verb In "
+             'informal language, if you say you [chheave something, you '
+             'mean that you throw it or put it somewhere casually.  '
+             '[cf2]The vandals heaved a brick through the shop window.'],
+ 'headword': 'heave',
+ 'note': ' ',
+ 'pronounce': "hi:v'",
+ 'ps': "verb '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["[ch1' [chHeaven is the place where God lives and where good "
+             "people go when they die.  [ch2' noun [chHeaven is a place or "
+             "state of great happiness.  [cf2]When I'm with you I'm in "
+             'heaven.'],
+ 'headword': 'heaven',
+ 'note': ' ',
+ 'pronounce': "`hEv@n'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': 'adjective forms [chheavier, heaviest',
+ 'definition': "'",
+ 'example': ["1 ' If something is [chheavy, it weighs a lot. It is hard to "
+             'move or lift.  The opposite of this is [chlight.  [cf2]The '
+             "dresser's too heavy for me to shift."],
+ 'headword': 'heavy',
+ 'note': ' ',
+ 'pronounce': "`hEvi:'",
+ 'ps': "adjective '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['If you [chheckle someone who is making a speech, you '
+             'interrupt them with shouted comments.  [cf2]One radical group '
+             'continually heckled the Liberal candidate.'],
+ 'headword': 'heckle',
+ 'note': ' ',
+ 'pronounce': "`hEk@l'",
+ 'ps': "verb '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'hectare',
+ 'note': ' ',
+ 'pronounce': "`hEktE@'",
+ 'ps': "noun '",
+ 'rest': 'A [chhectare is a metric unit for measuring the area of land.  It '
+         'equals 10 000 square metres.  The local council has set aside two '
+         'hectares of bush for a new reserve.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ['If something is [chhectic, it is very busy and full of '
+             'excitement or pressure. [cf2]Everything has happened at '
+             "once[j4]it's been a hectic week."],
+ 'headword': 'hectic',
+ 'note': ' ',
+ 'pronounce': "`hEktIk'",
+ 'ps': "adjective '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ' ',
+ 'headword': '',
+ 'note': ' ',
+ 'pronounce': "hEdZ'",
+ 'ps': "noun '",
+ 'rest': "[ir(s76),(s75+6)]hedge   [ch1' A [chhedge is a barrier made from "
+         'small shrubs or trees planted close together in a row.  The hedges '
+         "around the house were neatly trimmed.  [ch2' verb If you [chhedge, "
+         'you avoid giving a direct answer or making a decision.  Stop '
+         'hedging[j4]just tell me whether you can do it or not.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["[ch1' Your [chheel is the back part of your foot below the "
+             'ankle.  [cf2]These new shoes have given me blisters on my '
+             "heels.  [ch2a' noun The [chheel of a sock or stocking is the "
+             'part that covers the heel of the foot.  [cf2]These socks are '
+             "beginning to wear through at the heels.  [chb' '[cf2]noun The "
+             '[chheel of a shoe is the raised part at the back attached to '
+             'the sole. [cf2]I tripped on a grating and ripped the heel off '
+             'my shoe.'],
+ 'headword': 'heel',
+ 'note': ' ',
+ 'pronounce': "hi:l'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': 'adjective forms [chheftier, heftiest',
+ 'definition': "'",
+ 'example': ["[ch1' If someone is [chhefty, they are big, heavy and "
+             "muscular.  [cf2]Bill's a hefty young man and should be able "
+             "to help us shift the fridge.  [ch2' adjective If something is "
+             '[chhefty, it is large or substantial.  [cf2]She served us '
+             'each a hefty slice of cake.'],
+ 'headword': 'hefty',
+ 'note': ' ',
+ 'pronounce': "`hEfti:'",
+ 'ps': "adjective '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'heifer',
+ 'note': ' ',
+ 'pronounce': "`hEf@'",
+ 'ps': "noun '",
+ 'rest': 'A [chheifer is a young female cow.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["[ch1a' The [chheight of something is the distance from the "
+             'bottom to the top.  It is how high or tall it is.  [cf2]What '
+             'is the height of that cupboard?'],
+ 'headword': 'height',
+ 'note': ' ',
+ 'pronounce': "ha:It'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ['If something [chheightens, or you [chheighten something, it '
+             'increases in intensity. [cf2]The competition was very '
+             'close[j4]the excitement heightened with every race.'],
+ 'headword': 'heighten',
+ 'note': ' ',
+ 'pronounce': "`ha:It@n'",
+ 'ps': "verb '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'heir',
+ 'note': ' ',
+ 'pronounce': "E@'",
+ 'ps': "noun '",
+ 'rest': 'Your [chheirs are the people who inherit your property when you '
+         'die.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'heirloom',
+ 'note': ' ',
+ 'pronounce': "`E@lu:m'",
+ 'ps': "noun '",
+ 'rest': 'An [chheirloom is some object, such as a painting or piece of '
+         'jewellery, that is handed down in a family from one generation to '
+         'the next.  Some heirlooms are valuable, some have only sentimental '
+         'value.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'held',
+ 'note': ' ',
+ 'pronounce': "hEld'",
+ 'ps': "verb '",
+ 'rest': '[chHeld is the past tense and past participle of [chhold.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'helicopter',
+ 'note': ' ',
+ 'pronounce': "`hEl@kOpt@'",
+ 'ps': "noun '",
+ 'rest': 'A [chhelicopter is an aircraft that has no wings but has blades '
+         'that turn around at the top.  It takes off and lands vertically.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'heliport',
+ 'note': ' ',
+ 'pronounce': "`hEli:p@:t'",
+ 'ps': "noun '",
+ 'rest': 'A [chheliport is a place where helicopter flights can begin and '
+         'end.  The flat roof of the building was being used as a heliport.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["[ch1a' Hell is the place where the Devil lives and where bad "
+             "people go when they die.  [chb' noun [chHell is a place or "
+             "state of misery or unpleasantness.  [cf2]It's hell in this "
+             'office with no airconditioning.'],
+ 'headword': 'hell',
+ 'note': ' ',
+ 'pronounce': "hEl'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["'times,0'[cp8.5]h..."],
+ 'headword': 'hello',
+ 'note': ' ',
+ 'pronounce': ' ',
+ 'ps': "interjection '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ' ',
+ 'headword': 'helm',
+ 'note': ' ',
+ 'pronounce': "hElm'",
+ 'ps': "noun '",
+ 'rest': "[ch1' The [chhelm is the wheel that is used to steer a boat or "
+         "ship.  The captain went to take the helm.  [ch2' [chat the helm'   "
+         'If someone is [chat the helm, they are in charge.  The boss is '
+         "away, so I'm at the helm today.",
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'helmet',
+ 'note': ' ',
+ 'pronounce': "`hElm@t'",
+ 'ps': "noun '",
+ 'rest': 'A [chhelmet is a hard hat which protects your head and is worn by '
+         'people such as fire fighters, miners, soldiers, cyclists and '
+         'motorbike riders.  It is illegal to ride a bicycle on the streets '
+         'without a helmet.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["[ch1' When you [chhelp someone, you assist them and make it "
+             'easier for them to do something.  [cf2]Can you help me do the '
+             'gardening?'],
+ 'headword': 'help',
+ 'note': ' ',
+ 'pronounce': "hElp'",
+ 'ps': "verb '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ['A [chhelping of food is a portion or a serving of it.  '
+             "[cf2]Just a small helping of pasta, please[j4]I'm on a diet."],
+ 'headword': 'helping',
+ 'note': ' ',
+ 'pronounce': "`hElpIN'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["[ch'If a person or animal is [chhelpless, they are not able "
+             'to defend or look after themselves.  [cf2]I might have fought '
+             'off one mugger, but I was helpless against the four of them.'],
+ 'headword': 'helpless',
+ 'note': ' ',
+ 'pronounce': "`hElpl@s'",
+ 'ps': "adjective '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': 'verb forms [chhems, hemmed, hemming',
+ 'definition': "'",
+ 'example': ["1 ' If you [chhem a piece of cloth or a garment, you turn "
+             "back the edge of it and sew it down. [cf2]You'll have to hem "
+             "the ends to stop them from fraying.  [ch2' [chhem in'   If "
+             'you [chhem something [chin, you surround or enclose it '
+             'completely so that it cannot move.  [cf2]Thousands of '
+             'protesters on the streets hemmed in the army tanks.'],
+ 'headword': 'hem',
+ 'note': ' ',
+ 'pronounce': "hEm'",
+ 'ps': "verb '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'hemisphere',
+ 'note': ' ',
+ 'pronounce': "`hEm@sfI@'",
+ 'ps': "noun '",
+ 'rest': 'The two [chhemispheres of the earth are the parts above and below '
+         'the equator.  Australia is in the southern hemisphere; Europe is '
+         'in the northern hemisphere. This is the tallest building in the '
+         'southern hemisphere.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'hemline',
+ 'note': ' ',
+ 'pronounce': "`hEmla:In'",
+ 'ps': "noun '",
+ 'rest': 'The [chhemline of a skirt or dress is its bottom edge.  This '
+         'season hemlines are well below the knee.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'hemp',
+ 'note': ' ',
+ 'pronounce': "hEmp'",
+ 'ps': "noun '",
+ 'rest': '[chHemp is a plant which produces the drug marijuana and fibres '
+         'that are used to make rope and coarse cloth.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'hen',
+ 'note': ' ',
+ 'pronounce': "hEn'",
+ 'ps': "noun '",
+ 'rest': 'A [chhen is a female chicken, especially one that is kept to lay '
+         'eggs.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["[ch1' In formal language, [chhence is used to indicate a "
+             'reason for something. [cf2]Monday is a public holiday, hence '
+             'there will be no classes.'],
+ 'headword': 'hence',
+ 'note': ' ',
+ 'pronounce': "hEns'",
+ 'ps': "conjunction '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'henceforth',
+ 'note': ' ',
+ 'pronounce': "hEns`f@:T'",
+ 'ps': "adverb '",
+ 'rest': "In formal language, [chhenceforth means 'from now on'.  All "
+         'payments must henceforth be made in cash.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'hepatitis',
+ 'note': ' ',
+ 'pronounce': "hEp@`ta:It@s'",
+ 'ps': "noun '",
+ 'rest': '[chHepatitis is a serious disease which causes inflammation of the '
+         'liver. There are several different types of hepatitis, caused by '
+         'different viruses.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["[ch1' [chHer is the form of she that you use as the object of "
+             'a verb or after a preposition. [cf2]I really hated her for '
+             'saying that.'],
+ 'headword': 'her',
+ 'note': ' ',
+ 'pronounce': "h@:'",
+ 'ps': "pronoun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['In formal language, if some~ thing [chheralds an event, it '
+             'announces or indicates that it is beginning or will happen in '
+             'the future. [cf2]The first rays of light in the sky heralded '
+             'the dawn of a new day.'],
+ 'headword': 'herald',
+ 'note': ' ',
+ 'pronounce': "`hEr@ld'",
+ 'ps': "verb '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["[ch'A [chherb is a plant whose different parts are used to "
+             'add flavour to foods or to make medicines.  [cf2]The salad '
+             'was garnished with fresh, chopped herbs.'],
+ 'headword': 'herb',
+ 'note': ' ',
+ 'pronounce': "h@:b'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['A [chherd is a large group of animals that move together.  '
+             '[cf2]...a herd of cattle.'],
+ 'headword': 'herd',
+ 'note': ' ',
+ 'pronounce': "h@:d'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["[ch1a' [chHere means in or at this place or spot.  [cf2]Here "
+             'in Brisbane the winters are very mild.'],
+ 'headword': 'here',
+ 'note': ' ',
+ 'pronounce': "hI@'",
+ 'ps': "adverb '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['[chHeredity is the process by which genetic traits are passed '
+             "down from one generation to the next.  [cf2]Two of Nerida's "
+             "brothers have red hair[j4]it's a trait of heredity in her "
+             'family.'],
+ 'headword': 'heredity',
+ 'note': ' ',
+ 'pronounce': "h@`rEd@ti:'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': 'plural form [chheresies',
+ 'definition': "'",
+ 'example': ['[ch[chHeresy is a belief or opinion contrary to what is '
+             'officially accepted by a religion or group.  [cf2]It seems to '
+             'be heresy even to suggest another way of approach~ ing the '
+             'issue.'],
+ 'headword': 'heresy',
+ 'note': ' ',
+ 'pronounce': "`hEr@si:'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ' ',
+ 'headword': 'heritage',
+ 'note': ' ',
+ 'pronounce': "`hEr@tIdZ'",
+ 'ps': "noun '",
+ 'rest': "[ch1' Your [chheritage is a set of customs or traditions that is "
+         'passed down to you by your family or community.  Aborigines are '
+         'trying to preserve an indigenous cultural heritage which goes back '
+         "many thousands of years.  [ch2' noun A country's [chheritage is "
+         'the things that remain as reminders of its history.  He accused '
+         "property developers of destroying the city's heritage.",
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'hermit',
+ 'note': ' ',
+ 'pronounce': "`h@:m@t'",
+ 'ps': "noun '",
+ 'rest': 'A [chhermit is someone who lives alone and keeps away from '
+         "society.  Come to the party[j4]don't be a hermit!",
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ['If you have a [chhernia, part of your intestines sticks out '
+             'through a hole inside the abdomen, causing a bulge that can '
+             'be painful. [cf2]If you lift heavy things the wrong way you '
+             'can give yourself a hernia.'],
+ 'headword': 'hernia',
+ 'note': ' ',
+ 'pronounce': "`h@:ni:@'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["[ch1' A [chhero is someone who has done something brave or "
+             'impressive.  [cf2]A service was held to commemorate the '
+             'heroes of the last war.'],
+ 'headword': 'hero',
+ 'note': ' ',
+ 'pronounce': "`hI@r@U'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'heroin',
+ 'note': ' ',
+ 'pronounce': "`hEr@w@n'",
+ 'ps': "noun '",
+ 'rest': '[chHeroin is an illegal, addictive drug made from morphine.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'heroine',
+ 'note': ' ',
+ 'pronounce': "`hEr.@w@n'",
+ 'ps': "noun Heroine'",
+ 'rest': 'is sometimes used as the female form of the word hero.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'herpes',
+ 'note': ' ',
+ 'pronounce': "`h@:pi:z'",
+ 'ps': "noun '",
+ 'rest': '[chHerpes is a viral infection of the skin that causes blisters.  '
+         'There are several different types of herpes.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ['[chHers is used to refer to something that belongs to a '
+             'female person who has been mentioned.  [cf2]Carrie brought '
+             'her umbrella, but Stella forgot hers.'],
+ 'headword': 'hers',
+ 'note': ' ',
+ 'pronounce': "h@:z'",
+ 'ps': "pronoun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["[ch1' [chHerself is the reflexive form of she.  [cf2]Hannah "
+             'cursed herself for forgetting.'],
+ 'headword': 'herself',
+ 'note': ' ',
+ 'pronounce': "h@`sElf'",
+ 'ps': "pronoun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["[ch1' If you [chhesitate, you pause for a moment because you "
+             'are not certain what to say or do.  [cf2]She hesitated before '
+             'answering.'],
+ 'headword': 'hesitate',
+ 'note': ' ',
+ 'pronounce': "`hEz@tEIt'",
+ 'ps': "verb '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["[ch'Some[chone who is [chheterosexual is sexually attracted "
+             'to people of the opposite sex.'],
+ 'headword': 'heterosexual',
+ 'note': ' ',
+ 'pronounce': "hEt@r@U`sEkSu:@l'",
+ 'ps': "adjective '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ['If you [chhew something, you chop or carve it roughly.  '
+             '[cf2]He had spent most of the day hewing wood.'],
+ 'headword': 'hew',
+ 'note': ' ',
+ 'pronounce': "hju:'",
+ 'ps': "verb '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'heyday',
+ 'note': ' ',
+ 'pronounce': "`hEIdEI'",
+ 'ps': "noun '",
+ 'rest': 'The [chheyday of something is the period when it is most '
+         "successful or powerful. In the heyday of Bridget's modelling "
+         'career, her face appeared in all the fashion magazines.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['When animals [chhibernate, they sleep through the winter in a '
+             'safe place.'],
+ 'headword': 'hibernate',
+ 'note': ' ',
+ 'pronounce': "`ha:Ib@nEIt'",
+ 'ps': "verb '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': 'verb forms [chhiccups, hiccupped, hiccupping',
+ 'definition': "'",
+ 'example': ['When you [chhiccup, there is a sudden movement in your chest, '
+             'over which you have no control.  It causes you to take a '
+             'quick breath and to produce a sharp sound.  [cf2]Someone '
+             'hiccupped in the middle of the lecture.'],
+ 'headword': 'hiccup',
+ 'note': ' ',
+ 'pronounce': "`hIkV p'",
+ 'ps': "verb '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'hidden',
+ 'note': ' ',
+ 'pronounce': "`hI.dn'",
+ 'ps': "verb '",
+ 'rest': '[chHidden is the past participle of [chhide.',
+ 'senses': ' '}
+
+{'comment': 'verb forms [chhides, hid, hidden, hiding',
+ 'definition': "'",
+ 'example': ["1 ' If you [chhide, you keep yourself out of sight. "
+             "[cf2]Matthew thought he'd trick his mother so he hid behind "
+             'the curtains.'],
+ 'headword': 'hide',
+ 'note': ' ',
+ 'pronounce': "ha:Id'",
+ 'ps': "verb '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'hideaway',
+ 'note': ' ',
+ 'pronounce': "`ha:Id@wEI'",
+ 'ps': "noun '",
+ 'rest': 'A [chhideaway is a place where you go to get away from people.  '
+         "I'm going to retreat to my hideaway in the country this weekend.",
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['If something is[fj [chhideous, it is very ugly and shocking.  '
+             '[cf2]The heroes of the science-fiction movie did battle with '
+             'hideous monsters.'],
+ 'headword': 'hideous',
+ 'note': ' ',
+ 'pronounce': "`hIdi:@s'",
+ 'ps': "adjective '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': 'plural form [chhierarchies',
+ 'definition': "'",
+ 'example': ['A [chhierarchy is a system where people or things are graded '
+             "in order of importance.  [cf2]I'm slowly beginning to rise up "
+             'the office hierarchy.'],
+ 'headword': 'hierarchy',
+ 'note': ' ',
+ 'pronounce': "`ha:I@ra:ki:'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["'times,0'[cp8.5]"],
+ 'headword': 'hi',
+ 'note': ' ',
+ 'pronounce': ' ',
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': 'adjective forms [chhigher, highest',
+ 'definition': "'",
+ 'example': ["[ch1a' If something is [chhigh, it measures a large amount "
+             'from bottom to top.  It extends a long way off the ground.  '
+             'The opposite of this is [chlow. [cf2]Kosciusko is the highest '
+             "mountain in Australia.  [chb' adjective If something is a "
+             'certain measurement [chhigh, it is that distance from bottom '
+             "to top.  [cf2]We've got a large tree in our yard[j4]it must "
+             'be at least ten metres high.'],
+ 'headword': 'high',
+ 'note': ' ',
+ 'pronounce': "ha:I'",
+ 'ps': "adjective '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['A [chhighbrow is someone who is interested in the arts and '
+             'intellectual pursuits.'],
+ 'headword': 'highbrow',
+ 'note': ' ',
+ 'pronounce': "`ha:Ibra:U'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['The [chhighland or [chhighlands is a hilly or mountainous '
+             'area of country.'],
+ 'headword': 'highland',
+ 'note': ' ',
+ 'pronounce': "`ha:Il@nd'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ' ',
+ 'headword': 'highlight',
+ 'note': ' ',
+ 'pronounce': "`ha:Ila:It'",
+ 'ps': "noun '",
+ 'rest': "[ch1' The [chhighlight of an event is the most interesting, "
+         'exciting or important part.  The highlight of the celebrations was '
+         "the fireworks display.  [ch2' verb If you [chhighlight some~ "
+         'thing, you make it stand out and show that it is important.  The '
+         'low profits have highlighted the need to change our production '
+         'methods.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'highlighter',
+ 'note': ' ',
+ 'pronounce': "`ha:Ila:It@'",
+ 'ps': 'noun',
+ 'rest': "A highligher' is a brightly coloured pen that you use to mark "
+         'something important. You can see the writing underneath.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["[ch1' You use [chhighly to empha[chsise an adjective.  "
+             "[cf2]That's highly unlikely to happen."],
+ 'headword': 'highly',
+ 'note': ' ',
+ 'pronounce': "`ha:Ili:'",
+ 'ps': "adverb '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ['A [chhigh school is a school for children aged between 11 and '
+             '18.  They go there when they have finished primary school.'],
+ 'headword': 'high school',
+ 'note': ' ',
+ 'pronounce': "`ha:I sku:l'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ['The [chhigh season is the time of year when it is busiest and '
+             "most expensive to travel or go on holidays.  [cf2]We'd save a "
+             "lot of money if we didn't go on holidays during the high "
+             'season.'],
+ 'headword': 'high season',
+ 'note': ' ',
+ 'pronounce': "`ha:I si:z@n'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'highway',
+ 'note': ' ',
+ 'pronounce': "`ha:IwEI'",
+ 'ps': "noun '",
+ 'rest': 'A [chhighway is a main road.  It is usually wide and carries a lot '
+         'of traffic between major towns and cities.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['If someone [chhijacks a plane or vehicle, they seize it by '
+             'using force and threats. They usually do it for political '
+             'reasons.  [cf2]The rebels were sentenced to 20 years for '
+             'hijacking an aircraft.'],
+ 'headword': 'hijack',
+ 'note': ' ',
+ 'pronounce': "`ha:IdZAk'",
+ 'ps': "verb '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["[ch'If you [chhike, you go for a long walk in the country, "
+             'bush or mountains.  [cf2]Last weekend, we hiked for 10 km in '
+             'the National Park.'],
+ 'headword': 'hike',
+ 'note': ' ',
+ 'pronounce': "ha:Ik'",
+ 'ps': "verb '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["[ch'If something is [chhilarious, it is very funny.  [cf2]His "
+             'latest movie is a hilarious comedy.'],
+ 'headword': 'hilarious',
+ 'note': ' ',
+ 'pronounce': "h@`lE@ri:@s'",
+ 'ps': "adjective '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['A [chhill is a raised area of land that occurs naturally.  It '
+             'is not as high as a mountain. [cf2]The house on top of the '
+             'hill had a lovely view.'],
+ 'headword': 'hill',
+ 'note': ' ',
+ 'pronounce': "hIl'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'hilt',
+ 'note': ' ',
+ 'pronounce': "hIlt'",
+ 'ps': "noun '",
+ 'rest': 'The [chhilt is the handle of a sword or dagger.  The knife was '
+         "plunged into the victim's body up to the hilt.",
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['[chHim is the form of he that you use as the object of a verb '
+             'or after a preposition. [cf2]I like him a lot.'],
+ 'headword': 'him',
+ 'note': ' ',
+ 'pronounce': "hIm'",
+ 'ps': "pronoun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ' ',
+ 'headword': 'himself',
+ 'note': ' ',
+ 'pronounce': "hIm`sElf'",
+ 'ps': "pronoun '",
+ 'rest': '[chHimself is the reflexive form of he.  He had really got himself '
+         'into a mess this time.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'hind',
+ 'note': ' ',
+ 'pronounce': "ha:Ind'",
+ 'ps': "adjective '",
+ 'rest': 'The [chhind part of an animal is its back part.  The horse was '
+         'limping[j4]its hind leg had been injured.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['If someone or something [chhinders an event or action, they '
+             'get in the way or make it more difficult for it to happen.  '
+             '[cf2]Wet weather hindered the completion of the roadwork.'],
+ 'headword': 'hinder',
+ 'note': ' ',
+ 'pronounce': "`hInd@'",
+ 'ps': "verb '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ['You have [chhindsight if you can see and understand the '
+             'reasons for something after it has happened.  [cf2]In '
+             "hindsight, Rasha shouldn't have invested all her money in the "
+             'one company.'],
+ 'headword': 'hindsight',
+ 'note': ' ',
+ 'pronounce': "`ha:Indsa:It'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'Hinduism',
+ 'note': ' ',
+ 'pronounce': "`hIndu:Iz@m'",
+ 'ps': "noun '",
+ 'rest': '[chHinduism is the main religion followed by people in India.  Its '
+         'followers believe in a number of gods and that after death your '
+         'soul is reborn in another body.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["[ch1' A [chhinge is a joint which allows a door or lid to "
+             "turn so that you can open and close it.  [cf2]Don't swing on "
+             "the gate[j4]you'll break the hinges!  [ch2' [chhinge on'   If "
+             'you say the outcome of an event [chhinges on something, you '
+             "mean that it will be determined by it.  [cf2]Melissa's career "
+             'hinges on her exam results.'],
+ 'headword': 'hinge',
+ 'note': ' ',
+ 'pronounce': "hIndZ'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["[ch1' A [chhint is a suggestion or indication you give "
+             "someone in a roundabout way. You don't tell them directly, "
+             'but you hope that they will guess from what you say.  [cf2]I '
+             "know just what I want for Christmas[j4]I'll have to drop some "
+             'hints.'],
+ 'headword': 'hint',
+ 'note': ' ',
+ 'pronounce': "hInt'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['Your [chhip is the area at each side of your body that is '
+             'below the waist and above the top of the legs.  See the '
+             'picture at [chbody.  [cf2]She stood with her hands on her '
+             'hips.'],
+ 'headword': 'hip',
+ 'note': ' ',
+ 'pronounce': "hIp'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["[ch1' If you [chhire something, you arrange to use it for a "
+             "certain period in return for payment.  [cf2]Let's hire a boat "
+             "for the day and go fishing on the lake.  [ch2' verb If you "
+             '[chhire someone, you arrange for them to do a job for you in '
+             "return for payment.  [cf2]We've hired a babysitter to mind "
+             'the children this evening.'],
+ 'headword': 'hire',
+ 'note': ' ',
+ 'pronounce': "`ha:I@'",
+ 'ps': "verb '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["'times,0'[cp8.5]ha"],
+ 'headword': 'hire',
+ 'note': ' ',
+ 'pronounce': ' ',
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ' ',
+ 'headword': 'his',
+ 'note': ' ',
+ 'pronounce': "hIz'",
+ 'ps': "adjective '",
+ 'rest': "[ch1' You use [chhis to show that something belongs to a male "
+         'person who has been mentioned.  He picked up his books and walked '
+         "out. 2 ' pronoun [chHis is used to refer to something that belongs "
+         'to a male person.  Carlos claimed that the book was his.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["[ch1' When something [chhisses, it makes a sound like a long "
+             "'s' sound.  [cf2]The gas hissed as it escaped from the hole "
+             "in the pipe.  [ch2' verb When people [chhiss a speaker or "
+             "performer, they make this sound to show that they don't like "
+             'what is being said or done.  [cf2]The crowd hissed and jeered '
+             'the politicians at the rally.'],
+ 'headword': 'hiss',
+ 'note': ' ',
+ 'pronounce': "hIs'",
+ 'ps': "verb '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'historic',
+ 'note': ' ',
+ 'pronounce': "hI`stO.rIk'",
+ 'ps': "adjective '",
+ 'rest': 'If something is [chhistoric, it is famous or important in '
+         "history.  Have you visited any of Sydney's historic houses?",
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ' ',
+ 'headword': 'historical',
+ 'note': ' ',
+ 'pronounce': "hI`stO.rIk@l'",
+ 'ps': "adjective '",
+ 'rest': "[ch1' [chHistorical things or events existed or occurred in the "
+         'past.  They are regarded as part of history.  A historical fact is '
+         "based on the study of history.  [ch2' adjective [chHistorical "
+         'books or pictures deal with things that existed in the past.',
+ 'senses': ' '}
+
+{'comment': 'plural form [chhistories',
+ 'definition': "'",
+ 'example': ["1 ' If you study [chhistory, you study important events that "
+             'have happened in the past.  [cf2]Anna is very interested in '
+             "modern history[j4]it's her favourite subject at school.  "
+             "[ch2' noun The [chhistory of someone or something is facts "
+             'connected with their past. [cf2]The doctor recorded my '
+             'medical history.'],
+ 'headword': 'history',
+ 'note': ' ',
+ 'pronounce': "`hIstri:, `hIst@ri:'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': 'verb forms [chhits, hit, hitting',
+ 'definition': "'",
+ 'example': ["[ch1' If you [chhit someone or something, you strike them "
+             'with your hand or with an object.  [cf2]The kids were '
+             'fighting and hitting each other.'],
+ 'headword': 'hit',
+ 'note': ' ',
+ 'pronounce': "hIt'",
+ 'ps': "verb '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ["'times,0'[cp8.5]h"],
+ 'headword': 'hit',
+ 'note': ' ',
+ 'pronounce': ' ',
+ 'ps': "adjective '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["[ch1' If you [chhitch something to something else, you hook "
+             'or fasten them together. [cf2]More carriages were hitched '
+             "onto the train at the junction.  [ch2' verb When you [chhitch "
+             "a ride, you get a lift in someone else's vehicle.  [cf2]Maria "
+             'missed the bus and the only way to get to town was to hitch a '
+             "lift.  [ch3' '[cf2]noun A [chhitch is a small problem or a "
+             'temporary delay.  [cf2]The performance went off without a '
+             'hitch.'],
+ 'headword': 'hitch',
+ 'note': ' ',
+ 'pronounce': "hItS'",
+ 'ps': "verb '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["[ch'If you [chhitchhike, you try to get a free ride in a "
+             'passing vehicle by standing at the side of the road and '
+             'signalling to drivers.'],
+ 'headword': 'hitchhike',
+ 'note': ' ',
+ 'pronounce': "`hItSha:Ik'",
+ 'ps': "verb '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'hitherto',
+ 'note': ' ',
+ 'pronounce': "hID@`tu:'",
+ 'ps': "adverb '",
+ 'rest': "In formal language, [chhitherto means 'until now'.  The results "
+         'are better than we have hitherto experienced.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ' ',
+ 'headword': 'hive',
+ 'note': ' ',
+ 'pronounce': "ha:Iv'",
+ 'ps': "noun '",
+ 'rest': "[ch1a' A [chhive is a wooden box made for bees to live in.  On hot "
+         "days you can smell the honey in the hives.  [chb' noun If you say "
+         'a place is a [chhive of industry or a [chhive of activity, you '
+         'mean that it is full of people working hard or bustling about.  '
+         "The early morning fruit market was a hive of activity.  [ch2' "
+         "[chhives'  ' [chHives are an itchy red rash on your skin, caused "
+         "by something you've touched or by food you've eaten that you're "
+         'allergic to.  I must get some lotion from the chemist to put on '
+         'these itchy hives.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['If you [chhoard something, you save up or collect as much of '
+             'it as possible and store it in a safe place.  [cf2]Rumours of '
+             'a distribution strike caused people to hoard provisions.'],
+ 'headword': 'hoard',
+ 'note': ' ',
+ 'pronounce': "h@:d'",
+ 'ps': "verb '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ' ',
+ 'headword': 'hoarding',
+ 'note': ' ',
+ 'pronounce': "`h@:dIN'",
+ 'ps': "noun '",
+ 'rest': "[ch1' A [chhoarding is a high fence put around a site while "
+         'building work is going on.  I used to love peeping through the '
+         "hoardings and staring down into the deep pits.  [ch2' noun A "
+         '[chhoarding is also a large board on which posters and '
+         'advertisements are displayed.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['When your voice is [chhoarse, it sounds harsh and low, '
+             "usually because you've got a cold or you've been shouting or "
+             'talking too much.  [cf2]We were hoarse from barracking for '
+             'our team.'],
+ 'headword': 'hoarse',
+ 'note': ' ',
+ 'pronounce': "h@:s'",
+ 'ps': "adjective '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['A [chhoax is a trick someone plays by making people believe '
+             "something that isn't true.  Generally it is done to cause "
+             'trouble rather than as a joke.  [cf2]The bomb scare turned '
+             'out to be a hoax.'],
+ 'headword': 'hoax',
+ 'note': ' ',
+ 'pronounce': "h@Uks'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'hobble',
+ 'note': ' ',
+ 'pronounce': "`hOb@l'",
+ 'ps': "verb '",
+ 'rest': 'If you [chhobble, you walk with difficulty, taking short limping '
+         'steps, usually because your feet are sore or injured.  I got '
+         'blisters on my heels and had to hobble home.',
+ 'senses': ' '}
+
+{'comment': 'plural form [chhobbies',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'hobby',
+ 'note': ' ',
+ 'pronounce': "`hObi:'",
+ 'ps': "noun '",
+ 'rest': 'A [chhobby is something that you enjoy doing in your spare time.  '
+         "Robert's favourite hobby is building model boats.",
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'hobbyhorse',
+ 'note': ' ',
+ 'pronounce': "`hObi:h@:s'",
+ 'ps': "noun '",
+ 'rest': 'If someone is on their [chhobbyhorse, they are talking about their '
+         'favourite subject with great enthusiasm.  I hoped to leave early, '
+         'but he got onto his hobbyhorse of diving.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['[chHockey is a game that is played by two teams on a field or '
+             'on ice.  The players use sticks with curved ends and long '
+             'handles to try to hit a ball or a rubber disc into a goal.'],
+ 'headword': 'hockey',
+ 'note': ' ',
+ 'pronounce': "`hOki:'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['A [chhoe is a garden tool with a long handle attached to a '
+             'small blade.  You use it to loosen soil and remove weeds.'],
+ 'headword': 'hoe',
+ 'note': ' ',
+ 'pronounce': "h@U'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': 'verb forms [chhogs, hogged, hogging',
+ 'definition': "'",
+ 'example': ["[ch1' A [chhog is a male pig.  [ch2' verb If you [chhog "
+             'something, you take or use more than your fair share of it.  '
+             "[cf2]Don't hog the prawns[j4]leave some for the rest of us."],
+ 'headword': 'hog',
+ 'note': ' ',
+ 'pronounce': "hOg'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["[ch1a' When you [chhoist something, you raise or lift it, "
+             'often with the help of some piece of apparatus.  [cf2]The '
+             'containers were hoisted on board the ship.'],
+ 'headword': 'hoist',
+ 'note': ' ',
+ 'pronounce': "h@:Ist'",
+ 'ps': "verb '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': 'verb forms [chholds, held, holding',
+ 'definition': "'",
+ 'example': ["[ch1' If you [chhold something, you keep it in your hands or "
+             'arms.  You grasp it.  [cf2]You hold this end, Annie.'],
+ 'headword': 'hold',
+ 'note': ' ',
+ 'pronounce': "h@Uld'",
+ 'ps': "verb '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["'times,0'[cp8.5]"],
+ 'headword': 'hold',
+ 'note': ' ',
+ 'pronounce': ' ',
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["[ch1a' A [chhole is an opening through something flat.  "
+             '[cf2]They squeezed through the hole in the fence.'],
+ 'headword': 'hole',
+ 'note': ' ',
+ 'pronounce': "h@Ul'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["[ch1' A [chholiday is a period of time when you have a rest "
+             'from work, school or studies.  [cf2]We took a holiday in Fiji '
+             'last year.'],
+ 'headword': 'holiday',
+ 'note': ' ',
+ 'pronounce': "`hOl@dEI'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["[ch1a' If something is [chhollow, it has a hole inside it.  "
+             'It is not solid.  [cf2]She gave me a hollow chocolate egg.'],
+ 'headword': 'hollow',
+ 'note': ' ',
+ 'pronounce': "`hOl@U'",
+ 'ps': "adjective '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'holocaust',
+ 'note': ' ',
+ 'pronounce': "`hOl@kOst'",
+ 'ps': "noun '",
+ 'rest': 'A [chholocaust is an enormous disaster when many people are '
+         'killed. No-one wants to see a nuclear holocaust destroy the world.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'hologram',
+ 'note': ' ',
+ 'pronounce': "`hOl@grAm'",
+ 'ps': "noun '",
+ 'rest': 'A [chhologram is a picture made with a laser which appears to have '
+         'three dimensions although the surface is flat.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'holster',
+ 'note': ' ',
+ 'pronounce': "`h@Ulst@'",
+ 'ps': "noun '",
+ 'rest': 'A [chholster is a case for a pistol, worn on a belt around the '
+         'waist.',
+ 'senses': ' '}
+
+{'comment': 'adjective forms [chholier, holiest',
+ 'definition': "'",
+ 'example': ['If something is [chholy, it relates to God or to a particular '
+             'religion. [cf2]This is one of the holiest days in the '
+             'Christian calendar.'],
+ 'headword': 'holy',
+ 'note': ' ',
+ 'pronounce': "`h@Uli:'",
+ 'ps': "adjec~ tive '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'homage',
+ 'note': ' ',
+ 'pronounce': "`hOmIdZ'",
+ 'ps': "noun '",
+ 'rest': '[chHomage is great respect or honour that you show to a person or '
+         'an ideal. On Anzac Day, Australians pay homage to their war heroes.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["[ch1a' Your [chhome is the unit or house where you live.  "
+             '[cf2]My home is in the third block of units on the left.  '
+             "[chb' noun Your [chhome is also the town or country where you "
+             "live or were born.  [cf2]I'm only here for a holiday[j4]my "
+             'home is New York.'],
+ 'headword': 'home',
+ 'note': ' ',
+ 'pronounce': "h@Um'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'homeland',
+ 'note': ' ',
+ 'pronounce': "`h@UmlAnd'",
+ 'ps': "noun '",
+ 'rest': 'Your [chhomeland is the country where you were born.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['If you are [chhomesick when you are away from your home, you '
+             'feel sad because you miss your family, friends and familiar '
+             'surroundings.  [cf2]When I first came to Australia I was '
+             'dreadfully homesick, but I soon settled in.'],
+ 'headword': 'homesick',
+ 'note': ' ',
+ 'pronounce': "`h@UmsIk'",
+ 'ps': "adjective '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'homestead',
+ 'note': ' ',
+ 'pronounce': "`h@UmstEd'",
+ 'ps': "noun '",
+ 'rest': 'A [chhomestead is the main house on a station or large farm.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'home unit',
+ 'note': ' ',
+ 'pronounce': "`h@Um ju:n@t'",
+ 'ps': "noun '",
+ 'rest': '[chHome unit is another word for [chflat, [chapartment or [chunit.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["[ch1' [chHomework is the work students have to do at home for "
+             "the course they're studying.  [cf2]Kate went out after she'd "
+             "finished her homework.  [ch2' noun [chHomework is also the "
+             'preparation you do before an activity such as a meeting or '
+             'discussion, or before giving a report or speech.  [cf2]Oralie '
+             'was able to answer all the questions[j4]she had done her '
+             'homework well.'],
+ 'headword': 'homework',
+ 'note': ' ',
+ 'pronounce': "`h@Umw@:k'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['[chHomicide is the crime of killing someone.  It includes '
+             'both [chmurder and [chmanslaughter.'],
+ 'headword': 'homicide',
+ 'note': ' ',
+ 'pronounce': "`hOm@sa:Id'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["[ch'[chHomoeopathy is a way of treating disease by giving "
+             'very small doses of drugs which, if given in larger doses, '
+             'would cause similar symptoms to those of the disease being '
+             'treated.'],
+ 'headword': 'homoeopathy',
+ 'note': ' ',
+ 'pronounce': "h@Umi:`Op@Ti:'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["'times,0'[cp8.5]ho"],
+ 'headword': 'homogeneous',
+ 'note': ' ',
+ 'pronounce': ' ',
+ 'ps': "adjective '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["'times,0'[cp8.5]ho"],
+ 'headword': 'homosexual',
+ 'note': ' ',
+ 'pronounce': ' ',
+ 'ps': "adjective '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["[ch'If someone or something is [chhonest, you can trust them "
+             'or rely on them. They will not deceive you or trick you.  '
+             "[cf2]It's very honest of you to admit your mistake."],
+ 'headword': 'honest',
+ 'note': ' ',
+ 'pronounce': "`On@st'",
+ 'ps': "adjective '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ' ',
+ 'headword': 'honey',
+ 'note': ' ',
+ 'pronounce': "`hV ni:'",
+ 'ps': "noun '",
+ 'rest': "[ch1' [chHoney is the sticky, sweet food that bees make from "
+         "flowers.  [ch2' noun In informal language, you can call someone "
+         'you are fond of [hmp1][chhoney.  What time will you be home, '
+         'honey?  '
+         '[cb8][mgdict_honeycomb,-4][mgdict_honeycomb,-1][ol0][cb0][qr',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': '',
+ 'note': ' ',
+ 'pronounce': "`hV ni:k@Um'",
+ 'ps': "noun '",
+ 'rest': '[ir(s76),(s75+6)]honeycomb  A [chhoneycomb is the wax structure '
+         'that bees make in their hive to store honey, pollen and eggs.  It '
+         'is made up of small six- sided cells.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['A [chhoneymoon is a holiday that a bride and groom have '
+             'straight after their wedding.  [cf2]Neelam and Vishal spent '
+             'their honeymoon at the Barrier Reef.'],
+ 'headword': 'honeymoon',
+ 'note': ' ',
+ 'pronounce': "`hV ni:mu:n'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["[ch1' If you have an [chhonorary job or position, you do the "
+             'work without being paid.  [cf2]Emil has been elected honorary '
+             "treasurer of the sports club.  [ch2' adjective If you have an "
+             '[chhonorary title or are an [chhonorary member of an '
+             'organisation, you are given the title or allowed to be a '
+             'member as a mark of special recognition.  [cf2]The university '
+             'awarded him an honorary degree for his contribution to '
+             'Australian literature.'],
+ 'headword': 'honorary',
+ 'note': ' ',
+ 'pronounce': "`On@r@ri:'",
+ 'ps': "adjective '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["[ch1a' [chHonour is being treated with great respect and "
+             'admiration by people in general.  [cf2]His success did not '
+             "bring him the honour he deserved.  [chb' noun If something "
+             'that happens to you is an [chhonour, you are very pleased and '
+             'proud about it.  [cf2]It was an honour to be chosen team '
+             "captain. 2 ' '[cf2]verb If you [chhonour an arrangement or a "
+             'promise, you do what you have agreed to do.  [cf2]The job '
+             "wasn't finished on time as the builders didn't honour their "
+             'contract.'],
+ 'headword': 'honour',
+ 'note': ' ',
+ 'pronounce': "`On@'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ['If someone or something is [chhonourable, they are decent and '
+             'well-meaning.  You can rely on them to do the right thing.  '
+             "[cf2]It wouldn't be honourable to back out now."],
+ 'headword': 'honourable',
+ 'note': ' ',
+ 'pronounce': "`On@r@b@l'",
+ 'ps': "adjective '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ' ',
+ 'headword': 'hood',
+ 'note': ' ',
+ 'pronounce': "hUd'",
+ 'ps': "noun '",
+ 'rest': "[oi0,(s75+6)]   [ch1' A [chhood is a soft covering for your head "
+         'and neck.  It is usually attached to the top of a coat or cloak '
+         "and hangs down the back when it isn't being worn.  [ch2' noun A "
+         "[chhood is also a folding roof over a car or baby's pram.",
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'hoodlum',
+ 'note': ' ',
+ 'pronounce': "`hu:dl@m'",
+ 'ps': "noun '",
+ 'rest': 'A [chhoodlum is someone who behaves in a destructive and violent '
+         'way.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'hoodwink',
+ 'note': ' ',
+ 'pronounce': "`hUdwINk'",
+ 'ps': "verb '",
+ 'rest': 'If someone [chhoodwinks you, they deceive or trick you because you '
+         "don't really understand what is happening. Lee was too smart to be "
+         'hoodwinked into paying more than his share.',
+ 'senses': ' '}
+
+{'comment': 'plural forms [chhoofs or[ch hooves',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'hoof',
+ 'note': ' ',
+ 'pronounce': "hu:f'",
+ 'ps': "noun '",
+ 'rest': 'A [chhoof is the hard part under the foot of animals such as '
+         'horses, cows and deer.  '
+         '[cb8][mgdict_hook,-4][mgdict_hook,-1][ol0][cb0][qr',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["[ir(s76),(s75+6)]hook   [ch1' A [chhook is a curved piece of "
+             'metal or plastic that is used to hang things on or to hold '
+             'things in place.  [cf2]Harold took off his hat and hung it on '
+             "a hook in the wall.  [ch2' [chby hook or by crook'   If you "
+             'say you will achieve something [chby hook or by crook, you '
+             'mean that you are determined to succeed somehow, even if it '
+             'is very difficult and you have to try several different '
+             'ways.  [cf2]Anjali was determined to get her promotion by '
+             "hook or by crook. [ch3 ' [chhooked'  '[cf2] In informal "
+             'language, if you say you are [chhooked on something, you mean '
+             'that you really enjoy it and want to do it as much as '
+             "possible.  [cf2]Neil is really hooked on golf[j4]he's out "
+             'playing every weekend.'],
+ 'headword': '',
+ 'note': ' ',
+ 'pronounce': "hUk'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['A [chhooligan is a noisy, disorderly person who causes '
+             'trouble.'],
+ 'headword': 'hooligan',
+ 'note': ' ',
+ 'pronounce': "`hu:l@g@n'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'hoon',
+ 'note': ' ',
+ 'pronounce': "hu:n'",
+ 'ps': 'noun',
+ 'rest': "In informal language, a hoon' is a person who is loud and "
+         'careless, especially someone who drives a car recklessly.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ['A [chhoop is a large circular band made from a rigid material '
+             'such as metal or wood. [cf2]The barrels are bound with metal '
+             'hoops.'],
+ 'headword': 'hoop',
+ 'note': ' ',
+ 'pronounce': "hu:p'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': 'verb forms [chhops, hopped, hopping',
+ 'definition': "'",
+ 'example': ["1a ' If you [chhop, you jump on one foot.  [chb' verb When "
+             'animals [chhop, they jump with all their feet together.  '
+             '[cf2]The kangaroos hopped into the bushes as we got nearer.  '
+             "[ch2' '[cf2] If you [chhop somewhere, you move there fairly "
+             "quickly and casually.  [cf2]Hop in and I'll give you a lift "
+             'to work.'],
+ 'headword': 'hop',
+ 'note': ' ',
+ 'pronounce': "hOp'",
+ 'ps': "verb '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["[ch1' [chHope is believing that something you want may "
+             'happen.  [cf2]Hope is fading for the missing teenager.'],
+ 'headword': 'hope',
+ 'note': ' ',
+ 'pronounce': "h@Up'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["[ch1' If someone is [chhopeful, they are optimistic and think "
+             'that things may turn out well.  [cf2]I felt much more hopeful '
+             'in the morning.'],
+ 'headword': 'hopeful',
+ 'note': ' ',
+ 'pronounce': "`h@UpfUl'",
+ 'ps': "adjective '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["[ch1' If a situation is [chhopeless, there is nothing that "
+             'can be done to make it better.  [cf2]By the time she reached '
+             "hospital she was a hopeless case.  [ch2' adjective In "
+             'informal language, if you say you are [chhopeless at '
+             'something, you mean you have no skill or talent for it.  '
+             "[cf2]I'm hopeless at gardening[j4]I wouldn't know a plant "
+             'from a weed.'],
+ 'headword': 'hopeless',
+ 'note': ' ',
+ 'pronounce': "`h@Upl@s'",
+ 'ps': "adjective '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ['A [chhorde is a large number of people or animals that you '
+             'regard as unpleasant or threatening in some way.  [cf2]You '
+             "can tell it's the school holidays[j4]the shopping centres are "
+             'full of hordes of noisy children.'],
+ 'headword': 'horde',
+ 'note': ' ',
+ 'pronounce': "h@:d'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ['The [chhorizon is the line in the distance where the sky '
+             'seems to meet the land or the sea.  [cf2]A cloud of dust '
+             'appeared on the horizon.'],
+ 'headword': 'horizon',
+ 'note': ' ',
+ 'pronounce': "h@`ra:Iz@n'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['If something is [chhorizontal, it is flat instead of being '
+             'upright.  [cf2]She drew a horizontal line across the page.'],
+ 'headword': 'horizontal',
+ 'note': ' ',
+ 'pronounce': "hOr@`zOntl'",
+ 'ps': "adjective '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['A [chhormone is a chemical substance produced by a gland in '
+             'the body.  It affects the working of other parts of the body.'],
+ 'headword': 'hormone',
+ 'note': ' ',
+ 'pronounce': "`h@:m@Un'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ' ',
+ 'headword': 'horn',
+ 'note': ' ',
+ 'pronounce': "h@:n'",
+ 'ps': "noun '",
+ 'rest': "[ch1' [chHorns are hard, pointed growths on the heads of animals "
+         "such as cows and rams.  [ch2' noun A [chhorn is a musical wind "
+         "instrument, usually made of brass.  [ch3' 'noun A [chhorn is a "
+         'device on a vehicle that makes a loud noise to give a warning.  '
+         "Toot the horn[j4]that car's about to back into us.",
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ['A [chhoroscope is a diagram that shows the position of the '
+             'planets in the sky at the time of your birth.  This is used '
+             'to forecast your future.  [cf2]Do you believe in horoscopes?'],
+ 'headword': 'horoscope',
+ 'note': ' ',
+ 'pronounce': "`hOr@sk@Up'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['In informal language, if you say something is [chhorrendous, '
+             'you mean that it is very severe or unpleasant.  [cf2]There '
+             'have been horrendous delays at the airport.'],
+ 'headword': 'horrendous',
+ 'note': ' ',
+ 'pronounce': "h@`rEnd@s'",
+ 'ps': "adjective '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["[ch1' If something is [chhorrible, it makes you very afraid "
+             "or disgusted.  [cf2]I didn't sleep well[j4]I had horrible "
+             'nightmares.'],
+ 'headword': 'horrible',
+ 'note': ' ',
+ 'pronounce': "`hOr@b@l'",
+ 'ps': "adjective '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': 'verb forms [chhorrifies, horrified, horrifying',
+ 'definition': ' ',
+ 'example': ['If something [chhorrifies you or you are horrified by it, you '
+             'are very shocked, surprised or distressed by it.  You think '
+             "it's very bad.  [cf2]It horrifies me the way they neglect "
+             'their children.'],
+ 'headword': 'horrify',
+ 'note': ' ',
+ 'pronounce': "`hOr@fa:I'",
+ 'ps': "verb '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["[ch1' [chHorror is a very strong feeling of fear and "
+             "disgust.  [cf2]Liam's always had a horror of snakes.  [ch2' "
+             'noun In informal language, if you say something or someone is '
+             'a [chhorror, you mean that it is difficult or unpleasant to '
+             'deal with them.  [cf2]Apparently the auditors discovered some '
+             'real horrors.'],
+ 'headword': 'horror',
+ 'note': ' ',
+ 'pronounce': "`hOr@'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'hors d',
+ 'note': ' ',
+ 'pronounce': "@: `d@:v'",
+ 'ps': "noun '",
+ 'rest': "An [chhors d'oeuvre is a small, savoury piece of food usually "
+         'served with drinks before a main meal.  These freshly prepared '
+         "hors d'oeuvres are delicious.",
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["[ch1' A [chhorse is a large animal with four legs, hoofs, and "
+             'a flowing tail and mane.  It can pull things along and you '
+             'can ride it.  A male horse is called a [chstallion and a '
+             "female horse is called a [chmare.  [ch2' [cheat like a "
+             "horse'   If you [cheat like a horse, you eat a lot.  You have "
+             "a big appetite. [cf2]The kids eat like horses[j4]I couldn't "
+             "believe how much food they put away.  [ch3' [chfrom the "
+             "horse's mouth'  '[cf2] If you hear something [chfrom the "
+             "horse's mouth, you are told it by the person concerned, so "
+             'you can be sure it is true.  [cf2]You can believe this[j4] it '
+             "came straight from the horse's mouth.  [ch4' [chhold your "
+             "horses'  '[cf2] If someone tells you to [chhold your horses, "
+             'they mean that you should not rush into doing something.  '
+             "[cf2]You've got a whole week to sort it out, so hold your "
+             'horses and work out carefully how to do it.'],
+ 'headword': 'horse',
+ 'note': ' ',
+ 'pronounce': "h@:s'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'horseshoe',
+ 'note': ' ',
+ 'pronounce': "`h@:sSu:'",
+ 'ps': "noun '",
+ 'rest': 'A [chhorseshoe is a U- shaped metal plate which is nailed to the '
+         "bottom of a horse's hoof to protect it.",
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['[chHorticulture is growing flowers, fruit and vegetables.'],
+ 'headword': 'horticulture',
+ 'note': ' ',
+ 'pronounce': "`h@:t@kV ltS@'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['A [chhose is a long, flexible tube made of rubber or plastic '
+             'for carrying water.  [cf2]I need a new garden hose so I can '
+             'water the plants.'],
+ 'headword': 'hose',
+ 'note': ' ',
+ 'pronounce': "h@Uz'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'hosiery',
+ 'note': ' ',
+ 'pronounce': "`h@UZ@ri:'",
+ 'ps': "noun '",
+ 'rest': '[chHosiery is a formal word for socks, stockings and tights.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'hospice',
+ 'note': ' ',
+ 'pronounce': "`hOsp@s'",
+ 'ps': "noun '",
+ 'rest': 'A [chhospice is a hospital where patients who are dying can '
+         'receive special care.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['A [chhospital is an insti~ tution where sick and injured '
+             'people get medical treatment.  [cf2]I had to spend a week in '
+             'hospital.'],
+ 'headword': 'hospital',
+ 'note': ' ',
+ 'pronounce': "`hOsp@tl'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['[chHospitality is the welcome you give to your guests and the '
+             'food and accommodation you provide for them.  [cf2]We were '
+             "grateful for our friends' hospitality while travelling "
+             'overseas.'],
+ 'headword': 'hospitality',
+ 'note': ' ',
+ 'pronounce': "hOsp@`tAl@ti:'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['A [chhost is a person who entertains guests, for example by '
+             'giving a party or having them to stay.  [cf2]We said goodbye '
+             'and thanked our host for a wonderful party.'],
+ 'headword': 'host',
+ 'note': ' ',
+ 'pronounce': "h@Ust'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'hostage',
+ 'note': ' ',
+ 'pronounce': "`hOstIdZ'",
+ 'ps': "noun '",
+ 'rest': 'A [chhostage is a person who is kept as a prisoner by an '
+         'individual or an organisation in an attempt to force the '
+         "authorities or the hostage's family to meet their demands.",
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'hostel',
+ 'note': ' ',
+ 'pronounce': "`hOst@l, hOs`tEl'",
+ 'ps': "noun '",
+ 'rest': 'A [chhostel is an institution where people can get cheap accom~ '
+         'modation, usually with shared facilities for cooking and washing.  '
+         'Mark lived in a hostel while studying at university.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['If someone is [chhostile, they are unfriendly and '
+             'aggressive.  [cf2]His presentation met with a hostile '
+             'reception.'],
+ 'headword': 'hostile',
+ 'note': ' ',
+ 'pronounce': "`hOsta:Il'",
+ 'ps': "adjective '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': "adjective forms [chhotter, hottest; '[cf2]verb forms [chhots, "
+            'hotted, hotting',
+ 'definition': "'",
+ 'example': ["[ch1a' If something is [chhot, it has a high temperature.  "
+             "[cf2]Be careful you don't burn yourself on the hot stove."],
+ 'headword': 'hot',
+ 'note': ' ',
+ 'pronounce': "hOt'",
+ 'ps': "adjective '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'hot chips',
+ 'note': ' ',
+ 'pronounce': "hOt `tSIps'",
+ 'ps': "noun '",
+ 'rest': '[chHot chips are long, thin pieces of potato that have been '
+         'freshly fried.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'hot dog',
+ 'note': ' ',
+ 'pronounce': "`hOt dOg, hOt `dOg'",
+ 'ps': "noun '",
+ 'rest': 'A [chhot dog is a sausage or frankfurt served in a long bread roll '
+         'with mustard or tomato sauce.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ' ',
+ 'headword': 'hotel',
+ 'note': ' ',
+ 'pronounce': "h@U`tEl'",
+ 'ps': "noun '",
+ 'rest': "[ch1' A [chhotel is a place where you can stay when you are on "
+         'holiday or travelling on business.  It has many rooms and usually '
+         "restaurants, bars and services such as a laundry. We're going to "
+         'the Barrier Reef for our holidays and staying at a new luxury '
+         "hotel.  [ch2' noun [chHotel is also a more formal word for "
+         '[chpub.  A fight broke out at the hotel on Saturday night and the '
+         'police were called.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ['A [chhothouse is a building for growing plants in.  It is '
+             'usually made of glass and is often heated.'],
+ 'headword': 'hothouse',
+ 'note': ' ',
+ 'pronounce': "`hOtha:Us'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'hotline',
+ 'note': ' ',
+ 'pronounce': "`hOtla:In'",
+ 'ps': "noun '",
+ 'rest': 'A [chhotline is a telephone line set up for a special purpose, '
+         'such as for people to make enquiries in case of an emergency.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'hotplate',
+ 'note': ' ',
+ 'pronounce': "`hOtplEIt'",
+ 'ps': "noun '",
+ 'rest': 'A [chhotplate is a metal plate on the top of an electric stove or '
+         'barbecue. When it is heated you can cook food on it.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ' ',
+ 'headword': 'hound',
+ 'note': ' ',
+ 'pronounce': "ha:Und'",
+ 'ps': "noun '",
+ 'rest': "[ch1' A [chhound is a dog, particularly a hunting dog.  [ch2' verb "
+         'If you [chhound someone, you constantly nag them or harass them. '
+         'The couple were hounded by reporters and photo~ [chgraphers '
+         'wherever they went.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["[ch1' An [chhour is a measurement of time equal to sixty "
+             "minutes.  [cf2]It'll take about four hours to drive there."],
+ 'headword': 'hour',
+ 'note': ' ',
+ 'pronounce': 'r"a:U@\'',
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["<for the noun>; <for the verb>,  'times,0'[cp8.5]ha"],
+ 'headword': 'house',
+ 'note': ' ',
+ 'pronounce': "ha:Us'",
+ 'ps': "noun  '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ['A [chhousebreaker is a thief who breaks into houses in order '
+             'to steal valuables.'],
+ 'headword': 'housebreaker',
+ 'note': ' ',
+ 'pronounce': "`ha:UsbrEIk@'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['A [chhousehold is a group of people who live in the same '
+             'accommo~ dation.  [cf2]The crying baby kept the whole '
+             'household awake.'],
+ 'headword': 'household',
+ 'note': ' ',
+ 'pronounce': "`ha:Ush@Uld'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['[chHousekeeping is the work involved in running a home, such '
+             'as shopping, cooking, cleaning and maintenance. '
+             '[cf2]Housekeeping for a large family can be a full-time job.'],
+ 'headword': 'housekeeping',
+ 'note': ' ',
+ 'pronounce': "`ha:Uski:pIN'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ["'times,0'[cp8.5]"],
+ 'headword': 'house',
+ 'note': ' ',
+ 'pronounce': ' ',
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': 'plural form [chhousewives',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'housewife',
+ 'note': ' ',
+ 'pronounce': "`ha:Uswa:If'",
+ 'ps': "noun '",
+ 'rest': 'A [chhousewife is a woman who does not have a paid job, but looks '
+         'after her family at home.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ['[chHousework is work such as cleaning and washing that you do '
+             'to keep[fj [fp[np  [np[hmp5.5]your home pleasant to live in.  '
+             '[cf2]I make the children help with the housework.'],
+ 'headword': 'housework',
+ 'note': ' ',
+ 'pronounce': "`ha:Usw@:k'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'hovel',
+ 'note': ' ',
+ 'pronounce': "`hOv@l'",
+ 'ps': "noun '",
+ 'rest': 'A [chhovel is a small, shabby house or hut.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ' ',
+ 'headword': 'hover',
+ 'note': ' ',
+ 'pronounce': "`hOv@'",
+ 'ps': "verb '",
+ 'rest': "[ch1' When birds or insects [chhover, they stay in one spot in the "
+         "air.  Look at the insects hovering over the pond.  [ch2' verb If "
+         "you [chhover, you stay around somewhere because you aren't sure "
+         'what to do.  James hovered in the background in case he was needed '
+         'to help.',
+ 'senses': ' '}
+
+{'comment': 'plural form [chhovercraft',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'hovercraft',
+ 'note': ' ',
+ 'pronounce': "`hOv@kra:ft'",
+ 'ps': "noun '",
+ 'rest': 'A [chhovercraft is a vehicle that travels across water or land '
+         'supported on a cushion of air.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["[ch1' You use [chhow when you want to know in what way or by "
+             'what means something happens or is done.  [cf2]How did you '
+             'get hurt?'],
+ 'headword': 'how',
+ 'note': ' ',
+ 'pronounce': "ha:U'",
+ 'ps': "adverb '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ' ',
+ 'headword': 'however',
+ 'note': ' ',
+ 'pronounce': "ha:U`Ev@'",
+ 'ps': "adverb '",
+ 'rest': "[ch1' [chHowever is a formal word used to emphasise a contrast "
+         "with something else you say or with what might be expected.  I'd "
+         "love to go to the movies; however, I haven't got the time.   "
+         "[ch2a' adverb [chHowever also means 'in whatever way'.  You can "
+         "have the steak cooked however you like it.  [chb' 'adverb "
+         "[chHowever also means 'no matter to what extent'.  I'm not going "
+         'to accept the offer however attractive it looks.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["[ch1a' If a dog or wolf [chhowls, it makes a long, loud, "
+             "crying sound.  [chb' verb When the wind [chhowls, it blows "
+             "strongly and makes a lot of noise.  [ch2' [chhowl down'  "
+             "'[cf2] If you [chhowl a speaker [chdown, you jeer at them so "
+             "loudly that what they are saying can't be heard.  [cf2]It was "
+             'a poor performance and towards the end the actors were howled '
+             'down by the audience.'],
+ 'headword': 'howl',
+ 'note': ' ',
+ 'pronounce': "ha:Ul'",
+ 'ps': "verb '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ['for [chheadquarters.  [cf2]The command came from army HQ.'],
+ 'headword': 'HQ',
+ 'note': ' ',
+ 'pronounce': "EItS`kju:.'",
+ 'ps': "abbreviation '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'hr',
+ 'note': ' ',
+ 'pronounce': "a:U@'",
+ 'ps': "abbreviation '",
+ 'rest': 'for [chhour.  WALKING TRACK TO LOOKOUT: 1 HR RETURN',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ' ',
+ 'headword': 'HSC',
+ 'note': ' ',
+ 'pronounce': "EItS Es `si:.'",
+ 'ps': "abbreviation '",
+ 'rest': 'for Higher School Certificate.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'ht',
+ 'note': ' ',
+ 'pronounce': "ha:It'",
+ 'ps': "abbreviation '",
+ 'rest': 'for [chheight.  LOW BRIDGE[j4] MAXIMUM HT 6 METRES',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ' ',
+ 'headword': 'hub',
+ 'note': ' ',
+ 'pronounce': "hV b'",
+ 'ps': "noun '",
+ 'rest': "[ch1' The [chhub of a wheel is its central part.  [ch2' noun A "
+         '[chhub is also the central and most important part of a busy '
+         "place.  Jaron's office is in the hub of the business district.",
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["[ch'If you [chhuddle somewhere, you keep the parts of your "
+             "body tightly together so that you don't take up much space.  "
+             '[cf2]The children huddled under the blankets to keep warm.'],
+ 'headword': 'huddle',
+ 'note': ' ',
+ 'pronounce': "`hV dl'",
+ 'ps': "verb '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'hue',
+ 'note': ' ',
+ 'pronounce': "hju:'",
+ 'ps': "noun '",
+ 'rest': '[chHue is a formal word for a colour or a particular shade of a '
+         'colour.  The blue hues of the ocean around the coral reefs are '
+         'truly spectacular on a sunny day.',
+ 'senses': ' '}
+
+{'comment': 'verb forms [chhugs, hugged, hugging',
+ 'definition': "'",
+ 'example': ['If you [chhug someone, you squeeze them tightly with your '
+             'arms to show your affection for them. [cf2]We all hugged Anne '
+             'before she got on her plane.'],
+ 'headword': 'hug',
+ 'note': ' ',
+ 'pronounce': "hV g'",
+ 'ps': "verb '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['If something is [chhuge, it is very large.  [cf2]The elephant '
+             'is a huge animal.'],
+ 'headword': 'huge',
+ 'note': ' ',
+ 'pronounce': "hju:dZ'",
+ 'ps': "adjective '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['In informal language, if someone or something is large, heavy '
+             'or clumsy, you can describe them as a [chhulk.  [cf2]Her '
+             'eldest son is a real hulk[j4]plenty of muscle but no brains.'],
+ 'headword': 'hulk',
+ 'note': ' ',
+ 'pronounce': "hV lk'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'hull',
+ 'note': ' ',
+ 'pronounce': "hV l'",
+ 'ps': "noun '",
+ 'rest': 'The [chhull of a ship is the main part of it that floats in the '
+         'water.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'hullo',
+ 'note': ' ',
+ 'pronounce': "`hV l@U, h@`l@U'",
+ 'ps': "interjection '",
+ 'rest': '[chHullo is another spelling of [chhello.',
+ 'senses': ' '}
+
+{'comment': 'verb forms [chhums, hummed, humming',
+ 'definition': "'",
+ 'example': ["[ch1' When something [chhums, it makes a continuous low "
+             'sound.  [cf2]On a warm spring day you can hear the bees '
+             "humming in the flowering gums. [ch2' verb When you [chhum, "
+             'you sing a tune with your lips closed.  [cf2]Lucy hummed a '
+             'tune as she walked along.'],
+ 'headword': 'hum',
+ 'note': ' ',
+ 'pronounce': "hV m'",
+ 'ps': "verb '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["[ch1' [chHuman means relating to people.  [cf2]They "
+             'discovered human remains in the ditch.'],
+ 'headword': 'human',
+ 'note': ' ',
+ 'pronounce': "`hju:m@n'",
+ 'ps': "adjective '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['If you are [chhumane, you treat people and animals with '
+             'kindness.  You are not cruel.  [cf2]I thought it was more '
+             'humane not to let him know how sick he was.'],
+ 'headword': 'humane',
+ 'note': ' ',
+ 'pronounce': "hju:;`mEIn'",
+ 'ps': "adjective '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'humanitarian',
+ 'note': ' ',
+ 'pronounce': "hju:;mAn@`tE@ri:@n'",
+ 'ps': "adjective '",
+ 'rest': 'If something is described as [chhumanitarian, it is concerned with '
+         'relieving suffering.  The company donates considerable sums to '
+         'humanitarian causes.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ' ',
+ 'headword': 'humanity',
+ 'note': ' ',
+ 'pronounce': "hju:`mAn@ti:'",
+ 'ps': "noun '",
+ 'rest': "[ch1' [chHumanity is people as a whole.  These moral issues have "
+         "been of importance throughout the history of humanity.  [ch2' noun "
+         '[chHumanity is not being cruel to people or animals.  The '
+         'prisoners were treated with humanity.',
+ 'senses': ' '}
+
+{'comment': 'adjective forms [chhumbler, hum~ blest',
+ 'definition': "'",
+ 'example': ["[ch1' If you are [chhumble, you do not boast or feel proud "
+             'about what you have achieved. [cf2]Many religions teach that '
+             "it is virtuous to be humble. 2 ' adjective If someone or "
+             'something is [chhumble, they are low in status.  [cf2]Seth '
+             'had worked as a humble servant all his life.'],
+ 'headword': 'humble',
+ 'note': ' ',
+ 'pronounce': "`hV mb@l'",
+ 'ps': "adjective '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ['If something is [chhumdrum, it is boring and lacks variety.  '
+             '[cf2]I was fed up with my humdrum way of life.'],
+ 'headword': 'humdrum',
+ 'note': ' ',
+ 'pronounce': "`hV mdrV m'",
+ 'ps': "adjective '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['When the weather is [chhumid, the air feels damp and sticky.  '
+             '[cf2]The plants in the hothouse thrive on the humid '
+             'atmosphere.'],
+ 'headword': 'humid',
+ 'note': ' ',
+ 'pronounce': "`hju:m@d'",
+ 'ps': "adjective '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['If someone [chhumiliates you, they make you feel '
+             'embarrassed.  [cf2]Ned deserves to be humiliated for playing '
+             'dirty tricks on people.'],
+ 'headword': 'humiliate',
+ 'note': ' ',
+ 'pronounce': "hju:`mIli:EIt'",
+ 'ps': "verb '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'humility',
+ 'note': ' ',
+ 'pronounce': "hju:`mIl@ti:'",
+ 'ps': "noun '",
+ 'rest': '[chHumility is being humble.  Despite his fame he was a man of '
+         'great humility and charm.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["[ch1' [chHumour is being funny. [cf2]The novel was "
+             "light-hearted and full of humour.  [ch2' [chsense of "
+             "humour'   Your [chsense of humour is what you find funny.  "
+             "[cf2]We get on well because we've got the same sense of "
+             'humour.'],
+ 'headword': 'humour',
+ 'note': ' ',
+ 'pronounce': "`hju:m@'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ['[ir(s76),(s75+6)]hump  A [chhump is a large lump rising out '
+             'of the surface of something. [cf2]The Arabian camel has one '
+             'hump and the Bactrian camel has two humps.'],
+ 'headword': '',
+ 'note': ' ',
+ 'pronounce': "hV mp'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': 'plural form [chhumpies',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'humpy',
+ 'note': ' ',
+ 'pronounce': "`hV mpi:'",
+ 'ps': "noun '",
+ 'rest': 'A [chhumpy is a hut or simple shelter used by Aborigines in the '
+         'bush.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ['In informal language, a [chhunch is an intuition you have '
+             'about something.  [cf2]I had a hunch that he was going to '
+             'announce his resignation.'],
+ 'headword': 'hunch',
+ 'note': ' ',
+ 'pronounce': "hV ntS'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["[ch1a' [chHundred is the number 100, ten lots of ten.  "
+             "[cf2]If you score over a hundred you're doing very well.  "
+             "[chb' adjective If you have a [chhundred things, the number "
+             'of things you have adds up to one hundred.  [cf2]More than a '
+             "hundred people turned up for the meeting.  [ch2' "
+             "[chhundreds'  '[cf2] In informal language, you can use "
+             "[chhundreds to mean a large number.  [cf2]I'm going to be "
+             "busy today[j4]I've got hundreds of letters to write."],
+ 'headword': 'hundred',
+ 'note': ' ',
+ 'pronounce': "`hV ndr@d'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'hung',
+ 'note': ' ',
+ 'pronounce': "hV N'",
+ 'ps': "verb '",
+ 'rest': '[chHung is the past tense and past participle of [chhang.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ' ',
+ 'headword': 'Hungarian',
+ 'note': ' ',
+ 'pronounce': "hV N`gE@ri:@n'",
+ 'ps': "adjective '",
+ 'rest': "[ch1' If someone or something comes from Hungary, you describe "
+         "them as [chHungarian.  [ch2' noun [chHungarian is the language of "
+         'Hungary.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["[ch1a' [chHunger is the feeling you get when you need to "
+             "eat.  [cf2]Maureen didn't stay on the diet for long[j4]she "
+             "couldn't put up with the hunger between meals.  [chb' noun "
+             '[chHunger is also a lack of food to eat.  [cf2]Millions of '
+             "people in the world live in poverty and hunger.  [ch2' "
+             "'[cf2]noun [chHunger is also a strong desire for something.  "
+             "[cf2]Bradley couldn't settle down for long[j4]he had a hunger "
+             'for travel.'],
+ 'headword': 'hunger',
+ 'note': ' ',
+ 'pronounce': "`hV Ng@'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["[ch1' If someone [chhunts wild animals, they try to find and "
+             'kill them.  [cf2]Some farmers hunt the kangaroos because they '
+             "can be a pest.  [ch2' verb If you [chhunt for something, you "
+             "search for it.  You try to find it.  [cf2]I've hunted "
+             "everywhere but I can't find the other sock."],
+ 'headword': 'hunt',
+ 'note': ' ',
+ 'pronounce': "hV nt'",
+ 'ps': "verb '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ' ',
+ 'headword': 'hurdle',
+ 'note': ' ',
+ 'pronounce': "`h@:dl'",
+ 'ps': "noun '",
+ 'rest': "[ch1' A [chhurdle is a fence that runners or horses have to jump "
+         "over in certain races.  [ch2' noun A [chhurdle is a problem or "
+         'difficulty that you have to overcome in order to achieve what you '
+         'want.  The venture is unlikely to succeed[j4] there are too many '
+         'hurdles in the way.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'hurl',
+ 'note': ' ',
+ 'pronounce': "h@:l'",
+ 'ps': "verb '",
+ 'rest': 'If you [chhurl something, you throw it violently.  Demonstrators '
+         'hurled missiles at the police.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ['[chHurray is an excla~ mation of joy and approval.  '
+             "[cf2]Hurray, that's got it working at last."],
+ 'headword': 'hurray',
+ 'note': ' ',
+ 'pronounce': "h@`rEI'",
+ 'ps': "interjection '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ["'times,0'[cp8.5]"],
+ 'headword': 'hurricane',
+ 'note': ' ',
+ 'pronounce': ' ',
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': 'verb forms [chhurries, hurried, [chhurrying',
+ 'definition': "'",
+ 'example': ["[ch1' If you [chhurry, you move or act quickly.  [cf2]Elsa "
+             'hurried to the station to catch the train.'],
+ 'headword': 'hurry',
+ 'note': ' ',
+ 'pronounce': "`hV ri:'",
+ 'ps': "verb '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': 'verb forms [chhurts, hurt, hurting',
+ 'definition': "'",
+ 'example': ["[ch1' If a part of your body [chhurts, it is painful or sore. "
+             '[cf2]My feet hurt after the long walk.'],
+ 'headword': 'hurt',
+ 'note': ' ',
+ 'pronounce': "h@:t'",
+ 'ps': "verb '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'hurtful',
+ 'note': ' ',
+ 'pronounce': "`h@:t.fUl'",
+ 'ps': "adjective '",
+ 'rest': "If someone's words or actions are [chhurtful, they are unkind and "
+         'make you unhappy.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ['If something [chhurtles, it moves quickly and often in an '
+             'uncontrolled way.  [cf2]The truck hurtled down the hill and '
+             'screeched to a halt.'],
+ 'headword': 'hurtle',
+ 'note': ' ',
+ 'pronounce': "`h@:tl'",
+ 'ps': "verb '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'husband',
+ 'note': ' ',
+ 'pronounce': "`hV zb@nd'",
+ 'ps': "noun '",
+ 'rest': "A woman's [chhusband is the man she is married to.",
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["[ch1' If you [chhush someone, you tell or signal them to be "
+             'quiet.  [cf2]The teacher hushed the class before the '
+             "principal came in.  [ch2' interjection You say [chhush to "
+             'someone if you want them to be quiet.  [cf2]Hush!  Mario will '
+             "hear us if you don't stop that noise.  [ch3' [chhush up'  "
+             "'[cf2] If you [chhush something [chup, you prevent it from "
+             'becoming known by the public. [cf2]The scandal was hushed up '
+             'by the government.'],
+ 'headword': 'hush',
+ 'note': ' ',
+ 'pronounce': "hV S'",
+ 'ps': "verb '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'husk',
+ 'note': ' ',
+ 'pronounce': "hV sk'",
+ 'ps': "noun '",
+ 'rest': 'A [chhusk is the dry outside covering of grains and some seeds.',
+ 'senses': ' '}
+
+{'comment': 'adjective forms [chhuskier, huskiest',
+ 'definition': "'",
+ 'example': ["1 ' If your voice is [chhusky, it sounds slightly hoarse.  "
+             "[cf2]My voice is going husky[j4]I hope I'm not getting a cold."],
+ 'headword': 'husky',
+ 'note': ' ',
+ 'pronounce': "`hV ski:'",
+ 'ps': "adjective '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ' ',
+ 'headword': 'hustle',
+ 'note': ' ',
+ 'pronounce': "`hV s@l'",
+ 'ps': "verb '",
+ 'rest': "[ch1' If you [chhustle someone somewhere, you force or push them "
+         'to make them move quickly.  Police hustled the prisoners through '
+         "the crowd into the courtroom.  [ch2' verb If you [chhustle "
+         'someone, you try to get them to do what you want by putting '
+         "pressure on them.  I want to think it over[j4]I won't be hustled "
+         'into a decision.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'hut',
+ 'note': ' ',
+ 'pronounce': "hV t'",
+ 'ps': "noun '",
+ 'rest': 'A [chhut is a small building with a simple structure, often made '
+         'of wood.  The workers are accommodated in huts on the site.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'hutch',
+ 'note': ' ',
+ 'pronounce': "hV tS'",
+ 'ps': "noun '",
+ 'rest': 'A [chhutch is a small cage for keeping animals in.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'hwy',
+ 'note': ' ',
+ 'pronounce': "`ha:IwEI'",
+ 'ps': "abbreviation '",
+ 'rest': 'for [chhighway.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['A [chhybrid is something that has the characteristics of two '
+             'or more different things.  [cf2]This pen is a hybrid between '
+             'a ballpoint and a fountain pen.'],
+ 'headword': 'hybrid',
+ 'note': ' ',
+ 'pronounce': "`ha:IbrId'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ['A [chhydrant is a pipe where you can attach a hose to get '
+             'water from a main supply.  [cf2]Contractors pay for licences '
+             'to draw water from the hydrants.'],
+ 'headword': 'hydrant',
+ 'note': ' ',
+ 'pronounce': "`ha:Idr@nt'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'hydraulic',
+ 'note': ' ',
+ 'pronounce': "ha:I`drOlIk'",
+ 'ps': "adjective '",
+ 'rest': '[chHydraulic equip~ ment is operated or controlled by the pressure '
+         'of a liquid such as water or oil.  Modern cars all have hydraulic '
+         'brakes.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ["'times,0'[cp8.5]ha"],
+ 'headword': 'hydro',
+ 'note': ' ',
+ 'pronounce': ' ',
+ 'ps': "adjective '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'hydrofoil',
+ 'note': ' ',
+ 'pronounce': "`ha:Idr@f@:Il'",
+ 'ps': "noun '",
+ 'rest': 'A [chhydrofoil is a boat equipped with floats  that raise its hull '
+         'above the water when it travels at high speed.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['[chHydroponics is growing plants in water containing certain '
+             'chemicals instead of in soil.'],
+ 'headword': 'hydroponics',
+ 'note': ' ',
+ 'pronounce': "ha:Idr@`pOnIks'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['[chHygiene is keeping things clean in order to prevent the '
+             'spread of infection and disease.  [cf2]Improved hygiene '
+             'caused a dramatic reduction in the number of deaths.'],
+ 'headword': 'hygiene',
+ 'note': ' ',
+ 'pronounce': "`ha:IdZi:n'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'hymn',
+ 'note': ' ',
+ 'pronounce': "hIm'",
+ 'ps': "noun '",
+ 'rest': 'A [chhymn is a religious song expressing praise.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'hype',
+ 'note': ' ',
+ 'pronounce': "ha:Ip'",
+ 'ps': "noun '",
+ 'rest': 'In informal language, [chhype is great excitement and enthusiasm '
+         "that has been deliberately created.  There's been so much hype "
+         "about the movie[j4]I'm sick of hearing about it!",
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ["'times,0'[cp8.5]"],
+ 'headword': 'hyped',
+ 'note': ' ',
+ 'pronounce': ' ',
+ 'ps': "adjective '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['A [chhyphen is a short line used to join words to show that '
+             'they form a compound, e.g. hold-up.  It is also used to show '
+             'that two vowels are pronounced separately, e.g. '
+             "'[cf2]co-operate, and when a word is split between two lines."],
+ 'headword': 'hyphen',
+ 'note': ' ',
+ 'pronounce': "`ha:If@n'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["[ch'[chHypnosis is a sleep- like state in which you may be "
+             'able to remember things that you had forgotten while awake.  '
+             '[cf2]Under hypnosis she relived the whole experience.'],
+ 'headword': 'hypnosis',
+ 'note': ' ',
+ 'pronounce': "hIp`n@Us@s'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'hypochondriac',
+ 'note': ' ',
+ 'pronounce': "ha:Ip@`kOndri:Ak'",
+ 'ps': "noun '",
+ 'rest': 'A [chhypochondriac is someone who worries a great deal about their '
+         'health and often imagines that they are sick.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["[ch'A [chhypocrite is someone who expects other people to be "
+             "moral but doesn't behave that way themselves.  [cf2]The "
+             'senator was exposed as a hypocrite when his correspondence '
+             'was made public.'],
+ 'headword': 'hypocrite',
+ 'note': ' ',
+ 'pronounce': "`hIp@krIt'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'hypodermic',
+ 'note': ' ',
+ 'pronounce': "ha:Ip@`d@:mIk'",
+ 'ps': "adjective '",
+ 'rest': 'A [chhypodermic syringe is used to inject drugs under the skin.',
+ 'senses': ' '}
+
+{'comment': 'plural form [chhypotheses',
+ 'definition': "'",
+ 'example': ['A [chhypothesis is an idea put forward to explain something.  '
+             'It fits the facts, but has not been definitely proved.  '
+             '[cf2]My hypothesis is that Joan did it to discredit Tamsin.'],
+ 'headword': '',
+ 'note': ' ',
+ 'pronounce': "ha:I`pOT@s@s'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': 'plural form [chhysterectomies',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'hysterectomy',
+ 'note': ' ',
+ 'pronounce': "hIst@`rEkt@mi:'",
+ 'ps': "noun '",
+ 'rest': 'If a woman has a [chhysterectomy, she has her uterus surgically '
+         'removed.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ["[ch1' [chHysteria is a state of extreme excitement or panic.  "
+             '[cf2]Mass hysteria broke out [nbas bullets were fired at the '
+             "crowd.  [ch2' noun [chHysteria is also a psychological "
+             'condition in which the patient has uncontrollable outbursts '
+             'of emotion.'],
+ 'headword': '',
+ 'note': ' ',
+ 'pronounce': "hIs`tI@ri:@'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+

@@ -1,0 +1,176 @@
+{'comment': "plural forms Zs, Z's, z's",
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'Z, z',
+ 'note': ' ',
+ 'pronounce': "zEd'",
+ 'ps': "noun '",
+ 'rest': 'Z is the 26th and last letter of the English alphabet.  [ol1]',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'zeal',
+ 'note': ' ',
+ 'pronounce': "zi:l'",
+ 'ps': "noun '",
+ 'rest': 'Zeal is great enthusiasm and energy for what you are doing.  She '
+         'attacked the job of digging up the garden with great zeal.  [ol1]',
+ 'senses': ' '}
+
+{'comment': 'plural noun zeros, zeroes',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'zero',
+ 'note': ' ',
+ 'pronounce': "`zI@r@U'",
+ 'ps': ' ',
+ 'rest': ' ',
+ 'senses': [{'comment': ' ',
+             'definition': ' ',
+             'example': ["' Zero is the number 0.  [cf2]Poor Toby, he got "
+                         'zero in his test.'],
+             'id': '1',
+             'note': ' ',
+             'ps': "noun '",
+             'rest': ''},
+            {'comment': ' ',
+             'definition': ' ',
+             'example': ' ',
+             'id': '2',
+             'note': ' ',
+             'ps': "adjective '",
+             'rest': "' In informal language, zero means none at all.  "
+                     'Frankly I have zero interest in his problems.  [ol1]'}]}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'zest',
+ 'note': ' ',
+ 'pronounce': "zEst'",
+ 'ps': "noun '",
+ 'rest': 'Zest is great enjoyment and liveliness in what you are doing.  We '
+         'all joined in the singing with zest.  [ol1]  '
+         '[cb8][mgdict_zigzag,-4][mgdict_zigzag,-1][ol0][cb0][qr',
+ 'senses': ' '}
+
+{'comment': 'verb forms zigzags, zigzagged, zigzag~ ging',
+ 'definition': "'",
+ 'example': ['[ir(s76),(s75+6)]zigzag     A zigzag is a line with sharp '
+             'turns or angles which go from one side to the other like a '
+             'continuous line of Zs.'],
+ 'headword': '',
+ 'note': ' ',
+ 'pronounce': "`zIgzAg'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'zinc',
+ 'note': ' ',
+ 'pronounce': "zINk'",
+ 'ps': "noun '",
+ 'rest': 'Zinc is a shiny, bluish white metal.  It is used to make alloys '
+         'such as brass and in galvanising iron to prevent it from rusting.  '
+         '[ol1]  [cb8][mgdict_zip,-4][mgdict_zip,-1][ol0][cb0][qr',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ['[ir(s76),(s75+6)]zip  A zip is a fastener with two rows of '
+             'metal or plastic teeth which interlock as you pull a tab up '
+             'or across, and unlock when you pull it the other way.  Zips '
+             'are often used on clothes and suitcases.    [gc'],
+ 'headword': '',
+ 'note': ' ',
+ 'pronounce': "zIp'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'zodiac',
+ 'note': ' ',
+ 'pronounce': "`z@Udi:Ak'",
+ 'ps': "noun '",
+ 'rest': 'In astrology and astro~ [chnomy, the zodiac is a diagram showing '
+         'the position of the planets and stars in the sky.  It is divided '
+         'into twelve areas which each have a particular constellation or '
+         'sign of the zodiac.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ['If you call someone a zombie, you mean that they are acting '
+             'without thinking about what they are doing, perhaps because '
+             'they are very tired.  [cf2]After a whole night without sleep '
+             'I was a zombie at the office.'],
+ 'headword': 'zombie',
+ 'note': ' ',
+ 'pronounce': "`zOmbi:'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['A zone is a particular area of land or sea.  [cf2]Gunfire '
+             'broke out as they strayed into the enemy zone.'],
+ 'headword': 'zone',
+ 'note': ' ',
+ 'pronounce': "z@Un'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'zoo',
+ 'note': ' ',
+ 'pronounce': "zu:'",
+ 'ps': "noun '",
+ 'rest': 'A zoo is a large park where animals of all types from all over the '
+         'world are kept in enclosures for people to see them.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': "'",
+ 'example': ['If you study zoology, you study animals and animal life '
+             'scientifically.'],
+ 'headword': 'zoology',
+ 'note': ' ',
+ 'pronounce': "z@U`Ol@dZi:'",
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ' ',
+ 'headword': 'zoom',
+ 'note': ' ',
+ 'pronounce': "zu:m'",
+ 'ps': "verb '",
+ 'rest': 'In informal language, if you say someone or something zooms '
+         "somewhere, you mean that they go there very quickly.  Where's "
+         'Tren? He zoomed in a minute ago and zoomed out again.',
+ 'senses': ' '}
+
+{'comment': ' ',
+ 'definition': ' ',
+ 'example': ["'times,0'[cp8.5]z"],
+ 'headword': 'zucchini',
+ 'note': ' ',
+ 'pronounce': ' ',
+ 'ps': "noun '",
+ 'rest': '',
+ 'senses': ' '}
+
