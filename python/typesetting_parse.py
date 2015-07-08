@@ -84,21 +84,21 @@ definition2=re.compile(r'([\S\s]+?)(\[cf2\]|\.)')
 example=re.compile(r'\[cf2\]([\S\s]+?)\[j33\]([\s\S]*)')
 note=re.compile(r'\[j30\]([\S\s]+?)\[j31\]')
 
-def readfile(filename="z.txt", dir="output"):
-    #collecct json lines to write to rdf graph
-    lines_out=[]
+def split_entries(typefile):
+    """Read the typesetting file and split into entries
+    return a list of entries, one per headword"""
 
-        ## overwrite exiting file
-    location=os.path.join(dir,filename)
-    out = open(location+"out.txt", 'w+',encoding='utf-8')
-    f = open(filename, encoding='utf-8')
+#    out = open(location+"out.txt", 'w+',encoding='utf-8')
+#    f = open(filename, encoding='utf-8')
 
-    lines=[]
+    f = open(typefile)
+
+    entries=[]
     line_collect=""
     start_rec=False
 
-
     for line in f:
+        #print "LINE:", line
 
         #clean up line
         linetxt=line.strip('\n').strip(' ')
@@ -112,7 +112,7 @@ def readfile(filename="z.txt", dir="output"):
             line_data=headword.sub(r'\2',matches.group(0),1).strip()
             linetxt=headword.sub(r'\3',matches.group(0),1)
             #save previous line  if have a headword in that line
-            if start_rec: lines.append(line_collect)
+            if start_rec: entries.append(line_collect)
 
             #start newline
             line_collect=line_data+'| '+linetxt
@@ -124,134 +124,159 @@ def readfile(filename="z.txt", dir="output"):
             if line_collect: line_collect+=' '+linetxt
             #headword across two lines
 
-    lines.append(line_collect.strip(" "))
+    entries.append(line_collect.strip(" "))
 
-    for line in lines:
-        #start new line
-        line_info={'headword' : "",'pronounce':"",'ps':"",'rest':"", 'note':"", 'comment':"", 'senses':"",'definition':"", 'example':""}
-        #collect all items under headword
-        newline=line.split('|')
-
-        line_info["headword"]=line.split('|')[0]
-        #print(line_info["headword"])
-        if len(newline)>1:
-
-            linetxt=line.split('|')[1].strip()
-        else:
-            linetxt=""
-         #match pronounce
-        linetxt=get_part(linetxt,'pronounce',pronounce,line_info)
-
-        linetxt=get_part(linetxt,'comment',comment,line_info,2,8).strip()
-
-        #check senses (1-?)
-
-        senses=[]
-
-        #collect empty senses
-
-        if sense.match(linetxt):
-
-            while sense_line.match(linetxt):
-
-                sense_line_info={'id':1,'ps':"",'rest':"", 'note':"",'comment':"", 'definition':"", 'example':""}
-                #just get id in sense_line
-
-                get_part(linetxt,'id',sense_line,sense_line_info,2,1)
-
-                #get rest of line for next run - put back start of search
-                linetxt="\optima,0\[cf3][hmp3]"+get_part(linetxt,'rest',sense_line,sense_line_info,4,1)
-
-                sensetxt=sense_line_info['rest']
+    return entries
 
 
-                sensetxt=get_part(sensetxt,'ps',ps,sense_line_info,2,8)
-                #put back the start of example
-                sensetxt1='[cf2] '+get_part(sensetxt,'definition',definition1,sense_line_info,1,8)
-                if sense_line_info['definition']=='':
-                        sensetxt='[cf2] '+get_part(sensetxt,'definition',definition2,sense_line_info,1,8)
-                else: sensetxt=sensetxt1
+def type_to_dictlist(typefile):
+    """Convert a typesetting file to list of dictionaries,
+    one per headword"""
 
-                oldtxt=""
-                if example.match(sensetxt):
-                    sense_line_info['example']=[]
-                    while sensetxt!=oldtxt:
-                        oldtxt=sensetxt
-                        sensetxt=get_part(sensetxt,'example',example,sense_line_info,1,8,True)
+    result=[]
 
-                sensetxt=get_part(sensetxt,'note',note,sense_line_info,1,8)
+    for entry in split_entries(typefile):
+        info = process_entry(entry)
+        result.append(info)
 
-                sense_line_info['definition']+=clean_char(sensetxt,26).strip(' ')
-                sense_line_info['rest']=''
-                senses.append(sense_line_info)
-            #get last sense
-            sense_line_info={'id':1,'ps':"",'rest':"", 'note':"",'comment':"",'definition':"",'example':""}
+    return result
 
-            #retrieve next sense from selected part of linetxt (no end of sense_line so use sense)
-            #collect id and return remainder of match
-            sensetxt=get_part(linetxt,'id',sense,sense_line_info,2,1)
+def process_entry(entry):
+    """Extract information from a single dictionary entry
+    Return a dictionary with the entry properties.
+    """
+
+    info={
+        'headword' : "",
+        'pronounce':"",
+        'ps':"",
+        'rest':"",
+        'note':"",
+        'comment':"",
+        'senses':"",
+        'definition':"",
+        'example':""
+    }
+    #collect all items under headword
+    newline=entry.split('|')
+
+    info["headword"]=entry.split('|')[0]
+    #print(info["headword"])
+    if len(newline)>1:
+
+        linetxt=entry.split('|')[1].strip()
+    else:
+        linetxt=""
+
+    #match pronounce
+    linetxt=get_part(linetxt,'pronounce',pronounce,info)
+
+    linetxt=get_part(linetxt,'comment',comment,info,2,8).strip()
+
+    #check senses (1-?)
+
+    senses=[]
+
+    #collect empty senses
+
+    if sense.match(linetxt):
+
+        while sense_line.match(linetxt):
+
+            sense_line_info={'id':1,'ps':"",'rest':"", 'note':"",'comment':"", 'definition':"", 'example':""}
+            #just get id in sense_line
+
+            get_part(linetxt,'id',sense_line,sense_line_info,2,1)
+
+            #get rest of entry for next run - put back start of search
+            linetxt="\optima,0\[cf3][hmp3]"+get_part(linetxt,'rest',sense_line,sense_line_info,4,1)
+
+            sensetxt=sense_line_info['rest']
+
 
             sensetxt=get_part(sensetxt,'ps',ps,sense_line_info,2,8)
-            sensetxt1="[cf2] "+get_part(sensetxt,'definition',definition1,sense_line_info,1,8)
+            #put back the start of example
+            sensetxt1='[cf2] '+get_part(sensetxt,'definition',definition1,sense_line_info,1,8)
             if sense_line_info['definition']=='':
                     sensetxt='[cf2] '+get_part(sensetxt,'definition',definition2,sense_line_info,1,8)
             else: sensetxt=sensetxt1
-
 
             oldtxt=""
             if example.match(sensetxt):
                 sense_line_info['example']=[]
                 while sensetxt!=oldtxt:
-                        oldtxt=sensetxt
-                        sensetxt=get_part(sensetxt,'example',example,sense_line_info,1,8,True)
+                    oldtxt=sensetxt
+                    sensetxt=get_part(sensetxt,'example',example,sense_line_info,1,8,True)
+
             sensetxt=get_part(sensetxt,'note',note,sense_line_info,1,8)
 
             sense_line_info['definition']+=clean_char(sensetxt,26).strip(' ')
             sense_line_info['rest']=''
             senses.append(sense_line_info)
+        #get last sense
+        sense_line_info={'id':1,'ps':"",'rest':"", 'note':"",'comment':"",'definition':"",'example':""}
 
-            line_info['senses']=senses
+        #retrieve next sense from selected part of linetxt (no end of sense_line so use sense)
+        #collect id and return remainder of match
+        sensetxt=get_part(linetxt,'id',sense,sense_line_info,2,1)
 
-
+        sensetxt=get_part(sensetxt,'ps',ps,sense_line_info,2,8)
+        sensetxt1="[cf2] "+get_part(sensetxt,'definition',definition1,sense_line_info,1,8)
+        if sense_line_info['definition']=='':
+            sensetxt='[cf2] '+get_part(sensetxt,'definition',definition2,sense_line_info,1,8)
         else:
+            sensetxt=sensetxt1
 
-            linetxt=get_part(linetxt,'ps',ps,line_info,2,8)
 
-            linetxt1="[cf2] "+get_part(linetxt,'definition',definition1,line_info,1,8)
-            if line_info['definition']=='':
-                    linetxt='[cf2] '+get_part(linetxt,'definition',definition2,line_info,1,8)
-            else: linetxt=linetxt1
-            oldtxt=""
-            if example.match(linetxt):
-                line_info['example']=[]
-                while linetxt!=oldtxt:
-                    oldtxt=linetxt
-                    linetxt=get_part(linetxt,'example',example,line_info,1,8,True)
-            linetxt=get_part(linetxt,'note',note,line_info,1,8)
-            line_info['definition']+=clean_char(linetxt,26).strip(' ')
-            line_info['rest']=''
-        if line_info:
-            #pprint.pprint(line_info)
-            pprint.pprint(line_info, stream=out)
-            #print(line_info['rest'])
-        out.write(os.linesep)
-        lines_out.append(line_info)
-    out.close()
-    return lines_out
+        oldtxt=""
+        if example.match(sensetxt):
+            sense_line_info['example']=[]
+            while sensetxt!=oldtxt:
+                    oldtxt=sensetxt
+                    sensetxt=get_part(sensetxt,'example',example,sense_line_info,1,8,True)
+        sensetxt=get_part(sensetxt,'note',note,sense_line_info,1,8)
+
+        sense_line_info['definition']+=clean_char(sensetxt,26).strip(' ')
+        sense_line_info['rest']=''
+        senses.append(sense_line_info)
+
+        info['senses']=senses
+
+    else:
+
+        linetxt=get_part(linetxt,'ps',ps,info,2,8)
+
+        linetxt1="[cf2] "+get_part(linetxt,'definition',definition1,info,1,8)
+        if info['definition']=='':
+                linetxt='[cf2] '+get_part(linetxt,'definition',definition2,info,1,8)
+        else: linetxt=linetxt1
+        oldtxt=""
+        if example.match(linetxt):
+            info['example']=[]
+            while linetxt!=oldtxt:
+                oldtxt=linetxt
+                linetxt=get_part(linetxt,'example',example,info,1,8,True)
+        linetxt=get_part(linetxt,'note',note,info,1,8)
+        info['definition']+=clean_char(linetxt,26).strip(' ')
+        info['rest']=''
+
+    return info
+
 
 def get_part(text, word_part, pattern, line_txt,sub_str=1, exitnum=0, many=False):
+    """Extract some information from an entry using a regular expression
+    pattern"""
 
     matches=pattern.search(text)
 
-
-            #now match for word_part using pattern and collect only sub_string of match eg 1=\1
+    #now match for word_part using pattern and collect only sub_string of match eg 1=\1
     if matches:
 
         result=matches.group(sub_str)
 
         result=clean_char(result,exitnum).strip(' ')
 
-                #get rest of line
+        #get rest of entry
         if many:
              #example has second part in next match group
              i=sub_str
@@ -298,12 +323,13 @@ if __name__=="__main__":
             os.makedirs(args.outdir)
 
         for datafile in args.files:
+            base, ext = os.path.splitext(os.path.basename(datafile))
+            print datafile
+            outfile = os.path.join(args.outdir, base + ".json")
+            entries = type_to_dictlist(datafile)
 
-
-
-            with gzip.open(datafile) as fd:
-                text= readfile(fd,args.outdir)
-
+            with open(outfile, 'w') as out:
+                json.dump(entries, out, indent=4)
 
     else:
         if not os.path.exists("output"):
@@ -312,5 +338,3 @@ if __name__=="__main__":
 
 
     #output to RDF
-
-
