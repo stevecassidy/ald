@@ -44,7 +44,7 @@ def ner_records(fd):
             text = line
         else:
             text += line
-  
+
 def genID(prefix, name):
     """Return a URI for this name"""
 

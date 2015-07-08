@@ -1,878 +1,1006 @@
 {'comment': "plural forms Qs, Q's, q's",
- 'definition': ' ',
- 'example': ' ',
+ 'definition': 'Q or q is the seventeenth letter of the alphabet',
+ 'example': '',
  'headword': 'Q, q',
- 'note': ' ',
+ 'note': '',
  'pronounce': "kju:'",
  'ps': "noun '",
- 'rest': 'Q or q is the seventeenth letter of the alphabet.',
- 'senses': ' '}
+ 'rest': '',
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': "'",
- 'example': ['A QC is a senior barrister.'],
+{'comment': '',
+ 'definition': 'A QC is a senior barrister.  [j30] ... [cj3,6,9]NOTE this is '
+               "an abbreviation of 'Queen's Counsel.  [nb[j31]",
+ 'example': '',
  'headword': 'QC',
- 'note': ' ',
+ 'note': '',
  'pronounce': "kju: `si:'",
  'ps': "noun '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': "'",
- 'example': ["'times,0'[cp8.5]"],
+{'comment': '',
+ 'definition': "'times,0'[cp8.5][j24]kwinzl[j17]nd, -l[j12]nd' for "
+               "'Queensland.[iw0][nb",
+ 'example': '',
  'headword': '',
- 'note': ' ',
- 'pronounce': ' ',
+ 'note': '',
+ 'pronounce': '',
  'ps': "abbreviation '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ' ',
+{'comment': '',
+ 'definition': '',
+ 'example': '',
  'headword': 'quack',
- 'note': ' ',
+ 'note': '',
  'pronounce': "kwAk'",
- 'ps': ' ',
- 'rest': ' ',
- 'senses': [{'comment': ' ',
-             'definition': ' ',
-             'example': ' ',
+ 'ps': '',
+ 'rest': '',
+ 'senses': [{'comment': '',
+             'definition': "' Quack is the noise that ducks make'",
+             'example': '',
              'id': '1',
-             'note': ' ',
+             'note': '',
              'ps': "noun '",
-             'rest': "' Quack is the noise that ducks make.  '"},
-            {'comment': ' ',
-             'definition': "'",
-             'example': ["' A quack is someone who claims to be able to "
-                         'treat illnesses but who has no proper medical '
-                         'training.'],
+             'rest': ''},
+            {'comment': '',
+             'definition': "' A quack is someone who claims to be able to "
+                           'treat illnesses but who has no proper medical '
+                           "training.  [j30] ... WORD FAMILY '",
+             'example': ["verb quack'[cf2] The ducks quacked as I "
+                         "approached.[j35]'[cf2]adjective quack'[cf2] "
+                         '...a quack doctor.',
+                         '...quack medicine.  [j31]'],
              'id': '2',
-             'note': ' ',
+             'note': '',
              'ps': "noun '",
              'rest': ''}]}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ' ',
+{'comment': '',
+ 'definition': '',
+ 'example': '',
  'headword': 'quadrangle',
- 'note': ' ',
+ 'note': '',
  'pronounce': "`kwOdrANg@l'",
- 'ps': ' ',
- 'rest': ' ',
- 'senses': [{'comment': ' ',
-             'definition': ' ',
-             'example': ' ',
+ 'ps': '',
+ 'rest': '',
+ 'senses': [{'comment': '',
+             'definition': "' A quadrangle is a shape with four sides, "
+                           "such as a square or rectangle'",
+             'example': '',
              'id': '1',
-             'note': ' ',
+             'note': '',
              'ps': "noun '",
-             'rest': "' A quadrangle is a shape with four sides, such as a "
-                     "square or rectangle.  '"},
-            {'comment': ' ',
-             'definition': ' ',
-             'example': ' ',
+             'rest': ''},
+            {'comment': '',
+             'definition': "' A quadrangle is an open courtyard surrounded "
+                           'by buildings',
+             'example': '',
              'id': '2',
-             'note': ' ',
+             'note': '',
              'ps': "noun '",
-             'rest': "' A quadrangle is an open courtyard surrounded by "
-                     'buildings.'}]}
+             'rest': ''}]}
 
-{'comment': ' ',
- 'definition': "'",
- 'example': ['A quadri~ plegic is someone who is paralysed in both arms and '
-             'both legs.'],
+{'comment': '',
+ 'definition': 'A quadri~ plegic is someone who is paralysed in both arms '
+               "and both legs.  [j30] ... WORD FAMILY 'adjective "
+               "quadriplegic' The acci[chdent left him quadriplegic.  [j31]",
+ 'example': '',
  'headword': 'quadriplegic',
- 'note': ' ',
+ 'note': '',
  'pronounce': "kwOdr@`pli:dZIk'",
  'ps': "noun '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': "'",
- 'example': ['A quadruped is an animal that had four legs.'],
+{'comment': '',
+ 'definition': 'A quadruped is an animal that had four legs.  [j30] ... WORD '
+               "FAMILY 'adjective quadruped'  [j31]",
+ 'example': '',
  'headword': 'quadruped',
- 'note': ' ',
+ 'note': '',
  'pronounce': "`kwOdr@pEd'",
  'ps': "noun '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ' ',
+{'comment': '',
+ 'definition': '',
+ 'example': '',
  'headword': 'quadruple',
- 'note': ' ',
+ 'note': '',
  'pronounce': "kw@`dru:p@l, `kwOdr@p@l'",
- 'ps': ' ',
- 'rest': ' ',
- 'senses': [{'comment': ' ',
-             'definition': ' ',
-             'example': ' ',
+ 'ps': '',
+ 'rest': '',
+ 'senses': [{'comment': '',
+             'definition': "' If something is quadruple, it is made up of "
+                           "four parts, or it is four times the usual size'",
+             'example': '',
              'id': '1',
-             'note': ' ',
+             'note': '',
              'ps': "adjective '",
-             'rest': "' If something is quadruple, it is made up of four "
-                     "parts, or it is four times the usual size.  '"},
-            {'comment': ' ',
-             'definition': ' ',
-             'example': ' ',
+             'rest': ''},
+            {'comment': '',
+             'definition': "' If you quadruple something, you make it four "
+                           'times as greatYou multiply it by four.',
+             'example': '',
              'id': '2',
-             'note': ' ',
+             'note': '',
              'ps': "verb '",
-             'rest': "' If you quadruple something, you make it four times "
-                     'as great.  You multiply it by four.'}]}
+             'rest': ''}]}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ' ',
+{'comment': '',
+ 'definition': 'A quadruplet is one of four offspring which develop together '
+               'in the womb and are born at the same time',
+ 'example': '',
  'headword': 'quadruplet',
- 'note': ' ',
+ 'note': '',
  'pronounce': "kwO`dru:pl@t'",
  'ps': "noun '",
- 'rest': 'A quadruplet is one of four offspring which develop together in '
-         'the womb and are born at the same time.',
- 'senses': ' '}
+ 'rest': '',
+ 'senses': ''}
 
 {'comment': 'adjective forms quainter, quaintest',
- 'definition': ' ',
- 'example': ' ',
+ 'definition': 'If something is quaint, it is rather unusual and '
+               'old-fashioned.There was a quaint old cottage beside the road.',
+ 'example': '',
  'headword': 'quaint',
- 'note': ' ',
+ 'note': '',
  'pronounce': "kwEInt'",
  'ps': "adjective '",
- 'rest': 'If something is quaint, it is rather unusual and old-fashioned.  '
-         'There was a quaint old cottage beside the road.',
- 'senses': ' '}
+ 'rest': '',
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ' ',
+{'comment': '',
+ 'definition': '',
+ 'example': '',
  'headword': 'quake',
- 'note': ' ',
+ 'note': '',
  'pronounce': "kwEIk'",
- 'ps': ' ',
- 'rest': ' ',
- 'senses': [{'comment': ' ',
-             'definition': ' ',
-             'example': ["' If something quakes, it trembles or shakes.  "
-                         '[cf2]We could feel the ground quake when the '
-                         'bomb went off.'],
+ 'ps': '',
+ 'rest': '',
+ 'senses': [{'comment': '',
+             'definition': "' If something quakes, it trembles or shakes.",
+             'example': ['We could feel the ground quake when the bomb '
+                         'went off.',
+                         'The whole building quaked with the force of the '
+                         "impact.  '"],
              'id': '1',
-             'note': ' ',
+             'note': '',
              'ps': "verb '",
              'rest': ''},
-            {'comment': ' ',
-             'definition': ' ',
-             'example': ["' If you quake, you tremble or shake because "
-                         'you are very ~nervous or scared about '
-                         'something.  [cf2]Peter hid quaking under the '
-                         'bed as the storm raged.'],
+            {'comment': '',
+             'definition': "' If you quake, you tremble or shake because "
+                           'you are very ~nervous or scared about '
+                           'something.',
+             'example': ['Peter hid quaking under the bed as the storm '
+                         'raged.',
+                         'I was quaking in my shoes as I waited to be '
+                         "called in for the interview.  '"],
              'id': '2',
-             'note': ' ',
+             'note': '',
              'ps': "verb '",
              'rest': ''},
-            {'comment': ' ',
-             'definition': ' ',
-             'example': ' ',
+            {'comment': '',
+             'definition': "' Quake is a shortened form of earthquake",
+             'example': '',
              'id': '3',
-             'note': ' ',
+             'note': '',
              'ps': "noun '",
-             'rest': "' Quake is a shortened form of earthquake."}]}
+             'rest': ''}]}
 
 {'comment': 'verb forms qualifies, qualified, qualifying',
- 'definition': ' ',
- 'example': ' ',
+ 'definition': '',
+ 'example': '',
  'headword': 'qualify',
- 'note': ' ',
+ 'note': '',
  'pronounce': "`kwOl@fa:I'",
- 'ps': ' ',
- 'rest': ' ',
- 'senses': [{'comment': ' ',
-             'definition': ' ',
-             'example': ["' If you qualify for a certain type of work or "
-                         'profession, you pass the exams necessary in '
-                         "order to do it.  [cf2]Petra's studying to work "
-                         "as a radiographer[j4]she'll qualify next year."],
+ 'ps': '',
+ 'rest': '',
+ 'senses': [{'comment': '',
+             'definition': "' If you qualify for a certain type of work or "
+                           'profession, you pass the exams necessary in '
+                           'order to do it.',
+             'example': ["Petra's studying to work as a "
+                         "radiographer[j4]she'll qualify next year.",
+                         'I qualified as an engineer in my own country, '
+                         "but my training isn't recognised in Australia.  "
+                         "'"],
              'id': '1',
-             'note': ' ',
+             'note': '',
              'ps': "verb '",
              'rest': ''},
-            {'comment': ' ',
-             'definition': ' ',
-             'example': ' ',
+            {'comment': '',
+             'definition': "' If you qualify for something, you are "
+                           'suitable or appro~ priate for it according to '
+                           "a set of rules.Do you qualify for a loan?  '",
+             'example': '',
              'id': '2',
-             'note': ' ',
+             'note': '',
              'ps': "verb '",
-             'rest': "' If you qualify for something, you are suitable or "
-                     'appro~ priate for it according to a set of rules.  '
-                     "Do you qualify for a loan?  '"},
-            {'comment': ' ',
-             'definition': "'",
-             'example': ["' In rather formal language, if you say that "
-                         'someone qualifies a statement, you mean they '
-                         'add something further which changes or limits '
-                         'it in some way.  [cf2]She qualified her report '
-                         'with the caution that it had been prepared some '
-                         'time ago.'],
+             'rest': ''},
+            {'comment': '',
+             'definition': "' In rather formal language, if you say that "
+                           'someone qualifies a statement, you mean they '
+                           'add something further which changes or limits '
+                           'it in some way.',
+             'example': ['She qualified her report with the caution that '
+                         'it had been prepared some time ago.  [j30] ... '
+                         "WORD FAMILY '[cf2]noun qualification'[cf2] You "
+                         'may have to pay to have overseas qualifications '
+                         "assessed.[j35] '[cf2]adjective qualified'[cf2] "
+                         "I'm a qualified veterinary nurse.",
+                         "She's well qualified for the position.  [j31]"],
              'id': '3',
-             'note': ' ',
+             'note': '',
              'ps': "verb '",
              'rest': ''}]}
 
 {'comment': 'plural form qualities',
- 'definition': ' ',
- 'example': ' ',
+ 'definition': '',
+ 'example': '',
  'headword': 'quality',
- 'note': ' ',
+ 'note': '',
  'pronounce': "`kwOl@ti:'",
- 'ps': ' ',
- 'rest': ' ',
- 'senses': [{'comment': ' ',
-             'definition': "'",
-             'example': ["' The quality of something is how good or bad "
-                         'it is.  [cf2]This carpet is of very good '
-                         'quality.'],
+ 'ps': '',
+ 'rest': '',
+ 'senses': [{'comment': '',
+             'definition': "' The quality of something is how good or bad "
+                           'it is.',
+             'example': ['This carpet is of very good quality.',
+                         'The quality of his work is variable. [j33] You '
+                         'have to pay extra for quality. [j33] Quality is '
+                         "more important than quantity. 2 ' '[cf2]noun A "
+                         'quality of something is a feature or '
+                         'characteristic, usually a good one, that it '
+                         'has.  [cf2]This cake has a light quality which '
+                         "most people like.  '"],
              'id': '1',
-             'note': ' ',
+             'note': '',
              'ps': "noun '",
              'rest': ''},
-            {'comment': ' ',
-             'definition': ' ',
-             'example': ["' Your qualities are the good aspects of your "
-                         'character.  [cf2]She has many fine '
-                         "qualities[j4]she's loyal, diligent and honest."],
+            {'comment': '',
+             'definition': "' Your qualities are the good aspects of your "
+                           'character.',
+             'example': ["She has many fine qualities[j4]she's loyal, "
+                         'diligent and honest.',
+                         'The quality I treasured most in him was his '
+                         "openness to new ideas.  '"],
              'id': '3',
-             'note': ' ',
+             'note': '',
              'ps': "noun '",
              'rest': ''},
-            {'comment': ' ',
-             'definition': ' ',
-             'example': ' ',
+            {'comment': '',
+             'definition': "' If something is described as a quality "
+                           'product, it is supposed to be of a high '
+                           'standard.Come to us for quality furniture at '
+                           'bargain prices!',
+             'example': '',
              'id': '4',
-             'note': ' ',
+             'note': '',
              'ps': "adjective '",
-             'rest': "' If something is described as a quality product, it "
-                     'is supposed to be of a high standard.  Come to us '
-                     'for quality furniture at bargain prices!'}]}
+             'rest': ''}]}
 
 {'comment': 'plural form quantities',
- 'definition': ' ',
- 'example': ' ',
+ 'definition': '',
+ 'example': '',
  'headword': 'quantity',
- 'note': ' ',
+ 'note': '',
  'pronounce': "`kwOnt@ti:'",
- 'ps': ' ',
- 'rest': ' ',
- 'senses': [{'comment': ' ',
-             'definition': ' ',
-             'example': ["' The quantity of something is how much of it "
-                         'there is.  [cf2]Can you estimate the quantity '
-                         "of cement ~we'll need?"],
+ 'ps': '',
+ 'rest': '',
+ 'senses': [{'comment': '',
+             'definition': "' The quantity of something is how much of it "
+                           'there is.',
+             'example': ["Can you estimate the quantity of cement ~we'll "
+                         'need?',
+                         "He'd drunk a considerable quantity of beer. "
+                         "[j33] There's only a small quantity of sugar "
+                         'left. [j33] They offer discounts for quantity.  '
+                         "'"],
              'id': '1',
-             'note': ' ',
+             'note': '',
              'ps': "noun '",
              'rest': ''},
-            {'comment': ' ',
-             'definition': ' ',
-             'example': ["' A quantity of something is a certain amount, "
-                         "usually a large amount, of it.  [cf2]I've still "
-                         'got a quantity of work to do.'],
+            {'comment': '',
+             'definition': "' A quantity of something is a certain amount, "
+                           'usually a large amount, of it.',
+             'example': ["I've still got a quantity of work to do.",
+                         'He offered to sell us a quantity of timber.'],
              'id': '2',
-             'note': ' ',
+             'note': '',
              'ps': "noun '",
              'rest': ''}]}
 
-{'comment': ' ',
- 'definition': "'",
- 'example': ['If a person or animal is in quarantine, they are kept apart '
-             'from other people or animals for a period time because they '
-             'may have an infectious disease which could spread to the '
-             'general population.  [cf2]Dogs and cats must spend at least '
-             '60 days in quarantine when they are brought into Australia.'],
+{'comment': '',
+ 'definition': 'If a person or animal is in quarantine, they are kept apart '
+               'from other people or animals for a period time because they '
+               'may have an infectious disease which could spread to the '
+               'general population.Dogs and cats must spend at least 60 days '
+               'in quarantine when they are brought into Australia.',
+ 'example': '',
  'headword': 'quarantine',
- 'note': ' ',
+ 'note': "... WORD FAMILY '[cf2]adjective quarantine'[cf2] Australia's "
+         'quarantine regulations forbid the importation of birds.',
  'pronounce': "`kwOr@nti:n'",
  'ps': "noun '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
 {'comment': 'verb forms quarrels, quarelled, quarrelling',
- 'definition': "'",
- 'example': ['If you quarrel with someone, you have an argument and stop '
-             "being on friendly terms with them.  [cf2]It's crazy for grown "
-             'people to quarrel over such a trivial matter.'],
+ 'definition': 'If you quarrel with someone, you have an argument and stop '
+               'being on friendly terms with them.',
+ 'example': ["It's crazy for grown people to quarrel over such a trivial "
+             'matter.',
+             "He quarelled with his family and hasn't spoken to them for a "
+             'year. [j33] The kids drive me mad with their quarrelling.  '
+             "[j30] ... WORD FAMILY '[cf2]noun quarrel'[cf2] Most domestic "
+             'quarrels are about money and housework.  [j31]'],
  'headword': 'quarrel',
- 'note': ' ',
+ 'note': '',
  'pronounce': "`kwOr@l'",
  'ps': "verb '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
 {'comment': 'plural form quarries',
- 'definition': "'",
- 'example': ['A quarry is a large open pit where stone, slate or minerals '
-             'are dug or blasted out of the ground.'],
+ 'definition': 'A quarry is a large open pit where stone, slate or minerals '
+               'are dug or blasted out of the ground.  [j30] ... WORD FAMILY '
+               "'verb quarry (quarries, quarried, quarrying)' A lot of stone "
+               'for building projects is quarried in this area.  [j31]',
+ 'example': '',
  'headword': 'quarry',
- 'note': ' ',
+ 'note': '',
  'pronounce': "`kwOri:'",
  'ps': "noun '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ' ',
+{'comment': '',
+ 'definition': '',
+ 'example': '',
  'headword': 'quarter',
- 'note': ' ',
+ 'note': '',
  'pronounce': "`kw@:t@'",
- 'ps': ' ',
- 'rest': ' ',
- 'senses': [{'comment': ' ',
-             'definition': ' ',
-             'example': ["' A quarter of something is one fourth of it.  "
-                         "[cf2]There are four of us, so let's cut the "
-                         'cake into quarters.'],
+ 'ps': '',
+ 'rest': '',
+ 'senses': [{'comment': '',
+             'definition': "' A quarter of something is one fourth of it.",
+             'example': ["There are four of us, so let's cut the cake "
+                         'into quarters.',
+                         'The bus into town runs every quarter of an '
+                         "hour.  '"],
              'id': '1',
-             'note': ' ',
+             'note': '',
              'ps': "noun '",
              'rest': ''},
-            {'comment': ' ',
-             'definition': ' ',
-             'example': ' ',
+            {'comment': '',
+             'definition': "' A quarter is a period of three months, a "
+                           'quarter of a year.You can choose to pay the '
+                           "phone bill every month or every quarter.  '",
+             'example': '',
              'id': '2',
-             'note': ' ',
+             'note': '',
              'ps': "noun '",
-             'rest': "' A quarter is a period of three months, a quarter "
-                     'of a year.  You can choose to pay the phone bill '
-                     "every month or every quarter.  '"},
-            {'comment': ' ',
-             'definition': "'",
-             'example': ["' When it is quarter (or a quarter) to a "
-                         'certain hour, it is fifteen minutes before that '
-                         "time.  When it is quarter (or '[cf2]a quarter) "
-                         'past a certain hour, it is fifteen minutes '
-                         "after that time.  [cf2]It's a quarter to "
-                         "seven[j4]let's look for somewhere to have "
-                         'dinner.'],
+             'rest': ''},
+            {'comment': '',
+             'definition': "' When it is quarter (or 'a quarter) to a "
+                           'certain hour, it is fifteen minutes before '
+                           "that time.  When it is quarter (or 'a quarter) "
+                           'past a certain hour, it is fifteen minutes '
+                           "after that time.  It's a quarter to "
+                           "seven[j4]let's look for somewhere to have "
+                           "dinner.  [j34] ... WORD FAMILY 'adverb "
+                           "quarterly' I pay the council rates "
+                           "quarterly.[j35]'adjective quarterly' I still "
+                           'have to have quarterly checkups after the '
+                           "operation.[j35]'noun quarterly' The journal is "
+                           'a glossy quarterly.  [j31]',
+             'example': '',
              'id': '3',
-             'note': ' ',
+             'note': '',
              'ps': "noun '",
              'rest': ''}]}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ' ',
+{'comment': '',
+ 'definition': 'A quartet is a group of four people, especially a group '
+               'performing some sort of music',
+ 'example': '',
  'headword': 'quartet',
- 'note': ' ',
+ 'note': '',
  'pronounce': "kw@:`tEt'",
  'ps': "noun '",
- 'rest': 'A quartet is a group of four people, especially a group performing '
-         'some sort of music.',
- 'senses': ' '}
+ 'rest': '',
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ' ',
+{'comment': '',
+ 'definition': 'A quay is a wharf where ships are loaded and unloaded with '
+               'cargo or ferries pick up and drop off passengers',
+ 'example': '',
  'headword': 'quay',
- 'note': ' ',
+ 'note': '',
  'pronounce': "ki:'",
  'ps': "noun '",
- 'rest': 'A quay is a wharf where ships are loaded and unloaded with cargo '
-         'or ferries pick up and drop off passengers.',
- 'senses': ' '}
+ 'rest': '',
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ' ',
+{'comment': '',
+ 'definition': '',
+ 'example': '',
  'headword': 'queen',
- 'note': ' ',
+ 'note': '',
  'pronounce': "kwi:n'",
- 'ps': ' ',
- 'rest': ' ',
- 'senses': [{'comment': ' ',
-             'definition': ' ',
-             'example': ' ',
+ 'ps': '',
+ 'rest': '',
+ 'senses': [{'comment': '',
+             'definition': "a' A queen is a woman who is the monarch or "
+                           "ruler of a country'",
+             'example': '',
              'id': '1',
-             'note': ' ',
+             'note': '',
              'ps': "noun '",
-             'rest': "a' A queen is a woman who is the monarch or ruler of "
-                     "a country.  '"},
-            {'comment': ' ',
-             'definition': ' ',
-             'example': ' ',
+             'rest': ''},
+            {'comment': '',
+             'definition': "' In the game of chess, the queen can move "
+                           "more freely than any other piece'",
+             'example': '',
              'id': '2',
-             'note': ' ',
+             'note': '',
              'ps': "noun '",
-             'rest': "' In the game of chess, the queen can move more "
-                     "freely than any other piece.  '"},
-            {'comment': ' ',
-             'definition': ' ',
-             'example': ' ',
+             'rest': ''},
+            {'comment': '',
+             'definition': "' In a pack of playing cards, the queens rank "
+                           'between the jacks and the kings',
+             'example': '',
              'id': '3',
-             'note': ' ',
+             'note': '',
              'ps': "noun '",
-             'rest': "' In a pack of playing cards, the queens rank "
-                     'between the jacks and the kings.'}]}
+             'rest': ''}]}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ' ',
+{'comment': '',
+ 'definition': '',
+ 'example': '',
  'headword': 'queer',
- 'note': ' ',
+ 'note': '',
  'pronounce': "`kwI@'",
- 'ps': ' ',
- 'rest': ' ',
- 'senses': [{'comment': ' ',
-             'definition': ' ',
-             'example': ["' If something is queer, it is strange or "
-                         'unusual.  [cf2]I was intrigued by the queer '
-                         'designs in the old book.'],
+ 'ps': '',
+ 'rest': '',
+ 'senses': [{'comment': '',
+             'definition': "' If something is queer, it is strange or "
+                           'unusual.',
+             'example': ['I was intrigued by the queer designs in the old '
+                         'book.',
+                         "The weather's been very queer lately[j4]hot one "
+                         "day and cool the next. [j33] That's "
+                         "queer[j4]I'm sure I left my bag here.  '"],
              'id': '1',
-             'note': ' ',
+             'note': '',
              'ps': "adjective '",
              'rest': ''},
-            {'comment': ' ',
-             'definition': ' ',
-             'example': ' ',
+            {'comment': '',
+             'definition': "' In informal language, if you say that you "
+                           "feel queer, you mean you feel sick.I've been "
+                           "feeling queer all day[j4]I think I'm getting "
+                           "the flu.  '",
+             'example': '',
              'id': '2',
-             'note': ' ',
+             'note': '',
              'ps': "adjective '",
-             'rest': "' In informal language, if you say that you feel "
-                     "queer, you mean you feel sick.  I've been feeling "
-                     "queer all day[j4]I think I'm getting the flu.  '"},
-            {'comment': ' ',
-             'definition': "'",
-             'example': ["' In informal language, if you say that someone "
-                         'is queer, you mean they are homosexual.  When '
-                         'straight people use this word they are usually '
-                         'being offensive.'],
+             'rest': ''},
+            {'comment': '',
+             'definition': "' In informal language, if you say that "
+                           'someone is queer, you mean they are '
+                           'homosexual.  When straight people use this '
+                           'word they are usually being offensive.  [j30] '
+                           "... WORD FAMILY 'noun queer' He said he didn't "
+                           'want to work with a bunch of queers.  [j31]',
+             'example': '',
              'id': '3',
-             'note': ' ',
+             'note': '',
              'ps': "noun '",
              'rest': ''}]}
 
 {'comment': "plural form queries; '[cf2]verb forms queries, queried, querying",
- 'definition': ' ',
- 'example': ' ',
+ 'definition': '',
+ 'example': '',
  'headword': 'query',
- 'note': ' ',
+ 'note': '',
  'pronounce': "`kwI@ri:'",
- 'ps': ' ',
- 'rest': ' ',
- 'senses': [{'comment': ' ',
-             'definition': ' ',
-             'example': ["' A query is a question or enquiry.  [cf2]I've "
-                         'got a query about what you just said.'],
+ 'ps': '',
+ 'rest': '',
+ 'senses': [{'comment': '',
+             'definition': "' A query is a question or enquiry.",
+             'example': ["I've got a query about what you just said.",
+                         'Please address all queries to the accounts '
+                         "department.  '"],
              'id': '1',
-             'note': ' ',
+             'note': '',
              'ps': "noun '",
              'rest': ''},
-            {'comment': ' ',
-             'definition': ' ',
-             'example': ["' If you query some~ thing, you ask a question "
-                         'about it because you think it is wrong or '
-                         'inaccurate.  [cf2]The phone bill is very '
-                         "high[j4]I think I'll query it."],
+            {'comment': '',
+             'definition': "' If you query some~ thing, you ask a question "
+                           'about it because you think it is wrong or '
+                           'inaccurate.',
+             'example': ["The phone bill is very high[j4]I think I'll "
+                         'query it.',
+                         "I'd query your assumption that all women are "
+                         'naturally caring.'],
              'id': '2',
-             'note': ' ',
+             'note': '',
              'ps': "verb '",
              'rest': ''}]}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ' ',
+{'comment': '',
+ 'definition': 'A quest for something is a long and difficult search for '
+               'it.The quest for work is not easy in a recession.',
+ 'example': '',
  'headword': 'quest',
- 'note': ' ',
+ 'note': '',
  'pronounce': "kwEst'",
  'ps': "noun '",
- 'rest': 'A quest for something is a long and difficult search for it.  The '
-         'quest for work is not easy in a recession.',
- 'senses': ' '}
+ 'rest': '',
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ' ',
+{'comment': '',
+ 'definition': '',
+ 'example': '',
  'headword': 'question',
- 'note': ' ',
+ 'note': '',
  'pronounce': "`kwEstS@n'",
- 'ps': ' ',
- 'rest': ' ',
- 'senses': [{'comment': ' ',
-             'definition': "'",
-             'example': ["' If you ask a question, you want someone to "
-                         'tell you some information about something.  '
-                         '[cf2]In English, questions are distin~ guished '
-                         'from statements in part by inflection.'],
+ 'ps': '',
+ 'rest': '',
+ 'senses': [{'comment': '',
+             'definition': "' If you ask a question, you want someone to "
+                           'tell you some information about something.',
+             'example': ['In English, questions are distin~ guished from '
+                         'statements in part by inflection.',
+                         'After the talk there was an opportunity for '
+                         'questions. [j33] The most important question is '
+                         "how much it costs. 2 ' '[cf2]verb If you "
+                         'question someone, you ask them questions about '
+                         'something.  [cf2]The children questioned ~her '
+                         'eagerly about her trip. [j33] Police are '
+                         'questioning a suspect about the recent spate of '
+                         "burglaries.  '"],
              'id': '1',
-             'note': ' ',
+             'note': '',
              'ps': "noun '",
              'rest': ''},
-            {'comment': ' ',
-             'definition': "'",
-             'example': ["' If you question something, you express doubt "
-                         'about whether it is correct or true.  [cf2]I '
-                         'question the vailidity of that conclusion.'],
+            {'comment': '',
+             'definition': "' If you question something, you express doubt "
+                           'about whether it is correct or true.',
+             'example': ['I question the vailidity of that conclusion.',
+                         'His integrity has never been questioned. [j33] '
+                         "Are you questioning my authority? 4 ' "
+                         "'[cf2]noun In an exam you are asked questions "
+                         'about various topics to test your knowledge of '
+                         "the subject. 5 ' '[cf2]noun A question is an "
+                         'aspect of something which needs to be '
+                         "considered.  [cf2]First of all let's discuss "
+                         "the question of timing.  '"],
              'id': '3',
-             'note': ' ',
+             'note': '',
              'ps': "verb '",
              'rest': ''},
-            {'comment': ' ',
-             'definition': ' ',
-             'example': ["' beyond question' If something is beyond "
-                         'question, there is no doubt about it '
-                         'whatsoever.  [cf2]His ability is beyond '
-                         'question.'],
+            {'comment': '',
+             'definition': "' beyond question' If something is beyond "
+                           'question, there is no doubt about it '
+                           'whatsoever.',
+             'example': ['His ability is beyond question.',
+                         'This is beyond question the finest performance '
+                         "of the piece I have ever heard.  '"],
              'id': '6',
-             'note': ' ',
+             'note': '',
              'ps': "'",
              'rest': ''},
-            {'comment': ' ',
-             'definition': ' ',
-             'example': ' ',
+            {'comment': '',
+             'definition': "' question mark'   (a) A question mark is the "
+                           'punc~ tuation mark ( ? )You use it in written '
+                           'English at the end of a sentence that is a '
+                           "question.  '",
+             'example': '',
              'id': '7',
-             'note': ' ',
+             'note': '',
              'ps': "'",
-             'rest': "' question mark'   (a) A question mark is the punc~ "
-                     'tuation mark ( ? ).  You use it in written English '
-                     "at the end of a sentence that is a question.  '"},
-            {'comment': ' ',
-             'definition': "'",
-             'example': ["' out of the question'  If something is out of "
-                         'the question, there is no chance of it '
-                         'happening.  [cf2]In this weather bushwalking is '
-                         'out of the question.'],
+             'rest': ''},
+            {'comment': '',
+             'definition': "' out of the question'  If something is out of "
+                           'the question, there is no chance of it '
+                           'happening.',
+             'example': ['In this weather bushwalking is out of the '
+                         'question.',
+                         'Business has been poor this year, and a bonus '
+                         'is out of the question.  [j30] ... WORD FAMILY '
+                         "'[cf2]adjective questionable'[cf2] The merits "
+                         'of the proposal are questionable.  [j31]'],
              'id': '8',
-             'note': ' ',
+             'note': '',
              'ps': "'",
              'rest': ''}]}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ['A [chquestionnaire is a list of questions that people are '
-             'asked about a particular topic, usually to give statistical '
-             'information about their opinions or needs.  [cf2]Would you '
-             'mind taking a few minutes to fill in this questionnaire about '
-             'travel?'],
+{'comment': '',
+ 'definition': 'A [chquestionnaire is a list of questions that people are '
+               'asked about a particular topic, usually to give statistical '
+               'information about their opinions or needs.',
+ 'example': ['Would you mind taking a few minutes to fill in this '
+             'questionnaire about travel?',
+             'A recent questionnaire showed that under 50% of voters had '
+             'confidence in the government.'],
  'headword': 'questionnaire',
- 'note': ' ',
+ 'note': '',
  'pronounce': "kwEstS@n`E@'",
  'ps': "noun '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': "'",
- 'example': ['A queue is a line of people or cars waiting for their turn to '
-             'do something.  [cf2]I took my place at the back of the queue.'],
+{'comment': '',
+ 'definition': 'A queue is a line of people or cars waiting for their turn '
+               'to do something.I took my place at the back of the queue.',
+ 'example': '',
  'headword': 'queue',
- 'note': ' ',
+ 'note': "... WORD FAMILY '[cf2]verb queue'[cf2] Do not queue across the "
+         'intersection.',
  'pronounce': "kju:'",
  'ps': "noun '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': "'",
- 'example': ['If you quibble about something, you argue or make a fuss '
-             "about something that is not important.  [cf2]Let's not "
-             'quibble ~about the cost of the petrol when we only travelled '
-             'ten kilometres.'],
+{'comment': '',
+ 'definition': 'If you quibble about something, you argue or make a fuss '
+               "about something that is not important.Let's not quibble "
+               '~about the cost of the petrol when we only travelled ten '
+               'kilometres.',
+ 'example': '',
  'headword': 'quibble',
- 'note': ' ',
+ 'note': "... WORD FAMILY '[cf2]noun quibble'[cf2] She raised a couple of "
+         'quibbles about the wording of the letter.',
  'pronounce': "`kwIb@l'",
  'ps': "noun '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ['A quiche is a pastry tart filled with a mixture of eggs and '
-             'cheese and usually various other things such as bacon or '
-             'vegetables. [cf2]For lunch I had a slice of quiche and hot '
-             'chips.'],
+{'comment': '',
+ 'definition': 'A quiche is a pastry tart filled with a mixture of eggs and '
+               'cheese and usually various other things such as bacon or '
+               'vegetables.',
+ 'example': ['For lunch I had a slice of quiche and hot chips.',
+             'I made a spinach quiche for the party.'],
  'headword': 'quiche',
- 'note': ' ',
+ 'note': '',
  'pronounce': "ki:S'",
  'ps': "noun '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
 {'comment': 'adjective forms quicker, quickest',
- 'definition': ' ',
- 'example': ' ',
+ 'definition': '',
+ 'example': '',
  'headword': 'quick',
- 'note': ' ',
+ 'note': '',
  'pronounce': "kwIk'",
- 'ps': ' ',
- 'rest': ' ',
- 'senses': [{'comment': ' ',
-             'definition': "'",
-             'example': ["' If something is quick, it happens without "
-                         'delay.  [cf2]The answer to my letter was much '
-                         "quicker than expected. 3 ' adjective If someone "
-                         'is quick to do something, they do it very '
-                         "readily or eagerly.  [cf2]She's always quick to "
-                         "criticise, but she's got faults of her own."],
+ 'ps': '',
+ 'rest': '',
+ 'senses': [{'comment': '',
+             'definition': "' If something is quick, it happens without "
+                           'delay.',
+             'example': ['The answer to my letter was much quicker than '
+                         "expected. 3 ' '[cf2]adjective If someone is "
+                         'quick to do something, they do it very readily '
+                         "or eagerly.  [cf2]She's always quick to "
+                         "criticise, but she's got faults of her own.  "
+                         "[j30] ... WORD FAMILY '[cf2]adverb "
+                         "quickly'[cf2] Come quickly!",
+                         'I quickly lost interest.  [j33] How quickly '
+                         "will I know the result?[j35]'[cf2]noun "
+                         "quickness'[cf2]  [j31]"],
              'id': '2',
-             'note': ' ',
+             'note': '',
              'ps': "adjective '",
              'rest': ''}]}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ' ',
+{'comment': '',
+ 'definition': 'Quicksand is a patch of wet sand which looks solid but which '
+               'sucks people down into it if they try to walk on it.If you '
+               "get stuck in a quicksand, don't struggle but make yourself "
+               'as flat as possible.',
+ 'example': '',
  'headword': 'quicksand',
- 'note': ' ',
+ 'note': '',
  'pronounce': "`kwIksAnd'",
  'ps': "noun '",
- 'rest': 'Quicksand is a patch of wet sand which looks solid but which sucks '
-         'people down into it if they try to walk on it.  If you get stuck '
-         "in a quicksand, don't struggle but make yourself as flat as "
-         'possible.',
- 'senses': ' '}
+ 'rest': '',
+ 'senses': ''}
 
 {'comment': 'adjective forms quieter, quietest',
- 'definition': ' ',
- 'example': ' ',
+ 'definition': '',
+ 'example': '',
  'headword': 'quiet',
- 'note': ' ',
+ 'note': '',
  'pronounce': "`kwa:I@t'",
- 'ps': ' ',
- 'rest': ' ',
- 'senses': [{'comment': ' ',
-             'definition': "'",
-             'example': ["' If something is quiet, there is little "
-                         'activity.  [cf2]She moved from a quiet country '
-                         'town to the big city.'],
+ 'ps': '',
+ 'rest': '',
+ 'senses': [{'comment': '',
+             'definition': "' If something is quiet, there is little "
+                           'activity.',
+             'example': ['She moved from a quiet country town to the big '
+                         'city.',
+                         "It's been very quiet today[j4]we've only had "
+                         "half a dozen customers. 4 ' '[cf2]adjective A "
+                         "quiet person is calm and doesn't talk very "
+                         'much.  [cf2]Jessie was a quiet child, unlike '
+                         "her sister. 5 ' keep quiet'  '[cf2] If you keep "
+                         "quiet about something, you don't say anything "
+                         'about it.  [cf2]They paid him $1000 to keep '
+                         'quiet. [j33] I decided to keep quiet about what '
+                         "I knew. [j33] We'd like you to keep this "
+                         "quiet[j4] it's just between ourselves.  ~[j34] "
+                         "... WORD FAMILY '[cf2]noun quiet'[cf2] Just "
+                         'leave me in peace and quiet. [j33] I love the '
+                         "quiet of the countryside.[j35]'[cf2]verb "
+                         "quieten'[cf2] The hall quietened and the show "
+                         'began. [j33]  I tried to quieten the '
+                         "baby.[j35]'[cf2]adverb quietly'[cf2] I tiptoed "
+                         "quietly upstairs. [j33] He'd quietly amassed a "
+                         "fortune.[j35] '[cf2]noun quietness'[cf2]  [j31]"],
              'id': '3',
-             'note': ' ',
+             'note': '',
              'ps': "adjective '",
              'rest': ''}]}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ' ',
+{'comment': '',
+ 'definition': '',
+ 'example': '',
  'headword': 'quilt',
- 'note': ' ',
+ 'note': '',
  'pronounce': "kwIlt'",
- 'ps': ' ',
- 'rest': ' ',
- 'senses': [{'comment': ' ',
-             'definition': ' ',
-             'example': ' ',
+ 'ps': '',
+ 'rest': '',
+ 'senses': [{'comment': '',
+             'definition': "' A quilt is a cover for a bedIt is a flat "
+                           'cloth bag filled with feathers or some other '
+                           'warm material.  Other words for this are doona '
+                           "and duvet.  '",
+             'example': '',
              'id': '1',
-             'note': ' ',
+             'note': '',
              'ps': "noun '",
-             'rest': "' A quilt is a cover for a bed. It is a flat cloth "
-                     'bag filled with feathers or some other warm '
-                     'material.  Other words for this are doona and '
-                     "duvet.  '"},
-            {'comment': ' ',
-             'definition': "'",
-             'example': ["' A quilt is a piece of cloth made from two "
-                         'layers of fabric with padding between them.  '
-                         'The whole cloth has been stitched across at '
-                         'regular intervals to hold the padding in '
-                         'place.  [cf2]...a patchwork quilt.'],
+             'rest': ''},
+            {'comment': '',
+             'definition': "' A quilt is a piece of cloth made from two "
+                           'layers of fabric with padding between them.  '
+                           'The whole cloth has been stitched across at '
+                           'regular intervals to hold the padding in '
+                           'place....a patchwork quilt.',
+             'example': '',
              'id': '2',
-             'note': ' ',
+             'note': "... WORD FAMILY '[cf2]adjective quilted'[cf2] ...a "
+                     "quilted jacket.[j35] '[cf2]noun quilting'[cf2] The "
+                     'dress has quilting on the bodice.',
              'ps': "noun '",
              'rest': ''}]}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ' ',
+{'comment': '',
+ 'definition': 'Quinine is a bitter-tasting drug which is used to treat '
+               'malaria',
+ 'example': '',
  'headword': 'quinine',
- 'note': ' ',
+ 'note': '',
  'pronounce': "`kwIni:n, kw@`ni:n'",
  'ps': "noun '",
- 'rest': 'Quinine is a bitter-tasting drug which is used to treat malaria.',
- 'senses': ' '}
+ 'rest': '',
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ' ',
+{'comment': '',
+ 'definition': 'A quip is a clever or amusing remark',
+ 'example': '',
  'headword': 'quip',
- 'note': ' ',
+ 'note': '',
  'pronounce': "kwIp'",
  'ps': "noun '",
- 'rest': 'A quip is a clever or amusing remark.',
- 'senses': ' '}
+ 'rest': '',
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ' ',
+{'comment': '',
+ 'definition': '',
+ 'example': '',
  'headword': 'quit',
- 'note': ' ',
+ 'note': '',
  'pronounce': "kwIt'",
- 'ps': ' ',
- 'rest': ' ',
- 'senses': [{'comment': ' ',
-             'definition': ' ',
-             'example': ["' If you quit doing something, you stop doing "
-                         'it.  [cf2]I quit smoking once and for all after '
-                         'my mother died of lung cancer.'],
+ 'ps': '',
+ 'rest': '',
+ 'senses': [{'comment': '',
+             'definition': "' If you quit doing something, you stop doing "
+                           'it.',
+             'example': ['I quit smoking once and for all after my mother '
+                         'died of lung cancer.',
+                         'Will you please quit kicking the back of my '
+                         "chair!  '"],
              'id': '1',
-             'note': ' ',
+             'note': '',
              'ps': "verb '",
              'rest': ''},
-            {'comment': ' ',
-             'definition': ' ',
-             'example': ["' If you quit a job, you resign.  [cf2]The new "
-                         'chairman quit after only two months in the job.'],
+            {'comment': '',
+             'definition': "' If you quit a job, you resign.",
+             'example': ['The new chairman quit after only two months in '
+                         'the job.',
+                         "You'd be mad to quit before you've got another "
+                         "job to go to.  '"],
              'id': '2',
-             'note': ' ',
+             'note': '',
              'ps': "verb '",
              'rest': ''},
-            {'comment': ' ',
-             'definition': ' ',
-             'example': ' ',
+            {'comment': '',
+             'definition': "' call it quits'  In informal language, if you "
+                           'say that two people call it quits, you mean '
+                           'they agree to stop arguing or fighting',
+             'example': '',
              'id': '3',
-             'note': ' ',
+             'note': '',
              'ps': "'",
-             'rest': "' call it quits'  In informal language, if you say "
-                     'that two people call it quits, you mean they agree '
-                     'to stop arguing or fighting.'}]}
+             'rest': ''}]}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ' ',
+{'comment': '',
+ 'definition': '',
+ 'example': '',
  'headword': 'quite',
- 'note': ' ',
+ 'note': '',
  'pronounce': "kwa:It'",
- 'ps': ' ',
- 'rest': ' ',
- 'senses': [{'comment': ' ',
-             'definition': ' ',
-             'example': ["' Quite means 'fairly' or 'rather'.  [cf2]I was "
-                         'quite tired after such a long trip.'],
+ 'ps': '',
+ 'rest': '',
+ 'senses': [{'comment': '',
+             'definition': "' Quite means 'fairly' or 'rather'.",
+             'example': ['I was quite tired after such a long trip.',
+                         "It's quite cold today. [j33] I quite like "
+                         "Hilary, but I prefer Sarah.  '"],
              'id': '1',
-             'note': ' ',
+             'note': '',
              'ps': "adverb '",
              'rest': ''},
-            {'comment': ' ',
-             'definition': ' ',
-             'example': ["' Sometimes quite means 'completely' or "
-                         "'absolutely'.  [cf2]I'm quite sure we've met "
-                         'before.'],
+            {'comment': '',
+             'definition': "' Sometimes quite means 'completely' or "
+                           "'absolutely'.",
+             'example': ["I'm quite sure we've met before.",
+                         'Are you really quite happy with everything? '
+                         "[j33] I quite agree with you. [j33] 'We must "
+                         "try to do better.'  'Quite.'  '"],
              'id': '2',
-             'note': ' ',
+             'note': '',
              'ps': "adverb '",
              'rest': ''},
-            {'comment': ' ',
-             'definition': ' ',
-             'example': ["' You can use quite after a negative to show "
-                         "that something is nearly the case.  [cf2]It's "
-                         "not quite 5 o'clock."],
+            {'comment': '',
+             'definition': "' You can use quite after a negative to show "
+                           'that something is nearly the case.',
+             'example': ["It's not quite 5 o'clock.",
+                         "I'm not quite ready[j4]give me another five "
+                         'minutes.'],
              'id': '3',
-             'note': ' ',
+             'note': '',
              'ps': "adverb '",
              'rest': ''}]}
 
 {'comment': 'verb forms quizzes, quizzed, [chquizzing',
- 'definition': ' ',
- 'example': ' ',
+ 'definition': '',
+ 'example': '',
  'headword': 'quiz',
- 'note': ' ',
+ 'note': '',
  'pronounce': "kwIz'",
- 'ps': ' ',
- 'rest': ' ',
- 'senses': [{'comment': ' ',
-             'definition': ' ',
-             'example': ["' A quiz is a competition or game in which "
-                         'people score points by answering ques~ tions.  '
-                         '[cf2]They run a quiz at the pub on Thursday '
-                         'nights.'],
+ 'ps': '',
+ 'rest': '',
+ 'senses': [{'comment': '',
+             'definition': "' A quiz is a competition or game in which "
+                           'people score points by answering ques~ tions.',
+             'example': ['They run a quiz at the pub on Thursday nights.',
+                         'Take this quiz to see how compatible you are '
+                         "with ~your partner.  '"],
              'id': '1',
-             'note': ' ',
+             'note': '',
              'ps': "noun '[cj3,6,9]",
              'rest': ''},
-            {'comment': ' ',
-             'definition': "'",
-             'example': ["' If you quiz somebody, you ask them a lot of "
-                         'questions to try to find out about something.  '
-                         "[cf2]You've bought a property[j4]I'd like to "
-                         'quiz you about the process.'],
+            {'comment': '',
+             'definition': "' If you quiz somebody, you ask them a lot of "
+                           'questions to try to find out about something.',
+             'example': ["You've bought a property[j4]I'd like to quiz "
+                         'you about the process.',
+                         'As soon as I got back my flatmates quizzed me '
+                         'for every detail of the date.  [nb--quorum '
+                         "'times,0'[cp8.5][j24]kw[j20]r[j17]m' '[cf2]noun "
+                         'A quorum is a certain number of people who have '
+                         'to be present at a meeting.  If less than this '
+                         'number of people are there, any votes that are '
+                         'taken will not be valid. [cf2]The quorum was '
+                         'set at 35 members.  [cj3,6,9]--quota '
+                         "'times,0'[cp8.5][j24]kwo[j23]t[j17]' '[cf2]noun "
+                         'A quota is a fixed number or amount that is set '
+                         "for something.  [cf2]Next year's im- migration "
+                         'quota is likely to show a small increase. [j33] '
+                         'I allow myself a quota of two chocolate '
+                         'biscuits a day.  [nb--quotation '
+                         "'times,0'[cp8.5]kwo[j23][j24]te[j11][j14][j17]n'  "
+                         "'"],
              'id': '2',
-             'note': ' ',
+             'note': '',
              'ps': "verb '",
              'rest': ''},
-            {'comment': ' ',
-             'definition': "'",
-             'example': ["' A quotation is something that someone else "
-                         'has said or written and which you repeat.  '
-                         "[cf2]'I love a sunburnt country' is a quotation "
-                         "from a poem by Dorothea Mackellar. 2 ' noun If "
-                         'a tradesperson gives you a quotation for a job, '
-                         'they tell you how much you will have to pay.  A '
-                         'quotation is more binding than an estimate and '
-                         'cannot be increased unless you agree. [cf2]Get '
-                         'a few builders to give you a quotation for the '
-                         'renovations.'],
+            {'comment': '',
+             'definition': "' A quotation is something that someone else "
+                           "has said or written and which you repeat.'I "
+                           "love a sunburnt country' is a quotation from a "
+                           "poem by Dorothea Mackellar. 2 ' 'noun If a "
+                           'tradesperson gives you a quotation for a job, '
+                           'they tell you how much you will have to pay.  '
+                           'A quotation is more binding than an estimate '
+                           'and cannot be increased unless you agree. Get '
+                           'a few builders to give you a quotation for the '
+                           'renovations.',
+             'example': '',
              'id': '1',
-             'note': ' ',
+             'note': '... AN INFORMAL WORD for this (in both senses) is '
+                     'quote.',
              'ps': "noun '",
              'rest': ''}]}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ' ',
+{'comment': '',
+ 'definition': "[ch[cj3,5,8]Quotation marks are punctuation marks ( ' or '' "
+               ') [nbused in written language to show where speech or a '
+               'quotation begins and ends',
+ 'example': '',
  'headword': 'quotation marks',
- 'note': ' ',
+ 'note': '',
  'pronounce': "kw@U`tEIS@n ma:ks'",
  'ps': "noun '",
- 'rest': "[ch[cj3,5,8]Quotation marks are punctuation marks ( ' or '' ) "
-         '[nbused in written language to show where speech or a quotation '
-         'begins and ends.',
- 'senses': ' '}
+ 'rest': '',
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ' ',
+{'comment': '',
+ 'definition': '',
+ 'example': '',
  'headword': 'quote',
- 'note': ' ',
+ 'note': '',
  'pronounce': "kw@Ut'",
- 'ps': ' ',
- 'rest': ' ',
- 'senses': [{'comment': ' ',
-             'definition': ' ',
-             'example': ' ',
+ 'ps': '',
+ 'rest': '',
+ 'senses': [{'comment': '',
+             'definition': "' If you quote someone's words, you repeat "
+                           'exactly what they said or wrote.Li Ling quoted '
+                           "from an ancient Chinese poem to the class.  '",
+             'example': '',
              'id': '1',
-             'note': ' ',
-             'ps': "verb '",
-             'rest': "' If you quote someone's words, you repeat exactly "
-                     'what they said or wrote. Li Ling quoted from an '
-                     "ancient Chinese poem to the class.  '"},
-            {'comment': ' ',
-             'definition': ' ',
-             'example': ["' If you quote someone or something, you use "
-                         'them as an authority or example to back up what '
-                         'you say.  [cf2]If you need some extra support '
-                         'for your cause, you can quote me.'],
-             'id': '2',
-             'note': ' ',
+             'note': '',
              'ps': "verb '",
              'rest': ''},
-            {'comment': ' ',
-             'definition': ' ',
-             'example': ' ',
+            {'comment': '',
+             'definition': "' If you quote someone or something, you use "
+                           'them as an authority or example to back up '
+                           'what you say.',
+             'example': ['If you need some extra support for your cause, '
+                         'you can quote me.',
+                         'The speaker quoted from all the experience he '
+                         "had in India.  '"],
+             'id': '2',
+             'note': '',
+             'ps': "verb '",
+             'rest': ''},
+            {'comment': '',
+             'definition': "' If a tradesperson quotes you a certain price "
+                           'for a job, they tell you that is how much you '
+                           'will have to pay.The other garage quoted $200 '
+                           "less for the same job.  '",
+             'example': '',
              'id': '3',
-             'note': ' ',
+             'note': '',
              'ps': "noun '",
-             'rest': "' If a tradesperson quotes you a certain price for a "
-                     'job, they tell you that is how much you will have to '
-                     'pay.  The other garage quoted $200 less for the same '
-                     "job.  '"},
-            {'comment': ' ',
-             'definition': ' ',
-             'example': ["' Quote is also an informal word for a "
-                         "quotation, in either sense.  [cf2]Henry's "
-                         'always coming out with obscure quotes from '
-                         'Shake~ speare.'],
+             'rest': ''},
+            {'comment': '',
+             'definition': "' Quote is also an informal word for a "
+                           'quotation, in either sense.',
+             'example': ["Henry's always coming out with obscure quotes "
+                         'from Shake~ speare.',
+                         "I'd like you to give me a quote for household "
+                         'insurance.  ~[fa[xp'],
              'id': '4',
-             'note': ' ',
+             'note': '',
              'ps': "noun '",
              'rest': ''}]}
 

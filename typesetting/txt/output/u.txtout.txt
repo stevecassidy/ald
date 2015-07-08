@@ -1,1813 +1,2018 @@
 {'comment': "plural forms Us, U's, u's",
- 'definition': ' ',
- 'example': ' ',
+ 'definition': 'U or u is the twenty-first letter of the English alphabet',
+ 'example': '',
  'headword': 'U, u',
- 'note': ' ',
+ 'note': '',
  'pronounce': "ju:'",
  'ps': "noun '",
- 'rest': 'U or u is the twenty-first letter of the English alphabet.',
- 'senses': ' '}
+ 'rest': '',
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ' ',
+{'comment': '',
+ 'definition': '',
+ 'example': '',
  'headword': 'ugly',
- 'note': ' ',
+ 'note': '',
  'pronounce': "`V gli:'",
- 'ps': ' ',
- 'rest': ' ',
- 'senses': [{'comment': ' ',
-             'definition': ' ',
-             'example': ["' If something or someone is ugly, it is not "
-                         'pleasant to look at.  [cf2]That building should '
-                         "never have been passed by the council[j4]it's "
-                         'so ugly.'],
+ 'ps': '',
+ 'rest': '',
+ 'senses': [{'comment': '',
+             'definition': "' If something or someone is ugly, it is not "
+                           'pleasant to look at.',
+             'example': ['That building should never have been passed by '
+                         "the council[j4]it's so ugly.",
+                         'I always felt that I was hideously ugly. [j33] '
+                         "My neck came out in an ugly rash.  '"],
              'id': '1',
-             'note': ' ',
+             'note': '',
              'ps': "adjective '",
              'rest': ''},
-            {'comment': ' ',
-             'definition': ' ',
-             'example': ["' If a situation is ugly, it seems that there "
-                         'could be trouble or even violence.  [cf2]The '
-                         'crowd was in an ugly mood.'],
+            {'comment': '',
+             'definition': "' If a situation is ugly, it seems that there "
+                           'could be trouble or even violence.',
+             'example': ['The crowd was in an ugly mood.',
+                         "Things were growing ugly, and I wished I'd "
+                         'stayed away. [j33] In an ugly development, '
+                         'children as young as ten have taken to carrying '
+                         'knives.'],
              'id': '2',
-             'note': ' ',
+             'note': '',
              'ps': "adjective '",
              'rest': ''}]}
 
-{'comment': ' ',
- 'definition': "'",
- 'example': ['An ulcer is a sore on the outside or the inside of your body '
-             'which bleeds and forms pus.  [cf2]The ulcers on his legs need '
-             'to be dressed regularly.'],
+{'comment': '',
+ 'definition': 'An ulcer is a sore on the outside or the inside of your body '
+               'which bleeds and forms pus.',
+ 'example': ['The ulcers on his legs need to be dressed regularly.',
+             "She's got a stomach ulcer.  [j30] ... WORD FAMILY "
+             "'[cf2]adjective ulcerated'[cf2]  [j31]"],
  'headword': 'ulcer',
- 'note': ' ',
+ 'note': '',
  'pronounce': "`V ls@'",
  'ps': "noun '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ' ',
+{'comment': '',
+ 'definition': '',
+ 'example': '',
  'headword': 'ultimate',
- 'note': ' ',
+ 'note': '',
  'pronounce': "`V lt@m@t'",
- 'ps': ' ',
- 'rest': ' ',
- 'senses': [{'comment': ' ',
-             'definition': ' ',
-             'example': ' ',
+ 'ps': '',
+ 'rest': '',
+ 'senses': [{'comment': '',
+             'definition': "' The ultimate result of something is the "
+                           'final outcome, often after a very long '
+                           'process.My ultimate aim is to become a '
+                           "director of the company.  '",
+             'example': '',
              'id': '1',
-             'note': ' ',
+             'note': '',
              'ps': "adjective '",
-             'rest': "' The ultimate result of something is the final "
-                     'outcome, often after a very long process.  My '
-                     'ultimate aim is to become a director of the '
-                     "company.  '"},
-            {'comment': ' ',
-             'definition': "'",
-             'example': ["' Ultimate also means the most extreme possible "
-                         'case of something. [cf2]To climb all the '
-                         'mountains in the Himalayas is the ultimate '
-                         'challenge.'],
+             'rest': ''},
+            {'comment': '',
+             'definition': "' Ultimate also means the most extreme "
+                           'possible case of something.To climb all the '
+                           'mountains in the Himalayas is the ultimate '
+                           'challenge.',
+             'example': '',
              'id': '2',
-             'note': ' ',
+             'note': "... WORD FAMILY '[cf2]adverb ultimately'[cf2] "
+                     "Ultimately I'd like to buy a house near the beach.",
              'ps': "adjective '",
              'rest': ''}]}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ['Um is used to represent the sound that people make when they '
-             "hesitate in speaking.  [cf2]He's, um, rather a difficult "
-             'character.'],
+{'comment': '',
+ 'definition': 'Um is used to represent the sound that people make when they '
+               'hesitate in speaking.',
+ 'example': ["He's, um, rather a difficult character.",
+             'Could you come next week, um, say on the 24th?'],
  'headword': 'um',
- 'note': ' ',
+ 'note': '',
  'pronounce': "V m'",
  'ps': "interjection '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ' ',
+{'comment': '',
+ 'definition': 'You use an umbrella to protect yourself against the rainIt '
+               'consists of a long handle attached to a folding metal frame '
+               'covered in cloth.',
+ 'example': '',
  'headword': 'umbrella',
- 'note': ' ',
+ 'note': '',
  'pronounce': "V m`brEl@'",
  'ps': "noun '",
- 'rest': 'You use an umbrella to protect yourself against the rain.  It '
-         'consists of a long handle attached to a folding metal frame '
-         'covered in cloth.',
- 'senses': ' '}
+ 'rest': '',
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': "'",
- 'example': ['An umpire is the person who makes sure that a game such as '
-             'tennis or cricket is played according to the rules.'],
+{'comment': '',
+ 'definition': 'An umpire is the person who makes sure that a game such as '
+               'tennis or cricket is played according to the rules.  [j30] '
+               "... A SIMILAR WORD is referee.  [j32] ... WORD FAMILY 'verb "
+               "umpire' Who's umpiring the match?  [j31]",
+ 'example': '',
  'headword': 'umpire',
- 'note': ' ',
+ 'note': '',
  'pronounce': "`V mpa:I@'",
  'ps': "noun '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': "'",
- 'example': ['In infor~ mal language, umpteen means very many.  [cf2]Poor '
-             "Hilda, she's had umpteen attempts at getting her driver's "
-             'licence but she keeps on failing.'],
+{'comment': '',
+ 'definition': 'In infor~ mal language, umpteen means very many.Poor Hilda, '
+               "she's had umpteen attempts at getting her driver's licence "
+               'but she keeps on failing.',
+ 'example': '',
  'headword': 'umpteen',
- 'note': ' ',
+ 'note': "... WORD FAMILY '[cf2]adjective umpteenth'[cf2] I couldn't face "
+         'starting again for the umpteenth time.',
  'pronounce': "V mp`ti:n, `V mpti:n'",
  'ps': "determiner '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': "'",
- 'example': ['If a decision is unanimous, everyone involved agrees that is '
-             'what should be done.  [cf2]The vote was unanimous.'],
+{'comment': '',
+ 'definition': 'If a decision is unanimous, everyone involved agrees that is '
+               'what should be done.',
+ 'example': ['The vote was unanimous.',
+             'We were unanimous that we should wait another month.  [j30] '
+             "... WORD FAMILY '[cf2]adverb unanimously'[cf2] They voted "
+             'unanimously to re-elect her as chair.  [j31]'],
  'headword': 'unanimous',
- 'note': ' ',
+ 'note': '',
  'pronounce': "ju:`nAn@m@s'",
  'ps': "adjective '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
 {'comment': 'adjective forms uncannier, uncanniest',
- 'definition': ' ',
- 'example': ['If something is uncanny, it is so strange that it makes you '
-             'think that it may be caused by something outside the natural '
-             'world. [cf2]Kimiko has an uncanny ability to pick who is the '
-             'next person to marry.'],
+ 'definition': 'If something is uncanny, it is so strange that it makes you '
+               'think that it may be caused by something outside the natural '
+               'world.',
+ 'example': ['Kimiko has an uncanny ability to pick who is the next person '
+             'to marry.',
+             'By an uncanny coincidence, he phoned just as I was talking '
+             'about him. [j33] The similarity between them is uncanny.'],
  'headword': 'uncanny',
- 'note': ' ',
+ 'note': '',
  'pronounce': "V n`kAni:'",
  'ps': "adjective '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ' ',
+{'comment': '',
+ 'definition': '',
+ 'example': '',
  'headword': 'uncle',
- 'note': ' ',
+ 'note': '',
  'pronounce': "`V Nk@l'",
- 'ps': ' ',
- 'rest': ' ',
- 'senses': [{'comment': ' ',
-             'definition': ' ',
-             'example': ' ',
+ 'ps': '',
+ 'rest': '',
+ 'senses': [{'comment': '',
+             'definition': "' Your uncle is the brother of your father or "
+                           "mother'",
+             'example': '',
              'id': '1',
-             'note': ' ',
+             'note': '',
              'ps': "noun '",
-             'rest': "' Your uncle is the brother of your father or "
-                     "mother.  '"},
-            {'comment': ' ',
-             'definition': ' ',
-             'example': ' ',
+             'rest': ''},
+            {'comment': '',
+             'definition': "' Your uncle is also the husband of your aunt",
+             'example': '',
              'id': '2',
-             'note': ' ',
+             'note': '',
              'ps': "noun '",
-             'rest': "' Your uncle is also the husband of your aunt."}]}
+             'rest': ''}]}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ' ',
+{'comment': '',
+ 'definition': '',
+ 'example': '',
  'headword': 'unconscious',
- 'note': ' ',
+ 'note': '',
  'pronounce': "V n`kOnS@s'",
- 'ps': ' ',
- 'rest': ' ',
- 'senses': [{'comment': ' ',
-             'definition': ' ',
-             'example': ["' If you are unconscious, you are not aware of "
-                         'what is going on around you, usually because '
-                         'you are sick or injured.  [cf2]He was found '
-                         'unconscious on the street.'],
+ 'ps': '',
+ 'rest': '',
+ 'senses': [{'comment': '',
+             'definition': "' If you are unconscious, you are not aware of "
+                           'what is going on around you, usually because '
+                           'you are sick or injured.',
+             'example': ['He was found unconscious on the street.',
+                         'She struck her head against the wall and was '
+                         "knocked unconscious.  '"],
              'id': '1',
-             'note': ' ',
+             'note': '',
              'ps': "adjective '",
              'rest': ''},
-            {'comment': ' ',
-             'definition': "'",
-             'example': ["' If you are unconscious of something, you are "
-                         'not aware of it.  [cf2]Nina continued to read, '
-                         'completely unconscious of the fact that '
-                         'everyone in the room was staring at her.'],
+            {'comment': '',
+             'definition': "' If you are unconscious of something, you are "
+                           'not aware of it.Nina continued to read, '
+                           'completely unconscious of the fact that '
+                           'everyone in the room was staring at her.',
+             'example': '',
              'id': '2',
-             'note': ' ',
+             'note': "... WORD FAMILY '[cf2]adverb unconsciously'[cf2] I "
+                     'fear that I may have unconsciously offended some of '
+                     "the guests.[j35] '[cf2]noun unconsciousness'[cf2] "
+                     'The patient lapsed into unconsciousness.',
              'ps': "adjective '",
              'rest': ''}]}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ' ',
+{'comment': '',
+ 'definition': '',
+ 'example': '',
  'headword': 'under',
- 'note': ' ',
+ 'note': '',
  'pronounce': "`V nd@'",
- 'ps': ' ',
- 'rest': ' ',
- 'senses': [{'comment': ' ',
-             'definition': ' ',
-             'example': ["' If something is under something else, it is "
-                         'beneath it and covered by it. [cf2]He keeps his '
-                         'tennis racquet under his bed.'],
+ 'ps': '',
+ 'rest': '',
+ 'senses': [{'comment': '',
+             'definition': "' If something is under something else, it is "
+                           'beneath it and covered by it.',
+             'example': ['He keeps his tennis racquet under his bed.',
+                         "Why don't you wear a singlet under your shirt?  "
+                         "'"],
              'id': '1',
-             'note': ' ',
+             'note': '',
              'ps': "preposition '",
              'rest': ''},
-            {'comment': ' ',
-             'definition': ' ',
-             'example': ' ',
+            {'comment': '',
+             'definition': "' If something is under something else, it is "
+                           'lower than it in height.We have the picture '
+                           'hanging on the wall directly under the '
+                           "spotlight.  '",
+             'example': '',
              'id': '2',
-             'note': ' ',
+             'note': '',
              'ps': "preposition '",
-             'rest': "' If something is under something else, it is lower "
-                     'than it in height.  We have the picture hanging on '
-                     "the wall directly under the spotlight.  '"},
-            {'comment': ' ',
-             'definition': ' ',
-             'example': ' ',
+             'rest': ''},
+            {'comment': '',
+             'definition': "' If something is under something else, it is "
+                           'lower than it in amount.Children under 18 are '
+                           "not permitted to buy cigarettes or alcohol. '",
+             'example': '',
              'id': '3',
-             'note': ' ',
+             'note': '',
              'ps': "preposition '",
-             'rest': "' If something is under something else, it is lower "
-                     'than it in amount.    Children under 18 are not '
-                     "permitted to buy cigarettes or alcohol. '"},
-            {'comment': ' ',
-             'definition': ' ',
-             'example': ' ',
+             'rest': ''},
+            {'comment': '',
+             'definition': "'If something takes place under' certain "
+                           'conditions or circumstances, it happens with '
+                           'those conditions affecting it or allowing it '
+                           'to take place.We can only employ him under the '
+                           'conditions stated in his contract.',
+             'example': '',
              'id': '4',
-             'note': ' ',
-             'ps': ' ',
-             'rest': "'If something takes place under' certain conditions "
-                     'or circumstances, it happens with those conditions '
-                     'affecting it or allowing it to take place. We can '
-                     'only employ him under the conditions stated in his '
-                     'contract.'}]}
+             'note': '',
+             'ps': '',
+             'rest': ''}]}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ' ',
+{'comment': '',
+ 'definition': 'If you bowl under~ arm, you throw the ball with your arm in '
+               'a position below the level of your shoulder',
+ 'example': '',
  'headword': 'underarm',
- 'note': ' ',
+ 'note': '',
  'pronounce': "`V nd@ra:m'",
  'ps': "adverb '",
- 'rest': 'If you bowl under~ arm, you throw the ball with your arm in a '
-         'position below the level of your shoulder.',
- 'senses': ' '}
+ 'rest': '',
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ' ',
+{'comment': '',
+ 'definition': 'If food is under~ done, it has not been cooked long enough',
+ 'example': '',
  'headword': 'underdone',
- 'note': ' ',
+ 'note': '',
  'pronounce': "V nd@`dV n'",
  'ps': "adjective '",
- 'rest': 'If food is under~ done, it has not been cooked long enough.',
- 'senses': ' '}
+ 'rest': '',
+ 'senses': ''}
 
 {'comment': 'verb forms undergoes, underwent, undergone, undergoing',
- 'definition': ' ',
- 'example': ['If you undergo something unpleasant or difficult, you '
-             'experience it.  It happens to you.  [cf2]The patient '
-             'underwent three operations in four days.'],
+ 'definition': 'If you undergo something unpleasant or difficult, you '
+               'experience it.  It happens to you.',
+ 'example': ['The patient underwent three operations in four days.',
+             'The witness underwent hostile questioning. [j33] The appa~ '
+             'ratus is undergoing tests.'],
  'headword': 'undergo',
- 'note': ' ',
+ 'note': '',
  'pronounce': "V nd@`g@U'",
  'ps': "verb '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ' ',
+{'comment': '',
+ 'definition': 'Undergrowth is bushes and other small plants that grow close '
+               'together under trees.We had to clear a lot of undergrowth in '
+               'the backyard of our new house.',
+ 'example': '',
  'headword': 'undergrowth',
- 'note': ' ',
+ 'note': '',
  'pronounce': "`u:nd@gr@UT'",
  'ps': "noun '",
- 'rest': 'Undergrowth is bushes and other small plants that grow close '
-         'together under trees.  We had to clear a lot of undergrowth in the '
-         'backyard of our new house.',
- 'senses': ' '}
+ 'rest': '',
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ['If someone is underhand, they are sly and secretive in the '
-             "way they do things.  [cf2]There's nothing underhand about "
-             'Julie[j4]she really lets you know what she thinks!'],
+{'comment': '',
+ 'definition': 'If someone is underhand, they are sly and secretive in the '
+               'way they do things.',
+ 'example': ["There's nothing underhand about Julie[j4]she really lets you "
+             'know what she thinks!',
+             'It was pretty underhand of him to go above me to my boss.'],
  'headword': 'underhand',
- 'note': ' ',
+ 'note': '',
  'pronounce': "`V nd@hAnd'",
  'ps': "adjective '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ' ',
+{'comment': '',
+ 'definition': '',
+ 'example': '',
  'headword': 'underline',
- 'note': ' ',
+ 'note': '',
  'pronounce': "V nd@`la:In'",
- 'ps': ' ',
- 'rest': ' ',
- 'senses': [{'comment': ' ',
-             'definition': ' ',
-             'example': ["' If you underline something written, you draw "
-                         'a line under it in order to draw attention to '
-                         'it.  [cf2]The teacher told us to underline any '
-                         "words that we didn't know and look them up in a "
-                         'dictionary.'],
+ 'ps': '',
+ 'rest': '',
+ 'senses': [{'comment': '',
+             'definition': "' If you underline something written, you draw "
+                           'a line under it in order to draw attention to '
+                           'it.',
+             'example': ['The teacher told us to underline any words that '
+                         "we didn't know and look them up in a dictionary.",
+                         "The word 'urgent' was underlined twice in red.  "
+                         "'"],
              'id': '1',
-             'note': ' ',
+             'note': '',
              'ps': "verb '",
              'rest': ''},
-            {'comment': ' ',
-             'definition': ' ',
-             'example': ["' If you underline something that you say, you "
-                         'emphasise it.  [cf2]Let me underline that this '
-                         'must not happen again.'],
+            {'comment': '',
+             'definition': "' If you underline something that you say, you "
+                           'emphasise it.',
+             'example': ['Let me underline that this must not happen '
+                         'again.',
+                         'Dentists underline the importance of regular '
+                         'brushing of the teeth. [j33] This incident '
+                         'underlines the necessity for regular fire '
+                         'drills.'],
              'id': '2',
-             'note': ' ',
+             'note': '',
              'ps': "verb '",
              'rest': ''}]}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ' ',
+{'comment': '',
+ 'definition': '',
+ 'example': '',
  'headword': 'underneath',
- 'note': ' ',
+ 'note': '',
  'pronounce': "V nd@`ni:T'",
- 'ps': ' ',
- 'rest': ' ',
- 'senses': [{'comment': ' ',
-             'definition': "'",
-             'example': ' ',
+ 'ps': '',
+ 'rest': '',
+ 'senses': [{'comment': '',
+             'definition': "' If something is underneath something else, "
+                           "it is below or beneath it.  2 ' 'noun The "
+                           'underneath of something such as a table or '
+                           'chair is the part that is closest to the '
+                           "ground and faces the ground.  Don't bother "
+                           "painting the underneath of the table[j4]it'll "
+                           'never be seen.',
+             'example': '',
              'id': '1',
-             'note': ' ',
+             'note': '',
              'ps': "preposition '",
-             'rest': "' If something is underneath something else, it is "
-                     "below or beneath it.  2 ' noun The underneath of "
-                     'something such as a table or chair is the part that '
-                     'is closest to the ground and faces the ground.  '
-                     "Don't bother painting the underneath of the "
-                     "table[j4]it'll never be seen."}]}
+             'rest': ''}]}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ' ',
+{'comment': '',
+ 'definition': 'Underpants are a short piece of clothing worn by men and '
+               'boys under trousers or shorts',
+ 'example': '',
  'headword': 'underpants',
- 'note': ' ',
+ 'note': '',
  'pronounce': "`V nd@pAnts'",
  'ps': "noun '",
- 'rest': 'Underpants are a short piece of clothing worn by men and boys '
-         'under trousers or shorts.',
- 'senses': ' '}
+ 'rest': '',
+ 'senses': ''}
 
 {'comment': 'verb forms understands, understood, understanding',
- 'definition': ' ',
- 'example': ' ',
+ 'definition': '',
+ 'example': '',
  'headword': 'understand',
- 'note': ' ',
+ 'note': '',
  'pronounce': "V nd@`stAnd'",
- 'ps': ' ',
- 'rest': ' ',
- 'senses': [{'comment': ' ',
-             'definition': ' ',
-             'example': ["' If you under~ stand something, it is clear to "
-                         'you in your mind. [cf2]Do you understand these '
-                         'maths formulae?'],
+ 'ps': '',
+ 'rest': '',
+ 'senses': [{'comment': '',
+             'definition': "' If you under~ stand something, it is clear "
+                           'to you in your mind.',
+             'example': ['Do you understand these maths formulae?',
+                         "I don't understand what she wants us to do.  '"],
              'id': '1',
-             'note': ' ',
+             'note': '',
              'ps': "verb '",
              'rest': ''},
-            {'comment': ' ',
-             'definition': ' ',
-             'example': ' ',
+            {'comment': '',
+             'definition': "' If you understand someone, you see the "
+                           'meaning of what they are telling you.She spoke '
+                           "so fast that I couldn't understand her.  '",
+             'example': '',
              'id': '2',
-             'note': ' ',
-             'ps': "verb '",
-             'rest': "' If you understand someone, you see the meaning of "
-                     'what they are telling you.  She spoke so fast that I '
-                     "couldn't understand her.  '"},
-            {'comment': ' ',
-             'definition': "'",
-             'example': ["' If you understand a word or a language, you "
-                         'know its meaning.  [cf2]I understand Italian '
-                         "but I can't speak it very well."],
-             'id': '3',
-             'note': ' ',
+             'note': '',
              'ps': "verb '",
              'rest': ''},
-            {'comment': ' ',
-             'definition': "'",
-             'example': ["' In formal language, if you say you understand "
-                         'something is the case, you mean that you have '
-                         'heard it or take it to be true.  [cf2]I '
-                         "understand you've not been well, Mr Gresham."],
+            {'comment': '',
+             'definition': "' If you understand a word or a language, you "
+                           'know its meaning.',
+             'example': ["I understand Italian but I can't speak it very "
+                         'well.',
+                         "I don't understand the word 'symptom'.   4 ' "
+                         "'[cf2]verb If you understand someone or "
+                         'something, you are aware of their nature and '
+                         'why they behave in a certain way.  '
+                         '[cf2]Teenagers often claim that their parents '
+                         "don't understand them. [j33] I can't understand "
+                         'what made her do it. [j33] I knew I could count '
+                         "on you to understand. '"],
+             'id': '3',
+             'note': '',
+             'ps': "verb '",
+             'rest': ''},
+            {'comment': '',
+             'definition': "' In formal language, if you say you "
+                           'understand something is the case, you mean '
+                           'that you have heard it or take it to be true.',
+             'example': ["I understand you've not been well, Mr Gresham.",
+                         "I understand they're in financial "
+                         'difficulties.  [j30] ... WORD FAMILY '
+                         "'[cf2]adjective understandable'[cf2] The delay "
+                         'is understandable in view of the '
+                         "circumstances.[j35] '[cf2]noun "
+                         "understanding'[cf2] She has a good "
+                         'understanding of the issues. [j33] He nodded in '
+                         'understanding.  [j31]'],
              'id': '5',
-             'note': ' ',
+             'note': '',
              'ps': "verb '",
              'rest': ''}]}
 
-{'comment': ' ',
- 'definition': "'",
- 'example': ['If you understate something, you present it as being smaller '
-             'or less important than it really is.  [cf2]It is an offence '
-             'to understate your income for tax purposes.'],
+{'comment': '',
+ 'definition': 'If you understate something, you present it as being smaller '
+               'or less important than it really is.',
+ 'example': ['It is an offence to understate your income for tax purposes.',
+             'If anything, he has understated the problem.  [j30] ... WORD '
+             "FAMILY '[cf2]noun understatement'[cf2] To call it unfortunate "
+             'would be an understatement.  [j31]'],
  'headword': 'understate',
- 'note': ' ',
+ 'note': '',
  'pronounce': "V nd@`stEIt'",
  'ps': "verb '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
 {'comment': 'verb forms undertakes, undertook, undertaken, undertaking',
- 'definition': ' ',
- 'example': ' ',
+ 'definition': '',
+ 'example': '',
  'headword': 'undertake',
- 'note': ' ',
+ 'note': '',
  'pronounce': "V nd@`tEIk'",
- 'ps': ' ',
- 'rest': ' ',
- 'senses': [{'comment': ' ',
-             'definition': ' ',
-             'example': ["' If you undertake a task, you take on "
-                         'responsibility for it.  [cf2]In the interim I '
-                         'will undertake the role of acting manager.'],
+ 'ps': '',
+ 'rest': '',
+ 'senses': [{'comment': '',
+             'definition': "' If you undertake a task, you take on "
+                           'responsibility for it.',
+             'example': ['In the interim I will undertake the role of '
+                         'acting manager.',
+                         "Are you aware of the scale of what you've "
+                         "undertaken?  '"],
              'id': '1',
-             'note': ' ',
+             'note': '',
              'ps': "verb '",
              'rest': ''},
-            {'comment': ' ',
-             'definition': "'",
-             'example': ["' In formal language, if you undertake to do "
-                         'something, you promise that you will do it.  '
-                         '[cf2]She undertook to repay her creditors.'],
+            {'comment': '',
+             'definition': "' In formal language, if you undertake to do "
+                           'something, you promise that you will do it.She '
+                           'undertook to repay her creditors.  [j34] ... '
+                           "WORD FAMILY 'noun undertaking' He gave me his "
+                           'undertaking it would be done.  [j31]',
+             'example': '',
              'id': '2',
-             'note': ' ',
+             'note': '',
              'ps': "verb '",
              'rest': ''}]}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ' ',
+{'comment': '',
+ 'definition': 'An undertaker is someone whose job is to prepare the bodies '
+               'of dead people for burial or cremationThey supply the coffin '
+               'and make arrangements for the funeral.',
+ 'example': '',
  'headword': 'undertaker',
- 'note': ' ',
+ 'note': '',
  'pronounce': "`V nd@tEIk@'",
  'ps': "noun '",
- 'rest': 'An undertaker is someone whose job is to prepare the bodies of '
-         'dead people for burial or cremation.  They supply the coffin and '
-         'make arrangements for the funeral.',
- 'senses': ' '}
+ 'rest': '',
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ' ',
+{'comment': '',
+ 'definition': 'Underwear is cloth~ ing such as pants, bras, singlets and '
+               'petticoats which you wear under your other clothes',
+ 'example': '',
  'headword': 'underwear',
- 'note': ' ',
+ 'note': '',
  'pronounce': "`V nd@wE@'",
  'ps': "noun '",
- 'rest': 'Underwear is cloth~ ing such as pants, bras, singlets and '
-         'petticoats which you wear under your other clothes.',
- 'senses': ' '}
+ 'rest': '',
+ 'senses': ''}
 
 {'comment': 'verb forms undoes, undid, undone, undoing',
- 'definition': ' ',
- 'example': ' ',
+ 'definition': '',
+ 'example': '',
  'headword': 'undo',
- 'note': ' ',
+ 'note': '',
  'pronounce': "V n`du:'",
- 'ps': ' ',
- 'rest': ' ',
- 'senses': [{'comment': ' ',
-             'definition': ' ',
-             'example': ["a' If you undo a fastening, you release it.  "
-                         '[cf2]He undid his seat belt and stepped out of '
-                         'the car.'],
+ 'ps': '',
+ 'rest': '',
+ 'senses': [{'comment': '',
+             'definition': "a' If you undo a fastening, you release it.",
+             'example': ['He undid his seat belt and stepped out of the '
+                         'car.',
+                         "I can't undo this zip. [j33] Can you help me "
+                         'undo the knots? [j33] She undid the top button '
+                         "on her blouse.  '"],
              'id': '1',
-             'note': ' ',
+             'note': '',
              'ps': "verb '",
              'rest': ''},
-            {'comment': ' ',
-             'definition': ' ',
-             'example': ["' If you undo something that has been done, you "
-                         'cause it to be as it was before it was '
-                         'changed.  [cf2]The psychiatrist is trying to '
-                         'undo the emotional damage that Ben suffered in '
-                         'childhood.'],
+            {'comment': '',
+             'definition': "' If you undo something that has been done, "
+                           'you cause it to be as it was before it was '
+                           'changed.',
+             'example': ['The psychiatrist is trying to undo the '
+                         'emotional damage that Ben suffered in childhood.',
+                         "After I'd made all the corrections he wanted me "
+                         "to go back and undo them!  '"],
              'id': '2',
-             'note': ' ',
+             'note': '',
              'ps': "verb '",
              'rest': ''},
-            {'comment': ' ',
-             'definition': "'",
-             'example': ["' In formal language, if you say something "
-                         'undoes someone, you mean it causes their '
-                         'downfall.  [cf2]His addiction to gambling '
-                         'eventually undid him.'],
+            {'comment': '',
+             'definition': "' In formal language, if you say something "
+                           'undoes someone, you mean it causes their '
+                           'downfall.His addiction to gambling eventually '
+                           'undid him.',
+             'example': '',
              'id': '3',
-             'note': ' ',
+             'note': "... WORD FAMILY '[cf2]noun undoing'[cf2] This small "
+                     'care~ lessness proved to be her undoing.',
              'ps': "verb '",
              'rest': ''}]}
 
-{'comment': ' ',
- 'definition': "'",
- 'example': ['If you are uneasy about something, you feel anxious and '
-             'worried about it. [cf2]I felt uneasy about lying to my mother.'],
+{'comment': '',
+ 'definition': 'If you are uneasy about something, you feel anxious and '
+               'worried about it.',
+ 'example': ['I felt uneasy about lying to my mother.',
+             "I'm beginning to get uneasy about the delay.  [j30] ... WORD "
+             "FAMILY '[cf2]noun unease'[cf2] I felt a sense of unease at "
+             'these developments.  [j31]'],
  'headword': 'uneasy',
- 'note': ' ',
+ 'note': '',
  'pronounce': "V n`i:zi:'",
  'ps': "adjective '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': "'",
- 'example': ["'If you are unemployed, you do not have a job."],
+{'comment': '',
+ 'definition': "'If you are unemployed, you do not have a job.  [j30] ... "
+               "WORD FAMILY 'noun unemployed' The government announced a new "
+               "initiative to help the unemployed.[j35] 'noun unemployment'  "
+               '[j31]',
+ 'example': '',
  'headword': 'unemployed',
- 'note': ' ',
+ 'note': '',
  'pronounce': "V n@m`pl@:Id'",
  'ps': "adjective '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ' ',
+{'comment': '',
+ 'definition': 'An uneventful period of time has no important or interesting '
+               'things happening in it.Our holiday was a little boring and '
+               'uneventful.',
+ 'example': '',
  'headword': 'uneventful',
- 'note': ' ',
+ 'note': '',
  'pronounce': "V n@`vEntfUl'",
  'ps': "adjective '",
- 'rest': 'An uneventful period of time has no important or interesting '
-         'things happening in it.  Our holiday was a little boring and '
-         'uneventful.',
- 'senses': ' '}
+ 'rest': '',
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ['If some~ thing is unforgettable, it makes such a strong '
-             'impression on you that you will never forget it. [cf2]The '
-             'scenery was absolutely breathtaking[j4]quite unforgettable.'],
+{'comment': '',
+ 'definition': 'If some~ thing is unforgettable, it makes such a strong '
+               'impression on you that you will never forget it.',
+ 'example': ['The scenery was absolutely breathtaking[j4]quite '
+             'unforgettable.',
+             'Thank you all so much for making my stay unforgettable.'],
  'headword': 'unforgettable',
- 'note': ' ',
+ 'note': '',
  'pronounce': "V nf@`gEt@b@l'",
  'ps': "adjective '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ' ',
+{'comment': '',
+ 'definition': '',
+ 'example': '',
  'headword': 'uniform',
- 'note': ' ',
+ 'note': '',
  'pronounce': "`ju:n@f@:m'",
- 'ps': ' ',
- 'rest': ' ',
- 'senses': [{'comment': ' ',
-             'definition': ' ',
-             'example': ["' A uniform is the special clothes that some "
-                         'people wear to show that they have a certain '
-                         'job or go to a certain school. [cf2]Julio looks '
-                         'so handsome in his naval uniform.'],
+ 'ps': '',
+ 'rest': '',
+ 'senses': [{'comment': '',
+             'definition': "' A uniform is the special clothes that some "
+                           'people wear to show that they have a certain '
+                           'job or go to a certain school.',
+             'example': ['Julio looks so handsome in his naval uniform.',
+                         "I walked past three girls in school uniform.  '"],
              'id': '1',
-             'note': ' ',
+             'note': '',
              'ps': "noun '",
              'rest': ''},
-            {'comment': ' ',
-             'definition': ' ',
-             'example': ["' In formal language, if you say that things "
-                         'are uniform, you mean that they are the same.  '
-                         "They don't vary.  [cf2]The results were "
-                         'surprisingly uniform across the whole '
-                         'population tested.'],
+            {'comment': '',
+             'definition': "' In formal language, if you say that things "
+                           'are uniform, you mean that they are the same.  '
+                           "They don't vary.",
+             'example': ['The results were surprisingly uniform across '
+                         'the whole population tested.',
+                         'Along the wall was a set of uniform glass jars.'],
              'id': '2',
-             'note': ' ',
+             'note': '',
              'ps': "adjective '",
              'rest': ''}]}
 
 {'comment': 'verb forms unifies, unified, unifying',
- 'definition': "'",
- 'example': ['If you unify several things, you bring them together as one '
-             'thing.  [cf2]We are trying to unify the accounts of the '
-             'various witnesses to give us an overall picture of what '
-             'happened.'],
+ 'definition': 'If you unify several things, you bring them together as one '
+               'thing.',
+ 'example': ['We are trying to unify the accounts of the various witnesses '
+             'to give us an overall picture of what happened.',
+             'The sales and marketing departments will be unified in the '
+             "new building.  [j30] ... WORD FAMILY '[cf2]noun "
+             "unification'[cf2]  [j31]"],
  'headword': 'unify',
- 'note': ' ',
+ 'note': '',
  'pronounce': "`ju:n@fa:I'",
  'ps': "verb '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': "'",
- 'example': ["'times,0'[cp8.5]juni"],
+{'comment': '',
+ 'definition': "'times,0'[cp8.5]juni[j24]l[j12]t[j17]r[j17]l, "
+               "-[j24]l[j12]tr[j17]l, jun[j17]-' A unilateral decision or "
+               'action is taken by only one of the parties involved with a '
+               'particular issue, without consulting the others.  [j30] ... '
+               "WORD FAMILY 'adverb unilaterally' He unilaterally decided to "
+               'end the contract.  [j31]',
+ 'example': '',
  'headword': 'unilateral',
- 'note': ' ',
- 'pronounce': ' ',
+ 'note': '',
+ 'pronounce': '',
  'ps': "adjective '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': "'",
- 'example': ['If you are uninterested in something, you are not interested '
-             "in it and you don't want to know about it.  [cf2]I am "
-             'completely uninterested in their problems.'],
+{'comment': '',
+ 'definition': 'If you are uninterested in something, you are not interested '
+               "in it and you don't want to know about it.I am completely "
+               'uninterested in their problems.',
+ 'example': '',
  'headword': 'uninterested',
- 'note': ' ',
+ 'note': '... DO NOT CONFUSE this word with disinterested.  [j32] ... WORD '
+         "FAMILY '[cf2]adjective uninteresting'[cf2] The meeting was more "
+         'than usually uninteresting.',
  'pronounce': "V n`Intr@st@d'",
  'ps': "adjective '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': "'",
- 'example': ['A union or trade union is an organisation of workers in a '
-             'particular industry or group of industries which tries to '
-             'improve pay and conditions for its members.'],
+{'comment': '',
+ 'definition': 'A union or trade union is an organisation of workers in a '
+               'particular industry or group of industries which tries to '
+               'improve pay and conditions for its members.  [j30] ... WORD '
+               "FAMILY '",
+ 'example': ["adjective union'[cf2] ...a union member.",
+             '...union dues.  [j31]'],
  'headword': 'union',
- 'note': ' ',
+ 'note': '',
  'pronounce': "`ju:nj@n'",
  'ps': "noun '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': "'",
- 'example': ['If something is unique, it is very special and rare.  [cf2]Be '
-             "very careful not to chip this vase[j4]it's unique."],
+{'comment': '',
+ 'definition': 'If something is unique, it is very special and rare.',
+ 'example': ["Be very careful not to chip this vase[j4]it's unique.",
+             'She has a unique combination of talents for the job.  [j30] '
+             "... WORD FAMILY '[cf2]adverb uniquely'[cf2] She is uniquely "
+             'well qualified to take on the task.  [j31]'],
  'headword': 'unique',
- 'note': ' ',
+ 'note': '',
  'pronounce': "ju:`ni:k'",
  'ps': "adjective '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ' ',
+{'comment': '',
+ 'definition': 'If something is unisex, it is suitable for both men and '
+               "women.'Is this jumper for a man or a woman?'  'Either, it's "
+               "unisex.'",
+ 'example': '',
  'headword': 'unisex',
- 'note': ' ',
+ 'note': '',
  'pronounce': "`ju:ni:sEks'",
  'ps': "adjective '",
- 'rest': 'If something is unisex, it is suitable for both men and women.  '
-         "'Is this jumper for a man or a woman?'  'Either, it's unisex.'",
- 'senses': ' '}
+ 'rest': '',
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ' ',
+{'comment': '',
+ 'definition': '',
+ 'example': '',
  'headword': 'unison',
- 'note': ' ',
+ 'note': '',
  'pronounce': "`ju:n@s@n'",
- 'ps': ' ',
- 'rest': ' ',
- 'senses': [{'comment': ' ',
-             'definition': ' ',
-             'example': ' ',
+ 'ps': '',
+ 'rest': '',
+ 'senses': [{'comment': '',
+             'definition': "' If a group of people sing in unison, they "
+                           "are all singing the same note at the same time'",
+             'example': '',
              'id': '1',
-             'note': ' ',
+             'note': '',
              'ps': "noun '",
-             'rest': "' If a group of people sing in unison, they are all "
-                     "singing the same note at the same time.  '"},
-            {'comment': ' ',
-             'definition': ' ',
-             'example': ["' If a group of people do something in unison, "
-                         'they all do it together.  [cf2]We all shouted '
-                         "'Happy Birthday' in unison."],
+             'rest': ''},
+            {'comment': '',
+             'definition': "' If a group of people do something in unison, "
+                           'they all do it together.',
+             'example': ["We all shouted 'Happy Birthday' in unison.",
+                         "When their demands weren't met they left the "
+                         'room in unison.'],
              'id': '2',
-             'note': ' ',
+             'note': '',
              'ps': "verb '",
              'rest': ''}]}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ' ',
+{'comment': '',
+ 'definition': '',
+ 'example': '',
  'headword': 'unit',
- 'note': ' ',
+ 'note': '',
  'pronounce': "`ju:n@t'",
- 'ps': ' ',
- 'rest': ' ',
- 'senses': [{'comment': ' ',
-             'definition': ' ',
-             'example': ["' A unit is a thing or person or a group that "
-                         'is regarded as a single complete thing.  '
-                         '[cf2]Our family is a close and supportive unit.'],
+ 'ps': '',
+ 'rest': '',
+ 'senses': [{'comment': '',
+             'definition': "' A unit is a thing or person or a group that "
+                           'is regarded as a single complete thing.',
+             'example': ['Our family is a close and supportive unit.',
+                         "I've completed the first three units of my "
+                         'course. [j33] You can buy the shelving in '
+                         "separate units and fit them together.  '"],
              'id': '1',
-             'note': ' ',
+             'note': '',
              'ps': "noun '",
              'rest': ''},
-            {'comment': ' ',
-             'definition': ' ',
-             'example': ' ',
+            {'comment': '',
+             'definition': "' A unit is a fixed standard amount which is "
+                           'used in measuring some quality such as length '
+                           'or weight.In Australia we use metric units, '
+                           'but in the United States imperial units are '
+                           "used.  '",
+             'example': '',
              'id': '2',
-             'note': ' ',
+             'note': '',
              'ps': "noun '",
-             'rest': "' A unit is a fixed standard amount which is used in "
-                     'measuring some quality such as length or weight.  In '
-                     'Australia we use metric units, but in the United '
-                     "States imperial units are used.  '"},
-            {'comment': ' ',
-             'definition': ' ',
-             'example': ' ',
+             'rest': ''},
+            {'comment': '',
+             'definition': "' A unit or home unit is a set of rooms for a "
+                           'family to live in.  Other words you can use '
+                           'for this are flat or apartment.Tony and '
+                           'Isabella rented for about a year and then '
+                           'bought a unit in Brisbane.',
+             'example': '',
              'id': '3',
-             'note': ' ',
+             'note': '',
              'ps': "noun '",
-             'rest': "' A unit or home unit is a set of rooms for a family "
-                     'to live in.  Other words you can use for this are '
-                     'flat or apartment.  Tony and Isabella rented for '
-                     'about a year and then bought a unit in Brisbane.'}]}
+             'rest': ''}]}
 
-{'comment': ' ',
- 'definition': "'",
- 'example': ['If two or more people unite, they join together in order to '
-             'achieve something. [cf2]Despite their differences, they '
-             'united to oppose the planning application.'],
+{'comment': '',
+ 'definition': 'If two or more people unite, they join together in order to '
+               'achieve something.Despite their differences, they united to '
+               'oppose the planning application.',
+ 'example': '',
  'headword': 'unite',
- 'note': ' ',
+ 'note': "... WORD FAMILY '[cf2]adjective united'[cf2] We are united on this "
+         'issue.',
  'pronounce': "ju:`na:It'",
  'ps': "verb '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ['If something is universal, it relates to everybody or '
-             'everything. [cf2]There was universal sympathy for his '
-             'predicament.'],
+{'comment': '',
+ 'definition': 'If something is universal, it relates to everybody or '
+               'everything.',
+ 'example': ['There was universal sympathy for his predicament.',
+             "Crime is a universal problem[j4]it's not confined to "
+             'particular suburbs. [j33] How universal is this problem? Has '
+             'anyone else had trouble?'],
  'headword': 'universal',
- 'note': ' ',
+ 'note': '',
  'pronounce': "ju:n@`v@:s@l'",
  'ps': "adjective '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ['The universe is every~ thing that exists.  [cf2]Many people '
-             'believe that the universe must have been created by a divine '
-             'being.'],
+{'comment': '',
+ 'definition': 'The universe is every~ thing that exists.',
+ 'example': ['Many people believe that the universe must have been created '
+             'by a divine being.',
+             'Somewhere in the universe there may be other intelligent '
+             'beings. [j33] Her whole universe had collapsed.'],
  'headword': 'universe',
- 'note': ' ',
+ 'note': '',
  'pronounce': "`ju:n@v@:s'",
  'ps': "noun '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
 {'comment': 'plural form universities',
- 'definition': "'",
- 'example': ['A university is a place of higher education where students '
-             'study for degrees and research is carried out by postgraduate '
-             'students, lecturers and professors.  [cf2]Shirin hopes to go '
-             'to university.'],
+ 'definition': 'A university is a place of higher education where students '
+               'study for degrees and research is carried out by '
+               'postgraduate students, lecturers and professors.',
+ 'example': ['Shirin hopes to go to university.',
+             'He graduated from university last year.  [j34] ... A '
+             'SHORTENED FORM of this, used in informal language, is uni.  '
+             "[j32] ... WORD FAMILY '[cf2]adjective university'[cf2] ...a "
+             'university course. [j33] ...a university degree.  [j31]'],
  'headword': 'university',
- 'note': ' ',
+ 'note': '',
  'pronounce': "ju:n@`v@:s@ti:'",
  'ps': "noun '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': "'",
- 'example': ['If a person or thing is unknown, people do not know who or '
-             'what they are, or they do not know about them.  [cf2]The '
-             'security guard stopped the unknown man at the door.'],
+{'comment': '',
+ 'definition': 'If a person or thing is unknown, people do not know who or '
+               'what they are, or they do not know about them.',
+ 'example': ['The security guard stopped the unknown man at the door.',
+             'Thai cooking ingredients are still unknown to many '
+             "Australians.  [j30] ... WORD FAMILY '[cf2]noun unknown'[cf2] "
+             'Fear of the unknown can be a barrier to progress.  [j31]'],
  'headword': 'unknown',
- 'note': ' ',
+ 'note': '',
  'pronounce': "V n`n@Un'",
  'ps': "adjective '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ' ',
+{'comment': '',
+ 'definition': "In rather formal language, unlawful means 'not legal'",
+ 'example': '',
  'headword': 'unlawful',
- 'note': ' ',
+ 'note': '',
  'pronounce': "V n`l@:fUl'",
  'ps': "adjective '",
- 'rest': "In rather formal language, unlawful means 'not legal'.",
- 'senses': ' '}
+ 'rest': '',
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ["'times,0'[cp8.5]... n"],
+{'comment': '',
+ 'definition': "'times,0'[cp8.5]... n[j24]les, [j17]n-' Unless means 'if "
+               "...not'.  If you say that something will happen unless "
+               'another thing does, you mean that the first thing will '
+               'happen if the another thing does not.',
+ 'example': ["I'll leave at eight unless I hear from you.",
+             "I won't go unless he asks me to. [j33] Don't open the door "
+             "unless you're sure it's me."],
  'headword': 'unless',
- 'note': ' ',
- 'pronounce': ' ',
+ 'note': '',
+ 'pronounce': '',
  'ps': "conjunction '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
 {'comment': 'verb forms unravels, [chunravelled, unravelling',
- 'definition': ' ',
- 'example': ' ',
+ 'definition': '',
+ 'example': '',
  'headword': 'unravel',
- 'note': ' ',
+ 'note': '',
  'pronounce': "V n`rAv@l'",
- 'ps': ' ',
- 'rest': ' ',
- 'senses': [{'comment': ' ',
-             'definition': ' ',
-             'example': ' ',
+ 'ps': '',
+ 'rest': '',
+ 'senses': [{'comment': '',
+             'definition': "a' If you unravel something that is tangled, "
+                           'you make it straight and tidy.I had to stop '
+                           'and unravel the wool before I could get on '
+                           "with my knitting.  '",
+             'example': '',
              'id': '1',
-             'note': ' ',
+             'note': '',
              'ps': "verb '",
-             'rest': "a' If you unravel something that is tangled, you "
-                     'make it straight and tidy.  I had to stop and '
-                     'unravel the wool before I could get on with my '
-                     "knitting.  '"},
-            {'comment': ' ',
-             'definition': "'",
-             'example': ["b' If you unravel a complicated situation, you "
-                         'work out what the situation is and get it '
-                         'clear.  [cf2]It took me some time to unravel '
-                         'what she was talking about.'],
+             'rest': ''},
+            {'comment': '',
+             'definition': "b' If you unravel a complicated situation, you "
+                           'work out what the situation is and get it '
+                           'clear.',
+             'example': ['It took me some time to unravel what she was '
+                         'talking about.',
+                         'When he died we had a lot of paperwork to '
+                         "unravel. 2 ' '[cf2]verb If something that is "
+                         'knitted unravels, it comes apart because the '
+                         'thread is broken.  [cf2]The sleeve is '
+                         'unravelling all around the moth hole. [j33] She '
+                         'felt as though her life was unravelling.'],
              'id': 1,
-             'note': ' ',
+             'note': '',
              'ps': "verb '",
              'rest': ''}]}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ' ',
+{'comment': '',
+ 'definition': '',
+ 'example': '',
  'headword': 'unreal',
- 'note': ' ',
+ 'note': '',
  'pronounce': "V n`ri:l'",
- 'ps': ' ',
- 'rest': ' ',
- 'senses': [{'comment': ' ',
-             'definition': ' ',
-             'example': ["' If something seems or feels unreal, you find "
-                         'it hard to believe it is really happening.  '
-                         '[cf2]Everything happened so quickly that it all '
-                         'seemed unreal.'],
+ 'ps': '',
+ 'rest': '',
+ 'senses': [{'comment': '',
+             'definition': "' If something seems or feels unreal, you find "
+                           'it hard to believe it is really happening.',
+             'example': ['Everything happened so quickly that it all '
+                         'seemed unreal.',
+                         'Her death felt quite unreal to me until the day '
+                         "of the funeral.  '"],
              'id': '1',
-             'note': ' ',
+             'note': '',
              'ps': "adjective '",
              'rest': ''},
-            {'comment': ' ',
-             'definition': ' ',
-             'example': ["' In informal language, if you say something is "
-                         'unreal, you mean that it is fantastic or '
-                         "amazing.  [cf2]'How was the movie?'  'Unreal!'"],
+            {'comment': '',
+             'definition': "' In informal language, if you say something "
+                           'is unreal, you mean that it is fantastic or '
+                           'amazing.',
+             'example': ["'How was the movie?'  'Unreal!'",
+                         'They serve this unreal chocolate ice-cream.'],
              'id': '2',
-             'note': ' ',
+             'note': '',
              'ps': "adjective '",
              'rest': ''}]}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ['Unrest is discontent among a body of people that may lead to '
-             'trouble or even violence.  [cf2]The rioting is over but '
-             "there's still a mood of unrest."],
+{'comment': '',
+ 'definition': 'Unrest is discontent among a body of people that may lead to '
+               'trouble or even violence.',
+ 'example': ["The rioting is over but there's still a mood of unrest.",
+             'Industrial unrest has lost millions of dollars in production.'],
  'headword': 'unrest',
- 'note': ' ',
+ 'note': '',
  'pronounce': "V n`rEst'",
  'ps': "noun '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ['If you survive an accident or a bad experience unscathed, you '
-             'are not injured or harmed by it.  [cf2]The car was a write- '
-             'off, but amazingly the driver was unscathed.'],
+{'comment': '',
+ 'definition': 'If you survive an accident or a bad experience unscathed, '
+               'you are not injured or harmed by it.',
+ 'example': ['The car was a write- off, but amazingly the driver was '
+             'unscathed.',
+             "Fatima's had a rotten life, and yet she appears to have come "
+             'through unscathed.'],
  'headword': 'unscathed',
- 'note': ' ',
+ 'note': '',
  'pronounce': "V n`skEIDd'",
  'ps': "adjective '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ' ',
+{'comment': '',
+ 'definition': '',
+ 'example': '',
  'headword': 'unscrew',
- 'note': ' ',
+ 'note': '',
  'pronounce': "V n`skru:'",
- 'ps': ' ',
- 'rest': ' ',
- 'senses': [{'comment': ' ',
-             'definition': ' ',
-             'example': ' ',
+ 'ps': '',
+ 'rest': '',
+ 'senses': [{'comment': '',
+             'definition': "' If you unscrew some~ thing such as the lid "
+                           'on a jar, you take it off by turning it round '
+                           'and round to release it.Could you unscrew this '
+                           "lid for me?  It's a bit tight.  '",
+             'example': '',
              'id': '1',
-             'note': ' ',
+             'note': '',
              'ps': "verb '",
-             'rest': "' If you unscrew some~ thing such as the lid on a "
-                     'jar, you take it off by turning it round and round '
-                     'to release it.  Could you unscrew this lid for me?  '
-                     "It's a bit tight.  '"},
-            {'comment': ' ',
-             'definition': ' ',
-             'example': ' ',
+             'rest': ''},
+            {'comment': '',
+             'definition': "' If you unscrew something from somewhere, you "
+                           'detach it by removing the screws that are '
+                           'holding it in place.  You usually do this with '
+                           'a screwdriver.I unscrewed the mirror from the '
+                           'wall and put up a print in its place.',
+             'example': '',
              'id': '2',
-             'note': ' ',
+             'note': '',
              'ps': "verb '",
-             'rest': "' If you unscrew something from somewhere, you "
-                     'detach it by removing the screws that are holding it '
-                     'in place.  You usually do this with a screwdriver. I '
-                     'unscrewed the mirror from the wall and put up a '
-                     'print in its place.'}]}
+             'rest': ''}]}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ' ',
+{'comment': '',
+ 'definition': "Someone who is unscrupulous doesn't behave according to "
+               'moral principles.  They often act dishonestly.Some '
+               'unscrupulous car dealers were selling stolen vehicles.',
+ 'example': '',
  'headword': 'unscrupulous',
- 'note': ' ',
+ 'note': '',
  'pronounce': "V n`skru:pjUl@s'",
  'ps': "adjective '",
- 'rest': "Someone who is unscrupulous doesn't behave according to moral "
-         'principles.  They often act dishonestly.  Some unscrupulous car '
-         'dealers were selling stolen vehicles.',
- 'senses': ' '}
+ 'rest': '',
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': "'",
- 'example': ['If something unsettles you, it disturbs you and makes you '
-             'anxious or worried. [cf2]I rejoined the party, but the '
-             'telephone call had unsettled me.'],
+{'comment': '',
+ 'definition': 'If something unsettles you, it disturbs you and makes you '
+               'anxious or worried.I rejoined the party, but the telephone '
+               'call had unsettled me.',
+ 'example': '',
  'headword': 'unsettle',
- 'note': ' ',
+ 'note': "... WORD FAMILY '[cf2]adjective unsettled'[cf2] I've been feeling "
+         "nervous and unsettled lately.[j35]'[cf2]adjective unsettling'[cf2] "
+         'I found the trial an unsettling experience.',
  'pronounce': "V n`sEtl'",
  'ps': "verb '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ['If you untangle some~ thing that is twisted or difficult, you '
-             'untie the knots or twisted parts in it or you remove the '
-             'difficulties from it.  [cf2]Jan carefully untangled all the '
-             'wires at the back of the video.'],
+{'comment': '',
+ 'definition': 'If you untangle some~ thing that is twisted or difficult, '
+               'you untie the knots or twisted parts in it or you remove the '
+               'difficulties from it.',
+ 'example': ['Jan carefully untangled all the wires at the back of the '
+             'video.',
+             "The accountant spent hours untangling his client's financial "
+             'affairs.'],
  'headword': 'untangle',
- 'note': ' ',
+ 'note': '',
  'pronounce': "V n`tANgl'",
  'ps': "verb '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ' ',
+{'comment': '',
+ 'definition': '',
+ 'example': '',
  'headword': 'unthinkable',
- 'note': ' ',
+ 'note': '',
  'pronounce': "V n`TINk@b@l'",
- 'ps': ' ',
- 'rest': ' ',
- 'senses': [{'comment': ' ',
-             'definition': ' ',
-             'example': ' ',
+ 'ps': '',
+ 'rest': '',
+ 'senses': [{'comment': '',
+             'definition': "' If something is unthinkable, it is too "
+                           'terrible or shocking even to think about.If '
+                           'the nuclear waste leaked out, the consequences '
+                           "would be unthinkable.  '",
+             'example': '',
              'id': '1',
-             'note': ' ',
+             'note': '',
              'ps': "adjective '",
-             'rest': "' If something is unthinkable, it is too terrible or "
-                     'shocking even to think about.  If the nuclear waste '
-                     "leaked out, the consequences would be unthinkable.  '"},
-            {'comment': ' ',
-             'definition': ' ',
-             'example': ' ',
+             'rest': ''},
+            {'comment': '',
+             'definition': "' If something is unthinkable, you can't "
+                           'imagine it ever happening.Julie is totally '
+                           "honest[j4]it's unthinkable that she could be "
+                           'the thief.',
+             'example': '',
              'id': '2',
-             'note': ' ',
+             'note': '',
              'ps': "adjective '",
-             'rest': "' If something is unthinkable, you can't imagine it "
-                     "ever happening.  Julie is totally honest[j4]it's "
-                     'unthinkable that she could be the thief.'}]}
+             'rest': ''}]}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ' ',
+{'comment': '',
+ 'definition': '',
+ 'example': '',
  'headword': 'untie',
- 'note': ' ',
+ 'note': '',
  'pronounce': "V n`ta:I'",
- 'ps': ' ',
- 'rest': ' ',
- 'senses': [{'comment': ' ',
-             'definition': ' ',
-             'example': ' ',
+ 'ps': '',
+ 'rest': '',
+ 'senses': [{'comment': '',
+             'definition': "' If you untie a knot, you pull apart the "
+                           'string or cord so that there is no longer a '
+                           'knot in it.You must untie your laces before '
+                           "you take off your shoes.  '",
+             'example': '',
              'id': '1',
-             'note': ' ',
+             'note': '',
              'ps': "verb '",
-             'rest': "' If you untie a knot, you pull apart the string or "
-                     'cord so that there is no longer a knot in it.  You '
-                     'must untie your laces before you take off your '
-                     "shoes.  '"},
-            {'comment': ' ',
-             'definition': ' ',
-             'example': ' ',
+             'rest': ''},
+            {'comment': '',
+             'definition': "' If you untie something, you release it by "
+                           'removing the string or cord that is holding it '
+                           'in place.After the robbers left he managed to '
+                           'untie himself and phone for help.',
+             'example': '',
              'id': '2',
-             'note': ' ',
+             'note': '',
              'ps': "verb '",
-             'rest': "' If you untie something, you release it by removing "
-                     'the string or cord that is holding it in place.  '
-                     'After the robbers left he managed to untie himself '
-                     'and phone for help.'}]}
+             'rest': ''}]}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ' ',
+{'comment': '',
+ 'definition': '',
+ 'example': '',
  'headword': 'until',
- 'note': ' ',
+ 'note': '',
  'pronounce': "V n`tIl'",
- 'ps': ' ',
- 'rest': ' ',
- 'senses': [{'comment': ' ',
-             'definition': ' ',
-             'example': ["a' If something happens until a particular "
-                         'time, it begins before that time and then '
-                         'ceases at that time.  [cf2]He continued to work '
-                         'as an artist until his death last year.'],
+ 'ps': '',
+ 'rest': '',
+ 'senses': [{'comment': '',
+             'definition': "a' If something happens until a particular "
+                           'time, it begins before that time and then '
+                           'ceases at that time.',
+             'example': ['He continued to work as an artist until his '
+                         'death last year.',
+                         'The strike will last until the weekend at '
+                         "least.  '"],
              'id': '1',
-             'note': ' ',
+             'note': '',
              'ps': "preposition '",
              'rest': ''},
-            {'comment': ' ',
-             'definition': ' ',
-             'example': ["a' If something doesn't happen until a "
-                         "particular time, it doesn't happen before then. "
-                         'That is the earliest time that it happens.  '
-                         "[cf2]I won't decide until tomorrow."],
+            {'comment': '',
+             'definition': "a' If something doesn't happen until a "
+                           "particular time, it doesn't happen before "
+                           'then. That is the earliest time that it '
+                           'happens.',
+             'example': ["I won't decide until tomorrow.",
+                         'We decided to put off the meeting until the '
+                         "next week.  '"],
              'id': '2',
-             'note': ' ',
+             'note': '',
              'ps': "preposition '",
              'rest': ''},
-            {'comment': ' ',
-             'definition': "'",
-             'example': ["b'   If something doesn't happen until "
-                         "something else does, it doesn't happen before "
-                         "then.  [cf2]We won't start until Rob arrives."],
+            {'comment': '',
+             'definition': "b'  '",
+             'example': ["If something doesn't happen until something "
+                         "else does, it doesn't happen before then.  "
+                         "[cf2]We won't start until Rob arrives.",
+                         "We can't do anything until we hear from head "
+                         'office.'],
              'id': 1,
-             'note': ' ',
+             'note': '',
              'ps': "conjunction '",
              'rest': ''}]}
 
-{'comment': ' ',
- 'definition': "'",
- 'example': ['If something is unusual, it is rare.  It does not happen very '
-             'often or you do not find it very often.  [cf2]Earthquakes are '
-             'quite unusual in Australia.'],
+{'comment': '',
+ 'definition': 'If something is unusual, it is rare.  It does not happen '
+               'very often or you do not find it very often.',
+ 'example': ['Earthquakes are quite unusual in Australia.',
+             "It's unusual to find koalas so close to the city. [j33] The "
+             'soup had an unusual taste to it. [j33] She likes unusual '
+             "jewellery.  [j30] ... WORD FAMILY '[cf2]adverb "
+             "unusually'[cf2] We've had an unusually warm winter this year. "
+             '[j33] He was unusually late for work.  [j31]'],
  'headword': 'unusual',
- 'note': ' ',
+ 'note': '',
  'pronounce': "V n`ju:Zu:@l'",
  'ps': "adjective '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ['If something is unwieldy, it is difficult to move or handle '
-             'because of its size, weight or shape.  [cf2]The painting '
-             "isn't particularly heavy, but it's unwieldy."],
+{'comment': '',
+ 'definition': 'If something is unwieldy, it is difficult to move or handle '
+               'because of its size, weight or shape.',
+ 'example': ["The painting isn't particularly heavy, but it's unwieldy.",
+             'The volumes of maps are large and unwieldy.'],
  'headword': 'unwieldy',
- 'note': ' ',
+ 'note': '',
  'pronounce': "V n`wIldi:'",
  'ps': "adjective '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ' ',
+{'comment': '',
+ 'definition': '',
+ 'example': '',
  'headword': 'up',
- 'note': ' ',
+ 'note': '',
  'pronounce': "V p'",
- 'ps': ' ',
- 'rest': ' ',
- 'senses': [{'comment': ' ',
-             'definition': ' ',
-             'example': ' ',
+ 'ps': '',
+ 'rest': '',
+ 'senses': [{'comment': '',
+             'definition': "a' Up means  'at or towards a higher "
+                           "place'.The hikers slowly made their way up the "
+                           "mountain.  '",
+             'example': '',
              'id': '1',
-             'note': ' ',
+             'note': '',
              'ps': "preposition '",
-             'rest': "a' Up means  'at or towards a higher place'.    The "
-                     "hikers slowly made their way up the mountain.  '"},
-            {'comment': ' ',
-             'definition': "'",
-             'example': ' ',
+             'rest': ''},
+            {'comment': '',
+             'definition': "' up to' (a) If something happens up to a "
+                           'particular time, it happens until that '
+                           'time.She looked after her sick husband right '
+                           "up to his death. '   (b) ' If someone is up to "
+                           'something, they are secretly doing something '
+                           "they shouldn't be doing.  '",
+             'example': '',
              'id': '7',
-             'note': ' ',
+             'note': '',
              'ps': "'",
-             'rest': "' up to' (a) If something happens up to a particular "
-                     'time, it happens until that time.  She looked after '
-                     "her sick husband right up to his death. '   (b)  If "
-                     'someone is up to something, they are secretly doing '
-                     "something they shouldn't be doing.  '"},
-            {'comment': ' ',
-             'definition': ' ',
-             'example': ' ',
+             'rest': ''},
+            {'comment': '',
+             'definition': "' ups and downs'  Ups and downs are the "
+                           'mixture of the good and bad things that '
+                           "happen.Trent's broke now but he used to be a "
+                           "millionaire[j4]he's certainly had his share of "
+                           'ups and downs.',
+             'example': '',
              'id': '8',
-             'note': ' ',
+             'note': '',
              'ps': "'",
-             'rest': "' ups and downs'  Ups and downs are the mixture of "
-                     "the good and bad things that happen.  Trent's broke "
-                     "now but he used to be a millionaire[j4]he's "
-                     'certainly had his share of ups and downs.'}]}
+             'rest': ''}]}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ' ',
+{'comment': '',
+ 'definition': 'Your upbringing is the way you were brought up.  It is the '
+               'way you were taught and treated during your childhood.He had '
+               'an unusual upbringing on an isolated station.',
+ 'example': '',
  'headword': 'upbringing',
- 'note': ' ',
+ 'note': '',
  'pronounce': "`V pbrININ'",
  'ps': "noun '",
- 'rest': 'Your upbringing is the way you were brought up.  It is the way you '
-         'were taught and treated during your childhood. He had an unusual '
-         'upbringing on an isolated station.',
- 'senses': ' '}
+ 'rest': '',
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ['If you update something, you bring it up to date.  You change '
-             'it according to the way things are now.  [cf2]The information '
-             'in this file needs updating[j4]a lot of the addresses are no '
-             'longer current.'],
+{'comment': '',
+ 'definition': 'If you update something, you bring it up to date.  You '
+               'change it according to the way things are now.',
+ 'example': ['The information in this file needs updating[j4]a lot of the '
+             'addresses are no longer current.',
+             'She decided it was time to update her image. [j33] Let me '
+             "update you on what's happened."],
  'headword': 'update',
- 'note': ' ',
+ 'note': '',
  'pronounce': "V p`dEIt'",
  'ps': "verb '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ' ',
+{'comment': '',
+ 'definition': 'If you upgrade something such as an appliance, you get a new '
+               'one that has more featuresSometimes you can get a discount '
+               'if you buy it from the same manufacturer as the old one.',
+ 'example': '',
  'headword': 'upgrade',
- 'note': ' ',
+ 'note': '',
  'pronounce': "V p`grEId'",
  'ps': "verb '",
- 'rest': 'If you upgrade something such as an appliance, you get a new one '
-         'that has more features.  Sometimes you can get a discount if you '
-         'buy it from the same manufacturer as the old one.',
- 'senses': ' '}
+ 'rest': '',
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ' ',
+{'comment': '',
+ 'definition': 'An upheaval is a move from one place or job to another which '
+               'causes a lot of disruption and inconvenience.We took six '
+               'months to settle down after the upheaval of moving from '
+               'Europe to Australia.',
+ 'example': '',
  'headword': 'upheaval',
- 'note': ' ',
+ 'note': '',
  'pronounce': "V p`hi:v@l'",
  'ps': "noun '",
- 'rest': 'An upheaval is a move from one place or job to another which '
-         'causes a lot of disruption and inconvenience.  We took six months '
-         'to settle down after the upheaval of moving from Europe to '
-         'Australia.',
- 'senses': ' '}
+ 'rest': '',
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ' ',
+{'comment': '',
+ 'definition': '',
+ 'example': '',
  'headword': 'uphill',
- 'note': ' ',
+ 'note': '',
  'pronounce': "V p`hIl'",
- 'ps': ' ',
- 'rest': ' ',
- 'senses': [{'comment': ' ',
-             'definition': "'",
-             'example': ["' If something moves uphill, it is going up "
-                         "towards the top of a hill or slope.   [cf2]It's "
-                         'very tiring running uphill.'],
+ 'ps': '',
+ 'rest': '',
+ 'senses': [{'comment': '',
+             'definition': "' If something moves uphill, it is going up "
+                           "towards the top of a hill or slope.It's very "
+                           "tiring running uphill.   2' 'adjective An "
+                           'uphill task is a very hard and difficult one.  '
+                           'It will be uphill work getting the job '
+                           'finished by tomorrow.',
+             'example': '',
              'id': '1',
-             'note': ' ',
+             'note': '... THE OPPOSITE of this is downhill.',
              'ps': "adverb '",
              'rest': ''}]}
 
 {'comment': 'verb forms upholds, upheld, upholding',
- 'definition': ' ',
- 'example': ['In formal language, to uphold something means to support or '
-             'maintain it.  [cf2]The Supreme Court upheld the decision of '
-             'the lower court.'],
+ 'definition': 'In formal language, to uphold something means to support or '
+               'maintain it.',
+ 'example': ['The Supreme Court upheld the decision of the lower court.',
+             'We must uphold the rule of law.'],
  'headword': 'uphold',
- 'note': ' ',
+ 'note': '',
  'pronounce': "V p`h@Uld'",
  'ps': "verb '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': "'",
- 'example': ['Upholstery is the soft covering on chairs, lounges and sofas '
-             'which makes them comfortable to sit on.  It consists of '
-             'stuffing covered with fabric.  [cf2]This fabric is suitable '
-             "for upholstery, but it's too coarse for dressmaking."],
+{'comment': '',
+ 'definition': 'Upholstery is the soft covering on chairs, lounges and sofas '
+               'which makes them comfortable to sit on.  It consists of '
+               'stuffing covered with fabric.This fabric is suitable for '
+               "upholstery, but it's too coarse for dressmaking.  [j34] ... "
+               "WORD FAMILY 'verb upholster' The sofa was upholstered in "
+               'blue velvet.  [j31]',
+ 'example': '',
  'headword': 'upholstery',
- 'note': ' ',
+ 'note': '',
  'pronounce': "V p`h@Ulstri:'",
  'ps': "noun '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ' ',
+{'comment': '',
+ 'definition': 'The upkeep of something such as a house or car is its '
+               'maintenance.  It is what you have to do to keep it in good '
+               'condition and how much this costs.It was quite a bargain to '
+               'buy, but the upkeep has been very expensive.',
+ 'example': '',
  'headword': 'upkeep',
- 'note': ' ',
+ 'note': '',
  'pronounce': "`V pki:p'",
  'ps': "noun '",
- 'rest': 'The upkeep of something such as a house or car is its '
-         'maintenance.  It is what you have to do to keep it in good '
-         'condition and how much this costs.  It was quite a bargain to buy, '
-         'but the upkeep has been very expensive.',
- 'senses': ' '}
+ 'rest': '',
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ["'times,0'[cp8.5]"],
+{'comment': '',
+ 'definition': "'times,0'[cp8.5][j24]... p-mak[j17]t' If something is "
+               'up-market, it is of superior quality and expensive.To '
+               'celebrate, they decided to go out to an up-market restaurant.',
+ 'example': '',
  'headword': 'up',
- 'note': ' ',
- 'pronounce': ' ',
+ 'note': '',
+ 'pronounce': '',
  'ps': "adjective '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ' ',
+{'comment': '',
+ 'definition': 'Upon is a formal word for on',
+ 'example': '',
  'headword': 'upon',
- 'note': ' ',
+ 'note': '',
  'pronounce': "@`pOn'",
  'ps': "'",
- 'rest': 'Upon is a formal word for on.',
- 'senses': ' '}
+ 'rest': '',
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ' ',
+{'comment': '',
+ 'definition': '',
+ 'example': '',
  'headword': 'upper',
- 'note': ' ',
+ 'note': '',
  'pronounce': "`V p@'",
- 'ps': ' ',
- 'rest': ' ',
- 'senses': [{'comment': ' ',
-             'definition': "'",
-             'example': ["' If something is described as upper, it is "
-                         'above or higher than something else.    [cf2]He '
-                         'lives in an apartment block on one of the upper '
-                         'floors.'],
+ 'ps': '',
+ 'rest': '',
+ 'senses': [{'comment': '',
+             'definition': "' If something is described as upper, it is "
+                           'above or higher than something else.',
+             'example': ['He lives in an apartment block on one of the '
+                         'upper floors.',
+                         'She had a large swelling on her upper lip.  '
+                         '[j30] ... THE OPPOSITE of this is lower.  [j31] '
+                         "2 ' have the upper hand'  '[cf2] If you have "
+                         'the upper hand in a situation, you are in a '
+                         'strong or dominant position.  [cf2]In the first '
+                         'half our opponents had the upper hand, but now '
+                         "we're beginning to fight back."],
              'id': '1',
-             'note': ' ',
+             'note': '',
              'ps': "adjective '",
              'rest': ''}]}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ' ',
+{'comment': '',
+ 'definition': '',
+ 'example': '',
  'headword': 'uppermost',
- 'note': ' ',
+ 'note': '',
  'pronounce': "`V p@m@Ust'",
- 'ps': ' ',
- 'rest': ' ',
- 'senses': [{'comment': ' ',
-             'definition': ' ',
-             'example': ' ',
+ 'ps': '',
+ 'rest': '',
+ 'senses': [{'comment': '',
+             'definition': "' If something is described as uppermost, it "
+                           'is above or higher than everything else.There '
+                           'is still some snow on the uppermost slopes of '
+                           "the mountain.  '",
+             'example': '',
              'id': '1',
-             'note': ' ',
+             'note': '',
              'ps': "adjective '",
-             'rest': "' If something is described as uppermost, it is "
-                     'above or higher than everything else.  There is '
-                     'still some snow on the uppermost slopes of the '
-                     "mountain.  '"},
-            {'comment': ' ',
-             'definition': ' ',
-             'example': ' ',
+             'rest': ''},
+            {'comment': '',
+             'definition': "' If something is uppermost in your mind, it "
+                           'is what you are thinking about as the most '
+                           'important thing.As the truck skidded out of '
+                           "control, what was uppermost in Theo's mind was "
+                           'to try to avoid the oncoming car.',
+             'example': '',
              'id': '2',
-             'note': ' ',
+             'note': '',
              'ps': "adjective '",
-             'rest': "' If something is uppermost in your mind, it is what "
-                     'you are thinking about as the most important thing.  '
-                     'As the truck skidded out of control, what was '
-                     "uppermost in Theo's mind was to try to avoid the "
-                     'oncoming car.'}]}
+             'rest': ''}]}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ' ',
+{'comment': '',
+ 'definition': '',
+ 'example': '',
  'headword': 'upright',
- 'note': ' ',
+ 'note': '',
  'pronounce': "`V pra:It'",
- 'ps': ' ',
- 'rest': ' ',
- 'senses': [{'comment': ' ',
-             'definition': ' ',
-             'example': ["' If something is upright, it is standing in a "
-                         'vertical position and the right way up.  '
-                         '[cf2]Try to keep the bottle upright as the seal '
-                         "isn't very tight."],
+ 'ps': '',
+ 'rest': '',
+ 'senses': [{'comment': '',
+             'definition': "' If something is upright, it is standing in a "
+                           'vertical position and the right way up.',
+             'example': ['Try to keep the bottle upright as the seal '
+                         "isn't very tight.",
+                         "At last we got the boat upright again.  '"],
              'id': '1',
-             'note': ' ',
+             'note': '',
              'ps': "adverb '",
              'rest': ''},
-            {'comment': ' ',
-             'definition': ' ',
-             'example': ' ',
+            {'comment': '',
+             'definition': "' In formal language, if you say someone is "
+                           'upright, you mean that they are honest and '
+                           "honourable.Henry's always been an upright "
+                           "citizen[j4]I can't believe he'd be guilty of "
+                           'fraud.',
+             'example': '',
              'id': '2',
-             'note': ' ',
+             'note': '',
              'ps': "adjective '",
-             'rest': "' In formal language, if you say someone is upright, "
-                     'you mean that they are honest and honourable.  '
-                     "Henry's always been an upright citizen[j4]I can't "
-                     "believe he'd be guilty of fraud."}]}
+             'rest': ''}]}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ['An uprising occurs when a large group of people rebel against '
-             'their government.'],
+{'comment': '',
+ 'definition': 'An uprising occurs when a large group of people rebel '
+               'against their government',
+ 'example': '',
  'headword': 'uprising',
- 'note': ' ',
+ 'note': '... SIMILAR WORDS to this are rebellion and revolt.',
  'pronounce': "`V pra:IzIN'",
  'ps': "noun '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ['An uproar is the loud noise and shouting that a group of '
-             'people make when they are very angry about something.  '
-             '[cf2]The meeting ended in total uproar.'],
+{'comment': '',
+ 'definition': 'An uproar is the loud noise and shouting that a group of '
+               'people make when they are very angry about something.',
+ 'example': ['The meeting ended in total uproar.',
+             'I went out to see what all the uproar in the street was '
+             'about. [j33] There was an uproar when the results were '
+             'announced.'],
  'headword': 'uproar',
- 'note': ' ',
+ 'note': '',
  'pronounce': "`V pr@:'",
  'ps': "noun '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ['If something is uproarious, it is very funny.  [cf2]I really '
-             "recommend the movie[j4]it's uproarious."],
+{'comment': '',
+ 'definition': 'If something is uproarious, it is very funny.',
+ 'example': ["I really recommend the movie[j4]it's uproarious.",
+             'He told us some uproarious stories about his adventures in '
+             'Europe.'],
  'headword': 'uproarious',
- 'note': ' ',
+ 'note': '',
  'pronounce': "V p`r@:ri:@s'",
  'ps': "adjective '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
 {'comment': 'verb forms upsets, upset, upsetting',
- 'definition': "'",
- 'example': ["1 ' If something upsets you, it causes you to feel unhappy or "
-             "worried.  It distresses you.  [cf2]The news of Wang's arrival "
-             "has upset everybody.  2 ' verb If something upsets your "
-             'plans, it makes it impossible for you to go ahead as you had '
-             'intended. [cf2]The storm upset our plans to go to the beach.'],
+ 'definition': "1 ' If something upsets you, it causes you to feel unhappy "
+               'or worried.  It distresses you.',
+ 'example': ["The news of Wang's arrival has upset everybody.  2 ' "
+             "'[cf2]verb If something upsets your plans, it makes it "
+             'impossible for you to go ahead as you had intended. [cf2]The '
+             'storm upset our plans to go to the beach.',
+             "This delay has upset our whole schedule.  3 ' '[cf2]verb If "
+             'something such as food or drink upsets you, it makes you feel '
+             'sick.  [cf2]All that rich food last night upset my stomach. '
+             "[j33] I'm allergic to fish[j4]the smallest amount upsets me "
+             "for days.  [j30] ... WORD FAMILY '[cf2]adjective upset'[cf2] "
+             "What's the matter with Michaela?  She seems very "
+             "upset.[j35]'[cf2]adjective upsetting'[cf2] It was a very "
+             'upsetting experience for the whole family.  [j31]'],
  'headword': 'upset',
- 'note': ' ',
+ 'note': '',
  'pronounce': "V p`sEt'",
  'ps': "verb '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ['If some~ thing is upside down, it is the wrong way up. The '
-             'part that is usually or meant to be at the top is at the '
-             'bottom, and the part that is usually or meant to be at the '
-             "bottom is at the top.  [cf2]You've hung the picture upside "
-             'down.'],
+{'comment': '',
+ 'definition': 'If some~ thing is upside down, it is the wrong way up. The '
+               'part that is usually or meant to be at the top is at the '
+               'bottom, and the part that is usually or meant to be at the '
+               'bottom is at the top.',
+ 'example': ["You've hung the picture upside down.",
+             'You have to put the pages into the copier upside down. [j33] '
+             'I turned each card upside down as I dealt with it.'],
  'headword': 'upside down',
- 'note': ' ',
+ 'note': '',
  'pronounce': "V psa:Id `da:Un'",
  'ps': "adjective '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': "'",
- 'example': ['If you go upstairs in a building, you go up to a higher floor '
-             'than the one you are on.  [cf2]I went upstairs to fetch my '
-             'glasses.'],
+{'comment': '',
+ 'definition': 'If you go upstairs in a building, you go up to a higher '
+               'floor than the one you are on.',
+ 'example': ['I went upstairs to fetch my glasses.',
+             "'Where's Judy?'  'She's upstairs in her bedroom.'  [j30] ... "
+             'THE OPPOSITE of this is downstairs.  [j32] ... WORD FAMILY '
+             "'[cf2]adjective upstairs  'times,0'[cp8.5][j24]... "
+             "pste[j17]z' '[cf2] ...the upstairs bathroom.  [j31]"],
  'headword': 'upstairs',
- 'note': ' ',
+ 'note': '',
  'pronounce': "V p`stE@z'",
  'ps': "adverb '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ' ',
+{'comment': '',
+ 'definition': '',
+ 'example': '',
  'headword': 'upstream',
- 'note': ' ',
+ 'note': '',
  'pronounce': "V p`stri:m'",
- 'ps': ' ',
- 'rest': ' ',
- 'senses': [{'comment': ' ',
-             'definition': ' ',
-             'example': ' ',
+ 'ps': '',
+ 'rest': '',
+ 'senses': [{'comment': '',
+             'definition': "' If something moves upstream along a river, "
+                           'it moves in the opposite direction to which it '
+                           'is flowing.We rowed a little further '
+                           "upstream.  '",
+             'example': '',
              'id': '1',
-             'note': ' ',
+             'note': '',
              'ps': "adverb '",
-             'rest': "' If something moves upstream along a river, it "
-                     'moves in the opposite direction to which it is '
-                     "flowing.  We rowed a little further upstream.  '"},
-            {'comment': ' ',
-             'definition': ' ',
-             'example': ["' If something is upstream of something else "
-                         'along a river, it is closer to the source.  '
-                         '[cf2]The old mill is a few kilometres upstream '
-                         'of the bridge.'],
+             'rest': ''},
+            {'comment': '',
+             'definition': "' If something is upstream of something else "
+                           'along a river, it is closer to the source.',
+             'example': ['The old mill is a few kilometres upstream of '
+                         'the bridge.',
+                         'They complained about the pollution being '
+                         'discharged by the factories upstream.  [j30] '
+                         '... THE OPPOSITE of this is downstream.  [j31]'],
              'id': '2',
-             'note': ' ',
+             'note': '',
              'ps': "adverb '",
              'rest': ''}]}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ['In informal language, if you say someone is uptight, you mean '
-             'that they are very tense and anxious about something.  '
-             "[cf2]Stefan should learn to relax[j4]he's always so uptight."],
+{'comment': '',
+ 'definition': 'In informal language, if you say someone is uptight, you '
+               'mean that they are very tense and anxious about something.',
+ 'example': ["Stefan should learn to relax[j4]he's always so uptight.",
+             "There's no point getting uptight about it[j4]it's really no "
+             'concern of yours.'],
  'headword': 'uptight',
- 'note': ' ',
+ 'note': '',
  'pronounce': "V p`ta:It'",
  'ps': "adjective '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ' ',
+{'comment': '',
+ 'definition': '',
+ 'example': '',
  'headword': 'up',
- 'note': ' ',
- 'pronounce': ' ',
- 'ps': ' ',
- 'rest': ' ',
- 'senses': [{'comment': ' ',
-             'definition': "'",
-             'example': ["' If something is up-to-date, it is current and "
-                         'includes all the latest developments.  [cf2]Are '
-                         'all these files up-to-date?'],
+ 'note': '',
+ 'pronounce': '',
+ 'ps': '',
+ 'rest': '',
+ 'senses': [{'comment': '',
+             'definition': "' If something is up-to-date, it is current "
+                           'and includes all the latest developments.',
+             'example': ['Are all these files up-to-date?',
+                         'Have you got an up-to-date address for Carrie? '
+                         "2 ' '[cf2]adjective If something is up-to-date, "
+                         'it is modern. It is fashionable or uses the '
+                         'latest technology.  [cf2]You should get rid of '
+                         'this old suit and get something more '
+                         'up-to-date. [j33] I want one of those '
+                         'up-to-date cameras with all the extra features.'],
              'id': '1',
-             'note': ' ',
+             'note': '',
              'ps': "adjective '",
              'rest': ''}]}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ['An upturn is an improve~ ment in the condition of something.  '
-             '[cf2]In the last few months there has been a gradual upturn '
-             'in the economy.'],
+{'comment': '',
+ 'definition': 'An upturn is an improve~ ment in the condition of something.',
+ 'example': ['In the last few months there has been a gradual upturn in the '
+             'economy.',
+             "We've experienced an upturn in our fortunes since we moved "
+             'north.  [j30] ... THE OPPOSITE of this is downturn.  [j31]'],
  'headword': 'upturn',
- 'note': ' ',
+ 'note': '',
  'pronounce': "`V pt@:n'",
  'ps': "noun '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ['An upward movement goes from a lower place or condition to a '
-             'higher one.  [cf2]We passed the other cable car on its upward '
-             'journey.'],
+{'comment': '',
+ 'definition': 'An upward movement goes from a lower place or condition to a '
+               'higher one.',
+ 'example': ['We passed the other cable car on its upward journey.',
+             'There has been an upward trend in property prices.  [j30] ... '
+             'THE OPPOSITE of this is downward.  [j31]'],
  'headword': 'upward',
- 'note': ' ',
+ 'note': '',
  'pronounce': "`V pw@d'",
  'ps': "adjective '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ' ',
+{'comment': '',
+ 'definition': '',
+ 'example': '',
  'headword': 'upwards',
- 'note': ' ',
+ 'note': '',
  'pronounce': "`V pw@dz'",
- 'ps': ' ',
- 'rest': ' ',
- 'senses': [{'comment': ' ',
-             'definition': "'",
-             'example': ["' If something moves upwards, it goes from a "
-                         'lower place or condition to a higher one.   '
-                         '[cf2]Suddenly the lift shot upwards.'],
+ 'ps': '',
+ 'rest': '',
+ 'senses': [{'comment': '',
+             'definition': "' If something moves upwards, it goes from a "
+                           'lower place or condition to a higher one.',
+             'example': ['Suddenly the lift shot upwards.',
+                         'The temperature crept steadily upwards as we '
+                         'drove north.  [j30] ... THE OPPOSITE of this is '
+                         "downwards.  [j31] 2 upwards of' '[cf2] Upwards "
+                         'of  a number or an amount means more than that '
+                         'number or amount.  [cf2]Upwards of thirty '
+                         'people came to the party. [j33] The paintings '
+                         'are priced at $200 and upwards.'],
              'id': '1',
-             'note': ' ',
+             'note': '',
              'ps': "adverb '",
              'rest': ''}]}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ' ',
+{'comment': '',
+ 'definition': '',
+ 'example': '',
  'headword': 'upwind',
- 'note': ' ',
+ 'note': '',
  'pronounce': "V p`wInd'",
- 'ps': ' ',
- 'rest': ' ',
- 'senses': [{'comment': ' ',
-             'definition': ' ',
-             'example': ' ',
+ 'ps': '',
+ 'rest': '',
+ 'senses': [{'comment': '',
+             'definition': "' If something moves upwind, it goes in the "
+                           'opposite direction to the way the wind is '
+                           "blowing.We tacked upwind to the island.  '",
+             'example': '',
              'id': '1',
-             'note': ' ',
+             'note': '',
              'ps': "adverb '",
-             'rest': "' If something moves upwind, it goes in the opposite "
-                     'direction to the way the wind is blowing.  We tacked '
-                     "upwind to the island.  '"},
-            {'comment': ' ',
-             'definition': ' ',
-             'example': ["' If something is upwind of something else, the "
-                         'wind is blowing in the direction from the first '
-                         'thing to the second.  [cf2]The animal seemed to '
-                         'detect a predator upwind.'],
+             'rest': ''},
+            {'comment': '',
+             'definition': "' If something is upwind of something else, "
+                           'the wind is blowing in the direction from the '
+                           'first thing to the second.The animal seemed to '
+                           'detect a predator upwind.',
+             'example': '',
              'id': '2',
-             'note': ' ',
+             'note': '... THE OPPOSITE of this is downwind.',
              'ps': "adverb '",
              'rest': ''}]}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ' ',
+{'comment': '',
+ 'definition': 'Uranium is a radio~ active elementIt is used to produce '
+               'nuclear energy and nuclear weapons.',
+ 'example': '',
  'headword': 'uranium',
- 'note': ' ',
+ 'note': '',
  'pronounce': "ju:`rEIni:@m'",
  'ps': "noun '",
- 'rest': 'Uranium is a radio~ active element.  It is used to produce nuclear '
-         'energy and nuclear weapons.',
- 'senses': ' '}
+ 'rest': '',
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ['Urban means relating to a city or town.  [cf2]I longed to '
-             'escape from urban life.'],
+{'comment': '',
+ 'definition': 'Urban means relating to a city or town.I longed to escape '
+               'from urban life.',
+ 'example': '',
  'headword': 'urban',
- 'note': ' ',
+ 'note': '... THE OPPOSITE of this is rural.',
  'pronounce': "`@:b@n'",
  'ps': "adjective '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ' ',
+{'comment': '',
+ 'definition': 'If someone is urbane, they are charming and '
+               'sophisticated.His urbane manner made him a welcome guest.',
+ 'example': '',
  'headword': 'urbane',
- 'note': ' ',
+ 'note': '',
  'pronounce': "@:`bEIn'",
  'ps': "adjective '",
- 'rest': 'If someone is urbane, they are charming and sophisticated.  His '
-         'urbane manner made him a welcome guest.',
- 'senses': ' '}
+ 'rest': '',
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ' ',
+{'comment': '',
+ 'definition': '',
+ 'example': '',
  'headword': 'urge',
- 'note': ' ',
+ 'note': '',
  'pronounce': "@:dZ'",
- 'ps': ' ',
- 'rest': ' ',
- 'senses': [{'comment': ' ',
-             'definition': ' ',
-             'example': ["' An urge is a strong desire or impulse to do "
-                         'something.  [cf2]I felt a powerful urge to ring '
-                         'her.'],
+ 'ps': '',
+ 'rest': '',
+ 'senses': [{'comment': '',
+             'definition': "' An urge is a strong desire or impulse to do "
+                           'something.',
+             'example': ['I felt a powerful urge to ring her.',
+                         "I resisted the urge to strike him.  '"],
              'id': '1',
-             'note': ' ',
+             'note': '',
              'ps': "noun '",
              'rest': ''},
-            {'comment': ' ',
-             'definition': ' ',
-             'example': ' ',
+            {'comment': '',
+             'definition': "' If you urge someone to do something, you try "
+                           'hard to persuade them to do it.I urged Arturo '
+                           'to think carefully before giving up his job.',
+             'example': '',
              'id': '2',
-             'note': ' ',
+             'note': '',
              'ps': "verb '",
-             'rest': "' If you urge someone to do something, you try hard "
-                     'to persuade them to do it.  I urged Arturo to think '
-                     'carefully before giving up his job.'}]}
+             'rest': ''}]}
 
-{'comment': ' ',
- 'definition': "'",
- 'example': ["'If something is urgent, it must be dealt with as soon as "
-             "possible.  [cf2]The letter was stamped 'URGENT'."],
+{'comment': '',
+ 'definition': "'If something is urgent, it must be dealt with as soon as "
+               'possible.',
+ 'example': ["The letter was stamped 'URGENT'.",
+             'I must speak with Mr Tanaka on an urgent matter. [j33] Please '
+             "ask Bridget to call me as soon as she get's in[j4]it's "
+             "urgent.  [j30] ... WORD FAMILY '[cf2]noun urgency'[cf2] This "
+             'is now a matter of urgency. [j33] There was urgency in her '
+             "voice.[j35]'[cf2]adverb urgently'[cf2] You're wanted urgently "
+             "on the phone.  [j33] I'm afraid I must go home urgently.  "
+             '[j31]'],
  'headword': 'urgent',
- 'note': ' ',
+ 'note': '',
  'pronounce': "`@:dZ@nt'",
  'ps': "adjective '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ' ',
+{'comment': '',
+ 'definition': 'A urinal is a type of toilet for men to urinate in',
+ 'example': '',
  'headword': 'urinal',
- 'note': ' ',
+ 'note': '',
  'pronounce': "`ju:r@n@l, ju:`ra:In@l'",
  'ps': "noun '",
- 'rest': 'A urinal is a type of toilet for men to urinate in.',
- 'senses': ' '}
+ 'rest': '',
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': "'",
- 'example': ["'times,0'[cp8.5]"],
+{'comment': '',
+ 'definition': "'times,0'[cp8.5][j24]jur[j17]n, -a[j11]n'  Urine is the "
+               'waste liquid that you pass out of your body at intervals.  '
+               "[j30] ... WORD FAMILY 'verb urinate' I felt an urgent need "
+               "to urinate.[j35]'noun urination' I suffer from severe pain "
+               'on urination.  [j31]',
+ 'example': '',
  'headword': 'urine',
- 'note': ' ',
- 'pronounce': ' ',
+ 'note': '',
+ 'pronounce': '',
  'ps': "noun '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ' ',
+{'comment': '',
+ 'definition': '',
+ 'example': '',
  'headword': 'urn',
- 'note': ' ',
+ 'note': '',
  'pronounce': "@:n'",
- 'ps': ' ',
- 'rest': ' ',
- 'senses': [{'comment': ' ',
-             'definition': ' ',
-             'example': ' ',
+ 'ps': '',
+ 'rest': '',
+ 'senses': [{'comment': '',
+             'definition': "' An urn is a large electric container used "
+                           'for boiling water to make tea or coffee for a '
+                           "large number of people'",
+             'example': '',
              'id': '1',
-             'note': ' ',
+             'note': '',
              'ps': "noun '",
-             'rest': "' An urn is a large electric container used for "
-                     'boiling water to make tea or coffee for a large '
-                     "number of people.  '"},
-            {'comment': ' ',
-             'definition': ' ',
-             'example': ' ',
+             'rest': ''},
+            {'comment': '',
+             'definition': "' An urn is also a kind of vaseIt is often "
+                           'used to contain the ashes of dead people who '
+                           'have been cremated.',
+             'example': '',
              'id': '2',
-             'note': ' ',
+             'note': '',
              'ps': "noun '",
-             'rest': "' An urn is also a kind of vase.  It is often used "
-                     'to contain the ashes of dead people who have been '
-                     'cremated.'}]}
+             'rest': ''}]}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ['Us is the form of we that is used as the object of a verb or '
-             'after a preposition.  [cf2]Our teacher gives us too much '
-             'homework.'],
+{'comment': '',
+ 'definition': 'Us is the form of we that is used as the object of a verb or '
+               'after a preposition.',
+ 'example': ['Our teacher gives us too much homework.',
+             'That man is pointing at us!'],
  'headword': 'us',
- 'note': ' ',
+ 'note': '',
  'pronounce': "V s'",
  'ps': "pronoun '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
 {'comment': 'verb forms uses, used, using',
- 'definition': ' ',
- 'example': ' ',
+ 'definition': '',
+ 'example': '',
  'headword': 'use',
- 'note': ' ',
+ 'note': '',
  'pronounce': "ju:z'",
- 'ps': ' ',
- 'rest': ' ',
- 'senses': [{'comment': ' ',
-             'definition': ' ',
-             'example': ' ',
+ 'ps': '',
+ 'rest': '',
+ 'senses': [{'comment': '',
+             'definition': "' of use'  If something is of use, it is "
+                           'useful.  You find it helpful or handy.Is this '
+                           "old vacuum cleaner of any use to you?  '",
+             'example': '',
              'id': '7',
-             'note': ' ',
+             'note': '',
              'ps': "'",
-             'rest': "' of use'  If something is of use, it is useful.  "
-                     'You find it helpful or handy.  Is this old vacuum '
-                     "cleaner of any use to you?  '"},
-            {'comment': ' ',
-             'definition': "'",
-             'example': ["' use up'  If you use up a supply of something, "
-                         'you use all of it so that there is none left.  '
-                         "[cf2]Who's used up all the toilet paper?"],
+             'rest': ''},
+            {'comment': '',
+             'definition': "' use up'  If you use up a supply of "
+                           'something, you use all of it so that there is '
+                           'none left.',
+             'example': ["Who's used up all the toilet paper?",
+                         "Don't use up all the hot water[j4]I want a "
+                         'shower too.  [j30] ... WORD FAMILY '
+                         "'[cf2]adjective usable (<or> useable)'[cf2] The "
+                         "knife is so blunt that it's no longer "
+                         "usable.[j35]'[cf2]adjective useful'[cf2] Thanks "
+                         'for lending me the book on gardening[j4]it was '
+                         "very useful.[j35]'[cf2]noun usefulness'[cf2] "
+                         "[j35]'[cf2]adjective useless'[cf2] It's useless "
+                         'expecting them to help. [j33]  Her advice was '
+                         "useless to me.[j35]'[cf2]noun user'[cf2] The "
+                         'new model is very popular with users.  [j31]'],
              'id': '8',
-             'note': ' ',
+             'note': '',
              'ps': "'",
              'rest': ''}]}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ' ',
+{'comment': '',
+ 'definition': '',
+ 'example': '',
  'headword': 'used',
- 'note': ' ',
+ 'note': '',
  'pronounce': "ju:st'",
- 'ps': ' ',
- 'rest': ' ',
- 'senses': [{'comment': ' ',
-             'definition': ' ',
-             'example': ["' If you are used to something, you are "
-                         "familiar with it.  It isn't a surprise or a "
-                         "shock to you.  [cf2]Don't take any notice of "
-                         "Tren's tantrums[j4]you'll get used to them."],
+ 'ps': '',
+ 'rest': '',
+ 'senses': [{'comment': '',
+             'definition': "' If you are used to something, you are "
+                           "familiar with it.  It isn't a surprise or a "
+                           'shock to you.',
+             'example': ["Don't take any notice of Tren's "
+                         "tantrums[j4]you'll get used to them.",
+                         'It took me quite a while to get used to the '
+                         "climate. [j33] I'm not used to having to wear a "
+                         "suit to work.  '"],
              'id': '2',
-             'note': ' ',
+             'note': '',
              'ps': "adjective '",
              'rest': ''},
-            {'comment': ' ',
-             'definition': ' ',
-             'example': ' ',
+            {'comment': '',
+             'definition': "' If something such as a car is described as "
+                           'used, it is second-hand',
+             'example': '',
              'id': '3',
-             'note': ' ',
+             'note': '',
              'ps': "adjective '",
-             'rest': "' If something such as a car is described as used, "
-                     'it is second-hand.'}]}
+             'rest': ''}]}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ' ',
+{'comment': '',
+ 'definition': '',
+ 'example': '',
  'headword': 'usual',
- 'note': ' ',
+ 'note': '',
  'pronounce': "`ju:Zu:@l'",
- 'ps': ' ',
- 'rest': ' ',
- 'senses': [{'comment': ' ',
-             'definition': ' ',
-             'example': ["' If something is usual, it is what most "
-                         'commonly happens.  [cf2]Today I got up earlier '
-                         'than my usual time.'],
+ 'ps': '',
+ 'rest': '',
+ 'senses': [{'comment': '',
+             'definition': "' If something is usual, it is what most "
+                           'commonly happens.',
+             'example': ['Today I got up earlier than my usual time.',
+                         'I felt bored with my usual activities. [j33] '
+                         'The usual way is to pay quarterly. [j33] I was '
+                         "even hungrier than usual.  '"],
              'id': '1',
-             'note': ' ',
+             'note': '',
              'ps': "adjective '",
              'rest': ''},
-            {'comment': ' ',
-             'definition': "'",
-             'example': ["' as usual'  If you say that something happens "
-                         'as usual, you mean that it normally happens '
-                         'that way.  There is nothing different or '
-                         'surprising about it.  [cf2]I left for work at '
-                         'seven as usual, but the traffic was so bad I '
-                         "didn't arrive until eight."],
+            {'comment': '',
+             'definition': "' as usual'  If you say that something happens "
+                           'as usual, you mean that it normally happens '
+                           'that way.  There is nothing different or '
+                           'surprising about it.',
+             'example': ['I left for work at seven as usual, but the '
+                         "traffic was so bad I didn't arrive until eight.",
+                         'Ricardo was late as usual!  [j30] ... WORD '
+                         "FAMILY '[cf2]adverb usually'[cf2] I usually go "
+                         "to the shops on Saturday. [j33]  It's not "
+                         'usually so warm in July.  [j31]'],
              'id': '2',
-             'note': ' ',
+             'note': '',
              'ps': "'",
              'rest': ''}]}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ' ',
+{'comment': '',
+ 'definition': "[cf2]noun Ute' is a short form of utility truck'",
+ 'example': '',
  'headword': 'ute',
- 'note': ' ',
+ 'note': '',
  'pronounce': "ju:t'",
- 'ps': ' ',
- 'rest': "noun Ute' is a short form of utility truck'.",
- 'senses': ' '}
+ 'ps': '',
+ 'rest': '',
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ' ',
+{'comment': '',
+ 'definition': 'Utensils are things that you use when you are doing tasks in '
+               'your home such as cooking.  Note that this word is usually '
+               "used in the plural form.You can be more efficient if you've "
+               'got good kitchen utensils.',
+ 'example': '',
  'headword': 'utensil',
- 'note': ' ',
+ 'note': '',
  'pronounce': "ju:`tEns@l'",
  'ps': "noun '",
- 'rest': 'Utensils are things that you use when you are doing tasks in your '
-         'home such as cooking.  Note that this word is usually used in the '
-         "plural form.  You can be more efficient if you've got good kitchen "
-         'utensils.',
- 'senses': ' '}
+ 'rest': '',
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ' ',
+{'comment': '',
+ 'definition': 'Uterus is a formal word for the womb',
+ 'example': '',
  'headword': 'uterus',
- 'note': ' ',
+ 'note': '',
  'pronounce': "`ju:t@r@s'",
  'ps': "noun '",
- 'rest': 'Uterus is a formal word for the womb.',
- 'senses': ' '}
+ 'rest': '',
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ' ',
+{'comment': '',
+ 'definition': "<noun Utilities' are resources, such as gas and electricity, "
+               'supplied to consumers by public or private enterprises',
+ 'example': '',
  'headword': 'utilities',
- 'note': ' ',
+ 'note': '',
  'pronounce': "ju:`tIl@ti:z'",
- 'ps': ' ',
- 'rest': "<noun Utilities' are resources, such as gas and electricity, "
-         'supplied to consumers by public or private enterprises.',
- 'senses': ' '}
+ 'ps': '',
+ 'rest': '',
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ' ',
+{'comment': '',
+ 'definition': "<noun> A utility truck' is a vehicle with an enclosed front "
+               'for a driver and passenger, and a bigger back for carrying '
+               'thingsThe back can be covered by a tarpaulin or uncovered.',
+ 'example': '',
  'headword': 'utility truck',
- 'note': ' ',
+ 'note': '',
  'pronounce': "ju:`tIl@ti: trV k'",
- 'ps': ' ',
- 'rest': "<noun> A utility truck' is a vehicle with an enclosed front for a "
-         'driver and passenger, and a bigger back for carrying things. The '
-         'back can be covered by a tarpaulin or uncovered.',
- 'senses': ' '}
+ 'ps': '',
+ 'rest': '',
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ' ',
+{'comment': '',
+ 'definition': '',
+ 'example': '',
  'headword': 'utter',
- 'note': ' ',
+ 'note': '',
  'pronounce': "`V t@'",
- 'ps': ' ',
- 'rest': ' ',
- 'senses': [{'comment': ' ',
-             'definition': ' ',
-             'example': ["' In rather formal language, you can use utter "
-                         "for emphasis, to mean 'complete' or 'total'.  "
-                         '[cf2]To my utter amazement, I passed the maths '
-                         'test.'],
+ 'ps': '',
+ 'rest': '',
+ 'senses': [{'comment': '',
+             'definition': "' In rather formal language, you can use utter "
+                           "for emphasis, to mean 'complete' or 'total'.",
+             'example': ['To my utter amazement, I passed the maths test.',
+                         'She looked at me in utter disbelief. [j33] The '
+                         "whole trip was an utter disaster.  '"],
              'id': '1',
-             'note': ' ',
+             'note': '',
              'ps': "adjective '",
              'rest': ''},
-            {'comment': ' ',
-             'definition': "'",
-             'example': ["' In rather formal language, if you say someone "
-                         'utters sounds or words, you mean that they '
-                         'express them with their voice.  [cf2]Marnie '
-                         'uttered a scream.'],
+            {'comment': '',
+             'definition': "' In rather formal language, if you say "
+                           'someone utters sounds or words, you mean that '
+                           'they express them with their voice.',
+             'example': ['Marnie uttered a scream.',
+                         'The words were uttered in a whisper. [j33] He '
+                         'promised not to utter a word about the plan. '
+                         '[j33] She uttered the opinion that it was a lot '
+                         'of fuss about nothing.  [j30] ... WORD FAMILY '
+                         "'[cf2]adverb utterly'[cf2] He seemed utterly "
+                         'astonished by the news.  [j31] [fa[xp'],
              'id': '2',
-             'note': ' ',
+             'note': '',
              'ps': "verb '",
              'rest': ''}]}
 

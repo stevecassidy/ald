@@ -1,1084 +1,1293 @@
 {'comment': "plural forms [chJs, J's, j's",
- 'definition': ' ',
- 'example': ' ',
+ 'definition': '[chJ or [chj is the tenth letter in the English alphabet',
+ 'example': '',
  'headword': 'J, j',
- 'note': ' ',
+ 'note': '',
  'pronounce': "dZEI'",
  'ps': "noun '",
- 'rest': '[chJ or [chj is the tenth letter in the English alphabet.',
- 'senses': ' '}
+ 'rest': '',
+ 'senses': ''}
 
 {'comment': 'verb forms [chjabs, jabbed, jabbing',
- 'definition': ' ',
- 'example': ['If you [chjab someone or something, you poke or push them '
-             'with something sharp or pointed.  [cf2]I accidentally jabbed '
-             'myself with a pin.'],
+ 'definition': 'If you [chjab someone or something, you poke or push them '
+               'with something sharp or pointed.',
+ 'example': ['I accidentally jabbed myself with a pin.',
+             'He jabbed me in the ribs with his elbow.'],
  'headword': 'jab',
- 'note': ' ',
+ 'note': '',
  'pronounce': "dZAb'",
  'ps': "verb '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ' ',
+{'comment': '',
+ 'definition': 'If you [chjabber, you talk quickly in a way that is not '
+               'clear or easy to understand.Wipe your tears and stop '
+               'jabbering[j4] now, tell me what happened.',
+ 'example': '',
  'headword': 'jabber',
- 'note': ' ',
+ 'note': '',
  'pronounce': "`dZA.b@'",
  'ps': "verb '",
- 'rest': 'If you [chjabber, you talk quickly in a way that is not clear or '
-         'easy to understand.  Wipe your tears and stop jabbering[j4] now, '
-         'tell me what happened.',
- 'senses': ' '}
+ 'rest': '',
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ' ',
+{'comment': '',
+ 'definition': 'The [chjabiru is the only stork that is native to '
+               'Australia[cb8][mgdict_jack,-4][mgdict_jack,-1][ol0][cb0][qr',
+ 'example': '',
  'headword': 'jabiru',
- 'note': ' ',
+ 'note': '',
  'pronounce': "dZAb@`ru:.'",
  'ps': "noun '",
- 'rest': 'The [chjabiru is the only stork that is native to Australia.  '
-         '[cb8][mgdict_jack,-4][mgdict_jack,-1][ol0][cb0][qr',
- 'senses': ' '}
+ 'rest': '',
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': "'",
- 'example': ' ',
+{'comment': '',
+ 'definition': "[ir(s76),(s75+6)]jack   [ch1' A [chjack is a mechanical "
+               'device used to raise heavy objects, such as a car, off the '
+               "ground. [ch2 ' 'noun A [chjack is a playing card valued "
+               'lower than the queen but higher than the ten.  Another word '
+               "for this is [chknave.  [ch3' 'noun In the game of lawn "
+               'bowls, a [chjack is the small white ball used as a mark for '
+               "the players to aim at.  [ch4 jack up (a)' [ch'  ' If you "
+               '[chjack something [chup, you raise or lift it, perhaps by '
+               'using a jack.  Evan jacked up the car and changed the flat '
+               "tyre. [ch(b)'  ' In informal language, if you say you "
+               '[chjack something [chup, you mean that you increase it.  '
+               'They took advantage of the surge in demand to jack up their '
+               "prices. [ch(c)'  ' In informal language, if you say someone "
+               '[chjacks up, you mean they refuse to do something.  They '
+               'become obstinate.  The more we tried to persuade him, the '
+               'more he jacked up.',
+ 'example': '',
  'headword': '',
- 'note': ' ',
+ 'note': '',
  'pronounce': "dZAk'",
  'ps': "noun '",
- 'rest': "[ir(s76),(s75+6)]jack   [ch1' A [chjack is a mechanical device "
-         "used to raise heavy objects, such as a car, off the ground. [ch2 ' "
-         'noun A [chjack is a playing card valued lower than the queen but '
-         "higher than the ten.  Another word for this is [chknave.  [ch3' "
-         "'noun In the game of lawn bowls, a [chjack is the small white ball "
-         "used as a mark for the players to aim at.  [ch4 jack up (a)' [ch'  "
-         "' If you [chjack something [chup, you raise or lift it, perhaps by "
-         'using a jack.  Evan jacked up the car and changed the flat tyre. '
-         "[ch(b)'  ' In informal language, if you say you [chjack something "
-         '[chup, you mean that you increase it.  They took advantage of the '
-         "surge in demand to jack up their prices. [ch(c)'  ' In informal "
-         'language, if you say someone [chjacks up, you mean they refuse to '
-         'do something.  They become obstinate.  The more we tried to '
-         'persuade him, the more he jacked up.',
- 'senses': ' '}
+ 'rest': '',
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': "'",
- 'example': ['A [chjackeroo is someone who is learning the work that has to '
-             'be done on a sheep or cattle station.'],
+{'comment': '',
+ 'definition': 'A [chjackeroo is someone who is learning the work that has '
+               'to be done on a sheep or cattle station.  [j30] ... ANOTHER '
+               'SPELLING for this is [chjackaroo.  [j32] ... WORD FAMILY '
+               "'verb jackeroo ('or jackaroo)' He's jackerooing in "
+               'Queensland for nine months.  [j31]',
+ 'example': '',
  'headword': 'jackeroo',
- 'note': ' ',
+ 'note': '',
  'pronounce': "dZAk@`ru:'",
  'ps': "noun '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': "'",
- 'example': ' ',
+{'comment': '',
+ 'definition': "[ch1 ' A [chjacket is a short coat. [ch2 ' 'noun A [chjacket "
+               'or [chdust jacket is the loose paper cover that protects a '
+               "hardback book.  [ch3' 'noun If you bake a potato in its "
+               '[chjacket, you bake it in its skin.',
+ 'example': '',
  'headword': 'jacket',
- 'note': ' ',
+ 'note': '',
  'pronounce': "`dZAk@t'",
  'ps': "noun '",
- 'rest': "[ch1 ' A [chjacket is a short coat. [ch2 ' noun A [chjacket or "
-         '[chdust jacket is the loose paper cover that protects a hardback '
-         "book.  [ch3' 'noun If you bake a potato in its [chjacket, you bake "
-         'it in its skin.',
- 'senses': ' '}
+ 'rest': '',
+ 'senses': ''}
 
 {'comment': 'plural form [chjackknives',
- 'definition': "'",
- 'example': ' ',
+ 'definition': "[ch1' A [chjackknife is a knife with a blade that folds into "
+               "the handle.  [ch2' 'verb We say a semitrailer [chjackknifes "
+               'if the trailer swings around toward the cab like a jackknife '
+               'folding.',
+ 'example': '',
  'headword': 'jackknife',
- 'note': ' ',
+ 'note': '',
  'pronounce': "`dZAkna:If'",
  'ps': "noun '",
- 'rest': "[ch1' A [chjackknife is a knife with a blade that folds into the "
-         "handle.  [ch2' verb We say a semitrailer [chjackknifes if the "
-         'trailer swings around toward the cab like a jackknife folding.',
- 'senses': ' '}
+ 'rest': '',
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': "'",
- 'example': ["[ch1' A [chjackpot is the biggest prize you can win in a "
-             'lottery or competition or on a gambling machine.  [cf2]The '
-             "jackpot this week stands at $200 000.  [ch2' [chhit the "
-             "jackpot'   If you [chhit the jackpot, you win the main prize "
-             'or you are extremely successful.  [cf2]One lucky entrant will '
-             'hit the $50 000 jackpot.'],
+{'comment': '',
+ 'definition': "[ch1' A [chjackpot is the biggest prize you can win in a "
+               'lottery or competition or on a gambling machine.',
+ 'example': ["The jackpot this week stands at $200 000.  [ch2' [chhit the "
+             "jackpot'  '[cf2] If you [chhit the jackpot, you win the main "
+             'prize or you are extremely successful.  [cf2]One lucky '
+             'entrant will hit the $50 000 jackpot.',
+             'I really hit the jackpot when I found this job.'],
  'headword': 'jackpot',
- 'note': ' ',
+ 'note': '',
  'pronounce': "`dZAkpOt'",
  'ps': "noun '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': "'",
- 'example': ['[chJade is a dark green semiprecious stone from which '
-             'jewellery and carved ornaments are made.'],
+{'comment': '',
+ 'definition': '[chJade is a dark green semiprecious stone from which '
+               'jewellery and carved ornaments are made.  [j30] ... WORD '
+               "FAMILY 'adjective jade' She was wearing a pair of jade "
+               'earrings.  [j31]',
+ 'example': '',
  'headword': 'jade',
- 'note': ' ',
+ 'note': '',
  'pronounce': "dZEId'",
  'ps': "noun '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ['If you are [chjaded, you are tired and unenthusiastic.  '
-             "[cf2]Don't work too long hours or you'll get jaded."],
+{'comment': '',
+ 'definition': 'If you are [chjaded, you are tired and unenthusiastic.',
+ 'example': ["Don't work too long hours or you'll get jaded.",
+             "By the end of the week I'm always pretty jaded."],
  'headword': 'jaded',
- 'note': ' ',
+ 'note': '',
  'pronounce': "`dZEId@d'",
  'ps': "adjective '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ['If something is [chjagged, it has uneven, sharp or pointed '
-             'edges.  [cf2]The sand was littered with jagged pieces of '
-             'broken glass.'],
+{'comment': '',
+ 'definition': 'If something is [chjagged, it has uneven, sharp or pointed '
+               'edges.',
+ 'example': ['The sand was littered with jagged pieces of broken glass.',
+             'The nail made a jagged tear in my trousers. [j33] The boat '
+             'was smashed to pieces on the jagged rocks.'],
  'headword': 'jagged',
- 'note': ' ',
+ 'note': '',
  'pronounce': "`dZAg@d'",
  'ps': "adjective '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': "'",
- 'example': ['A [chjail is a prison, a place where people who have '
-             'committed a crime are kept.  [cf2]She has already served more '
-             'than ten years in jail.'],
+{'comment': '',
+ 'definition': 'A [chjail is a prison, a place where people who have '
+               'committed a crime are kept.',
+ 'example': ['She has already served more than ten years in jail.',
+             "You probably won't go to jail for a first offence.  [j30] ... "
+             'ANOTHER SPELLING of this word is [chgaol.  [j32] ... WORD '
+             "FAMILY '[cf2]verb jail'[cf2] He was jailed for life.  [j31]"],
  'headword': 'jail',
- 'note': ' ',
+ 'note': '',
  'pronounce': "dZEIl'",
  'ps': "noun '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
 {'comment': 'verb forms [chjams, jammed, jamming',
- 'definition': "'",
- 'example': ["[ch1 ' [chJam is a thick, sweet spread made by boiling fruit "
-             'with sugar.  [cf2]What sort of jam would you like on your '
-             "toast[j4]strawberry or plum?  [ch2' verb If a machine or "
-             'parts of something that are meant to move [chjam, they become '
-             "stuck.  [cf2]The window has jammed[j4]I can't close it."],
+ 'definition': "[ch1 ' [chJam is a thick, sweet spread made by boiling fruit "
+               'with sugar.',
+ 'example': ['What sort of jam would you like on your toast[j4]strawberry '
+             "or plum?  [ch2' '[cf2]verb If a machine or parts of something "
+             'that are meant to move [chjam, they become stuck.  [cf2]The '
+             "window has jammed[j4]I can't close it.",
+             "The photocopier has jammed again.  [ch3a' '[cf2]verb If you "
+             '[chjam something into a place, you crush or force it into a '
+             "tight space.  [cf2]You won't be able to open the drawer if "
+             "you jam any more papers into it.  [chb' '[cf2]verb If you "
+             '[chjam something somewhere, you push it there with force.  '
+             '[cf2]I jammed my foot on the brake when I saw the child run '
+             'onto the road. [j33] His suitcase was bulging so he had to '
+             "jam down the lid to get it shut. [ch4 ' '[cf2]noun A [chjam "
+             'is a situation where a lot of people or vehicles are crowded '
+             'closely together so that it is difficult to move.  [cf2]As '
+             'the crowds gathered, the mother warned the children not to '
+             'get separated from her in the jam. [j33] We got stuck in a '
+             "traffic jam on the way to the airport.  [ch5' '[cf2]noun In "
+             "informal language, if you say you're in a [chjam, you mean "
+             "that you're in a difficult situation.  [cf2]I'm in a jam at "
+             "the moment[j4]I just don't have enough money to pay my rent."],
  'headword': 'jam',
- 'note': ' ',
+ 'note': '',
  'pronounce': "dZAm'",
  'ps': "noun '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ' ',
+{'comment': '',
+ 'definition': 'A [chjamb is the vertical side piece of a doorway or window '
+               'frame',
+ 'example': '',
  'headword': 'jamb',
- 'note': ' ',
+ 'note': '',
  'pronounce': "dZIm'",
  'ps': "noun '",
- 'rest': 'A [chjamb is the vertical side piece of a doorway or window frame.',
- 'senses': ' '}
+ 'rest': '',
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ' ',
+{'comment': '',
+ 'definition': '.  for [chJanuary',
+ 'example': '',
  'headword': 'Jan',
- 'note': ' ',
+ 'note': '',
  'pronounce': "`dZAnju:@ri:, dZAn'",
  'ps': "abbreviation '",
- 'rest': '.  for [chJanuary.',
- 'senses': ' '}
+ 'rest': '',
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ['Metal objects [chjangle when they strike together and make a '
-             'clanking sound. [cf2]A bunch of keys jangled at his waist as '
-             'he hurried up the hallway.'],
+{'comment': '',
+ 'definition': 'Metal objects [chjangle when they strike together and make a '
+               'clanking sound.',
+ 'example': ['A bunch of keys jangled at his waist as he hurried up the '
+             'hallway.',
+             'He jangled the coins in his pocket as he spoke.'],
  'headword': 'jangle',
- 'note': ' ',
+ 'note': '',
  'pronounce': "`dZANg@l'",
  'ps': "verb '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ' ',
+{'comment': '',
+ 'definition': '[chJanuary is the first month of the year',
+ 'example': '',
  'headword': 'January',
- 'note': ' ',
+ 'note': '',
  'pronounce': "`dZAnju:@ri:'",
  'ps': "noun '",
- 'rest': '[chJanuary is the first month of the year.',
- 'senses': ' '}
+ 'rest': '',
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': "'",
- 'example': ' ',
+{'comment': '',
+ 'definition': "[ch1' If someone or something comes from Japan, you describe "
+               "them as [chJapanese.  [ch2' 'noun [chJapanese is the "
+               'language of Japan.',
+ 'example': '',
  'headword': 'Japanese',
- 'note': ' ',
+ 'note': '',
  'pronounce': "dZAp@`ni:z'",
  'ps': "adjective '",
- 'rest': "[ch1' If someone or something comes from Japan, you describe them "
-         "as [chJapanese.  [ch2' noun [chJapanese is the language of Japan.",
- 'senses': ' '}
+ 'rest': '',
+ 'senses': ''}
 
 {'comment': 'verb forms [chjars, jarred, jarring',
- 'definition': "'",
- 'example': ["[ch1' A [chjar is a glass or pottery container which has a "
-             'wide mouth and a lid.  It is used to store things. '
-             '[cf2]Dozens of jars lined the pantry shelves.'],
+ 'definition': "[ch1' A [chjar is a glass or pottery container which has a "
+               'wide mouth and a lid.  It is used to store things.',
+ 'example': ['Dozens of jars lined the pantry shelves.',
+             "I must remember to buy another jar of honey.  [ch2' "
+             "'[cf2]verb If something [chjars, it creates an unpleasant "
+             'harsh effect that upsets you.  [cf2]The loud music jarred on '
+             'my nerves. [j33] That combination of colours is really '
+             "jarring.  [ch3' '[cf2]verb If you [chjar something, you give "
+             'it a rough shake or shock.  [cf2]I jarred my ankle jumping '
+             'down from the ladder. [j33] The passengers were jarred from '
+             'their sleep as the bus crashed to a stop.'],
  'headword': 'jar',
- 'note': ' ',
+ 'note': '',
  'pronounce': "dZa:'",
  'ps': "noun '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ['[chJargon is language that contains special phrases and '
-             'technical words and is used by people in a particular '
-             "profession or group.  [cf2]Explain it to me simply[j4]I don't "
-             'understand computer jargon.'],
+{'comment': '',
+ 'definition': '[chJargon is language that contains special phrases and '
+               'technical words and is used by people in a particular '
+               'profession or group.',
+ 'example': ["Explain it to me simply[j4]I don't understand computer jargon.",
+             '...medical jargon. [j33] ...legal jargon.'],
  'headword': 'jargon',
- 'note': ' ',
+ 'note': '',
  'pronounce': "`dZa:g@n'",
  'ps': "noun '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ' ',
+{'comment': '',
+ 'definition': 'A [chjarrah is a large tree that grows in western '
+               'AustraliaIt has beautiful dark red-brown wood.',
+ 'example': '',
  'headword': 'jarrah',
- 'note': ' ',
+ 'note': '',
  'pronounce': "`dZAr@'",
  'ps': "noun '",
- 'rest': 'A [chjarrah is a large tree that grows in western Australia.  It '
-         'has beautiful dark red-brown wood.',
- 'senses': ' '}
+ 'rest': '',
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': "'",
- 'example': ['[chJaundice is a medical symptom in which your skin and the '
-             'whites of your eyes turn yellow.  It is usually caused by '
-             'liver failure.'],
+{'comment': '',
+ 'definition': '[chJaundice is a medical symptom in which your skin and the '
+               'whites of your eyes turn yellow.  It is usually caused by '
+               "liver failure.  [j30] ... WORD FAMILY 'adjective jaundiced' "
+               'The patient is severely jaundiced.  [j31]',
+ 'example': '',
  'headword': 'jaundice',
- 'note': ' ',
+ 'note': '',
  'pronounce': "`dZ@:nd@s'",
  'ps': "noun '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ['A [chjaunt is a short trip that you make for pleasure.  '
-             '[cf2]We took a jaunt up the mountains to enjoy the '
-             'spectacular scenery.'],
+{'comment': '',
+ 'definition': 'A [chjaunt is a short trip that you make for pleasure.',
+ 'example': ['We took a jaunt up the mountains to enjoy the spectacular '
+             'scenery.',
+             'A jaunt in the boat sounds like a nice idea.'],
  'headword': 'jaunt',
- 'note': ' ',
+ 'note': '',
  'pronounce': "dZ@:nt'",
  'ps': "noun '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
 {'comment': 'adjective forms [chjauntier, jauntiest',
- 'definition': "'",
- 'example': ['If someone is [chjaunty, they are cheerful, confident and '
-             'outgoing.  [cf2]She gave us a jaunty wave as she passed.'],
+ 'definition': 'If someone is [chjaunty, they are cheerful, confident and '
+               'outgoing.',
+ 'example': ['She gave us a jaunty wave as she passed.',
+             "I haven't been feeling very jaunty since I split up with my "
+             "boyfriend.  [j30] ... WORD FAMILY '[cf2]adverb "
+             "jauntily'[cf2]  [j31]"],
  'headword': 'jaunty',
- 'note': ' ',
+ 'note': '',
  'pronounce': "`dZ@:nti:'",
  'ps': "adjective '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ' ',
+{'comment': '',
+ 'definition': 'A [chjavelin is a spear that is thrown by handAthletes '
+               'compete to see who can throw a javelin the greatest distance.',
+ 'example': '',
  'headword': 'javelin',
- 'note': ' ',
+ 'note': '',
  'pronounce': "`dZAv@l@n'",
  'ps': "noun '",
- 'rest': 'A [chjavelin is a spear that is thrown by hand.  Athletes compete '
-         'to see who can throw a javelin the greatest distance.',
- 'senses': ' '}
+ 'rest': '',
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': "'",
- 'example': ["[ch1' Your [chjaws are the two bones that form the framework "
-             'of your mouth.  You have an upper jaw and a lower jaw.  Your '
-             "teeth are set in your jaws.  [ch2' [chjaws'   You often refer "
-             'to the whole mouth of an animal as its [chjaws.  [cf2]The '
-             'lion held the prey in its jaws.'],
+{'comment': '',
+ 'definition': "[ch1' Your [chjaws are the two bones that form the framework "
+               'of your mouth.  You have an upper jaw and a lower jaw.  Your '
+               "teeth are set in your jaws.  [ch2' [chjaws'  '",
+ 'example': ['You often refer to the whole mouth of an animal as its '
+             '[chjaws.  [cf2]The lion held the prey in its jaws.',
+             'The crocodile snapped its jaws shut.'],
  'headword': 'jaw',
- 'note': ' ',
+ 'note': '',
  'pronounce': "dZ@:'",
  'ps': "noun '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': "'",
- 'example': ['If you [chjaywalk, you walk in a roadway without taking '
-             'notice of the road rules.'],
+{'comment': '',
+ 'definition': 'If you [chjaywalk, you walk in a roadway without taking '
+               "notice of the road rules.  [j30] ... WORD FAMILY 'noun "
+               "jaywalker'  [j31]",
+ 'example': '',
  'headword': 'jaywalk',
- 'note': ' ',
+ 'note': '',
  'pronounce': "`dZEIw@:k'",
  'ps': "verb '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': "'",
- 'example': ["[ch1' [chJazz is a type of popular music with strong "
-             "rhythms.    [ch2' [chjazz up'   In informal language, if you "
-             'say you [chjazz something [chup, you mean that you make it '
-             'more lively, exciting or colourful.  [cf2]I bought some '
-             'bright curtains to jazz up the flat.'],
+{'comment': '',
+ 'definition': "[ch1' [chJazz is a type of popular music with strong "
+               "rhythms.    [ch2' [chjazz up'  'In informal language, if you "
+               'say you [chjazz something [chup, you mean that you make it '
+               'more lively, exciting or colourful.  I bought some bright '
+               'curtains to jazz up the flat.  [j34] ... WORD FAMILY '
+               "'adjective jazz' There's a jazz band playing at the pub "
+               "tonight.[j35]'adjective jazzy (jazzier, jazziest)' Her jazzy "
+               'outfit attracted a lot of attention.  [j31]',
+ 'example': '',
  'headword': 'jazz',
- 'note': ' ',
+ 'note': '',
  'pronounce': "dZAz'",
  'ps': "noun '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': "'",
- 'example': ["[ch1' If you are [chjealous, you want to have something that "
-             'someone else has got, and you are bitter and unhappy that you '
-             "haven't got it.  [cf2]She felt jealous of her sister's "
-             'successful career.'],
+{'comment': '',
+ 'definition': "[ch1' If you are [chjealous, you want to have something that "
+               'someone else has got, and you are bitter and unhappy that '
+               "you haven't got it.",
+ 'example': ["She felt jealous of her sister's successful career.",
+             "I've always been jealous of the attention he pays her.  [ch2' "
+             "'[cf2]adjective If you are [chjealous, you are anxious that "
+             'someone will take away something that you have and you try to '
+             "defend it.  [cf2]Billy's very jealous of his toys[j4]he won't "
+             'let other children play with them.  [j30] ... WORD FAMILY '
+             "'[cf2]noun jealousy (jealousies)'[cf2] [j35]'[cf2]adverb "
+             "jealously'[cf2] The elders of the tribe jealously guarded the "
+             'ancient customs.  [j31]'],
  'headword': 'jealous',
- 'note': ' ',
+ 'note': '',
  'pronounce': "`dZEl@s'",
  'ps': "adjective '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ' ',
+{'comment': '',
+ 'definition': '[chJeans are casual trousers made from a strong fabric such '
+               'as denim[cb8][mgdict_jeep,-4][mgdict_jeep,-1][ol0][cb0][qr',
+ 'example': '',
  'headword': 'jeans',
- 'note': ' ',
+ 'note': '',
  'pronounce': "dZi:nz'",
  'ps': "noun '",
- 'rest': '[chJeans are casual trousers made from a strong fabric such as '
-         'denim.  [cb8][mgdict_jeep,-4][mgdict_jeep,-1][ol0][cb0][qr',
- 'senses': ' '}
+ 'rest': '',
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ' ',
+{'comment': '',
+ 'definition': '[ir(s76),(s75+6)]jeep  A [chjeep is a military vehicle for '
+               'driving on rough ground',
+ 'example': '',
  'headword': '',
- 'note': ' ',
+ 'note': '',
  'pronounce': "dZi:p'",
  'ps': "noun '",
- 'rest': '[ir(s76),(s75+6)]jeep  A [chjeep is a military vehicle for driving '
-         'on rough ground.',
- 'senses': ' '}
+ 'rest': '',
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': "'",
- 'example': ['[oi0,(s75+6)]  If you [chjeer at someone who is speaking or '
-             'performing, you shout insults at them.  [cf2]The crowd jeered '
-             'and booed when foul play started.'],
+{'comment': '',
+ 'definition': '[oi0,(s75+6)]  If you [chjeer at someone who is speaking or '
+               'performing, you shout insults at them.The crowd jeered and '
+               'booed when foul play started.',
+ 'example': '',
  'headword': 'jeer',
- 'note': ' ',
+ 'note': "... WORD FAMILY '[cf2]noun jeer'[cf2] She ignored the jeers and "
+         'finished her speech.',
  'pronounce': "dZI@'",
  'ps': "verb '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
 {'comment': 'plural form [chjellies',
- 'definition': ' ',
- 'example': ' ',
+ 'definition': '[chJelly is a soft food made from fruit juice, sugar and '
+               'waterIt contains gelatine, which causes it to set into a '
+               "solid elastic substance that wobbles when it's moved.  It is "
+               'usually used as a dessert food.  '
+               '[cb8][mgdict_jellyfish,-4][mgdict_jellyfish,-1][ol0][cb0][qr',
+ 'example': '',
  'headword': 'jelly',
- 'note': ' ',
+ 'note': '',
  'pronounce': "`dZEli:'",
  'ps': "noun '",
- 'rest': '[chJelly is a soft food made from fruit juice, sugar and water. It '
-         'contains gelatine, which causes it to set into a solid elastic '
-         "substance that wobbles when it's moved.  It is usually used as a "
-         'dessert food.  '
-         '[cb8][mgdict_jellyfish,-4][mgdict_jellyfish,-1][ol0][cb0][qr',
- 'senses': ' '}
+ 'rest': '',
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ['[ir(s76),(s75+6)]jellyfish  A [chjellyfish is an animal that '
-             'lives in the sea.  It has a soft, transparent body that looks '
-             'like jelly.  Some jellyfish are dangerous because they can '
-             'sting you.'],
+{'comment': '',
+ 'definition': '[ir(s76),(s75+6)]jellyfish  A [chjellyfish is an animal that '
+               'lives in the seaIt has a soft, transparent body that looks '
+               'like jelly.  Some jellyfish are dangerous because they can '
+               'sting you.',
+ 'example': '',
  'headword': '',
- 'note': ' ',
+ 'note': '... NOTE that [chjellyfish is both the singular and plural form.',
  'pronounce': "`dZEli:fIS'",
  'ps': "noun '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': "'",
- 'example': ['If something is in [chjeopardy, there is a risk that it could '
-             "be harmed or damaged.  [cf2]That's a foolish thing to "
-             "do[j4]you're putting your health in jeopardy."],
+{'comment': '',
+ 'definition': 'If something is in [chjeopardy, there is a risk that it '
+               "could be harmed or damaged.That's a foolish thing to "
+               "do[j4]you're putting your health in jeopardy.",
+ 'example': '',
  'headword': 'jeopardy',
- 'note': ' ',
+ 'note': "... WORD FAMILY '[cf2]verb jeopardise ('[cf2]or jeopardize)'[cf2] "
+         'The scandal could jeopardise his political career.',
  'pronounce': "`dZEp@di:'",
  'ps': "noun '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': "'",
- 'example': ["[ch1' A [chjerk is a sudden, sharp movement.  [cf2]She pulled "
-             'her hand back with a jerk.'],
+{'comment': '',
+ 'definition': "[ch1' A [chjerk is a sudden, sharp movement.",
+ 'example': ['She pulled her hand back with a jerk.',
+             "The car moved along in a series of jerks.  [ch2' '[cf2]noun "
+             'If you call someone a [chjerk, you mean that they are a '
+             'stupid person.  This is an insulting word.  [j30] ... WORD '
+             "FAMILY '[cf2]verb jerk'[cf2] He jerked the tablecloth off the "
+             "table.[j35]'[cf2]adverb jerky (jerkier, jerkiest)'[cf2] Try "
+             'to make your movements smoother and less jerky.  [j31]'],
  'headword': 'jerk',
- 'note': ' ',
+ 'note': '',
  'pronounce': "dZ@:k'",
  'ps': "noun '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ' ',
+{'comment': '',
+ 'definition': 'A [chjersey is a close-fitting pullover with long '
+               'sleevesSporting teams often wear jerseys as part of their '
+               'uniform.',
+ 'example': '',
  'headword': 'jersey',
- 'note': ' ',
+ 'note': '',
  'pronounce': "`dZ@:zi:'",
  'ps': "noun '",
- 'rest': 'A [chjersey is a close-fitting pullover with long sleeves.  '
-         'Sporting teams often wear jerseys as part of their uniform.',
- 'senses': ' '}
+ 'rest': '',
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': "'",
- 'example': ["[ch1' A [chjet is a stream of liquid or gas that is forced "
-             'out of a small opening.  [cf2]The broken main spurted jets of '
-             'water into the air.'],
+{'comment': '',
+ 'definition': "[ch1' A [chjet is a stream of liquid or gas that is forced "
+               'out of a small opening.',
+ 'example': ['The broken main spurted jets of water into the air.',
+             "He was scalded by a jet of steam.  [ch2' '[cf2]noun A [chjet "
+             "or [chjet plane is a plane powered by a jet engine.  [ch3' "
+             "[chjet engine'  '[cf2] A [chjet engine is an engine in which "
+             "the exhaust gases are forced out in a pressurised jet. [ch4 ' "
+             "[chjet lag'  '[cf2] [chJet lag is the tiredness and "
+             "disorientation you feel when you've travelled a long distance "
+             'in a plane across several time zones.  [cf2]It will take a '
+             'few days before you get over your jet lag and start to feel '
+             'normal again.'],
  'headword': 'jet',
- 'note': ' ',
+ 'note': '',
  'pronounce': "dZEt'",
  'ps': "noun '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': "'",
- 'example': ["'times,0'[cp8.5]"],
+{'comment': '',
+ 'definition': "'times,0'[cp8.5][j24]d[j15]et[j17]s[j17]n, -z[j17]n'  [ch1' "
+               'If you [chjettison something from a ship or plane, you '
+               'discard it to make the vehicle lighter.',
+ 'example': ['The plane jettisoned fuel before making an emergency landing.',
+             "The ship's captain ordered the crew to jettison the cargo.  "
+             "[ch2' '[cf2]verb If you [chjettison something, you discard or "
+             'abandon it.  [cf2]I took advantage of the move to jettison a '
+             'lot of old clothes. [j33] Your plan is quite '
+             "impractical[j4]you'd better jettison it and come up with a "
+             'new idea.'],
  'headword': 'jettison',
- 'note': ' ',
- 'pronounce': ' ',
+ 'note': '',
+ 'pronounce': '',
  'ps': "verb '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
 {'comment': 'plural form [chjetties',
- 'definition': ' ',
- 'example': ' ',
+ 'definition': 'A [chjetty is a long structure built out into a river or the '
+               'sea and used as a landing place for boats',
+ 'example': '',
  'headword': 'jetty',
- 'note': ' ',
+ 'note': '',
  'pronounce': "`dZEti:'",
  'ps': "noun '",
- 'rest': 'A [chjetty is a long structure built out into a river or the sea '
-         'and used as a landing place for boats.',
- 'senses': ' '}
+ 'rest': '',
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': "'",
- 'example': ["[ch1' A [chjewel is a precious stone, such as a diamond or "
-             'ruby, which has been cut and polished.  Another word for this '
-             'is [chgem.  [cf2]The crown was set with dozens of jewels.  '
-             "[ch2' noun A [chjewel is a piece of jewellery made from "
-             'valuable materials, such as gold or silver, and decorated '
-             "with precious stones.  [cf2]Don't leave your jewels lying "
-             "around[j4]they'll get stolen."],
+{'comment': '',
+ 'definition': "[ch1' A [chjewel is a precious stone, such as a diamond or "
+               'ruby, which has been cut and polished.  Another word for '
+               'this is [chgem.The crown was set with dozens of jewels.  '
+               "[ch2' 'noun A [chjewel is a piece of jewellery made from "
+               'valuable materials, such as gold or silver, and decorated '
+               "with precious stones.  Don't leave your jewels lying "
+               "around[j4]they'll get stolen.",
+ 'example': '',
  'headword': 'jewel',
- 'note': ' ',
+ 'note': "... WORD FAMILY '[cf2]noun jeweller'[cf2]",
  'pronounce': "`dZu:@l'",
  'ps': "noun '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ['[chJewellery is adornments such as necklaces, rings, '
-             'bracelets, earrings and brooches that you wear to make '
-             'yourself look attractive or fashionable.'],
+{'comment': '',
+ 'definition': '[chJewellery is adornments such as necklaces, rings, '
+               'bracelets, earrings and brooches that you wear to make '
+               'yourself look attractive or fashionable',
+ 'example': '',
  'headword': 'jewellery',
- 'note': ' ',
+ 'note': '... ANOTHER SPELLING for this word is [chjewelry.',
  'pronounce': "`dZu:@lri:'",
  'ps': "noun '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': "'",
- 'example': ['If someone  is [chJewish, they  follow the religion of '
-             'Judaism or they belong to the ethnic group that is '
-             'traditionally associated with that religion.'],
+{'comment': '',
+ 'definition': 'If someone  is [chJewish, they  follow the religion of '
+               'Judaism or they belong to the ethnic group that is '
+               'traditionally associated with that religion.  [j30] ... WORD '
+               "FAMILY 'noun Jew'  [j31]",
+ 'example': '',
  'headword': 'Jewish',
- 'note': ' ',
+ 'note': '',
  'pronounce': "`dZu:IS'",
  'ps': "adjective '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ' ',
+{'comment': '',
+ 'definition': '[chJibe is another spelling of [chgibe',
+ 'example': '',
  'headword': 'jibe',
- 'note': ' ',
+ 'note': '',
  'pronounce': "dZa:Ib'",
  'ps': "noun '",
- 'rest': '[chJibe is another spelling of [chgibe.',
- 'senses': ' '}
+ 'rest': '',
+ 'senses': ''}
 
 {'comment': 'plural form [chjiffies',
- 'definition': ' ',
- 'example': ['In informal language, a [chjiffy is a very short space of '
-             "time.  [cf2]I'll be back in a jiffy."],
+ 'definition': 'In informal language, a [chjiffy is a very short space of '
+               'time.',
+ 'example': ["I'll be back in a jiffy.",
+             'This will only take a jiffy to fix.'],
  'headword': 'jiffy',
- 'note': ' ',
+ 'note': '',
  'pronounce': "`dZIfi:'",
  'ps': "noun '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': "'",
- 'example': ['A [chjig is a lively folk dance.'],
+{'comment': '',
+ 'definition': 'A [chjig is a lively folk dance.  [j30] ... WORD FAMILY '
+               "'verb jig (jigs, jigged, jigging)'  [j31]",
+ 'example': '',
  'headword': 'jig',
- 'note': ' ',
+ 'note': '',
  'pronounce': "dZIg'",
  'ps': "noun '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': "'",
- 'example': ['If you [chjiggle something, you move it up and down or from '
-             "side to side in short jerks.  [cf2]I'd much rather make a pot "
-             'of tea than jiggle a tea bag in a cup.'],
+{'comment': '',
+ 'definition': 'If you [chjiggle something, you move it up and down or from '
+               'side to side in short jerks.',
+ 'example': ["I'd much rather make a pot of tea than jiggle a tea bag in a "
+             'cup.',
+             'You have to jiggle the key in the lock to get it to turn.  '
+             "[j30] ... WORD FAMILY '[cf2]noun jiggle'[cf2]  [j31]"],
  'headword': 'jiggle',
- 'note': ' ',
+ 'note': '',
  'pronounce': "`dZIg@l'",
  'ps': "verb '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': "'",
- 'example': ' ',
+{'comment': '',
+ 'definition': "[ch1' A [chjigsaw is a narrow saw used for cutting curved "
+               "shapes.  [ch2' 'noun A [chjigsaw or [chjigsaw puzzle "
+               'consists of many irregularly shaped flat pieces of cardboard '
+               'or wood.  When all the pieces are fitted together correctly, '
+               'they make a picture.',
+ 'example': '',
  'headword': 'jigsaw',
- 'note': ' ',
+ 'note': '',
  'pronounce': "`dZIgs@:'",
  'ps': "noun '",
- 'rest': "[ch1' A [chjigsaw is a narrow saw used for cutting curved shapes.  "
-         "[ch2' noun A [chjigsaw or [chjigsaw puzzle consists of many "
-         'irregularly shaped flat pieces of cardboard or wood.  When all the '
-         'pieces are fitted together correctly, they make a picture.',
- 'senses': ' '}
+ 'rest': '',
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ' ',
+{'comment': '',
+ 'definition': 'A [chjillaroo is a female jackeroo',
+ 'example': '',
  'headword': 'jillaroo',
- 'note': ' ',
+ 'note': '',
  'pronounce': "`dZIl@ru:'",
  'ps': "noun '",
- 'rest': 'A [chjillaroo is a female jackeroo.',
- 'senses': ' '}
+ 'rest': '',
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ['If you [chjilt someone, you suddenly break off a romantic '
-             'relationship with them.  [cf2]He was very upset when she '
-             'jilted him.'],
+{'comment': '',
+ 'definition': 'If you [chjilt someone, you suddenly break off a romantic '
+               'relationship with them.',
+ 'example': ['He was very upset when she jilted him.',
+             'She was jilted at the altar on her wedding day.'],
  'headword': 'jilt',
- 'note': ' ',
+ 'note': '',
  'pronounce': "dZIlt'",
  'ps': "verb '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': "'",
- 'example': ' ',
+{'comment': '',
+ 'definition': "[ch1' Small metal objects [chjingle when they strike "
+               'together and make a tinkling sound.You can hear the coins '
+               "jingling in his pocket. [ch2 ' 'noun A [chjingle is a short, "
+               'bright tune, usually with words, that is used to advertise '
+               "products on television and radio.  I can't get that catchy "
+               'soup jingle out of my mind.',
+ 'example': '',
  'headword': 'jingle',
- 'note': ' ',
+ 'note': '',
  'pronounce': "`dZINg@l'",
  'ps': "verb '",
- 'rest': "[ch1' Small metal objects [chjingle when they strike together and "
-         'make a tinkling sound.  You can hear the coins jingling in his '
-         "pocket. [ch2 ' noun A [chjingle is a short, bright tune, usually "
-         'with words, that is used to advertise products on television and '
-         "radio.  I can't get that catchy soup jingle out of my mind.",
- 'senses': ' '}
+ 'rest': '',
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': "'",
- 'example': ['A [chjinx is someone or something that brings bad luck.  '
-             '[cf2]Every time I go to the races with you, I lose[j4]you '
-             'seem to be a jinx for me.'],
+{'comment': '',
+ 'definition': 'A [chjinx is someone or something that brings bad luck.',
+ 'example': ['Every time I go to the races with you, I lose[j4]you seem to '
+             'be a jinx for me.',
+             'There must be a jinx on this machine[j4]it breaks down far '
+             "more often than the others.  [j34] ... WORD FAMILY '[cf2]verb "
+             "jinx'[cf2] This project must be jinxed[j4]every possible "
+             "thing's gone wrong.  [j31]"],
  'headword': 'jinx',
- 'note': ' ',
+ 'note': '',
  'pronounce': "dZINks'",
  'ps': "noun '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': "'",
- 'example': ['In informal language, if you say you have the [chjitters, you '
-             'mean you feel nervous and anxious before an important event.  '
-             "[cf2]I get the jitters every time I think about next month's "
-             'exams.'],
+{'comment': '',
+ 'definition': 'In informal language, if you say you have the [chjitters, '
+               'you mean you feel nervous and anxious before an important '
+               'event.I get the jitters every time I think about next '
+               "month's exams.",
+ 'example': '',
  'headword': 'jitters',
- 'note': ' ',
+ 'note': "... WORD FAMILY '[cf2]adjective jittery'[cf2] I felt horribly "
+         'jittery as I waited to meet her again.',
  'pronounce': "`dZIt@z'",
  'ps': "noun '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': "'",
- 'example': ['When you [chjive, you do a fast dance to a kind of popular '
-             'music.'],
+{'comment': '',
+ 'definition': 'When you [chjive, you do a fast dance to a kind of popular '
+               "music.  [j30] ... WORD FAMILY 'noun jive'  [j31]",
+ 'example': '',
  'headword': 'jive',
- 'note': ' ',
+ 'note': '',
  'pronounce': "dZa:Iv'",
  'ps': "verb '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ' ',
+{'comment': '',
+ 'definition': 'for [chjunior',
+ 'example': '',
  'headword': 'jnr',
- 'note': ' ',
+ 'note': '',
  'pronounce': "`dZu:nj@'",
  'ps': "abbreviation '",
- 'rest': 'for [chjunior.',
- 'senses': ' '}
+ 'rest': '',
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': "'",
- 'example': ["[ch1' Your [chjob is the work you do in your occupation or "
-             'trade to earn a living.  It is your employment.  [cf2]I have '
-             'a part-time office job.'],
+{'comment': '',
+ 'definition': "[ch1' Your [chjob is the work you do in your occupation or "
+               'trade to earn a living.  It is your employment.',
+ 'example': ['I have a part-time office job.',
+             "He lost his job when the factory closed down.  [ch2' "
+             "'[cf2]noun A [chjob is a particular piece of work or a task. "
+             "[cf2]When you've finished the job you're on, I want you to "
+             'help Steve. [j33] I expect the children to help with the jobs '
+             "around the house.  [ch3' '[cf2]noun If it's someone's [chjob "
+             'to do something, they are responsible for doing it.  '
+             "[cf2]You're the last to go to bed, so it's your job to put "
+             "the lights out. [j33] It's not my job to make up for his "
+             'mistakes.'],
  'headword': 'job',
- 'note': ' ',
+ 'note': '',
  'pronounce': "dZOb'",
  'ps': "noun '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ' ',
+{'comment': '',
+ 'definition': "If you are [chjobless you don't have a job.  You are "
+               "unemployed.He's been looking for work for weeks but he's "
+               'still jobless.',
+ 'example': '',
  'headword': 'jobless',
- 'note': ' ',
+ 'note': '',
  'pronounce': "`dZObl@s'",
  'ps': "adjective '",
- 'rest': "If you are [chjobless you don't have a job.  You are unemployed.  "
-         "He's been looking for work for weeks but he's still jobless.",
- 'senses': ' '}
+ 'rest': '',
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ' ',
+{'comment': '',
+ 'definition': 'A [chjockey is someone who is trained to ride a horse in '
+               'races',
+ 'example': '',
  'headword': 'jockey',
- 'note': ' ',
+ 'note': '',
  'pronounce': "`dZOki:'",
  'ps': "noun '",
- 'rest': 'A [chjockey is someone who is trained to ride a horse in races.',
- 'senses': ' '}
+ 'rest': '',
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ' ',
+{'comment': '',
+ 'definition': 'If someone or something is [chjocular, they are joking.  '
+               'They are not serious.Something must have put her into a good '
+               "mood[j4] she's isn't usually so jocular.",
+ 'example': '',
  'headword': 'jocular',
- 'note': ' ',
+ 'note': '',
  'pronounce': "`dZOkj@l@'",
  'ps': "noun '",
- 'rest': 'If someone or something is [chjocular, they are joking.  They are '
-         'not serious. Something must have put her into a good mood[j4] '
-         "she's isn't usually so jocular.",
- 'senses': ' '}
+ 'rest': '',
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ' ',
+{'comment': '',
+ 'definition': '[chJodhpurs are long trousers that you can wear for riding '
+               'horsesThey are baggy at the top but fit tightly from below '
+               'the knees to the ankles.',
+ 'example': '',
  'headword': 'jodhpurs',
- 'note': ' ',
+ 'note': '',
  'pronounce': "`dZOdp@z'",
  'ps': "noun '",
- 'rest': '[chJodhpurs are long trousers that you can wear for riding '
-         'horses.  They are baggy at the top but fit tightly from below the '
-         'knees to the ankles.',
- 'senses': ' '}
+ 'rest': '',
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ' ',
+{'comment': '',
+ 'definition': 'A [chjoey is a young animal, especially a kangaroo, that is '
+               "carried in its mother's pouch",
+ 'example': '',
  'headword': 'joey',
- 'note': ' ',
+ 'note': '',
  'pronounce': "`dZ@Ui:'",
  'ps': "noun '",
- 'rest': 'A [chjoey is a young animal, especially a kangaroo, that is '
-         "carried in its mother's pouch.",
- 'senses': ' '}
+ 'rest': '',
+ 'senses': ''}
 
 {'comment': 'verb forms [chjogs, jogged, jogging',
- 'definition': "'",
- 'example': ["[ch1' When you [chjog, you run at a steady slow pace, usually "
-             'for exercise.  [cf2]Navin jogs at least three times a week to '
-             "keep fit.  [ch2' verb If you [chjog something, you give it a "
-             'slight knock or bump.  [cf2]Wai-Yi asked me to jog her if she '
-             'started to doze during the lecture.'],
+ 'definition': "[ch1' When you [chjog, you run at a steady slow pace, "
+               'usually for exercise.',
+ 'example': ["Navin jogs at least three times a week to keep fit.  [ch2' "
+             "'[cf2]verb If you [chjog something, you give it a slight "
+             'knock or bump.  [cf2]Wai-Yi asked me to jog her if she '
+             'started to doze during the lecture.',
+             "I managed to jog the ball into the hole.  [ch3' '[cf2]verb If "
+             'someone or something [chjogs your memory, they make you '
+             "remember something that you'd for~ gotten.  [cf2]Give me a "
+             "hint to jog my memory.  [j30] ... WORD FAMILY '[cf2]noun "
+             "jogger'[cf2]  [j31]"],
  'headword': 'jog',
- 'note': ' ',
+ 'note': '',
  'pronounce': "dZOg'",
  'ps': "verb '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': "'",
- 'example': ["[ch1a' If you [chjoin one thing to another or join things "
-             'together, you put them together or connect them.  [cf2]This '
-             "rope isn't long enough[j4]we'll need to join on another piece."],
+{'comment': '',
+ 'definition': "[ch1a' If you [chjoin one thing to another or join things "
+               'together, you put them together or connect them.',
+ 'example': ["This rope isn't long enough[j4]we'll need to join on another "
+             'piece.',
+             "The cities are joined by a railway network.  [chb' '[cf2]verb "
+             'If things [chjoin, they come together and become united. '
+             '[cf2]From the lookout you can see where the two rivers join.  '
+             "[ch2a' '[cf2]verb If you [chjoin someone, you meet up with "
+             "them.  [cf2]You go ahead[j4]I'll come and join you shortly. "
+             "[j33] Wendy joined us for a drink after work. [ch b ' "
+             "'[cf2]verb If you [chjoin someone in something, you take part "
+             "in an activity with them.  [cf2]Don't be shy[j4]come and join "
+             'in the conversation. [j33] Would you care to join me in a '
+             "game of golf?  [ch3' '[cf2]verb If you [chjoin an "
+             'organisation, you become a member of it.  [cf2]I joined the '
+             'company as a product manager in 1994. [j33] A good way to '
+             'meet people is to join a club connected with your hobby.  '
+             "[j30] ... WORD FAMILY '[cf2]noun join'[cf2] You can hardly "
+             'see the join.  [j31]'],
  'headword': 'join',
- 'note': ' ',
+ 'note': '',
  'pronounce': "dZ@:In'",
  'ps': "verb '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': "'",
- 'example': ['A [chjoiner is someone who works in wood to make furniture '
-             'and fittings for a house.'],
+{'comment': '',
+ 'definition': 'A [chjoiner is someone who works in wood to make furniture '
+               'and fittings for a house.  [j30] ... COMPARE this with '
+               "[chcarpenter.  [j32] ... WORD FAMILY 'noun joinery' This "
+               'table is an exceptionally fine piece of joinery.  [j31]',
+ 'example': '',
  'headword': 'joiner',
- 'note': ' ',
+ 'note': '',
  'pronounce': "`dZ@:In@'",
  'ps': "noun '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': "'",
- 'example': ["[ch1' A [chjoint is the place where two things or parts are "
-             'joined.  [cf2]The water pipes were leaking at the joint.  '
-             "[ch2' noun Your [chjoints are the parts of your body where "
-             'your limbs bend, such as your elbows, wrists, knees and '
-             'ankles. [cf2]Grandma has just had an operation to replace her '
-             'hip joint.'],
+{'comment': '',
+ 'definition': "[ch1' A [chjoint is the place where two things or parts are "
+               'joined.',
+ 'example': ["The water pipes were leaking at the joint.  [ch2' '[cf2]noun "
+             'Your [chjoints are the parts of your body where your limbs '
+             'bend, such as your elbows, wrists, knees and ankles. '
+             '[cf2]Grandma has just had an operation to replace her hip '
+             'joint.',
+             'One of the symptoms of the flu is aching joints. [j33] He '
+             "suffers from arthritis in his finger joints. [ch3 ' "
+             "'[cf2]noun A [chjoint is one of the portions of meat that a "
+             "butcher divides an animal's body into.  It is usually a large "
+             "piece, suitable for roasting.  [cf2]We're having a roast "
+             'joint for dinner tonight. [j33] I bought a joint of lamb.  '
+             "[ch4' '[cf2]noun In informal language, you can call the "
+             "building where you live or work your [chjoint.  [cf2]There's "
+             "a party at George's joint on the weekend. [j33] We don't have "
+             "a canteen at our joint. [ch5 ' '[cf2]noun In informal "
+             'language, you can call a marijuana cigarette a [chjoint.  '
+             "[ch6' '[cf2]adjective If some-[fj thing is described as being "
+             '[chjoint, it is shared by two or more people.  [cf2]I have a '
+             "joint bank account with my wife. [j33] I can't take all the "
+             'credit[j4]it was a joint effort.  [j30] ... WORD FAMILY '
+             "'[cf2]adverb jointly'[cf2] The house is owned by the two of "
+             'us jointly.  [j31]'],
  'headword': 'joint',
- 'note': ' ',
+ 'note': '',
  'pronounce': "dZ@:Int'",
  'ps': "noun '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ' ',
+{'comment': '',
+ 'definition': 'A [chjoist is a long length of wood or metal used to support '
+               'a floor or ceiling',
+ 'example': '',
  'headword': 'joist',
- 'note': ' ',
+ 'note': '',
  'pronounce': "dZ@:Ist'",
  'ps': "noun '",
- 'rest': 'A [chjoist is a long length of wood or metal used to support a '
-         'floor or ceiling.',
- 'senses': ' '}
+ 'rest': '',
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': "'",
- 'example': ["[ch1' A [chjoke is something that you say or do to make "
-             'people laugh.  [cf2]Eric is good at telling jokes.'],
+{'comment': '',
+ 'definition': "[ch1' A [chjoke is something that you say or do to make "
+               'people laugh.',
+ 'example': ['Eric is good at telling jokes.',
+             "There were some excellent visual jokes in the movie.  [ch2' "
+             "'[cf2]noun A [chjoke is a trick that you play on someone to "
+             'make them believe something which is not true.  [cf2]He said '
+             'he was calling from overseas, but it was only a joke. [j33] '
+             "Let's play a joke on Sue and pretend that we've all forgotten "
+             "her birthday.  [ch3' '[cf2]noun In informal language, you "
+             'call someone or something a [chjoke if you think they are '
+             'ridiculous.  [cf2]Our new supervisor is so inexperienced '
+             "she's a joke. [j33] The government's tax policy is a joke. "
+             "[ch4 ' [chno joke (a)'  '[cf2] If you say that something is "
+             "[chno joke, you mean that it is true.    [cf2]It's no joke, I "
+             "really am going to resign. [ch(b)'  '[cf2] If you say that "
+             'something is [chno joke, you mean that it is a serious '
+             'matter. It is not to be treated lightly.  [cf2]The situation '
+             "has got out of control[j4]it's no joke.  [j30] ... WORD "
+             "FAMILY '[cf2]verb joke'[cf2] I was only joking[j4]it's not "
+             "really true.[j35]'[cf2]adverb jokingly'[cf2] He jokingly "
+             'suggest- [fj ed that I could go there on foot.  [j31]'],
  'headword': 'joke',
- 'note': ' ',
+ 'note': '',
  'pronounce': "dZ@Uk'",
  'ps': "noun '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': "'",
- 'example': ' ',
+{'comment': '',
+ 'definition': "[ch1' A [chjoker is someone who likes to make jokes.Evan's a "
+               "real joker[j4]he's never serious for a moment.  [ch2' 'noun "
+               'Each pack of playing cards contains a [chjoker.  It is a '
+               'card which has no fixed value and does not belong to any of '
+               'the four suits.',
+ 'example': '',
  'headword': 'joker',
- 'note': ' ',
+ 'note': '',
  'pronounce': "`dZ@Uk@'",
  'ps': "noun '",
- 'rest': "[ch1' A [chjoker is someone who likes to make jokes.  Evan's a "
-         "real joker[j4]he's never serious for a moment.  [ch2' noun Each "
-         'pack of playing cards contains a [chjoker.  It is a card which has '
-         'no fixed value and does not belong to any of the four suits.',
- 'senses': ' '}
+ 'rest': '',
+ 'senses': ''}
 
 {'comment': 'adjective forms [chjollier, jolliest',
- 'definition': "'",
- 'example': ['If someone or something is [chjolly, they are amusing and '
-             "full of fun.  [cf2]She's such a jolly person, she's great to "
-             'be with.'],
+ 'definition': 'If someone or something is [chjolly, they are amusing and '
+               'full of fun.',
+ 'example': ["She's such a jolly person, she's great to be with.",
+             "We all had a jolly time at the party. [j33] I'm not feeling "
+             'very jolly at the moment[j4]everything seems to be going '
+             "wrong.  [j30] ... WORD FAMILY '[cf2]noun jollity'[cf2]  [j31]"],
  'headword': 'jolly',
- 'note': ' ',
+ 'note': '',
  'pronounce': "`dZOli:'",
  'ps': "adjec~ tive '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': "'",
- 'example': ["[ch1' If you [chjolt something, you disturb it with a sudden, "
-             'rough movement.  [cf2]Simon jolted my elbow and I spilled my '
-             'drink.'],
+{'comment': '',
+ 'definition': "[ch1' If you [chjolt something, you disturb it with a "
+               'sudden, rough movement.',
+ 'example': ['Simon jolted my elbow and I spilled my drink.',
+             'I was jolted awake as the train came to a sudden halt. [j33] '
+             "The tragedy jolted her out of her complacency.  [ch2' "
+             "'[cf2]verb If something [chjolts along, it moves along in an "
+             'uneven way.  [cf2]The bus jolted up the hill.  [j30] ... WORD '
+             "FAMILY '[cf2]noun jolt'[cf2] The car stopped with a jolt.  "
+             '[j31]'],
  'headword': 'jolt',
- 'note': ' ',
+ 'note': '',
  'pronounce': "dZ@Ult'",
  'ps': "verb '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ['If someone [chjostles, they push against other people in a '
-             'crowd in a rough and rude way.  [cf2]People were jostling to '
-             'get through the gates of the sports ground.'],
+{'comment': '',
+ 'definition': 'If someone [chjostles, they push against other people in a '
+               'crowd in a rough and rude way.',
+ 'example': ['People were jostling to get through the gates of the sports '
+             'ground.',
+             'Outside the court the crowd jostled the prisoner. [j33] I '
+             'managed to jostle my way through.'],
  'headword': 'jostle',
- 'note': ' ',
+ 'note': '',
  'pronounce': "`dZOs@l'",
  'ps': "verb '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
 {'comment': 'verb forms [chjots, jotted, jotting',
- 'definition': ' ',
- 'example': ['If you [chjot something down, you write it quickly in note '
-             'form.  [cf2]She jotted down the telephone message.'],
+ 'definition': 'If you [chjot something down, you write it quickly in note '
+               'form.',
+ 'example': ['She jotted down the telephone message.',
+             'I must jot down that appointment in my diary. [j33] I jotted '
+             'his name on the back of the envelope.'],
  'headword': 'jot',
- 'note': ' ',
+ 'note': '',
  'pronounce': "dZOt'",
  'ps': "verb '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ' ',
+{'comment': '',
+ 'definition': 'A [chjotter is a book or pad of paper that you use for '
+               'writing rough notes.Use a page of the jotter to make your '
+               'shopping list on.',
+ 'example': '',
  'headword': 'jotter',
- 'note': ' ',
+ 'note': '',
  'pronounce': "`dZOt@'",
  'ps': "noun '",
- 'rest': 'A [chjotter is a book or pad of paper that you use for writing '
-         'rough notes.  Use a page of the jotter to make your shopping list '
-         'on.',
- 'senses': ' '}
+ 'rest': '',
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ' ',
+{'comment': '',
+ 'definition': 'A [chjoule is a unit used to measure energy or work',
+ 'example': '',
  'headword': 'joule',
- 'note': ' ',
+ 'note': '',
  'pronounce': "dZu:l'",
  'ps': "noun '",
- 'rest': 'A [chjoule is a unit used to measure energy or work.',
- 'senses': ' '}
+ 'rest': '',
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': "'",
- 'example': ' ',
+{'comment': '',
+ 'definition': "[ch1' A [chjournal is a scientific or scholarly magazine, "
+               'often published quarterly, which contains articles about '
+               'research that has been done in a particular subject.The '
+               "library spends a quarter of its budget on journals.  [ch2' "
+               "'noun A [chjournal is a record you make of daily events and "
+               'your experiences.  I like to keep a journal of my travels.',
+ 'example': '',
  'headword': 'journal',
- 'note': ' ',
+ 'note': '',
  'pronounce': "`dZ@:n@l'",
  'ps': "noun '",
- 'rest': "[ch1' A [chjournal is a scientific or scholarly magazine, often "
-         'published quarterly, which contains articles about research that '
-         'has been done in a particular subject.  The library spends a '
-         "quarter of its budget on journals.  [ch2' noun A [chjournal is a "
-         'record you make of daily events and your experiences.  I like to '
-         'keep a journal of my travels.',
- 'senses': ' '}
+ 'rest': '',
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': "'",
- 'example': ['A [chjournalist is someone who reports the news for '
-             'newspapers, television or radio, or writes articles for '
-             'newspapers and magazines.'],
+{'comment': '',
+ 'definition': 'A [chjournalist is someone who reports the news for '
+               'newspapers, television or radio, or writes articles for '
+               "newspapers and magazines.  [j30] ... WORD FAMILY 'noun "
+               "journalism'  [j31]",
+ 'example': '',
  'headword': 'journalist',
- 'note': ' ',
+ 'note': '',
  'pronounce': "`dZ@:n@l@st'",
  'ps': "noun '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': "'",
- 'example': ['A [chjourney is a fairly long trip you make to travel from '
-             'one place to another. [cf2]How about coming with me on a '
-             'journey to central Australia?'],
+{'comment': '',
+ 'definition': 'A [chjourney is a fairly long trip you make to travel from '
+               'one place to another.',
+ 'example': ['How about coming with me on a journey to central Australia?',
+             'I hope you have a safe journey. [j33] I took a book with me '
+             "to read on the journey.  [j30] ... WORD FAMILY '[cf2]verb "
+             "journey'[cf2] He journeyed around Australia in his car.  [j31]"],
  'headword': 'journey',
- 'note': ' ',
+ 'note': '',
  'pronounce': "`dZ@:ni:'",
  'ps': "noun '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': "'",
- 'example': ['If someone is [chjovial, they are cheerful and full of good '
-             "humour.  [cf2]You're in a very jovial mood today."],
+{'comment': '',
+ 'definition': 'If someone is [chjovial, they are cheerful and full of good '
+               'humour.',
+ 'example': ["You're in a very jovial mood today.",
+             'His jovial greeting as he passed made me feel better. [j33] '
+             'Father Christmas is portrayed as a jovial old man in a red '
+             "suit.  [j34] ... WORD FAMILY '[cf2]noun joviality'[cf2]  [j31]"],
  'headword': 'jovial',
- 'note': ' ',
+ 'note': '',
  'pronounce': "`dZ@Uvi:@l'",
  'ps': "adjective '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': "'",
- 'example': ["[ch1' [chJoy is a feeling of great pleasure and happiness.  "
-             '[cf2]She was overwhelmed with joy to see her friends again.'],
+{'comment': '',
+ 'definition': "[ch1' [chJoy is a feeling of great pleasure and happiness.",
+ 'example': ['She was overwhelmed with joy to see her friends again.',
+             "He jumped for joy when he heard the good news.  [ch2' "
+             "'[cf2]noun A [chjoy is something that gives you a lot of "
+             "pleasure.  [cf2]My garden is a joy to me. [j33] Lee's just "
+             'discovered the joy of horse riding. [j33] The kids are so '
+             "eager that they're a joy to teach.  [j30] ... WORD FAMILY "
+             "'[cf2]verb [cf1]See rejoice'. [j35]'[cf2]adjective "
+             "joyful'[cf2] [j35]'[cf2]adverb joyfully'[cf2]  [j31]"],
  'headword': 'joy',
- 'note': ' ',
+ 'note': '',
  'pronounce': "dZ@:I'",
  'ps': "noun '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': "'",
- 'example': ['for [chjustice of the peace.  [ct--Jr abbreviation for '
-             '[chJunior.  [cf2]...[hm-p1]William Jenkinson, Jr. [xc--jube '
-             "'times,0'[cp8.5]d"],
+{'comment': '',
+ 'definition': "for [chjustice of the peace.  [ct--Jr 'abbreviation for "
+               '[chJunior.  ...[hm-p1]William Jenkinson, Jr. [xc--jube '
+               "'times,0'dZub' 'noun A [chjube is a chewy lolly.",
+ 'example': '',
  'headword': 'JP',
- 'note': ' ',
+ 'note': '',
  'pronounce': "dZEI `pi:'",
  'ps': "abbreviation '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': "'",
- 'example': ['If someone is [chjubilant, they are very happy because of '
-             'some success or triumph.  [cf2]She presented the medals to '
-             'the jubilant winners.'],
+{'comment': '',
+ 'definition': 'If someone is [chjubilant, they are very happy because of '
+               'some success or triumph.',
+ 'example': ['She presented the medals to the jubilant winners.',
+             'When I eventually worked out how to do it, I was jubilant.  '
+             "[j30] ... WORD FAMILY '[cf2]noun jubilation'[cf2]  [j31]"],
  'headword': 'jubilant',
- 'note': ' ',
+ 'note': '',
  'pronounce': "`dZu:b@l@nt'",
  'ps': "adjective '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ' ',
+{'comment': '',
+ 'definition': 'A [chjubilee is a celebration of a special '
+               'anniversary[j4]such as the 25th, 50th or 100th[j4]of an '
+               'important event.Our school will be celebrating its silver '
+               'jubilee in March[j4]it was founded 25 years ago.',
+ 'example': '',
  'headword': 'jubilee',
- 'note': ' ',
+ 'note': '',
  'pronounce': "dZu:b@`li:'",
  'ps': "noun '",
- 'rest': 'A [chjubilee is a celebration of a special anniversary[j4]such as '
-         'the 25th, 50th or 100th[j4]of an important event.  Our school will '
-         'be celebrating its silver jubilee in March[j4]it was founded 25 '
-         'years ago.',
- 'senses': ' '}
+ 'rest': '',
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ' ',
+{'comment': '',
+ 'definition': '[chJudaism is the reli[chgion and culture of the Jewish '
+               'people',
+ 'example': '',
  'headword': 'Judaism',
- 'note': ' ',
+ 'note': '',
  'pronounce': "`dZu:dEIz@m'",
  'ps': "noun '",
- 'rest': '[chJudaism is the reli[chgion and culture of the Jewish people.',
- 'senses': ' '}
+ 'rest': '',
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': "'",
- 'example': ["[ch1a' A [chjudge is a person authorised to hear and decide "
-             'cases in a law court. [cf2]The judge sentenced him to two '
-             'years jail.'],
+{'comment': '',
+ 'definition': "[ch1a' A [chjudge is a person authorised to hear and decide "
+               'cases in a law court.',
+ 'example': ['The judge sentenced him to two years jail.',
+             "Her bail was set by the judge at $1000.  [chb' '[cf2]noun A "
+             '[chjudge is a person appointed to decide the winner of a '
+             'competition.  [cf2]The judges retired to consider their '
+             "verdict. [j33] The judge's decision is final.  [ch2' "
+             "'[cf2]verb If someone [chjudges a law case or a competition, "
+             'they act as a judge.  [cf2]The Supreme Court judges the most '
+             'serious criminal cases. [j33] It was an honour to be invited '
+             "to judge the entries.  [ch3' '[cf2]verb If you [chjudge "
+             'something, you make an estimate.  [cf2]She looked carefully, '
+             "trying to judge the distance. [j33] It's hard to judge how "
+             "long it'll take to finish. [j33] I judged that he'd be back "
+             "in a couple of hours.  [ch4' [chjudging from or[ch judging "
+             "by'  '[cf2] You can say [chjudging from or [chjudging by when "
+             'you want to give a reason for your opinion about something.  '
+             "[cf2]Judging by the big attendance, he's a popular artist. "
+             '[j33] She must be a wealthy woman, judging from the reports '
+             'in the media.'],
  'headword': 'judge',
- 'note': ' ',
+ 'note': '',
  'pronounce': "dZV dZ'",
  'ps': "noun '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': "'",
- 'example': ["[ch1' A [chjudgment is an official decision made in a court "
-             "of law.  [cf2]The judgment on this case won't be given for "
-             'several weeks.'],
+{'comment': '',
+ 'definition': "[ch1' A [chjudgment is an official decision made in a court "
+               'of law.',
+ 'example': ["The judgment on this case won't be given for several weeks.",
+             'The magistrate is about to pass judgment on the prisoner.  '
+             "[ch2' '[cf2]noun Your [chjudgment is your opinion, usually "
+             'based on experience, about some~ thing, or the conclusion '
+             "that you come to after considering a matter.  [cf2]I'll check "
+             'all the details before I make a judgment about what to do. '
+             '[j33] In our judgment, the business will never be '
+             "profitable.  [ch3' '[cf2]noun [chJudgment is also the ability "
+             'to decide wisely. [cf2]You showed good judgment in waiting as '
+             "prices have now come down. [j33] We'll rely on his judgment "
+             "as he's so experienced. [j33] She made a serious error of "
+             'judgment in appointing him.  [j30] ... ANOTHER SPELLING for '
+             'this is [chjudgement.  [j31]'],
  'headword': 'judgment',
- 'note': ' ',
+ 'note': '',
  'pronounce': "`dZV dZm@nt'",
  'ps': "noun '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ['[chJudicial means rela~ [chting to the judging of law cases.  '
-             "[cf2]Australia's judicial system is based on the British "
-             'model.'],
+{'comment': '',
+ 'definition': '[chJudicial means rela~ [chting to the judging of law cases.',
+ 'example': ["Australia's judicial system is based on the British model.",
+             'There will be a judicial enquiry into the matter. [j33] The '
+             'decision is subject to judicial review.'],
  'headword': 'judicial',
- 'note': ' ',
+ 'note': '',
  'pronounce': "dZu:`dIS@l'",
  'ps': "adjective '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': "'",
- 'example': ["[ch' If someone is [chjudicious, they are wise and show good "
-             'sense. They consider situations carefully before acting. '
-             '[cf2]Sol has always been a judicious adviser to the family.'],
+{'comment': '',
+ 'definition': "[ch' If someone is [chjudicious, they are wise and show good "
+               'sense. They consider situations carefully before acting.',
+ 'example': ['Sol has always been a judicious adviser to the family.',
+             'It may be judicious to seek professional advice.  [j30] ... '
+             "WORD FAMILY '[cf2]adverb judiciously'[cf2] I want to act "
+             "judiciously and not be rushed into a decision.[j35]'[cf2]noun "
+             "judiciousness'[cf2]  [j31]"],
  'headword': 'judicious',
- 'note': ' ',
+ 'note': '',
  'pronounce': "dZu:`dIS@s'",
  'ps': "adjective '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ' ',
+{'comment': '',
+ 'definition': '[chJudo is a Japanese art of self- defence which is '
+               'practised as a sport',
+ 'example': '',
  'headword': 'judo',
- 'note': ' ',
+ 'note': '',
  'pronounce': "`dZu:d@U'",
  'ps': "noun '",
- 'rest': '[chJudo is a Japanese art of self- defence which is practised as a '
-         'sport.',
- 'senses': ' '}
+ 'rest': '',
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ' ',
+{'comment': '',
+ 'definition': 'A [chjug is an open container for liquids.  It has a handle '
+               'and a wide mouth with a lip for pouring.I put the sugar bowl '
+               'and milk jug on the tray.',
+ 'example': '',
  'headword': 'jug',
- 'note': ' ',
+ 'note': '',
  'pronounce': "dZV g'",
  'ps': "noun '",
- 'rest': 'A [chjug is an open container for liquids.  It has a handle and a '
-         'wide mouth with a lip for pouring.  I put the sugar bowl and milk '
-         'jug on the tray.',
- 'senses': ' '}
+ 'rest': '',
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': "'",
- 'example': ["[ch1' When someone [chjuggles, they keep a large number of "
-             'things such as balls and plates moving continously through '
-             'the air by throwing them up and catching them quickly.  '
-             "[cf2]I begged my uncle to teach me to juggle.  [ch2' verb If "
+{'comment': '',
+ 'definition': "[ch1' When someone [chjuggles, they keep a large number of "
+               'things such as balls and plates moving continously through '
+               'the air by throwing them up and catching them quickly.',
+ 'example': ["I begged my uncle to teach me to juggle.  [ch2' '[cf2]verb If "
              'you [chjuggle a lot of different activities, you manage to '
              'keep them all going by spending time on each of them in '
              "turn.  [cf2]I don't know how he manages to juggle his travel "
@@ -1086,355 +1295,476 @@
              "'[cf2]verb If someone [chjuggles things, they adjust them to "
              'be more convenient or to deceive someone.  [cf2]Their '
              "financial position isn't as good as it looks[j4]the figures "
-             'have been juggled.'],
+             'have been juggled.',
+             "I'll have to juggle my timetable so that I can get to the "
+             "dentist tomorrow.  [j30] ... WORD FAMILY '[cf2]noun "
+             "juggler'[cf2]  [j31]"],
  'headword': 'juggle',
- 'note': ' ',
+ 'note': '',
  'pronounce': "`dZV g@l'",
  'ps': "verb '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': "'",
- 'example': ["[ch1' [chJuice is the liquid part that you can squeeze out of "
-             'fruit, vegetables or meat. [cf2]I ordered a glass of fresh '
-             "orange juice.  [ch2' noun In informal language, [chjuice is "
-             "fuel, especially petrol. [cf2]You'd better fill the tank "
-             "up[j4]you don't want to run out of juice."],
+{'comment': '',
+ 'definition': "[ch1' [chJuice is the liquid part that you can squeeze out "
+               'of fruit, vegetables or meat.I ordered a glass of fresh '
+               "orange juice.  [ch2' 'noun In informal language, [chjuice is "
+               "fuel, especially petrol. You'd better fill the tank "
+               "up[j4]you don't want to run out of juice.",
+ 'example': '',
  'headword': 'juice',
- 'note': ' ',
+ 'note': "... WORD FAMILY '[cf2]adjective juicy (juicier, juiciest)'[cf2] "
+         'That was a nice juicy piece of steak.',
  'pronounce': "dZu:s'",
  'ps': "noun '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ' ',
+{'comment': '',
+ 'definition': 'A [chjukebox is a machine in a place such as a cafe or pub '
+               'that can play a lot of different pieces of popular '
+               'musicPeople put coins into the machine and push buttons to '
+               'choose which music it will play.',
+ 'example': '',
  'headword': 'jukebox',
- 'note': ' ',
+ 'note': '',
  'pronounce': "`dZu:kbOks'",
  'ps': "noun '",
- 'rest': 'A [chjukebox is a machine in a place such as a cafe or pub that '
-         'can play a lot of different pieces of popular music.  People put '
-         'coins into the machine and push buttons to choose which music it '
-         'will play.',
- 'senses': ' '}
+ 'rest': '',
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ' ',
+{'comment': '',
+ 'definition': '.  for [chJuly',
+ 'example': '',
  'headword': 'Jul',
- 'note': ' ',
+ 'note': '',
  'pronounce': "dZ@`la:I'",
  'ps': "abbreviation '",
- 'rest': '.  for [chJuly.',
- 'senses': ' '}
+ 'rest': '',
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ' ',
+{'comment': '',
+ 'definition': '[chJuly is the seventh month of the year',
+ 'example': '',
  'headword': 'July',
- 'note': ' ',
+ 'note': '',
  'pronounce': "dZ@`la:I'",
  'ps': "noun '",
- 'rest': '[chJuly is the seventh month of the year.',
- 'senses': ' '}
+ 'rest': '',
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': "'",
- 'example': ['A [chjumble is a situation where a lot of things are mixed up '
-             'together untidily. It is a muddle.  [cf2]There were clothes, '
-             'shoes and books lying everywhere[j4]the room was a jumble.'],
+{'comment': '',
+ 'definition': 'A [chjumble is a situation where a lot of things are mixed '
+               'up together untidily. It is a muddle.',
+ 'example': ['There were clothes, shoes and books lying everywhere[j4]the '
+             'room was a jumble.',
+             "I'm too tired to think clearly[j4]my mind's a jumble.  [j30] "
+             "... WORD FAMILY '[cf2]verb jumble'[cf2] She couldn't find a "
+             'matching pair of socks[j4]they were jumbled in the drawer.  '
+             '[j31]'],
  'headword': 'jumble',
- 'note': ' ',
+ 'note': '',
  'pronounce': "`dZV mb@l'",
  'ps': "noun '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': "'",
- 'example': ["[ch1' A [chjumbo is a large plane used for intercontinental "
-             'flights.  [cf2]Jumbos need long runways to take off and '
-             "land.  [ch2' noun In informal language, a [chjumbo is an "
-             "elephant.  [ch3' '[cf2]adjective In informal language, you "
-             "can call some~ thing [chjumbo if it's larger than usual.  "
-             "[cf2]It's much cheaper to use the jumbo size."],
+{'comment': '',
+ 'definition': "[ch1' A [chjumbo is a large plane used for intercontinental "
+               'flights.',
+ 'example': ["Jumbos need long runways to take off and land.  [ch2' "
+             "'[cf2]noun In informal language, a [chjumbo is an elephant.  "
+             "[ch3' '[cf2]adjective In informal language, you can call "
+             "some~ thing [chjumbo if it's larger than usual.  [cf2]It's "
+             'much cheaper to use the jumbo size.',
+             'We decided to have a jumbo garage sale and get rid of all our '
+             'unwanted stuff.'],
  'headword': 'jumbo',
- 'note': ' ',
+ 'note': '',
  'pronounce': "`dZV mb@U'",
  'ps': "noun '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ' ',
+{'comment': '',
+ 'definition': '[chJumbuck is an old- fashioned informal word for a sheep',
+ 'example': '',
  'headword': 'jumbuck',
- 'note': ' ',
+ 'note': '',
  'pronounce': "`dZV mbV k'",
  'ps': "noun '",
- 'rest': '[chJumbuck is an old- fashioned informal word for a sheep.',
- 'senses': ' '}
+ 'rest': '',
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': "'",
- 'example': ["[ch1a' If you [chjump, you spring or leap.  You move your "
-             'whole body through the air. [cf2]Ben jumped down from the '
-             'garden wall.'],
+{'comment': '',
+ 'definition': "[ch1a' If you [chjump, you spring or leap.  You move your "
+               'whole body through the air.',
+ 'example': ['Ben jumped down from the garden wall.',
+             'The child was jumping up and down on the bed with excitement. '
+             "[j33] I tried to jump over the puddle.  [chb' '[cf2]verb If "
+             'you [chjump somewhere, you move there quickly.  [cf2]Rosa '
+             'jumped to her feet when I came into the room. [j33] Jump in '
+             "and I'll give you a lift into town.  [ch2' '[cf2]verb If you "
+             '[chjump from fright or surprise, you move your body with a '
+             "jerk.  [cf2]Ahmet sneaked up on me and made me jump.  [ch3' "
+             "'[cf2]verb If you [chjump from one thing to another, you move "
+             'abruptly, missing out things in between.  [cf2]The program '
+             'was frustrating[j4] it kept jumping from one topic to '
+             'another. [j33] You can jump the next ten pages and go to the '
+             "end of the chapter.  [ch4' '[cf2]verb If something such as "
+             'the temperature or a cost [chjumps, it increases suddenly by '
+             "a big amount.  [cf2]The company's profits jumped to two "
+             'million dollars this year from one million last year. [j33] '
+             'The number of students enrolled in universities has jumped to '
+             "new levels.  [ch5' [chjump at'  '[cf2] If you [chjump at an "
+             'opportunity, you accept it eagerly.  [cf2]Carina jumped at '
+             "the offer of promotion. [j33] I'd jump at the chance to go to "
+             "London.  [ch6' [chjump on'  '[cf2] In informal language, if "
+             'you say you [chjump on someone, you mean that you speak to '
+             "them sharply because you don't approve of what they're "
+             'doing.  [cf2]She jumped on him for coming inside with muddy '
+             "shoes.  [j30] ... WORD FAMILY '[cf2]noun jump'[cf2] I made a "
+             'jump for the end of the rope. [j33] He gave a jump when his '
+             'name was called.  [j31]'],
  'headword': 'jump',
- 'note': ' ',
+ 'note': '',
  'pronounce': "dZV mp'",
  'ps': "verb '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ['A [chjumper is a knitted garment that covers the top half of '
-             'your body and has sleeves.  It has no fastenings[j4]you pull '
-             'it on and off over your head.  Often you wear it on top of a '
-             'shirt or blouse.'],
+{'comment': '',
+ 'definition': 'A [chjumper is a knitted garment that covers the top half of '
+               'your body and has sleevesIt has no fastenings[j4]you pull it '
+               'on and off over your head.  Often you wear it on top of a '
+               'shirt or blouse.',
+ 'example': '',
  'headword': 'jumper',
- 'note': ' ',
+ 'note': '... OTHER WORDS for this are [chpullover and [chsweater.',
  'pronounce': "`dZV mp@'",
  'ps': "noun '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
 {'comment': 'adjective forms [chjumpier, jumpiest',
- 'definition': "'",
- 'example': ['If you are [chjumpy, you are so nervous or excited that '
-             "you're easily startled by unexpected noises or movements.  "
-             "[cf2]I often feel jumpy when I'm home alone at night."],
+ 'definition': 'If you are [chjumpy, you are so nervous or excited that '
+               "you're easily startled by unexpected noises or movements.",
+ 'example': ["I often feel jumpy when I'm home alone at night.",
+             "I've been jumpy all day waiting to hear the results.  [j30] "
+             "... WORD FAMILY '[cf2]noun jumpiness'[cf2]  [j31]"],
  'headword': 'jumpy',
- 'note': ' ',
+ 'note': '',
  'pronounce': "`dZV mpi:'",
  'ps': "adjective '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ' ',
+{'comment': '',
+ 'definition': '.  for [chJune',
+ 'example': '',
  'headword': 'Jun',
- 'note': ' ',
+ 'note': '',
  'pronounce': "dZu:n'",
  'ps': "abbreviation '",
- 'rest': '.  for [chJune.',
- 'senses': ' '}
+ 'rest': '',
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ['A [chjunction is a place where roads or railway lines come '
-             'together or cross each other.  [cf2]Turn left at the next '
-             'junction.'],
+{'comment': '',
+ 'definition': 'A [chjunction is a place where roads or railway lines come '
+               'together or cross each other.',
+ 'example': ['Turn left at the next junction.',
+             "There's a complicated junction coming up."],
  'headword': 'junction',
- 'note': ' ',
+ 'note': '',
  'pronounce': "`dZV NkS@n'",
  'ps': "noun '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ['A [chjuncture is a particu~ lar point in time in a sequence '
-             'of events.  [cf2]Ping felt it appropriate at this juncture to '
-             'make the announce~ ment.'],
+{'comment': '',
+ 'definition': 'A [chjuncture is a particu~ lar point in time in a sequence '
+               'of events.',
+ 'example': ['Ping felt it appropriate at this juncture to make the '
+             'announce~ ment.',
+             'Now is not the right juncture to tell him.'],
  'headword': 'juncture',
- 'note': ' ',
+ 'note': '',
  'pronounce': "`dZV NktS@'",
  'ps': "noun '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ' ',
+{'comment': '',
+ 'definition': '[chJune is the sixth month of the year',
+ 'example': '',
  'headword': 'June',
- 'note': ' ',
+ 'note': '',
  'pronounce': "dZu:n'",
  'ps': "noun '",
- 'rest': '[chJune is the sixth month of the year.',
- 'senses': ' '}
+ 'rest': '',
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ' ',
+{'comment': '',
+ 'definition': 'A [chjungle is a thick forest in a tropical countryThe trees '
+               'are overgrown with tangled vegetation, and it is hard to '
+               'walk through it.',
+ 'example': '',
  'headword': 'jungle',
- 'note': ' ',
+ 'note': '',
  'pronounce': "`dZV Ng@l'",
  'ps': "noun '",
- 'rest': 'A [chjungle is a thick forest in a tropical country.  The trees '
-         'are overgrown with tangled vegetation, and it is hard to walk '
-         'through it.',
- 'senses': ' '}
+ 'rest': '',
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': "'",
- 'example': ["[ch1' If someone is [chjunior to someone else, they are lower "
-             'in rank or status than them.  [cf2]Mark Horwitz is the junior '
-             'partner in the firm of Green and Horwitz.'],
+{'comment': '',
+ 'definition': "[ch1' If someone is [chjunior to someone else, they are "
+               'lower in rank or status than them.',
+ 'example': ['Mark Horwitz is the junior partner in the firm of Green and '
+             'Horwitz.',
+             'As the most junior member of staff, I was expected to fetch '
+             'the mail. [j33] Marisa was appointed as a junior editor.  '
+             "[ch2a' '[cf2]adjective You can use [chJunior after someone's "
+             'name if they are the younger of two people with the same '
+             'name. Usually they are the son of the other person.  An '
+             'abbreviation of this is [chJr.  [cf2]...William Jenkinson, '
+             "Junior.  [chb' '[cf2]noun In rather formal language, if you "
+             'say someone is your [chjunior, you mean they are younger than '
+             'you.  [cf2]My two brothers are four and six years my juniors. '
+             '[j33] I was pleased to be able to outrun someone so much my '
+             "junior.  [ch3' '[cf2]adjective If something is described as "
+             '[chjunior, it is for children. [cf2]Sam is a member of the '
+             'junior soccer club. [j33] I bought Tara a junior cricket '
+             'bat.  [j30] ... THE OPPOSITE of this is [chsenior.  [j31]'],
  'headword': 'junior',
- 'note': ' ',
+ 'note': '',
  'pronounce': "`dZu:nj@'",
  'ps': "adjective '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': "'",
- 'example': ["[ch1' [chJunk is things that have little use or value.  "
-             '[cf2]The basement was full of junk that had collected over '
-             'the years.'],
+{'comment': '',
+ 'definition': "[ch1' [chJunk is things that have little use or value.",
+ 'example': ['The basement was full of junk that had collected over the '
+             'years.',
+             'Suddenly the printer started pouring out a lot of junk.  '
+             "[ch2' '[cf2]noun A [chjunk is a flat-bottomed Chinese boat.  "
+             "[j30] ... WORD FAMILY '[cf2]verb junk'[cf2] We've no more use "
+             "for this old table[j4] we're going to junk it.  [j31]"],
  'headword': 'junk',
- 'note': ' ',
+ 'note': '',
  'pronounce': "dZV Nk'",
  'ps': "noun '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ['In informal language, you can call a drug addict a [chjunkie.'],
+{'comment': '',
+ 'definition': 'In informal language, you can call a drug addict a [chjunkie',
+ 'example': '',
  'headword': 'junkie',
- 'note': ' ',
+ 'note': '... ANOTHER SPELLING of this word is [chjunky.',
  'pronounce': "`dZV Nki:'",
  'ps': "noun '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ' ',
+{'comment': '',
+ 'definition': 'A [chjunta is a small group of people who rule a country, '
+               'usually after a revo~ lution.Power is in the hands of a '
+               'military junta.',
+ 'example': '',
  'headword': 'junta',
- 'note': ' ',
+ 'note': '',
  'pronounce': "`dZV nt@'",
  'ps': "noun '",
- 'rest': 'A [chjunta is a small group of people who rule a country, usually '
-         'after a revo~ lution.  Power is in the hands of a military junta.',
- 'senses': ' '}
+ 'rest': '',
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ['If something is within the [chjurisdiction of a particular '
-             'authority, they have the right to make decisions about it. '
-             "[cf2]Appointing staff doesn't lie within my jurisdiction."],
+{'comment': '',
+ 'definition': 'If something is within the [chjurisdiction of a particular '
+               'authority, they have the right to make decisions about it.',
+ 'example': ["Appointing staff doesn't lie within my jurisdiction.",
+             'Bankruptcy matters come under the jurisdiction of the Federal '
+             'Court.'],
  'headword': 'jurisdiction',
- 'note': ' ',
+ 'note': '',
  'pronounce': "dZu:r@s`dIkS@n'",
  'ps': "noun '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
 {'comment': 'plural form [chjuries',
- 'definition': "'",
- 'example': ["[ch1' A [chjury is a group of people chosen to listen to the "
-             'evidence given in a criminal case and decide whether the '
-             'accused person is guilty or not.  [cf2]The jury found the '
-             'accused guilty of manslaughter.'],
+ 'definition': "[ch1' A [chjury is a group of people chosen to listen to the "
+               'evidence given in a criminal case and decide whether the '
+               'accused person is guilty or not.',
+ 'example': ['The jury found the accused guilty of manslaughter.',
+             'Trial by jury is meant to prevent unjust treatment of '
+             'individuals by those in authority. [j33] Have you ever served '
+             "on a jury? [ch2 ' '[cf2]noun A [chjury is also a group of "
+             'people who judge a competition.  [cf2]The chair of the jury '
+             "has a casting vote.  [j30] ... WORD FAMILY '[cf2]adjective "
+             "jury'[cf2] I received a summons for jury "
+             "service.[j35]'[cf2]noun juror'[cf2] Jurors are not allowed to "
+             'discuss the case with anyone outside the panel.  [j31]'],
  'headword': 'jury',
- 'note': ' ',
+ 'note': '',
  'pronounce': "`dZu:ri:'",
  'ps': "noun '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': "'",
- 'example': ["[ch1' If someone or something is [chjust, they are fair.  "
-             '[cf2]He was a wise and just ruler.'],
+{'comment': '',
+ 'definition': "[ch1' If someone or something is [chjust, they are fair.",
+ 'example': ['He was a wise and just ruler.',
+             'That was a very just decision. [j33] It hardly seems just '
+             "that he should lose all the money.  [ch2' '[cf2]adverb If "
+             'something has [chjust happened, it happened a very short '
+             "while ago.  [cf2]I've just heard about the accident. [j33] "
+             "Adele's just finished high school. [j33] I can't believe the "
+             "globe's gone again[j4]I've only just changed it. [j33] I'd "
+             "just got in when the phone rang.  [ch3' '[cf2]adverb If you "
+             "[chjust manage to do something, you nearly don't succeed in "
+             'doing it.  [cf2]I can just reach the top shelf. [j33] I only '
+             "just caught the bus[j4]I had to run for it.  [ch4' "
+             "'[cf2]adverb You can use [chjust to indicate that something "
+             "is limited in some way.  [cf2]Don't expect too "
+             "much[j4]they're just youngsters. [j33] This is just the "
+             "beginning[j4]there's more to come. [j33] These are just a few "
+             "of the colours available. [j33] I'll just make a cup of tea.  "
+             "[ch5' '[cf2]adverb [chJust also means 'exactly'.  [cf2]The "
+             "present you gave me is just what I've always wanted. [j33] "
+             'Put it down just here. [j33] He looks just like his father. '
+             '[j33] This one is just as good as the other. [j33] I came '
+             "just at the right time.  [ch6' '[cf2]adverb [chJust is also "
+             'used to emphasise something.  [cf2]These roses are just '
+             "beautiful. [j33] 'Why do you like it?'  'I just do.' [j33] "
+             "Just imagine the chaos that it would cause.  [ch7' [chjust "
+             "about' '[cf2] [chJust about is used to indicate "
+             "approximation.  [cf2]It's just about lunchtime. [j33] I've "
+             "had just about enough of him and his complaints. [j33] 'Can "
+             "you manage?' 'Just about.'  [ch8' [chjust as well'  '[cf2] If "
+             'you say that it is [chjust as well that something is the '
+             'case, you mean that it is fortunate or lucky that it is so.  '
+             "[cf2]It's just as well you know the way or we'd be lost.  "
+             "[ch9' [chjust now'  '[cf2] [ch(a) Just now means 'at this "
+             "time'.  [cf2]Leon's in the shower just now[j4]can he call you "
+             "back later? [ch(b) ' [ch'  '[cf2] [chJust now also means 'a "
+             "short while ago'.  [cf2]Alinta called in just now to drop off "
+             'some books.'],
  'headword': 'just',
- 'note': ' ',
+ 'note': '',
  'pronounce': "dZV st'",
  'ps': "adjective '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': "'",
- 'example': ["[ch1' [chJustice is fairness.  [cf2]There's no justice[j4]I "
-             "do all the work and she gets all the credit.  [ch2' noun The "
-             '[chjustice of an allegation or complaint is whether it is '
-             "true or reasonable. [cf2]There's some justice in what she "
-             'says.'],
+{'comment': '',
+ 'definition': "[ch1' [chJustice is fairness.",
+ 'example': ["There's no justice[j4]I do all the work and she gets all the "
+             "credit.  [ch2' '[cf2]noun The [chjustice of an allegation or "
+             "complaint is whether it is true or reasonable. [cf2]There's "
+             'some justice in what she says.',
+             "He protested, with some justice, about the way he'd been "
+             "treated. [ch3 ' '[cf2]noun [chJustice is also the way "
+             'criminals are tried and punished by the legal system.  '
+             '[cf2]They wanted to see the robbers brought to justice. [j33] '
+             "There has been a serious miscarriage of justice.  [ch4' [chdo "
+             "justice (a)'  '[cf2] If you [chdo someone [chjustice, you "
+             "treat them fairly. [cf2]The applicants can't deny that we've "
+             "done them justice. [ch(b)'  '[cf2] If something [chdoes you "
+             '[chjustice, it shows you to be as good as you really are.  '
+             "[cf2]The photo doesn't really do her justice[j4]she's much "
+             'prettier than that. [j33] Andrea was so nervous that she '
+             "didn't really do herself justice in the exam."],
  'headword': 'justice',
- 'note': ' ',
+ 'note': '',
  'pronounce': "`dZV st@s'",
  'ps': "noun '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
 {'comment': 'plural form [chjustices of the peace',
- 'definition': ' ',
- 'example': ' ',
+ 'definition': 'A [chjustice of the peace is a citizen who is authorised to '
+               'administer oaths and take statutory declarations and '
+               'affirmations',
+ 'example': '',
  'headword': 'justice of the peace',
- 'note': ' ',
+ 'note': '',
  'pronounce': "`dZV st@s @v D@ pi:s'",
  'ps': "noun '",
- 'rest': 'A [chjustice of the peace is a citizen who is authorised to '
-         'administer oaths and take statutory declarations and affirmations.',
- 'senses': ' '}
+ 'rest': '',
+ 'senses': ''}
 
 {'comment': 'verb forms [chjustifies, justified, justifying',
- 'definition': "'",
- 'example': ["[ch1' If something [chjustifies some~ thing, it is a reason "
-             'why it is right or necessary. [cf2]The urgency of the matter '
-             'justified the overtime payments.'],
+ 'definition': "[ch1' If something [chjustifies some~ thing, it is a reason "
+               'why it is right or necessary.',
+ 'example': ['The urgency of the matter justified the overtime payments.',
+             'In the circumstances her actions were justified. [j33] You '
+             "would be justified in claiming compensation.  [ch2' "
+             "'[cf2]verb If you [chjustify something, you try to show that "
+             'it is right or necessary.  [cf2]I enclosed the receipts to '
+             'justify my claim. [j33] How can they possibly justify using '
+             'so much water during a drought?  [j30] ... WORD FAMILY '
+             "'[cf2]adjective justifiable'[cf2] The expendi~ ture was "
+             "justifiable in view of the urgency.[j35]'[cf2]noun "
+             "justifiably'[cf2] He was justifiably indignant about the way "
+             "he'd been treated.[j35]'[cf2]noun justification'[cf2] There "
+             'can be no justification for his behaviour.  [j31]'],
  'headword': 'justify',
- 'note': ' ',
+ 'note': '',
  'pronounce': "`dZV st@fa:I'",
  'ps': "verb '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
 {'comment': 'verb forms [chjuts, jutted, jutting',
- 'definition': ' ',
- 'example': ['If something [chjuts, it sticks out beyond something. '
-             '[cf2]The headland jutted into the sea.'],
+ 'definition': 'If something [chjuts, it sticks out beyond something.',
+ 'example': ['The headland jutted into the sea.',
+             "Don't trip on that rock that's jutting out of the ground."],
  'headword': 'jut',
- 'note': ' ',
+ 'note': '',
  'pronounce': "dZV t'",
  'ps': "verb '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': ' ',
- 'example': ' ',
+{'comment': '',
+ 'definition': '[chJute is a fibre that comes from a plant and is used to '
+               'make rope and coarse cloth',
+ 'example': '',
  'headword': 'jute',
- 'note': ' ',
+ 'note': '',
  'pronounce': "dZu:t'",
  'ps': "noun '",
- 'rest': '[chJute is a fibre that comes from a plant and is used to make '
-         'rope and coarse cloth.',
- 'senses': ' '}
+ 'rest': '',
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': "'",
- 'example': ["[ch1' If something is described as [chjuvenile, it is for "
-             "children or young adults.   [cf2]He's only 16 and will be "
-             "tried in the juvenile court.  [ch2' adjective If you say "
-             'someone is [chjuvenile, you mean that they behave in a '
-             'childish way.  [cf2]His juvenile pranks really get on my '
-             'nerves.'],
+{'comment': '',
+ 'definition': "[ch1' If something is described as [chjuvenile, it is for "
+               'children or young adults.',
+ 'example': ["He's only 16 and will be tried in the juvenile court.  [ch2' "
+             "'[cf2]adjective If you say someone is [chjuvenile, you mean "
+             'that they behave in a childish way.  [cf2]His juvenile pranks '
+             'really get on my nerves.',
+             "Don't be so juvenile[j4]this is a serious matter."],
  'headword': 'juvenile',
- 'note': ' ',
+ 'note': '',
  'pronounce': "`dZu:v@na:Il'",
  'ps': "adjective '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 
-{'comment': ' ',
- 'definition': "'",
- 'example': ['In formal language, if you say two things are [chjuxtaposed, '
-             'you mean that they are placed close together.  [cf2]The '
-             'paintings were cleverly juxtaposed to show the contrast.'],
+{'comment': '',
+ 'definition': 'In formal language, if you say two things are [chjuxtaposed, '
+               'you mean that they are placed close together.',
+ 'example': ['The paintings were cleverly juxtaposed to show the contrast.',
+             'In the city centre, affluence is strikingly juxtaposed with '
+             "poverty.  [j30] ... WORD FAMILY '[cf2]noun "
+             "juxtaposition'[cf2]  [j31] [fa[xp"],
  'headword': 'juxtapose',
- 'note': ' ',
+ 'note': '',
  'pronounce': "dZV kst@`p@Uz, `dZV kst@p@Uz'",
  'ps': "verb '",
  'rest': '',
- 'senses': ' '}
+ 'senses': ''}
 

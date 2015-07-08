@@ -58,9 +58,9 @@ mapping=collections.OrderedDict([
 #maybe more rubbish
 
 ## process input
-line_info_default={'headword' : " ",'pronounce':" ",'ps':" ",'rest':" ", 'note':" ", 'comment':" ",  'senses':" ", 'definition':" ", 'example':" "}
+line_info_default={'headword' : "",'pronounce':"",'ps':"",'rest':"", 'note':"", 'comment':"",  'senses':"", 'definition':"", 'example':""}
 
-sense_default={'id':1,'ps':" ",'rest':" ", 'note':" ", 'comment':" ",'definition':" ", 'example':" "}
+sense_default={'id':1,'ps':"",'rest':"", 'note':"", 'comment':"",'definition':"", 'example':""}
 #patterns
 
 #headword at start of line for after [j31]\n[j111]
@@ -78,11 +78,13 @@ sense=re.compile(r'(|[\[\]\+\S\s ]*)\\optima,0\\\[cf3\]\[hmp3\](\d)')
 
 #get one whole sense
 sense_line=re.compile(r'(|[\[\]\+\S\s ]*)\\optima,0\\\[cf3\]\[hmp3\](\d)(\\optima,0\\|)([\S\s]+?)\[cf3\]\[hmp3\]')
-definition=re.compile(r'([\S\S]+?)\[cf2\]')
-example=re.compile(r'\[cf2\]([\S\s]+?)(\[j\d\d\][\s\S]*)')
+#have to check separately for [cf2] first
+definition1=re.compile(r'([\S\s]+?)\[cf2\]')
+definition2=re.compile(r'([\S\s]+?)(\[cf2\]|\.)')
+example=re.compile(r'\[cf2\]([\S\s]+?)\[j33\]([\s\S]*)')
 note=re.compile(r'\[j30\]([\S\s]+?)\[j31\]')
 
-def readfile(filename="a.txt", dir="output"):
+def readfile(filename="z.txt", dir="output"):
     #collecct json lines to write to rdf graph
     lines_out=[]
 
@@ -126,7 +128,7 @@ def readfile(filename="a.txt", dir="output"):
 
     for line in lines:
         #start new line
-        line_info={'headword' : " ",'pronounce':" ",'ps':" ",'rest':" ", 'note':" ", 'comment':" ", 'senses':" ",'definition':" ", 'example':" "}
+        line_info={'headword' : "",'pronounce':"",'ps':"",'rest':"", 'note':"", 'comment':"", 'senses':"",'definition':"", 'example':""}
         #collect all items under headword
         newline=line.split('|')
 
@@ -152,7 +154,7 @@ def readfile(filename="a.txt", dir="output"):
 
             while sense_line.match(linetxt):
 
-                sense_line_info={'id':1,'ps':" ",'rest':" ", 'note':" ",'comment':" ", 'definition':" ", 'example':" "}
+                sense_line_info={'id':1,'ps':"",'rest':"", 'note':"",'comment':"", 'definition':"", 'example':""}
                 #just get id in sense_line
 
                 get_part(linetxt,'id',sense_line,sense_line_info,2,1)
@@ -165,7 +167,11 @@ def readfile(filename="a.txt", dir="output"):
 
                 sensetxt=get_part(sensetxt,'ps',ps,sense_line_info,2,8)
                 #put back the start of example
-                sensetxt='[cf2] '+get_part(sensetxt,'definition',definition,sense_line_info,1,8)
+                sensetxt1='[cf2] '+get_part(sensetxt,'definition',definition1,sense_line_info,1,8)
+                if sense_line_info['definition']=='':
+                        sensetxt='[cf2] '+get_part(sensetxt,'definition',definition2,sense_line_info,1,8)
+                else: sensetxt=sensetxt1
+
                 oldtxt=""
                 if example.match(sensetxt):
                     sense_line_info['example']=[]
@@ -175,17 +181,23 @@ def readfile(filename="a.txt", dir="output"):
 
                 sensetxt=get_part(sensetxt,'note',note,sense_line_info,1,8)
 
-                sense_line_info['rest']=clean_char(sensetxt,26).strip(' ')
+                sense_line_info['definition']+=clean_char(sensetxt,26).strip(' ')
+                sense_line_info['rest']=''
                 senses.append(sense_line_info)
             #get last sense
-            sense_line_info={'id':1,'ps':" ",'rest':" ", 'note':" ",'comment':" ",'definition':" ",'example':" "}
+            sense_line_info={'id':1,'ps':"",'rest':"", 'note':"",'comment':"",'definition':"",'example':""}
 
             #retrieve next sense from selected part of linetxt (no end of sense_line so use sense)
             #collect id and return remainder of match
             sensetxt=get_part(linetxt,'id',sense,sense_line_info,2,1)
 
             sensetxt=get_part(sensetxt,'ps',ps,sense_line_info,2,8)
-            sensetxt="[cf2] "+get_part(sensetxt,'definition',definition,sense_line_info,1,8)
+            sensetxt1="[cf2] "+get_part(sensetxt,'definition',definition1,sense_line_info,1,8)
+            if sense_line_info['definition']=='':
+                    sensetxt='[cf2] '+get_part(sensetxt,'definition',definition2,sense_line_info,1,8)
+            else: sensetxt=sensetxt1
+
+
             oldtxt=""
             if example.match(sensetxt):
                 sense_line_info['example']=[]
@@ -194,8 +206,8 @@ def readfile(filename="a.txt", dir="output"):
                         sensetxt=get_part(sensetxt,'example',example,sense_line_info,1,8,True)
             sensetxt=get_part(sensetxt,'note',note,sense_line_info,1,8)
 
-            sense_line_info['rest']=clean_char(sensetxt,26).strip(' ')
-
+            sense_line_info['definition']+=clean_char(sensetxt,26).strip(' ')
+            sense_line_info['rest']=''
             senses.append(sense_line_info)
 
             line_info['senses']=senses
@@ -205,7 +217,10 @@ def readfile(filename="a.txt", dir="output"):
 
             linetxt=get_part(linetxt,'ps',ps,line_info,2,8)
 
-            linetxt="[cf2] "+get_part(linetxt,'definition',definition,line_info,1,8)
+            linetxt1="[cf2] "+get_part(linetxt,'definition',definition1,line_info,1,8)
+            if line_info['definition']=='':
+                    linetxt='[cf2] '+get_part(linetxt,'definition',definition2,line_info,1,8)
+            else: linetxt=linetxt1
             oldtxt=""
             if example.match(linetxt):
                 line_info['example']=[]
@@ -213,11 +228,12 @@ def readfile(filename="a.txt", dir="output"):
                     oldtxt=linetxt
                     linetxt=get_part(linetxt,'example',example,line_info,1,8,True)
             linetxt=get_part(linetxt,'note',note,line_info,1,8)
-            line_info['rest']=clean_char(linetxt,26).strip(' ')
+            line_info['definition']+=clean_char(linetxt,26).strip(' ')
+            line_info['rest']=''
         if line_info:
             #pprint.pprint(line_info)
             pprint.pprint(line_info, stream=out)
-
+            #print(line_info['rest'])
         out.write(os.linesep)
         lines_out.append(line_info)
     out.close()
@@ -232,14 +248,25 @@ def get_part(text, word_part, pattern, line_txt,sub_str=1, exitnum=0, many=False
     if matches:
 
         result=matches.group(sub_str)
+
         result=clean_char(result,exitnum).strip(' ')
+
                 #get rest of line
         if many:
-                line_txt[word_part].append(result)
+             #example has second part in next match group
+             i=sub_str
+             while i>0:
+
+                try:
+                    line_txt[word_part].append(clean_char(matches.group(i),exitnum).strip(' '))
+                    i+=1
+                except:
+                    i=0
+
         else:
             line_txt[word_part]=result
         text=pattern.sub(r'',text,1).strip(' ')
-
+    #if (word_part==""):
     #print (word_part +' - '+str(line_txt[word_part]))
 
     return text
@@ -256,100 +283,6 @@ def clean_char(text, num=0):
     return text
 
 
-#OUtput to RDF
-
-def genID(prefix, name):
-    """Return a URI for this name"""
-
-    m = hashlib.md5()
-
-    m.update(name.encode('utf-8'))
-
-    h = m.hexdigest()
-
-    return prefix[h]
-
-def normalise_name(name):
-    """Return a normalised version of this name"""
-
-    return string.capwords(name)
-
-
-
-# output uri
-WORK = rdflib.Namespace('http://lemon-model.net/lexica/uby/ow_eng/')
-SOURCE = rdflib.Namespace('http://www.omegawiki.org/')
-NAME = rdflib.Namespace('http://lemon-model.net/lemon#')
-UBY = rdflib.Namespace('http://purl.org/olia/ubyCat.owl#')
-LEMON = rdflib.Namespace(u"http://lemon-model.net/lemon#")
-SENSE=rdflib.Namespace(u"http://lemon-model.net/lemon#sense")
-ONTOLEX=rdflib.Namespace('http://www.w3.org/community/ontolex/')
-SO = rdflib.Namespace('http://schema.org/')
-#??
-FOAF = rdflib.Namespace('http://xmlns.com/foaf/0.1/')
-RDF = rdflib.Namespace(u"http://www.w3.org/1999/02/22-rdf-syntax-ns#")
-RDFS = rdflib.Namespace(u"http://www.w3.org/2000/01/rdf-schema#")
-DC = rdflib.Namespace(u"http://purl.org/dc/terms/")
-
-
-def genrdf(record, graph, integer_id):
-    """Generate RDF for a single record"""
-
-
-    work= WORK['OW_eng_LexicalEntry_'+str(integer_id)]
-    #this is wrong...
-    name_word=record['headword'].split(',')
-
-    name = genID(NAME, name_word[0])
-    graph.add((work,RDF.type, LEMON.canonicalForm))
-
-    graph.add((work, RDF.type, LEMON.Form))
-
-    graph.add((work,LEMON.writtenRep,rdflib.Literal(record['headword'])))
-    graph.add((work, LEMON.writtenRep, rdflib.Literal(record['pronounce']+'@enAU')))
-    graph.add((work, LEMON.writtenRep, rdflib.Literal(record['comment'])))
-    if len (record['senses'])>1:
-        for sense in record['senses']:
-
-            ##senseid = genID(SENSE,'OW_eng_SENSE_'+str(sense['id']))
-
-            graph.add((work, UBY.partofSpeech, rdflib.Literal(sense['ps'])))
-            graph.add((work, UBY.definition, rdflib.Literal(sense['definition'])))
-            for example in sense['example']:
-                graph.add((work, UBY.usageExample, rdflib.Literal(example)))
-            graph.add((work, UBY.note, rdflib.Literal(sense['note'])))
-            graph.add((work, UBY.rest, rdflib.Literal(sense['rest'])))
-
-           # graph.add((work, UBY.lexicalSense, senseid))
-    else:
-        graph.add((work, UBY.partofSpeech, rdflib.Literal(record['ps'])))
-        graph.add((work, UBY.definition, rdflib.Literal(record['definition'])))
-        for example in record['example']:
-                graph.add((work, UBY.usageExample, rdflib.Literal(example)))
-        graph.add((work, UBY.note, rdflib.Literal(record['note'])))
-        graph.add((work, UBY.rest, rdflib.Literal(record['rest'])))
-
-# record the mention
-    graph.add((work, SO.mentions, name))
-
-
-
-def gen_output(graph, datafile, outdir=""):
-
-    turtle = graph.serialize(format='turtle')
-    #print(turtle)
-
-    basename, ext = os.path.splitext(os.path.splitext(datafile)[0])
-
-    if outdir:
-        #print (os.path.join(outdir, basename + ".ttl"))
-        with open(os.path.join(outdir, basename + ".ttl"), 'w') as out:
-            out.write(turtle)
-    else:
-        with open(basename + ".ttl", 'w') as out:
-            out.write(turtle)
-
-    out.close()
 
 if __name__=="__main__":
 
@@ -367,26 +300,17 @@ if __name__=="__main__":
         for datafile in args.files:
 
 
-            graph = rdflib.Graph()
+
             with gzip.open(datafile) as fd:
                 text= readfile(fd,args.outdir)
-                for d in text:
-                    genrdf(d, graph, integer_id)
-                    integer_id+=1
-                gen_output(graph, datafile, args.outdir)
+
 
     else:
         if not os.path.exists("output"):
             os.makedirs("output")
         text=readfile()
 
-        graph = rdflib.Graph()
-        datafile="output/a.txtout.txt"
-        with open(datafile) as fd:
-            for d in text:
-                genrdf(d, graph, integer_id)
-                integer_id+-1
-            gen_output(graph, datafile)
+
     #output to RDF
 
 
