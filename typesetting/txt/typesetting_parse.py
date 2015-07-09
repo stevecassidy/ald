@@ -25,9 +25,13 @@ mapping=collections.OrderedDict([
     ('[hmp3]',''),
     ('\\',"'"),
     ('/',''),
-    ('[cp8.5]',''),
+    ('[j33]',''),
+        ('[j30]',''),
+        ('[j31]',''),
     ('[cf2]',''),
     ('[cf1]',  '.'),
+    ('[cp8.5]',''),
+
     ('[cf3]',  'r'),
     ('[j19]',	'T'),
     ('[j21]',	'D'),
@@ -53,18 +57,16 @@ mapping=collections.OrderedDict([
     ('a',	'a:'),
     ('...',	'V'),
     ('u'	,'u:'),
+    ('[@l1]',''),
     ('~[fa[xp\'}]}','')
 ])
 #maybe more rubbish
+min_check=8
 
-## process input
-line_info_default={'headword' : "",'pronounce':"",'ps':"",'rest':"", 'note':"", 'comment':"",  'senses':"", 'definition':"", 'example':""}
-
-sense_default={'id':1,'ps':"",'rest':"", 'note':"", 'comment':"",'definition':"", 'example':""}
 #patterns
 
 #headword at start of line for after [j31]\n[j111]
-headword=re.compile(r'(\[j111\]|--\[\w+\]|--)([\w, ]*)(\.*)')
+headword=re.compile(r'((\[ir\(s76\),\(s75+6\)\]|\[j111\]|--\[\w+\]|\[iw1\]--|--)([\w, ]*)(\.*))')
 #pronouciation ending in comment '(' or ps '[cf2]'
 pronounce=re.compile(r'\/\\*times,0\\([\d\w.\/\\,\s\[\]]+?)(\[cp8.7\][\/]?)')
 #comments
@@ -81,16 +83,16 @@ sense_line=re.compile(r'(|[\[\]\+\S\s ]*)\\optima,0\\\[cf3\]\[hmp3\](\d)(\\optim
 #have to check separately for [cf2] first
 definition1=re.compile(r'([\S\s]+?)\[cf2\]')
 definition2=re.compile(r'([\S\s]+?)(\[cf2\]|\.)')
-example=re.compile(r'\[cf2\]([\S\s]+?)\[j33\]([\s\S]*)')
-note=re.compile(r'\[j30\]([\S\s]+?)\[j31\]')
+example=re.compile(r'(\[cf2\])')
+example_line1=re.compile(r'\[cf2\] ([\S\s]*)\.')
+example_line2=re.compile(r'\[j33\] ([\S\s]*)\.')
+note=re.compile(r'((\[j30\]|\[j34\]|\[j32\]) \.\.\.([\S\s]*)(\[j31\]|\[j30\]|\.))')
 
-def readfile(filename="z.txt", dir="output"):
+def readfile(filename="a.txt", dir="output"):
     #collecct json lines to write to rdf graph
     lines_out=[]
 
-        ## overwrite exiting file
-    location=os.path.join(dir,filename)
-    out = open(location+"out.txt", 'w+',encoding='utf-8')
+
     f = open(filename, encoding='utf-8')
 
     lines=[]
@@ -109,8 +111,9 @@ def readfile(filename="z.txt", dir="output"):
         if matches:
 
             #if header word collect first reference to pattern
-            line_data=headword.sub(r'\2',matches.group(0),1).strip()
-            linetxt=headword.sub(r'\3',matches.group(0),1)
+            line_data=headword.sub(r'\3',matches.group(0),1).strip()
+
+            linetxt=headword.sub(r'\4',matches.group(0),1)
             #save previous line  if have a headword in that line
             if start_rec: lines.append(line_collect)
 
@@ -120,15 +123,19 @@ def readfile(filename="z.txt", dir="output"):
 
         else:
 
-            # don't collect rubbish at start
+            # don't collect rubbish at start but combine lines
             if line_collect: line_collect+=' '+linetxt
             #headword across two lines
 
     lines.append(line_collect.strip(" "))
 
     for line in lines:
+        ## process input
+        line_info_default={'headword' : "",'pronounce':"",'ps':"",'rest':"", 'note':[], 'comment':"",  'senses':"", 'definition':"", 'example':[]}
+
+        sense_default={'id':1,'ps':"",'rest':"", 'note':[], 'comment':"",'definition':"", 'example':[]}
         #start new line
-        line_info={'headword' : "",'pronounce':"",'ps':"",'rest':"", 'note':"", 'comment':"", 'senses':"",'definition':"", 'example':""}
+        line_info=line_info_default
         #collect all items under headword
         newline=line.split('|')
 
@@ -154,7 +161,7 @@ def readfile(filename="z.txt", dir="output"):
 
             while sense_line.match(linetxt):
 
-                sense_line_info={'id':1,'ps':"",'rest':"", 'note':"",'comment':"", 'definition':"", 'example':""}
+                sense_line_info=sense_default
                 #just get id in sense_line
 
                 get_part(linetxt,'id',sense_line,sense_line_info,2,1)
@@ -164,9 +171,11 @@ def readfile(filename="z.txt", dir="output"):
 
                 sensetxt=sense_line_info['rest']
 
-
+                sense_line_info['rest']=""
                 sensetxt=get_part(sensetxt,'ps',ps,sense_line_info,2,8)
-                #put back the start of example
+                #remove notes
+                sensetxt=get_part(sensetxt,'note',note,sense_line_info,2,min_check+4,True)
+                #put back the start of definition
                 sensetxt1='[cf2] '+get_part(sensetxt,'definition',definition1,sense_line_info,1,8)
                 if sense_line_info['definition']=='':
                         sensetxt='[cf2] '+get_part(sensetxt,'definition',definition2,sense_line_info,1,8)
@@ -174,24 +183,28 @@ def readfile(filename="z.txt", dir="output"):
 
                 oldtxt=""
                 if example.match(sensetxt):
-                    sense_line_info['example']=[]
+                    #first pass
+                    example_line=example_line1
                     while sensetxt!=oldtxt:
                         oldtxt=sensetxt
-                        sensetxt=get_part(sensetxt,'example',example,sense_line_info,1,8,True)
+                        sensetxt=get_part(sensetxt,'example',example_line,sense_line_info,1,min_check,True)
+                        #second pass
+                        example_line=example_line2
 
-                sensetxt=get_part(sensetxt,'note',note,sense_line_info,1,8)
 
-                sense_line_info['definition']+=clean_char(sensetxt,26).strip(' ')
-                sense_line_info['rest']=''
+                sense_line_info['rest']=clean_char(sensetxt).strip(' ')
+                #sense_line_info['rest']=''
                 senses.append(sense_line_info)
             #get last sense
-            sense_line_info={'id':1,'ps':"",'rest':"", 'note':"",'comment':"",'definition':"",'example':""}
+            sense_line_info=sense_default
 
             #retrieve next sense from selected part of linetxt (no end of sense_line so use sense)
             #collect id and return remainder of match
             sensetxt=get_part(linetxt,'id',sense,sense_line_info,2,1)
 
             sensetxt=get_part(sensetxt,'ps',ps,sense_line_info,2,8)
+            sensetxt=get_part(sensetxt,'note',note,sense_line_info,2,min_check+4,True)
+
             sensetxt1="[cf2] "+get_part(sensetxt,'definition',definition1,sense_line_info,1,8)
             if sense_line_info['definition']=='':
                     sensetxt='[cf2] '+get_part(sensetxt,'definition',definition2,sense_line_info,1,8)
@@ -200,14 +213,16 @@ def readfile(filename="z.txt", dir="output"):
 
             oldtxt=""
             if example.match(sensetxt):
-                sense_line_info['example']=[]
+                #first pass
+                example_line=example_line1
                 while sensetxt!=oldtxt:
                         oldtxt=sensetxt
-                        sensetxt=get_part(sensetxt,'example',example,sense_line_info,1,8,True)
-            sensetxt=get_part(sensetxt,'note',note,sense_line_info,1,8)
+                        sensetxt=get_part(sensetxt,'example',example_line,sense_line_info,1,min_check,True)
+                        #second pass
+                        example_line=example_line2
 
-            sense_line_info['definition']+=clean_char(sensetxt,26).strip(' ')
-            sense_line_info['rest']=''
+            sense_line_info['rest']=clean_char(sensetxt).strip(' ')
+
             senses.append(sense_line_info)
 
             line_info['senses']=senses
@@ -217,33 +232,40 @@ def readfile(filename="z.txt", dir="output"):
 
             linetxt=get_part(linetxt,'ps',ps,line_info,2,8)
 
+            #remove NOTE
+            linetxt=get_part(linetxt,'note',note,line_info,2,min_check+4,True)
+
             linetxt1="[cf2] "+get_part(linetxt,'definition',definition1,line_info,1,8)
             if line_info['definition']=='':
+
                     linetxt='[cf2] '+get_part(linetxt,'definition',definition2,line_info,1,8)
             else: linetxt=linetxt1
+
             oldtxt=""
             if example.match(linetxt):
-                line_info['example']=[]
+                #first pass
+                example_line=example_line1
                 while linetxt!=oldtxt:
                     oldtxt=linetxt
-                    linetxt=get_part(linetxt,'example',example,line_info,1,8,True)
-            linetxt=get_part(linetxt,'note',note,line_info,1,8)
-            line_info['definition']+=clean_char(linetxt,26).strip(' ')
-            line_info['rest']=''
+                    linetxt=get_part(linetxt,'example',example_line,line_info,1,min_check,True)
+                    #second pass
+                    example_line=example_line2
+
+
+            line_info['rest']=clean_char(linetxt).strip(' ')
+
         if line_info:
-            #pprint.pprint(line_info)
-            pprint.pprint(line_info, stream=out)
-            #print(line_info['rest'])
-        out.write(os.linesep)
-        lines_out.append(line_info)
-    out.close()
+
+
+            lines_out.append(line_info)
+
     return lines_out
 
 def get_part(text, word_part, pattern, line_txt,sub_str=1, exitnum=0, many=False):
 
     matches=pattern.search(text)
 
-
+    retext=text
             #now match for word_part using pattern and collect only sub_string of match eg 1=\1
     if matches:
 
@@ -254,17 +276,12 @@ def get_part(text, word_part, pattern, line_txt,sub_str=1, exitnum=0, many=False
                 #get rest of line
         if many:
              #example has second part in next match group
-             i=sub_str
-             while i>0:
 
-                try:
-                    line_txt[word_part].append(clean_char(matches.group(i),exitnum).strip(' '))
-                    i+=1
-                except:
-                    i=0
+            line_txt[word_part].append(clean_char(matches.group(1),exitnum).strip(' '))
+
 
         else:
-            line_txt[word_part]=result
+            line_txt[word_part]=clean_char(result,exitnum).strip(' ')
         text=pattern.sub(r'',text,1).strip(' ')
     #if (word_part==""):
     #print (word_part +' - '+str(line_txt[word_part]))
@@ -306,9 +323,19 @@ if __name__=="__main__":
 
 
     else:
-        if not os.path.exists("output"):
-            os.makedirs("output")
-        text=readfile()
+        dir='output'
+        filename='z.txt'
+        if not os.path.exists(dir):
+            os.makedirs(dir)
+
+        text=readfile(filename, dir)
+            ## overwrite exiting file
+        location=os.path.join(dir,filename)
+        out = open(location+"out.txt", 'w+',encoding='utf-8')
+        for line in text:
+              json.dump(line, out, indent=4)
+              out.write(os.linesep)
+        out.close()
 
 
     #output to RDF

@@ -1,79 +1,96 @@
-{'comment': "plural forms Xs, X's, x's",
- 'definition': 'X is the 24th letter of the English alphabet',
- 'example': '',
- 'headword': 'X, x',
- 'note': '',
- 'pronounce': "Eks'",
- 'ps': "noun '",
- 'rest': '',
- 'senses': ''}
-
-{'comment': '',
- 'definition': '',
- 'example': '',
- 'headword': 'x',
- 'note': '',
- 'pronounce': "Eks'",
- 'ps': '',
- 'rest': '',
- 'senses': [{'comment': '',
-             'definition': "' You use x to represent the name of a person "
-                           "or place when you can't or don't want to use "
-                           'their real name.The head of the drug ring in '
-                           "Australia is Mr X[j4]he's known to police as a "
-                           "prominent Sydney businessman.  '",
-             'example': '',
-             'id': '1',
-             'note': '',
-             'ps': "noun '",
-             'rest': ''},
-            {'comment': '',
-             'definition': "' In algebra, x is used as a symbol to "
-                           'represent an unknown value.2x + 2y ;eq 6',
-             'example': '',
-             'id': '2',
-             'note': '',
-             'ps': "noun '",
-             'rest': ''}]}
-
-{'comment': '',
- 'definition': 'for Christ~ mas in informal written English',
- 'example': '',
- 'headword': 'Xmas',
- 'note': '',
- 'pronounce': "`krIsm@s, `Eksm@s'",
- 'ps': "abbreviation '",
- 'rest': '',
- 'senses': ''}
-
-{'comment': '',
- 'definition': '',
- 'example': '',
- 'headword': 'x',
- 'note': '',
- 'pronounce': '',
- 'ps': '',
- 'rest': '',
- 'senses': [{'comment': '',
-             'definition': "' X-rays are a type of radiation that can pass "
-                           'through solid objectsThey are used to take '
-                           'photographs of the inside of things, such as '
-                           "the human body and luggage at airports.  '",
-             'example': '',
-             'id': '1',
-             'note': '',
-             'ps': "noun '",
-             'rest': ''},
-            {'comment': '',
-             'definition': "' An x-ray is a photograph of the inside of "
-                           'part of the human body taken by x-rays. '
-                           'Doctors use these to help them diagnose a '
-                           "patient's condition or disease.They took an "
-                           "x-ray just to be sure my arm wasn't broken.   "
-                           '[fa[xp',
-             'example': '',
-             'id': '2',
-             'note': "... WORD FAMILY '[cf2]verb x-ray'[cf2]",
-             'ps': "noun '",
-             'rest': ''}]}
-
+{
+    "rest": "",
+    "note": [],
+    "senses": "",
+    "definition": "X is the 24th letter of the English alphabet",
+    "headword": "X, x",
+    "comment": "plural forms Xs, X's, x's",
+    "ps": "noun '",
+    "pronounce": "Eks'",
+    "example": []
+}
+{
+    "rest": "",
+    "note": [],
+    "senses": [
+        {
+            "comment": "",
+            "id": "2",
+            "note": [],
+            "definition": "' In algebra, x is used as a symbol to represent an unknown value.",
+            "rest": "2x + 2y ;Eq 6",
+            "ps": "noun '",
+            "example": [
+                "The head of the drug ring in Australia is Mr X[j4]he's known to police as a prominent Sydney businessman"
+            ]
+        },
+        {
+            "comment": "",
+            "id": "2",
+            "note": [],
+            "definition": "' In algebra, x is used as a symbol to represent an unknown value.",
+            "rest": "2x + 2y ;Eq 6",
+            "ps": "noun '",
+            "example": [
+                "The head of the drug ring in Australia is Mr X[j4]he's known to police as a prominent Sydney businessman"
+            ]
+        }
+    ],
+    "definition": "",
+    "headword": "x",
+    "comment": "",
+    "ps": "",
+    "pronounce": "Eks'",
+    "example": []
+}
+{
+    "rest": "",
+    "note": [],
+    "senses": "",
+    "definition": "for Christ~ mas in informal written English",
+    "headword": "Xmas",
+    "comment": "",
+    "ps": "abbreviation '",
+    "pronounce": "`krIsm@s, `Eksm@s'",
+    "example": []
+}
+{
+    "rest": "",
+    "note": [],
+    "senses": [
+        {
+            "comment": "",
+            "id": "2",
+            "note": [
+                "... WORD FAMILY 'verb x-ray'"
+            ],
+            "definition": "' An x-ray is a photograph of the inside of part of the human body taken by x-rays. Doctors use these to help them diagnose a patient's condition or disease.",
+            "rest": "[fa:[xp",
+            "ps": "noun '",
+            "example": [
+                "They are used to take photographs of the inside of things, such as the human body and luggage at airports",
+                "They took an x-ray just to be sure my arm wasn't broken"
+            ]
+        },
+        {
+            "comment": "",
+            "id": "2",
+            "note": [
+                "... WORD FAMILY 'verb x-ray'"
+            ],
+            "definition": "' An x-ray is a photograph of the inside of part of the human body taken by x-rays. Doctors use these to help them diagnose a patient's condition or disease.",
+            "rest": "[fa:[xp",
+            "ps": "noun '",
+            "example": [
+                "They are used to take photographs of the inside of things, such as the human body and luggage at airports",
+                "They took an x-ray just to be sure my arm wasn't broken"
+            ]
+        }
+    ],
+    "definition": "",
+    "headword": "x",
+    "comment": "",
+    "ps": "",
+    "pronounce": "",
+    "example": []
+}
