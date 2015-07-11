@@ -7,6 +7,7 @@ import hashlib
 import string
 import argparse
 import sys, os
+import typesetting_parse
 
 from rdflib.namespace import XSD
 
@@ -49,6 +50,7 @@ def genID(prefix, name):
     """Return a URI for this name"""
 
     m = hashlib.md5()
+
     m.update(name)
     h = m.hexdigest()
 
@@ -61,16 +63,15 @@ def normalise_name(name):
 
 
 
-def genrdf(record, graph):
+def genrdf(record, graph, integer_id):
 
     """Generate RDF for a single record"""
 
 
     work= WORK['OW_eng_LexicalEntry_'+str(integer_id)]
     #this is wrong...
-    name_word=record['headword'].split(',')
 
-    name = genID(NAME, name_word[0])
+    name = genID(NAME, (record['headword']).encode('utf-8'))
     graph.add((work,RDF.type, LEMON.canonicalForm))
 
     graph.add((work, RDF.type, LEMON.Form))
@@ -81,31 +82,35 @@ def genrdf(record, graph):
     if len (record['senses'])>1:
         for sense in record['senses']:
 
-            ##senseid = genID(SENSE,'OW_eng_SENSE_'+str(sense['id']))
+            senseid = genID(SENSE,('OW_eng_SENSE_'+str(sense['id'])).encode('utf-8'))
 
-            graph.add((work, UBY.partofSpeech, rdflib.Literal(sense['ps'])))
-            graph.add((work, UBY.definition, rdflib.Literal(sense['definition'])))
+            graph.add((senseid, UBY.partofSpeech, rdflib.Literal(sense['ps'])))
+            graph.add((senseid, UBY.definition, rdflib.Literal(sense['definition'])))
             for example in sense['example']:
-                graph.add((work, UBY.usageExample, rdflib.Literal(example)))
-            graph.add((work, UBY.note, rdflib.Literal(sense['note'])))
-            graph.add((work, UBY.rest, rdflib.Literal(sense['rest'])))
+                graph.add((senseid, UBY.usageExample, rdflib.Literal(example)))
+            for note in sense['note']:
 
-           # graph.add((work, UBY.lexicalSense, senseid))
+                graph.add((senseid, UBY.note, rdflib.Literal(note)))
+            graph.add((work, UBY.lexicalSense, senseid))
+
+
     else:
         graph.add((work, UBY.partofSpeech, rdflib.Literal(record['ps'])))
         graph.add((work, UBY.definition, rdflib.Literal(record['definition'])))
         for example in record['example']:
                 graph.add((work, UBY.usageExample, rdflib.Literal(example)))
-        graph.add((work, UBY.note, rdflib.Literal(record['note'])))
-        graph.add((work, UBY.rest, rdflib.Literal(record['rest'])))
+        for note in record['note']:
+                graph.add((work, UBY.note, rdflib.Literal(note)))
+
 
 # record the mention
     graph.add((work, SO.mentions, name))
 
 def gen_output(graph, datafile, outdir=""):
 
-    turtle = graph.serialize(format='turtle')
-    #print(turtle)
+
+    turtle = graph.serialize(format='turtle').decode('utf-8')
+
 
     basename, ext = os.path.splitext(os.path.splitext(datafile)[0])
 
@@ -142,7 +147,11 @@ if __name__=='__main__':
             os.makedirs("output")
         graph = rdflib.Graph()
         datafile="output/a.txtout.txt"
-        with open(datafile) as fd:
-            for d in ner_records(fd):
-                genrdf(d, graph)
-            gen_output(graph, datafile)
+
+        integer_id=0
+        records=typesetting_parse.readfile()
+            #for d in ner_records(fd):
+        for d in records:
+                genrdf(d, graph, integer_id)
+                integer_id+=1
+        gen_output(graph, datafile)
