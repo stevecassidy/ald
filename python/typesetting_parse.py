@@ -88,20 +88,15 @@ example_line1=re.compile(r'\[cf2\] ([\S\s]*)\.')
 example_line2=re.compile(r'\[j33\] ([\S\s]*)\.')
 note=re.compile(r'((\[j30\]|\[j34\]|\[j32\]) \.\.\.([\S\s]*)(\[j31\]|\[j30\]|\.))')
 
-def split_entries(typefile):
+def split_entries(typetext):
     """Read the typesetting file and split into entries
     return a list of entries, one per headword"""
-
-#    out = open(location+"out.txt", 'w+',encoding='utf-8')
-#    f = open(filename, encoding='utf-8')
-
-    f = open(typefile)
 
     entries=[]
     line_collect=""
     start_rec=False
 
-    for line in f:
+    for line in typetext.split('\n'):
         #print "LINE:", line
 
         #clean up line
@@ -143,7 +138,10 @@ def type_to_dictlist(typefile):
 
     result=[]
 
-    for entry in split_entries(typefile):
+    with open(typefile) as fd:
+        typetext = fd.read()
+
+    for entry in split_entries(typetext):
         info = process_entry(entry)
         result.append(info)
 
@@ -196,8 +194,6 @@ def process_entry(entry):
     linetxt=get_part(linetxt,'comment',comment,line_info,2,8).strip()
 
     senses=[]
-
-    #collect empty senses
 
     if sense.match(linetxt):
 
@@ -346,39 +342,24 @@ def clean_char(text, num=0):
 if __name__=="__main__":
 
 
-    integer_id=0
-    if len(sys.argv)>1:
-        parser = argparse.ArgumentParser(description='convert Typesetting files to JSON')
-        parser.add_argument('--outdir', default='results', help='directory for output files')
-        parser.add_argument('files', metavar='files', nargs='+', help='input data files')
-        args = parser.parse_args()
+    parser = argparse.ArgumentParser(description='convert Typesetting files to JSON')
+    parser.add_argument('--outdir', default='results', help='directory for output files')
+    parser.add_argument('files', metavar='files', nargs='+', help='input data files')
+    args = parser.parse_args()
 
-        if not os.path.exists(args.outdir):
-            os.makedirs(args.outdir)
+    if not os.path.exists(args.outdir):
+        os.makedirs(args.outdir)
 
-        for datafile in args.files:
-            base, ext = os.path.splitext(os.path.basename(datafile))
-            print datafile
-            outfile = os.path.join(args.outdir, base + ".json")
-            entries = type_to_dictlist(datafile)
+    for datafile in args.files:
+        base, ext = os.path.splitext(os.path.basename(datafile))
+        print datafile
+        outfile = os.path.join(args.outdir, base + ".json")
+        entries = type_to_dictlist(datafile)
 
-            with open(outfile, 'w') as out:
-                json.dump(entries, out, indent=4)
+        with open(outfile, 'w') as out:
+            json.dump(entries, out, indent=4)
 
-    else:
-        dir='output'
-        filename='z.txt'
-        if not os.path.exists(dir):
-            os.makedirs(dir)
 
-        text=readfile(filename, dir)
-            ## overwrite exiting file
-        location=os.path.join(dir,filename)
-        out = open(location+"out.txt", 'w+',encoding='utf-8')
-        for line in text:
-              json.dump(line, out, indent=4)
-              out.write(os.linesep)
-        out.close()
 
 
     #output to RDF
