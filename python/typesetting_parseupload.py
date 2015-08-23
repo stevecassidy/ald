@@ -26,8 +26,8 @@ mapping=collections.OrderedDict([
     ('\\',"'"),
     ('/',''),
     ('[j33]',''),
-    ('[j30]',''),
-    ('[j31]',''),
+        ('[j30]',''),
+        ('[j31]',''),
     ('[cf2]',''),
     ('[cf1]',  '.'),
     ('[cp8.5]',''),
@@ -44,7 +44,7 @@ mapping=collections.OrderedDict([
     ('[j20]',	'o:'),
     ('[j23]',	'U'),
     ('[j13]',	'@:'),
-    ('[j17]',	'@'),
+     ('[j17]',	'@'),
     ('[j24]',	'`'),
     ('[j25]',  ';'),
     ('[ju11]',   'I'),
@@ -88,16 +88,19 @@ example_line1=re.compile(r'\[cf2\] ([\S\s]*)\.')
 example_line2=re.compile(r'\[j33\] ([\S\s]*)\.')
 note=re.compile(r'((\[j30\]|\[j34\]|\[j32\]) \.\.\.([\S\s]*)(\[j31\]|\[j30\]|\.))')
 
-def split_entries(typetext):
-    """Read the typesetting file and split into entries
-    return a list of entries, one per headword"""
+def readfile(filename="a.txt", dir="output"):
+    #collecct json lines to write to rdf graph
+    lines_out=[]
 
-    entries=[]
+
+    f = open(filename, encoding='utf-8')
+
+    lines=[]
     line_collect=""
     start_rec=False
 
-    for line in typetext.split('\n'):
-        #print "LINE:", line
+
+    for line in f:
 
         #clean up line
         linetxt=line.strip('\n').strip(' ')
@@ -112,7 +115,7 @@ def split_entries(typetext):
 
             linetxt=headword.sub(r'\4',matches.group(0),1)
             #save previous line  if have a headword in that line
-            if start_rec: entries.append(line_collect)
+            if start_rec: lines.append(line_collect)
 
             #start newline
             line_collect=line_data+'| '+linetxt
@@ -124,78 +127,37 @@ def split_entries(typetext):
             if line_collect: line_collect+=' '+linetxt
             #headword across two lines
 
-    entries.append(line_collect.strip(" "))
+    lines.append(line_collect.strip(" "))
 
-    return entries
+    for line in lines:
+        ## process input
+        line_info_default={'headword' : "",'pronounce':"",'ps':"",'rest':"", 'note':[], 'comment':"",  'senses':"", 'definition':"", 'example':[]}
 
+        sense_default={'id':1,'ps':"",'rest':"", 'note':[], 'comment':"",'definition':"", 'example':[]}
+        #start new line
+        line_info=line_info_default
+        #collect all items under headword
+        newline=line.split('|')
 
+        line_info["headword"]=line.split('|')[0]
+        #print(line_info["headword"])
+        if len(newline)>1:
 
+            linetxt=line.split('|')[1].strip()
+        else:
+            linetxt=""
+         #match pronounce
+        linetxt=get_part(linetxt,'pronounce',pronounce,line_info)
 
+        linetxt=get_part(linetxt,'comment',comment,line_info,2,8).strip()
 
-def type_to_dictlist(typefile):
-    """Convert a typesetting file to list of dictionaries,
-    one per headword"""
+        #check senses (1-?)
 
-    result=[]
+        senses=[]
 
-    with open(typefile) as fd:
-        typetext = fd.read()
+        #collect empty senses
 
-    for entry in split_entries(typetext):
-        info = process_entry(entry)
-        result.append(info)
-
-    return result
-
-def process_entry(entry):
-    """Extract information from a single dictionary entry
-    Return a dictionary with the entry properties.
-    """
-
-    line_info_default={
-        'headword' : "",
-        'pronounce':"",
-        'ps':"",
-        'rest':"",
-        'note':[],
-        'comment':"",
-        'senses':"",
-        'definition':"",
-        'example':[]
-    }
-    sense_default={
-        'id':1,
-        'ps':"",
-        'rest':"",
-        'note':[],
-        'comment':"",
-        'definition':"",
-        'example':[]
-    }
-
-
-    line_info = line_info_default
-    sense_line_info=sense_default
-
-    #collect all items under headword
-    newline=entry.split('|')
-
-    line_info["headword"]=entry.split('|')[0]
-    #print(line_info["headword"])
-    if len(newline)>1:
-
-        linetxt=entry.split('|')[1].strip()
-    else:
-        linetxt=""
-
-    #match pronounce
-    linetxt=get_part(linetxt,'pronounce',pronounce,line_info)
-
-    linetxt=get_part(linetxt,'comment',comment,line_info,2,8).strip()
-
-    senses=[]
-
-    if sense.match(linetxt):
+        if sense.match(linetxt):
 
             while sense_line.match(linetxt):
 
@@ -266,7 +228,7 @@ def process_entry(entry):
             line_info['senses']=senses
 
 
-    else:
+        else:
 
             linetxt=get_part(linetxt,'ps',ps,line_info,2,8)
 
@@ -292,10 +254,12 @@ def process_entry(entry):
 
             line_info['rest']=clean_char(linetxt).strip(' ')
 
+        if line_info:
 
 
-    return line_info
+            lines_out.append(line_info)
 
+    return lines_out
 
 def get_part(text, word_part, pattern, line_txt,sub_str=1, exitnum=0, many=False):
 
@@ -339,6 +303,8 @@ def clean_char(text, num=0):
 
 if __name__=="__main__":
 
+
+    integer_id=0
     if len(sys.argv)>1:
         parser = argparse.ArgumentParser(description='convert Typesetting files to JSON')
         parser.add_argument('--outdir', default='results', help='directory for output files')
@@ -349,27 +315,29 @@ if __name__=="__main__":
             os.makedirs(args.outdir)
 
         for datafile in args.files:
-            base, ext = os.path.splitext(os.path.basename(datafile))
-            print (datafile)
-            outfile = os.path.join(args.outdir, base + ".json")
-            entries = type_to_dictlist(datafile)
 
-            with open(outfile, 'w') as out:
-                json.dump(entries, out, indent=4)
+
+
+            with gzip.open(datafile) as fd:
+                text= readfile(fd,args.outdir)
 
 
     else:
-        fileout='output'
-        filename='../typesetting/txt/z.txt'
+        dir='output'
+        filename='z.txt'
+        if not os.path.exists(dir):
+            os.makedirs(dir)
 
-
-        text=type_to_dictlist(filename)
+        text=readfile(filename, dir)
             ## overwrite exiting file
-
-        out = open("out.txt", 'w+',encoding='utf-8')
+        location=os.path.join(dir,filename)
+        out = open(location+"out.txt", 'w+',encoding='utf-8')
         for line in text:
               json.dump(line, out, indent=4)
               out.write(os.linesep)
         out.close()
 
+
     #output to RDF
+
+
