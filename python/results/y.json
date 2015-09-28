@@ -1,0 +1,841 @@
+[
+    {
+        "comment": "plural forms Ys, Y's, y's", 
+        "ps": "noun '", 
+        "senses": "", 
+        "definition": "Y is the 25th letter of the English alphabet", 
+        "pronounce": "wa::I'", 
+        "rest": "", 
+        "note": [], 
+        "headword": "Y, y", 
+        "example": []
+    }, 
+    {
+        "comment": "", 
+        "ps": "noun '", 
+        "senses": "", 
+        "definition": "In algebra, y is used as a symbol to represent an unknown value.", 
+        "pronounce": "wa::I'", 
+        "rest": "[cb8][mgdi:ct_ya:cht,-4][mgdi:ct_ya:cht,-1][@l0][cb0][qr", 
+        "note": [], 
+        "headword": "y", 
+        "example": [
+            "4x ;eq 2y"
+        ]
+    }, 
+    {
+        "comment": "", 
+        "ps": "noun '", 
+        "senses": "", 
+        "definition": "[ir(s76),(s75+6)]yacht  A yacht is a boat with sails or a motor", 
+        "pronounce": "jOt'", 
+        "rest": "", 
+        "note": [], 
+        "headword": "", 
+        "example": [
+            "It can be used either for sport or for pleasure trips"
+        ]
+    }, 
+    {
+        "comment": "verb forms yaks, yakked, yakking", 
+        "ps": "verb '", 
+        "senses": "", 
+        "definition": "[oi0,(s75+6)]      In informal language, if you say someone yaks, you mean that they talk a lot in a way that makes you feel impatient.", 
+        "pronounce": "jAk'", 
+        "rest": "", 
+        "note": [], 
+        "headword": "yak", 
+        "example": [
+            "Stop yakking and come and help me put out the washing"
+        ]
+    }, 
+    {
+        "comment": "", 
+        "ps": "noun", 
+        "senses": "", 
+        "definition": "In informal language, hard yakka' means hard work.", 
+        "pronounce": "`jAk@'", 
+        "rest": "", 
+        "note": [], 
+        "headword": "yakka", 
+        "example": [
+            "Shearing sheep is really hard yakka[cf1]"
+        ]
+    }, 
+    {
+        "comment": "", 
+        "ps": "", 
+        "senses": [
+            {
+                "comment": "", 
+                "ps": "noun '", 
+                "definition": "' In informal language, if you say someone yanks something, you mean that they pull it suddenly and rather roughly.", 
+                "rest": "", 
+                "example": [
+                    "You have to really yank the handle to close the door. [j33] He yanked the book out of my hands", 
+                    "' In informal language, a yank is an American"
+                ], 
+                "note": [], 
+                "id": "2"
+            }, 
+            {
+                "comment": "", 
+                "ps": "noun '", 
+                "definition": "' In informal language, if you say someone yanks something, you mean that they pull it suddenly and rather roughly.", 
+                "rest": "", 
+                "example": [
+                    "You have to really yank the handle to close the door. [j33] He yanked the book out of my hands", 
+                    "' In informal language, a yank is an American"
+                ], 
+                "note": [], 
+                "id": "2"
+            }
+        ], 
+        "definition": "", 
+        "pronounce": "jANk'", 
+        "rest": "", 
+        "note": [], 
+        "headword": "yank", 
+        "example": []
+    }, 
+    {
+        "comment": "", 
+        "ps": "", 
+        "senses": [
+            {
+                "comment": "", 
+                "ps": "verb '", 
+                "definition": "' In informal language, if you say someone yaps, you mean that they talk loudly in an irritating way.", 
+                "rest": "Y@u: tw@ ki:ds a:rE rEa:lly gEtti:ng @n my nErvEs[j4]ca:n't y@u: st@p ya:ppi:ng?", 
+                "example": [
+                    "That little dog is a pest[j4]it never stops yapping"
+                ], 
+                "note": [], 
+                "id": "2"
+            }, 
+            {
+                "comment": "", 
+                "ps": "verb '", 
+                "definition": "' In informal language, if you say someone yaps, you mean that they talk loudly in an irritating way.", 
+                "rest": "Y@u: tw@ ki:ds a:rE rEa:lly gEtti:ng @n my nErvEs[j4]ca:n't y@u: st@p ya:ppi:ng?", 
+                "example": [
+                    "That little dog is a pest[j4]it never stops yapping"
+                ], 
+                "note": [], 
+                "id": "2"
+            }
+        ], 
+        "definition": "", 
+        "pronounce": "jAp'", 
+        "rest": "", 
+        "note": [], 
+        "headword": "yap", 
+        "example": []
+    }, 
+    {
+        "comment": "", 
+        "ps": "", 
+        "senses": [
+            {
+                "comment": "", 
+                "ps": "noun '", 
+                "definition": "' A yard is a unit of measurement in the old imperial system.  It is equal to 36 inches or about 91 centimetres.  2 ' '", 
+                "rest": "", 
+                "example": [
+                    "noun A yard is a piece of land around a house or building enclosed by a fence.  [cf2]Al's out in the yard playing cricket with his friend"
+                ], 
+                "note": [], 
+                "id": "1"
+            }
+        ], 
+        "definition": "", 
+        "pronounce": "ja::d'", 
+        "rest": "", 
+        "note": [], 
+        "headword": "yard", 
+        "example": []
+    }, 
+    {
+        "comment": "", 
+        "ps": "", 
+        "senses": [
+            {
+                "comment": "", 
+                "ps": "noun '", 
+                "definition": "' In informal language, a yarn is a long story which may or may not be true.", 
+                "rest": "", 
+                "example": [
+                    "I need one more ball of yarn to finish this jumper. [j33] This machine spins the wool into yarn", 
+                    "He loved to tell us yarns of his school days. [j33] I don't believe it for a minute[j4] that's just one of her yarns"
+                ], 
+                "note": [], 
+                "id": "2"
+            }, 
+            {
+                "comment": "", 
+                "ps": "noun '", 
+                "definition": "' In informal language, a yarn is a long story which may or may not be true.", 
+                "rest": "", 
+                "example": [
+                    "I need one more ball of yarn to finish this jumper. [j33] This machine spins the wool into yarn", 
+                    "He loved to tell us yarns of his school days. [j33] I don't believe it for a minute[j4] that's just one of her yarns"
+                ], 
+                "note": [], 
+                "id": "2"
+            }
+        ], 
+        "definition": "", 
+        "pronounce": "ja::n'", 
+        "rest": "", 
+        "note": [], 
+        "headword": "yarn", 
+        "example": []
+    }, 
+    {
+        "comment": "", 
+        "ps": "verb '", 
+        "senses": "", 
+        "definition": "When you yawn, you open your mouth very wide and take a deep breath, usually because you are tired or bored.", 
+        "pronounce": "j@:n'", 
+        "rest": "", 
+        "note": [
+            "... WORD FAMILY 'noun yawn'"
+        ], 
+        "headword": "yawn", 
+        "example": [
+            "He was so tired he kept yawning all through the talk"
+        ]
+    }, 
+    {
+        "comment": "", 
+        "ps": "abbreviation '", 
+        "senses": "", 
+        "definition": "for yard", 
+        "pronounce": "ja::d'", 
+        "rest": "", 
+        "note": [], 
+        "headword": "yd", 
+        "example": []
+    }, 
+    {
+        "comment": "", 
+        "ps": "adverb '", 
+        "senses": "", 
+        "definition": "In informal language, yeah means yes", 
+        "pronounce": "jE@'", 
+        "rest": "", 
+        "note": [], 
+        "headword": "yeah", 
+        "example": []
+    }, 
+    {
+        "comment": "", 
+        "ps": "", 
+        "senses": [
+            {
+                "comment": "", 
+                "ps": "noun '", 
+                "definition": "' years'  In informal language, you can use years to mean a very long time.", 
+                "rest": "", 
+                "example": [
+                    "I'm visiting Europe next year. [j33] I've been in Australia for ten years now. [j33] My son is ten years old. [j33] This time last year was much warmer. [j33] The visa is valid for a year", 
+                    "I've known Julia for years. [j33] It'll take years to repair the damage"
+                ], 
+                "note": [], 
+                "id": "2"
+            }, 
+            {
+                "comment": "", 
+                "ps": "noun '", 
+                "definition": "' years'  In informal language, you can use years to mean a very long time.", 
+                "rest": "", 
+                "example": [
+                    "I'm visiting Europe next year. [j33] I've been in Australia for ten years now. [j33] My son is ten years old. [j33] This time last year was much warmer. [j33] The visa is valid for a year", 
+                    "I've known Julia for years. [j33] It'll take years to repair the damage"
+                ], 
+                "note": [], 
+                "id": "2"
+            }
+        ], 
+        "definition": "", 
+        "pronounce": "jI@'", 
+        "rest": "", 
+        "note": [], 
+        "headword": "year", 
+        "example": []
+    }, 
+    {
+        "comment": "", 
+        "ps": "noun '", 
+        "senses": "", 
+        "definition": "Yeast is a substance which is used in bread to make the dough rise, and in beer to make it ferment", 
+        "pronounce": "ji::st'", 
+        "rest": "", 
+        "note": [], 
+        "headword": "yeast", 
+        "example": []
+    }, 
+    {
+        "comment": "", 
+        "ps": "verb '", 
+        "senses": "", 
+        "definition": "In informal language, if you say someone yells, you mean that they call out loudly.", 
+        "pronounce": "jEl'", 
+        "rest": "", 
+        "note": [
+            "... WORD FAMILY 'noun yell'"
+        ], 
+        "headword": "yell", 
+        "example": [
+            "They're a long way away[j4]you'll have to really yell. [j33] We heard a lot of yelling and fighting in the street"
+        ]
+    }, 
+    {
+        "comment": "", 
+        "ps": "noun '", 
+        "senses": "", 
+        "definition": "Yellow is a colour", 
+        "pronounce": "`jEl@U'", 
+        "rest": "", 
+        "note": [
+            "... WORD FAMILY 'adjective yellow' [j35]'verb yellow' This old white shirt has yellowed."
+        ], 
+        "headword": "yellow", 
+        "example": [
+            "The yolks of eggs are yellow"
+        ]
+    }, 
+    {
+        "comment": "", 
+        "ps": "", 
+        "senses": [
+            {
+                "comment": "", 
+                "ps": "verb '", 
+                "definition": "' If someone yelps, they suddenly cry out, usually because they are in pain or frightened.", 
+                "rest": "", 
+                "example": [
+                    "He yelped as I stepped back onto his foot"
+                ], 
+                "note": [
+                    "... WORD FAMILY 'noun yelp'"
+                ], 
+                "id": "2"
+            }, 
+            {
+                "comment": "", 
+                "ps": "verb '", 
+                "definition": "' If someone yelps, they suddenly cry out, usually because they are in pain or frightened.", 
+                "rest": "", 
+                "example": [
+                    "He yelped as I stepped back onto his foot"
+                ], 
+                "note": [
+                    "... WORD FAMILY 'noun yelp'"
+                ], 
+                "id": "2"
+            }
+        ], 
+        "definition": "", 
+        "pronounce": "jElp'", 
+        "rest": "", 
+        "note": [], 
+        "headword": "yelp", 
+        "example": []
+    }, 
+    {
+        "comment": "", 
+        "ps": "", 
+        "senses": [
+            {
+                "comment": "", 
+                "ps": "noun", 
+                "definition": "The yen is a unit of money in Japan", 
+                "rest": "", 
+                "example": [], 
+                "note": [], 
+                "id": "2"
+            }
+        ], 
+        "definition": "", 
+        "pronounce": "jEn'", 
+        "rest": "", 
+        "note": [], 
+        "headword": "yen", 
+        "example": []
+    }, 
+    {
+        "comment": "", 
+        "ps": "", 
+        "senses": [
+            {
+                "comment": "", 
+                "ps": "adverb '", 
+                "definition": "' You use yes in response to a negative statement to contradict it, and state that something is indeed true.", 
+                "rest": "'", 
+                "example": [
+                    "'Are you ready?'  'Yes.' [j33] 'Would you like a drink?'  'Yes, please.' [j33] 'Shall I go first?'  'Yes, OK", 
+                    "'It's not my fault.'  'Yes, it is.' [j33] 'This won't take long.'  'Yes, it will"
+                ], 
+                "note": [], 
+                "id": "2"
+            }, 
+            {
+                "comment": "", 
+                "ps": "adverb '", 
+                "definition": "' You use yes in response to a negative statement to contradict it, and state that something is indeed true.", 
+                "rest": "'", 
+                "example": [
+                    "'Are you ready?'  'Yes.' [j33] 'Would you like a drink?'  'Yes, please.' [j33] 'Shall I go first?'  'Yes, OK", 
+                    "'It's not my fault.'  'Yes, it is.' [j33] 'This won't take long.'  'Yes, it will"
+                ], 
+                "note": [], 
+                "id": "2"
+            }
+        ], 
+        "definition": "", 
+        "pronounce": "jEs'", 
+        "rest": "", 
+        "note": [], 
+        "headword": "yes", 
+        "example": []
+    }, 
+    {
+        "comment": "", 
+        "ps": "adverb '", 
+        "senses": "", 
+        "definition": "Yesterday is the day before today.  If it is Monday today, then yesterday was Sunday.", 
+        "pronounce": "`jEst@dEI'", 
+        "rest": "", 
+        "note": [], 
+        "headword": "yesterday", 
+        "example": [
+            "He left Australia yesterday. [j33] She rang about this time yesterday. [j33] We arrived the day before yesterday"
+        ]
+    }, 
+    {
+        "comment": "", 
+        "ps": "", 
+        "senses": [
+            {
+                "comment": "", 
+                "ps": "conjunction '", 
+                "definition": "' In rather formal language, yet can be used to point out a contrast.", 
+                "rest": "", 
+                "example": [
+                    "'What did he say?'  'I haven't asked him yet", 
+                    "Roger is taller than Philip, but Brendan is taller yet. [j33] Prices are likely to rise yet higher. [j33] The decision has caused yet more controversy", 
+                    "He has been a very bad father, yet his children still love him"
+                ], 
+                "note": [], 
+                "id": "3"
+            }, 
+            {
+                "comment": "", 
+                "ps": "conjunction '", 
+                "definition": "' In rather formal language, yet can be used to point out a contrast.", 
+                "rest": "", 
+                "example": [
+                    "'What did he say?'  'I haven't asked him yet", 
+                    "Roger is taller than Philip, but Brendan is taller yet. [j33] Prices are likely to rise yet higher. [j33] The decision has caused yet more controversy", 
+                    "He has been a very bad father, yet his children still love him"
+                ], 
+                "note": [], 
+                "id": "3"
+            }, 
+            {
+                "comment": "", 
+                "ps": "conjunction '", 
+                "definition": "' In rather formal language, yet can be used to point out a contrast.", 
+                "rest": "", 
+                "example": [
+                    "'What did he say?'  'I haven't asked him yet", 
+                    "Roger is taller than Philip, but Brendan is taller yet. [j33] Prices are likely to rise yet higher. [j33] The decision has caused yet more controversy", 
+                    "He has been a very bad father, yet his children still love him"
+                ], 
+                "note": [], 
+                "id": "3"
+            }
+        ], 
+        "definition": "", 
+        "pronounce": "jEt'", 
+        "rest": "", 
+        "note": [], 
+        "headword": "yet", 
+        "example": []
+    }, 
+    {
+        "comment": "", 
+        "ps": "", 
+        "senses": [
+            {
+                "comment": "", 
+                "ps": "verb '", 
+                "definition": "' In rather formal language, if you say you yield to someone, you mean that you give in to them and do what they want.", 
+                "rest": "", 
+                "example": [
+                    "These coastal plains yield twice as much wheat as the land in inland Australia", 
+                    "He refused to yield his weapon", 
+                    "Eventually she yielded to her parents and agreed to the marriage. [j33] The chairman was forced to yield to the decision of the board"
+                ], 
+                "note": [
+                    "... WORD FAMILY 'noun yield' The yield can exceed three tonnes per hectare."
+                ], 
+                "id": "3"
+            }, 
+            {
+                "comment": "", 
+                "ps": "verb '", 
+                "definition": "' In rather formal language, if you say you yield to someone, you mean that you give in to them and do what they want.", 
+                "rest": "", 
+                "example": [
+                    "These coastal plains yield twice as much wheat as the land in inland Australia", 
+                    "He refused to yield his weapon", 
+                    "Eventually she yielded to her parents and agreed to the marriage. [j33] The chairman was forced to yield to the decision of the board"
+                ], 
+                "note": [
+                    "... WORD FAMILY 'noun yield' The yield can exceed three tonnes per hectare."
+                ], 
+                "id": "3"
+            }, 
+            {
+                "comment": "", 
+                "ps": "verb '", 
+                "definition": "' In rather formal language, if you say you yield to someone, you mean that you give in to them and do what they want.", 
+                "rest": "", 
+                "example": [
+                    "These coastal plains yield twice as much wheat as the land in inland Australia", 
+                    "He refused to yield his weapon", 
+                    "Eventually she yielded to her parents and agreed to the marriage. [j33] The chairman was forced to yield to the decision of the board"
+                ], 
+                "note": [
+                    "... WORD FAMILY 'noun yield' The yield can exceed three tonnes per hectare."
+                ], 
+                "id": "3"
+            }
+        ], 
+        "definition": "", 
+        "pronounce": "ji::ld'", 
+        "rest": "", 
+        "note": [], 
+        "headword": "yield", 
+        "example": []
+    }, 
+    {
+        "comment": "", 
+        "ps": "noun '", 
+        "senses": "", 
+        "definition": "Yoga is a type of physical exercise that involves deep breathing and medi~ tation", 
+        "pronounce": "`j@Ug@'", 
+        "rest": "", 
+        "note": [], 
+        "headword": "yoga", 
+        "example": [
+            "It is designed to help you relax"
+        ]
+    }, 
+    {
+        "comment": "", 
+        "ps": "noun '", 
+        "senses": "", 
+        "definition": "Yoghurt is a thick liquid food made from milk which has been curdled by bacteria", 
+        "pronounce": "`j@Ug@t, `jOg@t'", 
+        "rest": "", 
+        "note": [
+            "... ANOTHER SPELLING of this word is yogurt."
+        ], 
+        "headword": "yoghurt", 
+        "example": []
+    }, 
+    {
+        "comment": "", 
+        "ps": "noun '", 
+        "senses": "", 
+        "definition": "The yolk of an egg is the yellow part in the middle", 
+        "pronounce": "j@Uk'", 
+        "rest": "", 
+        "note": [], 
+        "headword": "yolk", 
+        "example": []
+    }, 
+    {
+        "comment": "", 
+        "ps": "noun '", 
+        "senses": "", 
+        "definition": "In informal language, yonks means a long time.", 
+        "pronounce": "jONks'", 
+        "rest": "", 
+        "note": [], 
+        "headword": "yonks", 
+        "example": [
+            "Sandy knows everything about the company[j4]she's been working here for yonks. [j33] It took us yonks to get the computer properly set up, but eventually we did"
+        ]
+    }, 
+    {
+        "comment": "", 
+        "ps": "pronoun '", 
+        "senses": "", 
+        "definition": "You is used to refer to the person or people one is addressing in speech or writing.", 
+        "pronounce": "ju::'", 
+        "rest": "", 
+        "note": [], 
+        "headword": "you", 
+        "example": [
+            "Hello, how are you? [j33] You must complete the attached form. [j33] Are you all coming? [j33] I love you. [j33] May I have a word with you? [j33] Thank you both for all your help"
+        ]
+    }, 
+    {
+        "comment": "", 
+        "ps": "", 
+        "senses": [
+            {
+                "comment": "", 
+                "ps": "adjective '", 
+                "definition": "' If someone is young, they have not lived for very long.", 
+                "rest": "", 
+                "example": [
+                    "He's got three young children. [j33] She's one of Australia's most talented young artists. [j33] It's easier to train dogs when they're young. [j33] I snapped off the young branches"
+                ], 
+                "note": [
+                    "... THE OPPOSITE of this is old.   2' 'noun The young of animals are their young offspring.  The adult lions share the kill with their young.   ... WORD FAMILY 'noun See youth'."
+                ], 
+                "id": "1"
+            }
+        ], 
+        "definition": "", 
+        "pronounce": "jV N'", 
+        "rest": "", 
+        "note": [], 
+        "headword": "young", 
+        "example": []
+    }, 
+    {
+        "comment": "", 
+        "ps": "noun '", 
+        "senses": "", 
+        "definition": "A youngster is a child or young person.", 
+        "pronounce": "`jV Nst@'", 
+        "rest": "", 
+        "note": [], 
+        "headword": "youngster", 
+        "example": [
+            "We'll have to get a babysitter for the youngsters. [j33] You youngsters enjoy yourselves[j4] we old folk will just sit and watch"
+        ]
+    }, 
+    {
+        "comment": "", 
+        "ps": "pronoun '", 
+        "senses": "", 
+        "definition": "You use your to show that something belongs or relates to the person you are addressing.", 
+        "pronounce": "j@:'", 
+        "rest": "", 
+        "note": [], 
+        "headword": "your", 
+        "example": [
+            "Is this your book? [j33] May I borrow your pen? [j33] I met your brother last week. [j33] Have you changed your mind? [j33] Be sure to get your application in early"
+        ]
+    }, 
+    {
+        "comment": "", 
+        "ps": "", 
+        "senses": [
+            {
+                "comment": "", 
+                "ps": "'", 
+                "definition": "yours sin~ cerely ' You use yours sincerely as a formal close to a letter that is addressed to someone by name.", 
+                "rest": "", 
+                "example": [
+                    "I look forward to seeing you next week.  Yours, Peter", 
+                    "Dear Sir or Madam, ... Yours faithfully, Peter Konovalov", 
+                    "Dear Mrs Dimitrou, ... Yours sincerely, Peter Konovalov"
+                ], 
+                "note": [], 
+                "id": "4"
+            }, 
+            {
+                "comment": "", 
+                "ps": "'", 
+                "definition": "yours sin~ cerely ' You use yours sincerely as a formal close to a letter that is addressed to someone by name.", 
+                "rest": "", 
+                "example": [
+                    "I look forward to seeing you next week.  Yours, Peter", 
+                    "Dear Sir or Madam, ... Yours faithfully, Peter Konovalov", 
+                    "Dear Mrs Dimitrou, ... Yours sincerely, Peter Konovalov"
+                ], 
+                "note": [], 
+                "id": "4"
+            }, 
+            {
+                "comment": "", 
+                "ps": "'", 
+                "definition": "yours sin~ cerely ' You use yours sincerely as a formal close to a letter that is addressed to someone by name.", 
+                "rest": "", 
+                "example": [
+                    "I look forward to seeing you next week.  Yours, Peter", 
+                    "Dear Sir or Madam, ... Yours faithfully, Peter Konovalov", 
+                    "Dear Mrs Dimitrou, ... Yours sincerely, Peter Konovalov"
+                ], 
+                "note": [], 
+                "id": "4"
+            }, 
+            {
+                "comment": "", 
+                "ps": "'", 
+                "definition": "yours sin~ cerely ' You use yours sincerely as a formal close to a letter that is addressed to someone by name.", 
+                "rest": "", 
+                "example": [
+                    "I look forward to seeing you next week.  Yours, Peter", 
+                    "Dear Sir or Madam, ... Yours faithfully, Peter Konovalov", 
+                    "Dear Mrs Dimitrou, ... Yours sincerely, Peter Konovalov"
+                ], 
+                "note": [], 
+                "id": "4"
+            }
+        ], 
+        "definition": "", 
+        "pronounce": "j@:z'", 
+        "rest": "", 
+        "note": [], 
+        "headword": "yours", 
+        "example": []
+    }, 
+    {
+        "comment": "", 
+        "ps": "", 
+        "senses": [
+            {
+                "comment": "", 
+                "ps": "pronoun '", 
+                "definition": "' Yourself is an emphatic form of you.", 
+                "rest": "'Shu:t u:p!'  'Shu:t u:p y@u:rsElf!'", 
+                "example": [
+                    "Don't swing the club like that[j4]you'll hit yourself. [j33] You ought to be ashamed of yourself. [j33] You can claim on behalf of yourself and your dependants", 
+                    "Why do you need my help? Surely you can do it yourself"
+                ], 
+                "note": [], 
+                "id": "2"
+            }, 
+            {
+                "comment": "", 
+                "ps": "pronoun '", 
+                "definition": "' Yourself is an emphatic form of you.", 
+                "rest": "'Shu:t u:p!'  'Shu:t u:p y@u:rsElf!'", 
+                "example": [
+                    "Don't swing the club like that[j4]you'll hit yourself. [j33] You ought to be ashamed of yourself. [j33] You can claim on behalf of yourself and your dependants", 
+                    "Why do you need my help? Surely you can do it yourself"
+                ], 
+                "note": [], 
+                "id": "2"
+            }
+        ], 
+        "definition": "", 
+        "pronounce": "j@:`sElf'", 
+        "rest": "", 
+        "note": [], 
+        "headword": "yourself", 
+        "example": []
+    }, 
+    {
+        "comment": "", 
+        "ps": "", 
+        "senses": [
+            {
+                "comment": "", 
+                "ps": "noun '", 
+                "definition": "' In rather formal language, the youth of a country are its young people.", 
+                "rest": "", 
+                "example": [
+                    "It was an accident[j4]the result of youth and inexperience", 
+                    "I spent much of my youth overseas. [j33] In my youth we didn't have all these computers", 
+                    "The youth at the store helped me to the car with my groceries", 
+                    "The youth of Australia are more adaptable than their parents"
+                ], 
+                "note": [], 
+                "id": "4"
+            }, 
+            {
+                "comment": "", 
+                "ps": "noun '", 
+                "definition": "' In rather formal language, the youth of a country are its young people.", 
+                "rest": "", 
+                "example": [
+                    "It was an accident[j4]the result of youth and inexperience", 
+                    "I spent much of my youth overseas. [j33] In my youth we didn't have all these computers", 
+                    "The youth at the store helped me to the car with my groceries", 
+                    "The youth of Australia are more adaptable than their parents"
+                ], 
+                "note": [], 
+                "id": "4"
+            }, 
+            {
+                "comment": "", 
+                "ps": "noun '", 
+                "definition": "' In rather formal language, the youth of a country are its young people.", 
+                "rest": "", 
+                "example": [
+                    "It was an accident[j4]the result of youth and inexperience", 
+                    "I spent much of my youth overseas. [j33] In my youth we didn't have all these computers", 
+                    "The youth at the store helped me to the car with my groceries", 
+                    "The youth of Australia are more adaptable than their parents"
+                ], 
+                "note": [], 
+                "id": "4"
+            }, 
+            {
+                "comment": "", 
+                "ps": "noun '", 
+                "definition": "' In rather formal language, the youth of a country are its young people.", 
+                "rest": "", 
+                "example": [
+                    "It was an accident[j4]the result of youth and inexperience", 
+                    "I spent much of my youth overseas. [j33] In my youth we didn't have all these computers", 
+                    "The youth at the store helped me to the car with my groceries", 
+                    "The youth of Australia are more adaptable than their parents"
+                ], 
+                "note": [], 
+                "id": "4"
+            }
+        ], 
+        "definition": "", 
+        "pronounce": "ju::T'", 
+        "rest": "", 
+        "note": [], 
+        "headword": "youth", 
+        "example": []
+    }, 
+    {
+        "comment": "", 
+        "ps": "abbreviation '", 
+        "senses": "", 
+        "definition": "for year", 
+        "pronounce": "jI@'", 
+        "rest": "", 
+        "note": [], 
+        "headword": "yr", 
+        "example": []
+    }, 
+    {
+        "comment": "", 
+        "ps": "interjection '", 
+        "senses": "", 
+        "definition": "In very informal language, if you say yuk, you mean that you think something is very revolting or disgusting.", 
+        "pronounce": "jV k'", 
+        "rest": "'  'Yu:k!'  Yu:k, wha:t's thi:s stu:ff i:n thE ba:ck @f thE fri:dgE?", 
+        "note": [], 
+        "headword": "yuk", 
+        "example": [
+            "'We had tripe for dinner last night"
+        ]
+    }, 
+    {
+        "comment": "", 
+        "ps": "noun '", 
+        "senses": "", 
+        "definition": "A yuppie is a young middle class person who earns a lot of money and spends it freely", 
+        "pronounce": "`jV pi::'", 
+        "rest": "[fa:[xp", 
+        "note": [], 
+        "headword": "yuppie", 
+        "example": []
+    }
+]

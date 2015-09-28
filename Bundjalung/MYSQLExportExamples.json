@@ -1,0 +1,4407 @@
+[
+    {
+        "Translation": " \u201cDon't speak to me in English\u201d you were told.' ",
+        "id": 4,
+        "Language": " Wa: \u201cWanahwar nganyi yiralingahyumah\u201d bani wihnyi. "
+    },
+    {
+        "Translation": " 'the boss was saying to the man, \"Tell me!\"",
+        "id": 4,
+        "Language": " Gd: Mahdja baygalni gidjah balehn "
+    },
+    {
+        "Translation": " 'is growling'",
+        "id": 4,
+        "Language": " Gd: nguhr balehla "
+    },
+    {
+        "Translation": " 'is screaming'",
+        "id": 4,
+        "Language": " Gd: yarehng balehla "
+    }
+]
+[
+    {
+        "Translation": " 'The man was persisting in chopping down trees.' (Geytenbeeks translate 'by choice')",
+        "id": 5,
+        "Language": " Gd: Baygal galgabalehn jali. "
+    },
+    {
+        "Translation": " 'The dog is persistently chasing the sheep.'",
+        "id": 5,
+        "Language": " Gd: Ngagambu gahdjabalehla jimbang. "
+    },
+    {
+        "Translation": " 'The boss persisted in telling the man about that.' ",
+        "id": 5,
+        "Language": " Gd: Mahdja baygalni gidjabalehn muna. "
+    },
+    {
+        "Translation": " 'swim'",
+        "id": 5,
+        "Language": " Wa: yaruhma- "
+    }
+]
+[
+    {
+        "Translation": " 'rain hard' ",
+        "id": 21,
+        "Language": " Wa: guwang badji- "
+    },
+    {
+        "Translation": " 'hitting' (also bayi-) ",
+        "id": 21,
+        "Language": " We: badjilehla "
+    },
+    {
+        "Translation": " 'I will hit you if you take my boomerang.'",
+        "id": 21,
+        "Language": " Various: Ngadju wihnyi badjehny mala wahlu nganyah bargan gahngganyi. "
+    },
+    {
+        "Translation": " 'It won't rain today.'",
+        "id": 21,
+        "Language": " Various: Yagambeh bayahny badjilehny. "
+    },
+    {
+        "Translation": " 'He punched me (hit with fist).'",
+        "id": 21,
+        "Language": " Various: Maliyu nganyi badjini mumguhlu. "
+    },
+    {
+        "Translation": " 'The man slapped her on the face.'",
+        "id": 21,
+        "Language": " Various: Maliyu baygalu nugalu badjidjahn malahni. "
+    }
+]
+[
+    {
+        "Translation": " 'It will rain.'",
+        "id": 22,
+        "Language": " Cas: Guwang badjilehny. "
+    }
+]
+[
+    {
+        "Translation": " 'shield made from cork tree'",
+        "id": 26,
+        "Language": " Y:Watsn: bagah "
+    }
+]
+[
+    {
+        "Translation": " 'that woman out there' ",
+        "id": 32,
+        "Language": " Wa: gila bagarah dubay "
+    },
+    {
+        "Translation": " 'Those men are cutting (wood) for them out there.'",
+        "id": 32,
+        "Language": " Wa: Mahnyulu galgahla baygalu bagarahgu gimbalahgu. "
+    },
+    {
+        "Translation": " 'Listen to those singing behind the house out there.'",
+        "id": 32,
+        "Language": " Wa: Ganngah manyihni yarbilehla bagarah burambah nguhmbinydjah."
+    }
+]
+[
+    {
+        "Translation": " 'The man threw the spear and it broke in half.' ",
+        "id": 52,
+        "Language": " Wa: Maliyu munah bilahr birani baygalu gawalehn-nguy bahm. "
+    }
+]
+[
+    {
+        "Translation": " 'Today my daughter returned.'",
+        "id": 61,
+        "Language": " Y:Sha:Culhm: Nganyah jalgany nyumhbuhlen bahny."
+    }
+]
+[
+    {
+        "Translation": " 'Dark clouds came from up there again.'",
+        "id": 62,
+        "Language": " Wa: Ngagu dagam babahyanibu babara. "
+    },
+    {
+        "Translation": " 'The storm will come.'",
+        "id": 62,
+        "Language": " Wa: Mala mihngbal bahn.gany. "
+    },
+    {
+        "Translation": " 'The men came out of the dust coughing all the time.'",
+        "id": 62,
+        "Language": " Wa: Mahny baygal bahyani mununu bubehngu gulungbaliwahla. "
+    },
+    {
+        "Translation": " 'She,g,t angry (her anger emerged) because the children spilt the milk.'",
+        "id": 62,
+        "Language": " Wa: Janguy bahyanibeh munah guruhmbil gehrbinah mahnyulu jahdjambu. "
+    },
+    {
+        "Translation": " 'The sun comes out in the day and then the moon comes out at night.'",
+        "id": 62,
+        "Language": " Wa: Mala yalgan bahn.gala numgir malangu gibamdjubunydja. "
+    },
+    {
+        "Translation": " 'the flood is coming here.'",
+        "id": 62,
+        "Language": " Wa: Mala ngulahr bahrwala yang "
+    },
+    {
+        "Translation": " 'Later the baby (turtles) will hatch out.'",
+        "id": 62,
+        "Language": " Wa: Yuh mahny nyamul bahn.gany."
+    },
+    {
+        "Translation": " 'I get up early.'",
+        "id": 62,
+        "Language": " Wa: Ngay bahn.gala jubunydjahbu. "
+    },
+    {
+        "Translation": " 'He hit me till I bled.'",
+        "id": 62,
+        "Language": " Wa: Maliyu badjini gumar bahnbi. "
+    },
+    {
+        "Translation": " 'The baby is waking up.' ",
+        "id": 62,
+        "Language": " Wa: Bahrwala mala bidjanggay. "
+    },
+    {
+        "Translation": " 'When I got up and looked I saw only a cat.'",
+        "id": 62,
+        "Language": " Gd: Bahyanah ngay nyahleni nyahni budjigehnbu. "
+    },
+    {
+        "Translation": " 'We will see the men again when they arrive here from overseas' (another+country-from)",
+        "id": 62,
+        "Language": " Gd: Nyahnybu ngali gadji bangilehnydje ngarihngbilnu baygal."
+    },
+    {
+        "Translation": " sunrise'",
+        "id": 62,
+        "Language": " Gd: yalgan behni "
+    },
+    {
+        "Translation": " 'A big corroboree is starting.'",
+        "id": 62,
+        "Language": " Cas: Yawahr gale jehr bahn.gala. "
+    },
+    {
+        "Translation": " 'Come outside.'",
+        "id": 62,
+        "Language": " Cas: Gawalang bahna. "
+    },
+    {
+        "Translation": " 'The sun rises daily.'",
+        "id": 62,
+        "Language": " Cas: Yalgan bahn.gala numgirnu. "
+    },
+    {
+        "Translation": " 'The tips of the Bunya Mountains appear.'",
+        "id": 62,
+        "Language": " Cas: Buhnyi dugun mulih bahn.gala. "
+    },
+    {
+        "Translation": " 'I shall die and rise again.'",
+        "id": 62,
+        "Language": " Cas: Ngay balahn.gahny bahn.gahnybu. "
+    },
+    {
+        "Translation": " 'He speared the,g,ound and a stream of water appeared.'",
+        "id": 62,
+        "Language": " Cas: Bugwani nyule jagun, bayani gung. "
+    }
+]
+[
+    {
+        "Translation": " 'The old man has died.'",
+        "id": 69,
+        "Language": " Wa: Gunah dandaygam balahyani. "
+    },
+    {
+        "Translation": " 'The old people are all dead.'",
+        "id": 69,
+        "Language": " Wa: Gunah dandaygambihn balabalahyani. "
+    },
+    {
+        "Translation": " 'She died.'",
+        "id": 69,
+        "Language": " Cas: Nyahn.gan balahn. "
+    }
+]
+[
+    {
+        "Translation": " 'The tobacco is under the coolamon.'",
+        "id": 73,
+        "Language": " Cas: Mul balaya bigiya. "
+    },
+    {
+        "Translation": " 'Put your a (somewhere) under the stone.'",
+        "id": 73,
+        "Language": " Cas: Wangah yunamah wagar jaruli bala-gihmbadji. "
+    }
+]
+[
+    {
+        "Translation": " 'It is not on the new blanket.' ",
+        "id": 83,
+        "Language": " Gd: Yagambeh baling ngumbandjah. "
+    }
+]
+[
+    {
+        "Translation": " 'I'll blow the food to make it cool'",
+        "id": 86,
+        "Language": " Wa: Ngadju gahny balubahny nangany"
+    },
+    {
+        "Translation": " 'I'll throw some dirt onto the fire to put it out.'",
+        "id": 86,
+        "Language": " Wa: Ngayal ngadju birahny galahya waybara balubayah. "
+    }
+]
+[
+    {
+        "Translation": " 'The women rubbed each other with fat.'",
+        "id": 94,
+        "Language": " Wa: Mahny dubay bamalehn banyargandu. "
+    },
+    {
+        "Translation": " 'They are being rubbed with sand.'",
+        "id": 94,
+        "Language": " Wa: Bamahla guygumbu. "
+    }
+]
+[
+    {
+        "Translation": " 'I will make a handle for the tomahawk.'",
+        "id": 112,
+        "Language": " M: Ngayu ginahny jinang bandahn.gu. "
+    },
+    {
+        "Translation": " 'Pull the handle out of the tomahawk' ",
+        "id": 112,
+        "Language": " M: Burah jinang bandahnda "
+    },
+    {
+        "Translation": " 'I chop quickly with the a.'",
+        "id": 112,
+        "Language": " Y:Sha:Culhm: Galgahla ngayu wuginymahla bandahndu. "
+    }
+]
+[
+    {
+        "Translation": " 'Do you speak Bundjalung?'",
+        "id": 121,
+        "Language": " Cas: Nyanggur wudjeh wadjelehla Bandjalang? "
+    }
+]
+[
+    {
+        "Translation": " 'I have trodden on him.'",
+        "id": 128,
+        "Language": " Cas: Ngayu bangani nyulangi. "
+    }
+]
+[
+    {
+        "Translation": " 'most' ",
+        "id": 136,
+        "Language": " Y:Allen: garal-banggil "
+    }
+]
+[
+    {
+        "Translation": " 'own husband, husband's brother (husband-own)'",
+        "id": 144,
+        "Language": " Gd: bani-djar "
+    },
+    {
+        "Translation": " 'wife, wife's sister'",
+        "id": 144,
+        "Language": " Gd: bani-djargan "
+    }
+]
+[
+    {
+        "Translation": " 'This man has painted (himself) with red ochre.'",
+        "id": 148,
+        "Language": " Cas: Gale baygal bamalehn gudjihnggu. "
+    },
+    {
+        "Translation": " 'Get dressed inside'",
+        "id": 148,
+        "Language": " Gd: Gayu-gayu guhgara banmaleh. "
+    },
+    {
+        "Translation": " 'She put on her clothes.'",
+        "id": 148,
+        "Language": " Gd: Nyahngandu banmalehn. "
+    }
+]
+[
+    {
+        "Translation": " 'I shall talk to my father today.'",
+        "id": 149,
+        "Language": " Cas: Ngay wadjelehny nganyahbanybal bayahny. "
+    }
+]
+[
+    {
+        "Translation": " 'I'm afraid of the snake.' ",
+        "id": 157,
+        "Language": " Y:Holm: Ngayu duhyiny diruny-bahnyi. "
+    }
+]
+[
+    {
+        "Translation": " 'to fall into the river'",
+        "id": 158,
+        "Language": " Bj:Holm: banbi balundah "
+    },
+    {
+        "Translation": " '(Don't) fall!'",
+        "id": 158,
+        "Language": " Bj:Holm: (Wanah) banah! "
+    },
+    {
+        "Translation": " 'Rain is falling.'",
+        "id": 158,
+        "Language": " Bj:Holm: Guwang ban.gahla. "
+    },
+    {
+        "Translation": " 'That child fell from the tree. ",
+        "id": 158,
+        "Language": " Bj:Holm: Mala jahdjam behn jalingu. "
+    },
+    {
+        "Translation": " 'Where have all the blacks been this long time?'",
+        "id": 158,
+        "Language": " M: Yindji banggiluru mibiny garahlbu wayrabu? "
+    },
+    {
+        "Translation": " 'The sun has set.'",
+        "id": 158,
+        "Language": " M: Nyangga banggehn. "
+    },
+    {
+        "Translation": " 'dropped it'",
+        "id": 158,
+        "Language": " Gd: ban.gihn-mani "
+    },
+    {
+        "Translation": " 'The tree fell.'",
+        "id": 158,
+        "Language": " Gd: Jali behn. "
+    }
+]
+[
+    {
+        "Translation": " 'These kangaroos are jumping on the road.'",
+        "id": 174,
+        "Language": " Wa: Mani gahny baramgahla gulganda. "
+    },
+    {
+        "Translation": " 'These kangaroos are jumping about all over the road.'",
+        "id": 174,
+        "Language": " Wa: Mani gahny bara-baramgahla gulgunda. "
+    }
+]
+[
+    {
+        "Translation": " 'I will see (one who) will throw a spear.'",
+        "id": 205,
+        "Language": " M: Ngayu nyahny juwan bawah. "
+    }
+]
+[
+    {
+        "Translation": " 'My head got dizzy from spinning round.'",
+        "id": 211,
+        "Language": " Wa: Bawur ngay gala jangurwahla wahnydjarinyun. "
+    },
+    {
+        "Translation": " 'He (a mythical hero) split the rock with his head.'",
+        "id": 211,
+        "Language": " Wa: Maliyu dunmani mala dawgay bawuru. "
+    },
+    {
+        "Translation": " 'The child made her head ache by crying.'",
+        "id": 211,
+        "Language": " Wa: Maliyu jahdjambu jangmani malahni bawur dunganahyu. "
+    },
+    {
+        "Translation": " 'My head is aching.'",
+        "id": 211,
+        "Language": " Wa: Jangwerwahla nganyah bawur. "
+    }
+]
+[
+    {
+        "Translation": " 'with a man'",
+        "id": 216,
+        "Language": " Bj: Holm: baygalbaya "
+    },
+    {
+        "Translation": " '(living) with Kruger'",
+        "id": 216,
+        "Language": " Bj: Kruhgabaya "
+    }
+]
+[
+    {
+        "Translation": " 'today' ",
+        "id": 218,
+        "Language": " Gd: gale bayahny"
+    },
+    {
+        "Translation": " 'We intend to go today, tomorrow, and the next day too.' ",
+        "id": 218,
+        "Language": " Gd: Gale bayahny ngubuh ngubuhwar ngaleh yanbihgu. "
+    },
+    {
+        "Translation": " 'I'm sick today.'",
+        "id": 218,
+        "Language": " Wa:Sha(?): Ngay gale,g,bing bundahng bayahny. "
+    }
+]
+[
+    {
+        "Translation": " 'He has grown up (has become a man).'",
+        "id": 223,
+        "Language": " Wa: Mala baygalwen.gahla / baygal-werwahla. "
+    },
+    {
+        "Translation": " 'the blacks'",
+        "id": 223,
+        "Language": " Gd:Sci: gumbi baygal "
+    },
+    {
+        "Translation": " 'Where are the blacks?'",
+        "id": 223,
+        "Language": " Gn: Yila baygal? "
+    },
+    {
+        "Translation": " 'Pull that spear out of the man.'",
+        "id": 223,
+        "Language": " M: Burah munu juwan baygalbaya. "
+    },
+    {
+        "Translation": " 'I am older than you (I am a man before you).'",
+        "id": 223,
+        "Language": " M: Ngay wanyi ngulung baygal. "
+    },
+    {
+        "Translation": " 'woman who is 'after' a man or fond of men'",
+        "id": 223,
+        "Language": " Y:Holm: baygalgali "
+    },
+    {
+        "Translation": " 'Pull that spear out of the man.'",
+        "id": 223,
+        "Language": " M: Burah munu juwan baygalbaya. "
+    },
+    {
+        "Translation": " 'I am older than you (I am a man before you).' ",
+        "id": 223,
+        "Language": " M: Ngay wanyi ngulungbayga(h)l. "
+    }
+]
+[
+    {
+        "Translation": " 'Don't hit me!'",
+        "id": 227,
+        "Language": " Y:Holm: Wana bayi nganyi! "
+    }
+]
+[
+    {
+        "Translation": " 'only one man'",
+        "id": 235,
+        "Language": " Wa: baygalbeh "
+    },
+    {
+        "Translation": " 'only sleeping'",
+        "id": 235,
+        "Language": " Wa: yunahlabeh "
+    },
+    {
+        "Translation": " 'will only sleep'",
+        "id": 235,
+        "Language": " Wa: yunahnybe "
+    },
+    {
+        "Translation": " 'Only one woman is staying behind.'",
+        "id": 235,
+        "Language": " Wa: Yaburbeh dubay yehn.gala. "
+    },
+    {
+        "Translation": " 'Keep on chopping, there's only a little bit of wood.'",
+        "id": 235,
+        "Language": " Wa: Galgahbu muna bidjangbeh gunu waybar. "
+    },
+    {
+        "Translation": " 'He will drink up all the water.'",
+        "id": 235,
+        "Language": " Wa: Maliyu mala nyabay jugahnybe. "
+    },
+    {
+        "Translation": " 'We will stay just to work gold.'",
+        "id": 235,
+        "Language": " Wa: Ngali yehn.ganybeh wahngwenbibeh guhlbe. "
+    },
+    {
+        "Translation": " 'I'm frightened of leeches, but they only suck your blood.'",
+        "id": 235,
+        "Language": " Wa: Guyir ngay mahnyi juruhmbilnyi, bahnybiny mala gumarbeh. "
+    },
+    {
+        "Translation": " 'give me that dilly-bag of yours before we,g,' (and only then will we go)",
+        "id": 235,
+        "Language": " Wa: Wulah nganhi mala wangah dugul-duguhl ngali-ngu yangahnybe "
+    }
+]
+[
+    {
+        "Translation": " 'Berrung came long long ago, with Momm\u00f3m (and) Yabur\u00f3ng.'",
+        "id": 237,
+        "Language": " M: Berangehn gurilahbu, ngering Mumuhm, Yahburang. "
+    }
+]
+[
+    {
+        "Translation": " 'small mountain'",
+        "id": 241,
+        "Language": " Ny: nimbar (nyimbur?) bibuh "
+    }
+]
+[
+    {
+        "Translation": " 'The mother gave the baby some milk.'",
+        "id": 244,
+        "Language": " Gd: Maliyu mahmidjargandu wulani malahni bidjangganyi guruhm. "
+    }
+]
+[
+    {
+        "Translation": " 'This father is standing here.'",
+        "id": 245,
+        "Language": " Wa: Gala bidjangdjar jahnala gadji. "
+    },
+    {
+        "Translation": " 'These fathers are standing here.' ",
+        "id": 245,
+        "Language": " Wa: Gahny bidjangdjar jajahnala gadji. "
+    }
+]
+[
+    {
+        "Translation": " 'mouse' (i.e. Small rat)",
+        "id": 247,
+        "Language": " Y:Hanln: gundur bidjanggalang "
+    },
+    {
+        "Translation": " 'little mouth'",
+        "id": 247,
+        "Language": " Y:Holm:Monsl: jehng bidjang "
+    }
+]
+[
+    {
+        "Translation": " 'your husband'",
+        "id": 267,
+        "Language": " Gd: banibihny"
+    },
+    {
+        "Translation": " 'your younger brothers'",
+        "id": 267,
+        "Language": " Gd: wangah banambihny"
+    }
+]
+[
+    {
+        "Translation": " 'I fell out of the tree.'",
+        "id": 312,
+        "Language": " Wa: Ngay behn jalingu malahnu. "
+    },
+    {
+        "Translation": " 'It's raining out of that cloud.'",
+        "id": 312,
+        "Language": " Wa: Malahya guwang bin.gahla dagamba. "
+    },
+    {
+        "Translation": " 'The sun is setting.'",
+        "id": 312,
+        "Language": " Wa: Mala yalgan birwahla. "
+    }
+]
+[
+    {
+        "Translation": " 'She threw it into the fire.'",
+        "id": 317,
+        "Language": " Wa: Mala nyahngandu birani waybara. "
+    },
+    {
+        "Translation": " 'Throw the bones away.'",
+        "id": 317,
+        "Language": " Wa: Birah mala darigan. "
+    },
+    {
+        "Translation": " 'I'll spit them out of my mouth.'",
+        "id": 317,
+        "Language": " Wa: Birahny ngadju gahny jehngga. "
+    },
+    {
+        "Translation": " 'Answer him quickly.' ",
+        "id": 317,
+        "Language": " Wa: Ngabarmah wahlu malahni jahny birah. "
+    },
+    {
+        "Translation": " 'He's still breathing.'",
+        "id": 317,
+        "Language": " Gd:Geyt?: Mala buhwi biralehlabu. "
+    },
+    {
+        "Translation": " 'Go fishing!' 'Throw a fishing line.'",
+        "id": 317,
+        "Language": " Gd:Geyt?: Birah mala ganyahl. "
+    },
+    {
+        "Translation": " 'There is a man fishing.' ",
+        "id": 317,
+        "Language": " Bj:Holm: Gila baygal biralehla. "
+    },
+    {
+        "Translation": " 'while (I) am fishing'",
+        "id": 317,
+        "Language": " Bj:Holm: Biralehla-bar-nguy "
+    }
+]
+[
+    {
+        "Translation": " '(He) used to carry things inside the cave'",
+        "id": 334,
+        "Language": " Wa: Gayehndinbeh birman.gu guhgargu "
+    }
+]
+[
+    {
+        "Translation": " 'I will make spears for both the boy and the father.' ",
+        "id": 337,
+        "Language": " M: Ngayu juwan ginahny jabugay biyanggay ngeringgay. "
+    }
+]
+[
+    {
+        "Translation": " 'two'",
+        "id": 342,
+        "Language": " Y:Holm: bulabu"
+    }
+]
+[
+    {
+        "Translation": " 'A whiteman's skin is soft but an Aborigine's is hard.'",
+        "id": 371,
+        "Language": " Wa: Malahna yiralingah yulany mahnyu budjur baygalnah-ngu malahnawahr gadjangwahr. "
+    }
+]
+[
+    {
+        "Translation": " 'That was right.'",
+        "id": 381,
+        "Language": " Wa: Bugalmani gahba. "
+    }
+]
+[
+    {
+        "Translation": " 'They drank without harm, with good results.'",
+        "id": 382,
+        "Language": " Cas: Gahmulu jugani bugalwehn. "
+    },
+    {
+        "Translation": " 'We'd better catch some fish for our hunger.'",
+        "id": 382,
+        "Language": " Cas: Bugalwehnbe,g,hngiliyah ngali jalum mulegu. "
+    }
+]
+[
+    {
+        "Translation": " 'I speared him.'",
+        "id": 394,
+        "Language": " Cas: Ngadju malahni bugwani bilahru. "
+    },
+    {
+        "Translation": " 'The sun shines.'",
+        "id": 394,
+        "Language": " Cas: Yalgan bugwahla. "
+    }
+]
+[
+    {
+        "Translation": " 'I'll blow the fire'",
+        "id": 401,
+        "Language": " Wa: Ngadju mala buhmbiny waybar."
+    },
+    {
+        "Translation": " 'The leaves high in the tree are blowing.'",
+        "id": 401,
+        "Language": " Wa: Wurahng mahnyu malahya jaliya buhmbila mala ngahnydja. "
+    },
+    {
+        "Translation": " 'Don't smoke (cigarettes).'",
+        "id": 401,
+        "Language": " Wa: Wanah mahny buhmbi. "
+    },
+    {
+        "Translation": " 'I'll blow, I'll have a smoke.'",
+        "id": 401,
+        "Language": " Cas: Ngay buhmbilehny. "
+    }
+]
+[
+    {
+        "Translation": " 'child who cries constantly'",
+        "id": 409,
+        "Language": " Gd: dungbuhny "
+    }
+]
+[
+    {
+        "Translation": " 'We pulled the kangaroo out there.' ",
+        "id": 417,
+        "Language": " Wa: Gagahri ngali mala mani buhwini. "
+    }
+]
+[
+    {
+        "Translation": " 'two blacks.'",
+        "id": 428,
+        "Language": " Ng:Curr:TwD:Bray: bula mibiny "
+    },
+    {
+        "Translation": " 'halves'",
+        "id": 428,
+        "Language": " M: bulahndin "
+    },
+    {
+        "Translation": " 'twins'",
+        "id": 428,
+        "Language": " M: bulahnday(gan) "
+    }
+]
+[
+    {
+        "Translation": " 'three blacks'",
+        "id": 430,
+        "Language": " M: bulah yaburu mibiny, bular(a) yaburu baygal/mibiny"
+    }
+]
+[
+    {
+        "Translation": " 'without meat'",
+        "id": 437,
+        "Language": " Y:Holm:Logn: bulang-djam "
+    }
+]
+[
+    {
+        "Translation": " 'She took a possum-skin and made a drum out of it.'",
+        "id": 447,
+        "Language": " Cas: Gahngani gihdjay nyangandu, bulbingmani nguy. "
+    }
+]
+[
+    {
+        "Translation": " 'The young men today fight among themselves.'",
+        "id": 475,
+        "Language": " Wa: Mahny baling-balihng bumilehla bayahny."
+    },
+    {
+        "Translation": " 'These men are fighting.'",
+        "id": 475,
+        "Language": " Cas: Gahny baygal bumilehlabe."
+    },
+    {
+        "Translation": " 'Don't fight.'",
+        "id": 475,
+        "Language": " Y:Holm: Wana bumili (Wanah bumileh). "
+    }
+]
+[
+    {
+        "Translation": " 'Have they found the murderer?'",
+        "id": 476,
+        "Language": " Cas: Nyang nyulamanggu wulimani bumilehnini? "
+    },
+    {
+        "Translation": " 'He killed the man.'",
+        "id": 476,
+        "Language": " Cas: Maleyu bumani baygalni. "
+    },
+    {
+        "Translation": " 'I made him a spear so he would kill a kangaroo for me.'",
+        "id": 476,
+        "Language": " Cas: Ngadju nyulagay bilahrmani bumbih nyulayu ngadjah mahni."
+    },
+    {
+        "Translation": " 'Don't kill me!'",
+        "id": 476,
+        "Language": " Gd: Wanah nganyi bumah wahlu. "
+    },
+    {
+        "Translation": " 'I will beat you with a club.'",
+        "id": 476,
+        "Language": " M:Liv: Bumahny ngayu wanyi marandanggu. "
+    },
+    {
+        "Translation": " 'hitting' = bayila",
+        "id": 476,
+        "Language": " Y:Holm: bumgala "
+    },
+    {
+        "Translation": " 'Dogs are fighting.' ",
+        "id": 476,
+        "Language": " Y:Sha:Culhm: Bumilehla ngagam. "
+    },
+    {
+        "Translation": " 'I will kill him tomorrow.' ",
+        "id": 476,
+        "Language": " Td:Bray: Ngayu bumgahla ngubu. "
+    },
+    {
+        "Translation": " 'The man killed a kangaroo yesterday.'",
+        "id": 476,
+        "Language": " Bj: Gala baygalu bumani gurumani ngubu warbu."
+    },
+    {
+        "Translation": " 'He hit me.'",
+        "id": 476,
+        "Language": " Bj: Galahyu wulbani nganyi bumani. "
+    },
+    {
+        "Translation": " 'Hit him!'",
+        "id": 476,
+        "Language": " Bj: Bumah galahni. "
+    }
+]
+[
+    {
+        "Translation": " 'little dog'",
+        "id": 506,
+        "Language": " Gd: ngagambur "
+    },
+    {
+        "Translation": " 'toy boomerang'",
+        "id": 506,
+        "Language": " Gd: bargahn-bur "
+    }
+]
+[
+    {
+        "Translation": " 'from behind the tree'",
+        "id": 508,
+        "Language": " Wa: Buramu jalingu "
+    },
+    {
+        "Translation": " 'Listen to those singing behind the house out there (and who I haven't seen yet).'",
+        "id": 508,
+        "Language": " Wa: Ganngah manyihni yarbilehla bagarah burambah nguhmbinydjah. "
+    }
+]
+[
+    {
+        "Translation": " 'two hands' (also used for 'ten')",
+        "id": 539,
+        "Language": " Bj:Holm: buruhrbu jambay "
+    },
+    {
+        "Translation": " 'we two are sitting'",
+        "id": 539,
+        "Language": " Bj:Holm: Ngali buruhr yehn.galah "
+    }
+]
+[
+    {
+        "Translation": " 'If the wind changes, the rain will come.'",
+        "id": 552,
+        "Language": " Wa: Gala buyan wahnydjarehnyi guwang mala yang-giwahny. "
+    }
+]
+[
+    {
+        "Translation": " 'It is grass.'",
+        "id": 565,
+        "Language": " Bj:Holm: Buyuybar. "
+    }
+]
+[
+    {
+        "Translation": " 'Grandfather nearly hit me with a boomerang.' (ie he threw it, but missed);",
+        "id": 572,
+        "Language": " Wa: Dagal nganyi bumani ngadjangbinydju bargandu. "
+    }
+]
+[
+    {
+        "Translation": " 'It's raining out of that cloud.' ",
+        "id": 573,
+        "Language": " Wa: Malahya guwang bin.gahla dagamba. "
+    }
+]
+[
+    {
+        "Translation": " 'We danced for the Europeans.'",
+        "id": 577,
+        "Language": " Cas: Dagay-gay ngali ngahrin. "
+    },
+    {
+        "Translation": " 'The mouth of the corpse we buried today.'",
+        "id": 577,
+        "Language": " Cas: Jehny galahna dagaynyah bayahny ngali duwanahna. "
+    },
+    {
+        "Translation": " 'When will this wind die (be dead)?'",
+        "id": 577,
+        "Language": " Cas: Nyaligur gale buwiyan dagay? "
+    },
+    {
+        "Translation": " 'He will kill me dead because of you.'",
+        "id": 577,
+        "Language": " Cas: Bumgahnybe nganyi dagay wangahgal. "
+    }
+]
+[
+    {
+        "Translation": " 'He was dead.'",
+        "id": 578,
+        "Language": " M: Gili dagayehn. "
+    }
+]
+[
+    {
+        "Translation": " 'from Tabulam'",
+        "id": 584,
+        "Language": " Wa: dabalamnu "
+    }
+]
+[
+    {
+        "Translation": " 'He fell over on muddy ground.'",
+        "id": 593,
+        "Language": " Gd: Dalagargali djagunde behn nyule. "
+    }
+]
+[
+    {
+        "Translation": " 'You paint yourself.'",
+        "id": 599,
+        "Language": " Bj: Wuya dalanggumaleh. "
+    }
+]
+[
+    {
+        "Translation": " 'girl with a sore hand' (handclass-fem)",
+        "id": 633,
+        "Language": " Gd: danggan-girgan "
+    }
+]
+[
+    {
+        "Translation": " 'breastbone' (bone in the chest)",
+        "id": 649,
+        "Language": " Wa(?): Walmirah mala darigan "
+    },
+    {
+        "Translation": " 'You'll cut your feet on the bones.'",
+        "id": 649,
+        "Language": " Wa:(?)Galgahny mahnyulu darigandu djinang."
+    }
+]
+[
+    {
+        "Translation": " 'on/at/in the river (in the past)'",
+        "id": 669,
+        "Language": " Y:Holm: balundi "
+    },
+    {
+        "Translation": " '(They) buried (them) in the,g,ound.'",
+        "id": 669,
+        "Language": " Y:Holm Duwani jagundi. "
+    }
+]
+[
+    {
+        "Translation": " 'I'll sew this bag.' ",
+        "id": 670,
+        "Language": " Wa: Gala ngadju behng dibahny. "
+    },
+    {
+        "Translation": " 'sewing'",
+        "id": 670,
+        "Language": " We: dibalehla- "
+    }
+]
+[
+    {
+        "Translation": " 'This coolamon is full of water.'",
+        "id": 698,
+        "Language": " Cas: Gale bigi dirangur nyabayu. "
+    }
+]
+[
+    {
+        "Translation": " 'own husband'",
+        "id": 706,
+        "Language": " Gd: banidjar "
+    }
+]
+[
+    {
+        "Translation": " 'men'",
+        "id": 707,
+        "Language": " Gd: baygaldjahli "
+    }
+]
+[
+    {
+        "Translation": " 'This one is exactly like that one.'",
+        "id": 708,
+        "Language": " Gd: Gale malahdjar. "
+    }
+]
+[
+    {
+        "Translation": " 'father and son'",
+        "id": 709,
+        "Language": " Y:Holm: biyangdjal muyumdjal "
+    }
+]
+[
+    {
+        "Translation": " '(That looks like a) woman over there.' (woman-class over there)",
+        "id": 719,
+        "Language": " Gd:Geyt: Dubahygir gah. "
+    },
+    {
+        "Translation": " 'That woman is big.'",
+        "id": 719,
+        "Language": " Bj:Turnbl: Gidjuhny gala dubay. "
+    },
+    {
+        "Translation": " 'The woman made (it).'",
+        "id": 719,
+        "Language": " Bj:Holm: Dubayu nyangani."
+    }
+]
+[
+    {
+        "Translation": " 'The boy is bigger than the,g,rl.'",
+        "id": 720,
+        "Language": " Bj:Turnbl: Gala jananggan gidjuhndjang gale dubaydjinbaya. "
+    }
+]
+[
+    {
+        "Translation": " 'up (on the hill)'",
+        "id": 730,
+        "Language": " Bj: dugundah "
+    },
+    {
+        "Translation": " 'up the hill, the island.'",
+        "id": 730,
+        "Language": " Bj: dugun.gu "
+    }
+]
+[
+    {
+        "Translation": " The kangaroo is frightened because he sees me.'",
+        "id": 740,
+        "Language": " Y:Culhm: Duhyindjah guruhman nganyih nyahna. "
+    }
+]
+[
+    {
+        "Translation": " 'He (a mythical hero) split the rock with his head.'",
+        "id": 770,
+        "Language": " Wa:Crowl: Maliyu dunmani mala dawgay bawuru. "
+    }
+]
+[
+    {
+        "Translation": " 'The kangaroo is afraid of the man.'",
+        "id": 782,
+        "Language": " Bj: Gala guruman durulehla baygalbanyi. "
+    }
+]
+[
+    {
+        "Translation": " 'Who is that chopping in the bush?'",
+        "id": 791,
+        "Language": " Cas: Ngihn.gur gile,g,lgalehla gabala? "
+    },
+    {
+        "Translation": " 'Tell that woman to run into the bush.'",
+        "id": 791,
+        "Language": " Cas: Mirungmihni wadjeh gawariyah gabalgu. "
+    }
+]
+[
+    {
+        "Translation": " 'I'm hungry, my stomach wants food.' ",
+        "id": 801,
+        "Language": " Y:Sha:Culhm: Ngayu gabir, jalihgi nganyah mung. "
+    }
+]
+[
+    {
+        "Translation": " 'This father is standing here.'",
+        "id": 818,
+        "Language": " Wa: Gala bidjangdjar jahnala gadji "
+    },
+    {
+        "Translation": " 'These fathers are standing here.'",
+        "id": 818,
+        "Language": " Wa: Gahny bidjangdjar jadjahnala gadji. "
+    }
+]
+[
+    {
+        "Translation": " 'Let's go over here to perhaps catch some catfish.' (in the water in this place, where you can't see the catfish)",
+        "id": 823,
+        "Language": " Wa: Yanah ngali gadjungun namaliyah wagan guram. "
+    }
+]
+[
+    {
+        "Translation": "",
+        "id": 833,
+        "Language": " "
+    },
+    {
+        "Translation": " 'Yes I saw that nest.'",
+        "id": 833,
+        "Language": " Gd:Geyt: Yaway nyahni gahba jindi. "
+    }
+]
+[
+    {
+        "Translation": " 'The woman tried to catch it.' ",
+        "id": 837,
+        "Language": " Wa: Maliyu dubaydju gunini gahdjani"
+    },
+    {
+        "Translation": " 'A dog chased him.'",
+        "id": 837,
+        "Language": " Wa: Ngagam gahdjalehn nyule,g,. "
+    }
+]
+[
+    {
+        "Translation": " 'after leaving Woodenbong I arrived at Glen Station.'",
+        "id": 842,
+        "Language": " Gd:Geyt: Ngudjumbuny-gahl bahyani jubare. "
+    }
+]
+[
+    {
+        "Translation": " 'Both the men were fighting.'",
+        "id": 843,
+        "Language": " Cas: Gahmban baygal bulahbu bumilehn. "
+    }
+]
+[
+    {
+        "Translation": " 'Those cattle will arrive soon.'",
+        "id": 848,
+        "Language": " Gd: Gahnye bulah bahngany ngulungmay. "
+    }
+]
+[
+    {
+        "Translation": " 'Wait there by the red gum tree!'",
+        "id": 858,
+        "Language": " Gd: Gahye nurgire man.gargire. "
+    }
+]
+[
+    {
+        "Translation": " 'I was here.'",
+        "id": 880,
+        "Language": " M:Liv: Gagaliyehn ngay. "
+    },
+    {
+        "Translation": " 'What is this?'",
+        "id": 880,
+        "Language": " Y:Allen: Minyang gali? "
+    }
+]
+[
+    {
+        "Translation": " 'I saw him recently at his place.'",
+        "id": 922,
+        "Language": " Gd: Gunahgan nyule,g, nyahni nyulengahye. "
+    }
+]
+[
+    {
+        "Translation": " 'Are you married?' ",
+        "id": 938,
+        "Language": " Cas: Nyang wudjeh ganydjilehn? "
+    }
+]
+[
+    {
+        "Translation": " 'He married the woman lying in the,g,ass.'",
+        "id": 939,
+        "Language": " Wa: Maliyu ganydjini dubaynyi yunanyun malahya wudjangga. "
+    }
+]
+[
+    {
+        "Translation": " 'a man's head'",
+        "id": 950,
+        "Language": " M:Liv: bayganah kanggar "
+    }
+]
+[
+    {
+        "Translation": " 'Tie up that beef.'",
+        "id": 955,
+        "Language": " Cas: Gangeh male bulang. "
+    }
+]
+[
+    {
+        "Translation": " 'my wife'",
+        "id": 971,
+        "Language": " Cas: banigaragan "
+    }
+]
+[
+    {
+        "Translation": " 'full moon'",
+        "id": 983,
+        "Language": " M:Liv: gibam garandalehn "
+    },
+    {
+        "Translation": " 'heavy rain'",
+        "id": 983,
+        "Language": " M:Liv: garandalehn guwang "
+    },
+    {
+        "Translation": " 'the fire is hot'",
+        "id": 983,
+        "Language": " M:Liv: garandalehn waybar "
+    }
+]
+[
+    {
+        "Translation": " '(Someone) broke her spear.'",
+        "id": 1025,
+        "Language": " Wa: Munah bilahr nyahn.ganah gawani. "
+    },
+    {
+        "Translation": " 'The man threw the spear and it broke in half.'",
+        "id": 1025,
+        "Language": " Wa: Maliyu munah bilahr birani baygalu gawalehn-nguy bahm. "
+    },
+    {
+        "Translation": " 'The,g,rl broke her spear (deliberately).'",
+        "id": 1025,
+        "Language": " Wa: Gawani maliyu dubahdjaru munah bilahr nyahn.ganah."
+    },
+    {
+        "Translation": " 'My boomerang broke (acccidentally).' ",
+        "id": 1025,
+        "Language": " Wa: Nganyah bargan gawani."
+    },
+    {
+        "Translation": " 'That white horse's left hind leg broke.'",
+        "id": 1025,
+        "Language": " Gd: Gile dalahn yaramanah warambahl jarang gawalehn. "
+    },
+    {
+        "Translation": " 'Were they breaking sticks?'",
+        "id": 1025,
+        "Language": " Gd: Nyang darnang gawalehn nyulangam?"
+    }
+]
+[
+    {
+        "Translation": " 'from outside the house'",
+        "id": 1027,
+        "Language": " Wa: gawalungnyi nguhmbinyi "
+    },
+    {
+        "Translation": " 'He took it out.'",
+        "id": 1027,
+        "Language": " Wa: Gawalung bahnybin mala."
+    },
+    {
+        "Translation": " 'Go outside.'",
+        "id": 1027,
+        "Language": " Cas: Gawalang gaye. "
+    }
+]
+[
+    {
+        "Translation": " 'I'll run away with my spear.'",
+        "id": 1031,
+        "Language": " Cas: Ngay gawandehny bilahru. "
+    }
+]
+[
+    {
+        "Translation": " 'The kangaroo ran (hopped) to the tree.'",
+        "id": 1039,
+        "Language": " Wa: Mani mala gawarehni malahgu jaligu. "
+    },
+    {
+        "Translation": " 'run with those'",
+        "id": 1039,
+        "Language": " Wa: Gawande,g, mahnyulu "
+    },
+    {
+        "Translation": " 'My canoe,g,es better than yours.'",
+        "id": 1039,
+        "Language": " Wa: Nganyah gala bagul gawarehla bugalungahla wangahnyi."
+    },
+    {
+        "Translation": " 'The water is flowing over the stones.'",
+        "id": 1039,
+        "Language": " Wa: Mala nyabay gawarehla wayganda gudjanda mahnyula. "
+    },
+    {
+        "Translation": " 'He's got a runny nose.'",
+        "id": 1039,
+        "Language": " Wa: Muru malahna gawarehla."
+    },
+    {
+        "Translation": " 'The sore is bleeding.'",
+        "id": 1039,
+        "Language": " Wa: Mala gumar gawarehla malahya jigaydja. "
+    },
+    {
+        "Translation": " 'The wind is blowing from the south.'",
+        "id": 1039,
+        "Language": " Wa: Mala buyan gawarehla wanggahnu."
+    },
+    {
+        "Translation": " 'The sand extends as far as the water.' ",
+        "id": 1039,
+        "Language": " Wa: Mala guygum nyabaygu gawarehla. "
+    },
+    {
+        "Translation": " 'He ran away.' ",
+        "id": 1039,
+        "Language": " We: Nyule,g,warehn. "
+    },
+    {
+        "Translation": " 'The a head is slipping.' (smooth runs)",
+        "id": 1039,
+        "Language": " Gd: Mugimah bawur girur gawarehla. "
+    },
+    {
+        "Translation": " 'a thing which may be made to run (eg car)'",
+        "id": 1039,
+        "Language": " Gd: gawarimal "
+    },
+    {
+        "Translation": " 'a thing being made to run'",
+        "id": 1039,
+        "Language": " Gd: gawarimay"
+    },
+    {
+        "Translation": " 'Go round the camp.'",
+        "id": 1039,
+        "Language": " M:Liv: Gawarileh waybanu. "
+    },
+    {
+        "Translation": " 'Go round the man.' ",
+        "id": 1039,
+        "Language": " M:Liv: Gawarileh baygalbahnu."
+    },
+    {
+        "Translation": " 'I saw children running away.'",
+        "id": 1039,
+        "Language": " M: Ngayu nyahni gawarinyun jahdjami."
+    },
+    {
+        "Translation": " 'I run fast, you slowly, I am faster than you.' ",
+        "id": 1039,
+        "Language": " M: Ngay gawarehn garayalehn, wanandehn wanyi."
+    }
+]
+[
+    {
+        "Translation": " 'The splinter pierced the eye.' (eye-through)",
+        "id": 1066,
+        "Language": " Gd: Miyingu gayehn barehny. "
+    },
+    {
+        "Translation": " 'Let's dive into the water.' ",
+        "id": 1066,
+        "Language": " Gd: Gagahnyu ngali gayihndebeh gungge."
+    },
+    {
+        "Translation": " 'We were,g,ing into these houses.'",
+        "id": 1066,
+        "Language": " Wa: Ngali gahny nguhmbinydja gayehni. "
+    },
+    {
+        "Translation": " 'He used to carry things inside the cave.'",
+        "id": 1066,
+        "Language": " Wa: Gayehndinbeh birman.gu guhgargu. "
+    }
+]
+[
+    {
+        "Translation": " 'These spectacles are somewhere here.'",
+        "id": 1067,
+        "Language": " Gd: Gunah miyigubih gayu ngehr. "
+    }
+]
+[
+    {
+        "Translation": " 'a long road'",
+        "id": 1071,
+        "Language": " Ng: gayuli gulgan"
+    }
+]
+[
+    {
+        "Translation": " 'She saw Balugahn descending.'",
+        "id": 1074,
+        "Language": " Cas: Nyahni nyan.gandu Balugahni, ge,g,n nyule."
+    }
+]
+[
+    {
+        "Translation": " 'running away'",
+        "id": 1075,
+        "Language": " Y:Holm: gehl gawarehla "
+    }
+]
+[
+    {
+        "Translation": " 'Look for a hole there to pour the ashes into.'",
+        "id": 1078,
+        "Language": " Wa: Madjungun guluny ngalawah gehrbiyah mala muruhny. "
+    }
+]
+[
+    {
+        "Translation": " 'wants bread again'",
+        "id": 1081,
+        "Language": " Gd: burehngibu "
+    },
+    {
+        "Translation": " 'He wants food.'",
+        "id": 1081,
+        "Language": " Gd: Nyule nanganygi. "
+    },
+    {
+        "Translation": " 'He wants to run.'",
+        "id": 1081,
+        "Language": " Gd: Gawarihgi nyule. "
+    },
+    {
+        "Translation": " 'Do you not want to return home again?'",
+        "id": 1081,
+        "Language": " Gd: Yagambeh wahlu numbuhligibu? "
+    },
+    {
+        "Translation": " 'What do you want?'",
+        "id": 1081,
+        "Language": " Cas: Nyahgi wudjeh? "
+    },
+    {
+        "Translation": " 'Do you desire such food?'",
+        "id": 1081,
+        "Language": " Cas: Nyanggur wudjeh ginyehrgi nanganygi? "
+    },
+    {
+        "Translation": " 'I don't wish to eat it.'",
+        "id": 1081,
+        "Language": " Cas: Yagambe ngadju jahbigi. "
+    }
+]
+[
+    {
+        "Translation": " 'I feel sorry for you lying down sick.' ",
+        "id": 1088,
+        "Language": " Wa: Ngay wudjah gidjirun.gahla gibing wudja yunanyun. "
+    },
+    {
+        "Translation": " 'I'm (very) sick today.' ",
+        "id": 1088,
+        "Language": " Wu:Calley: Ngay gale,g,bing bundahng bayahny. "
+    }
+]
+[
+    {
+        "Translation": " 'The boy is bigger than the,g,rl.'",
+        "id": 1108,
+        "Language": " Bj:Turnbl: Gala jananggan gidjuhndjang gale dubaydjinbaya. "
+    },
+    {
+        "Translation": " 'That woman is big.'",
+        "id": 1108,
+        "Language": " Bj:Turnbl: Gidjuhny gala dubay. "
+    },
+    {
+        "Translation": " 'That woman is big.'",
+        "id": 1108,
+        "Language": " Bj:Turnbl: Gidjuhnygaligan."
+    },
+    {
+        "Translation": " 'That man is big.'",
+        "id": 1108,
+        "Language": " Bj:Turnbl: Gidjuhny gala baygal. "
+    }
+]
+[
+    {
+        "Translation": " '... That he might raise his child to adulthood.'",
+        "id": 1109,
+        "Language": " Cas: ... Gah nyule wubihnymayah gidjuhnygamwanbi nyulangah jahdjam. "
+    }
+]
+[
+    {
+        "Translation": " 'He,g,t down.' ",
+        "id": 1113,
+        "Language": " Bj: Nyula gigahn. "
+    }
+]
+[
+    {
+        "Translation": " 'if you go there'",
+        "id": 1129,
+        "Language": " Bj: Wuya gilamanyi "
+    }
+]
+[
+    {
+        "Translation": " 'What is that?'",
+        "id": 1132,
+        "Language": " Bj:Turnbl: Nyang mala? "
+    },
+    {
+        "Translation": " 'That man' or 'There is a man.' ",
+        "id": 1132,
+        "Language": " Bj:Holm: Gila baygal. "
+    }
+]
+[
+    {
+        "Translation": " 'Where is the paddle of that (this) canoe?' ",
+        "id": 1136,
+        "Language": " M:Liv: Yili jabalgan gilagubi gandalgubi? "
+    },
+    {
+        "Translation": " Whose is that?'",
+        "id": 1136,
+        "Language": " Y:Allen: Ngahna gili? "
+    },
+    {
+        "Translation": " 'Who is there? ",
+        "id": 1136,
+        "Language": " Y:Allen: Ngahn gili? "
+    },
+    {
+        "Translation": " 'here and there'",
+        "id": 1136,
+        "Language": " Y:Holm:Logn: gilagu malagu "
+    },
+    {
+        "Translation": " 'from here' ",
+        "id": 1136,
+        "Language": " Y:Holm:Logn: gilangu "
+    },
+    {
+        "Translation": " 'That's your house over there.'",
+        "id": 1136,
+        "Language": " Y:Sha:Culhm: Gili wahlu ngumbiny wungah."
+    }
+]
+[
+    {
+        "Translation": " 'I made a mistake in staying here.'",
+        "id": 1138,
+        "Language": " Gd:Geyt: Gim ngay yahyandehn gadji. "
+    }
+]
+[
+    {
+        "Translation": " 'Wash away the blood with water.'",
+        "id": 1140,
+        "Language": " Wa: Gimbah mahny gumar nyabaydju. "
+    }
+]
+[
+    {
+        "Translation": " 'Put it down here somewhere (near me)!'",
+        "id": 1141,
+        "Language": " Gd: Gadji gimbadje-mah."
+    }
+]
+[
+    {
+        "Translation": " 'Don't speak!'",
+        "id": 1154,
+        "Language": " Tw:Curr:Bray: Gingli maymalam! "
+    },
+    {
+        "Translation": " '(Be) quiet!'",
+        "id": 1154,
+        "Language": " Tw:Curr:Bray: Gingle(h) "
+    }
+]
+[
+    {
+        "Translation": " 'He looks like me.'",
+        "id": 1157,
+        "Language": " Wa:Crowl: Mala ngay-ginggehla. "
+    },
+    {
+        "Translation": " 'It flows out like water.'",
+        "id": 1157,
+        "Language": " Wa:Crowl: Mala gawarehla nyabayginggehla. "
+    },
+    {
+        "Translation": " 'It looks like rain.'",
+        "id": 1157,
+        "Language": " Cas: Gale,g,wang-ginggehla. "
+    }
+]
+[
+    {
+        "Translation": " 'male worker' ",
+        "id": 1163,
+        "Language": " Cas: wangmaliginy"
+    }
+]
+[
+    {
+        "Translation": " 'Who speaks such a language?'",
+        "id": 1166,
+        "Language": " Cas: Ngihn.gur ginyehr nguyeh wadjelela? "
+    },
+    {
+        "Translation": " 'I never heard such a thing, I never heard anything like that.'",
+        "id": 1166,
+        "Language": " Cas: Yagambehwar ngadju ganngahla ginyehr."
+    },
+    {
+        "Translation": " 'like an e,g,",
+        "id": 1166,
+        "Language": " Bj: mangarim ginyehr "
+    },
+    {
+        "Translation": " 'like me'",
+        "id": 1166,
+        "Language": " Bj: ngay ginyehr "
+    }
+]
+[
+    {
+        "Translation": " 'Ask him to fight.'",
+        "id": 1201,
+        "Language": " M:Liv: Giyah malahnyi bumaliyah. "
+    },
+    {
+        "Translation": " 'You ask him to light a fire.'",
+        "id": 1201,
+        "Language": " M:Liv: Wahlu giyah malahnyi waybar gandjiyah/gandjibah. "
+    },
+    {
+        "Translation": " 'I replied.'",
+        "id": 1201,
+        "Language": " M:Liv: Ngayu giyalehn. "
+    },
+    {
+        "Translation": " 'That white cockatoo speaks like a man.'",
+        "id": 1201,
+        "Language": " M:Liv: Mali gehr mibiny giyahla. "
+    },
+    {
+        "Translation": " 'One came (sic) to me.'",
+        "id": 1201,
+        "Language": " M:Liv: Yaburugen ngayabah giyani. "
+    },
+    {
+        "Translation": " 'Tell him!'",
+        "id": 1201,
+        "Language": " Y:Holm:Fogty: Giyah nyulangi! "
+    },
+    {
+        "Translation": " '(He) told me.'",
+        "id": 1201,
+        "Language": " Y:Holm:Logn: Giyani nganyi. "
+    }
+]
+[
+    {
+        "Translation": " 'You to scrub go.'",
+        "id": 1206,
+        "Language": " M:Liv: Wahlu gahm gabal giyuwah. "
+    }
+]
+[
+    {
+        "Translation": " 'I'll spear him by-and-by.'",
+        "id": 1209,
+        "Language": " Tw:Bray: Ngayu bugahla guba."
+    }
+]
+[
+    {
+        "Translation": " 'shoes' (foot-thing) ",
+        "id": 1215,
+        "Language": " Gd: jinanggubih "
+    }
+]
+[
+    {
+        "Translation": " '(The tree had) honey in it.' ",
+        "id": 1231,
+        "Language": " Y:Sha:Culhm: Gudjanguhrgan. "
+    }
+]
+[
+    {
+        "Translation": " 'came out of the hole'",
+        "id": 1245,
+        "Language": " Y:Holm:Logn: bayani gugarnu "
+    }
+]
+[
+    {
+        "Translation": " 'from the north'",
+        "id": 1249,
+        "Language": " M:Liv: gugin.gahl "
+    }
+]
+[
+    {
+        "Translation": " 'Come inside.' (inside enter) ",
+        "id": 1256,
+        "Language": " Wu: Guhgar giyah. "
+    },
+    {
+        "Translation": " 'into the scrub.'",
+        "id": 1256,
+        "Language": " Wa: guhgargu gabalgu. "
+    }
+]
+[
+    {
+        "Translation": " 'My wife will bring me water.' (ef) ",
+        "id": 1261,
+        "Language": " Bj: Nganyah banidjargan(du) guhng (or gabing) yangina. "
+    },
+    {
+        "Translation": " 'dew on the,g,ass'",
+        "id": 1261,
+        "Language": " Bj: guhng wudjanggah "
+    }
+]
+[
+    {
+        "Translation": " 'People are hiding in the house.'",
+        "id": 1269,
+        "Language": " Cas: Baygal guhrbalehla ngumbinydjah. "
+    }
+]
+[
+    {
+        "Translation": " 'He went that way and went round the sleeper.'",
+        "id": 1271,
+        "Language": " Cas: Gilamani nyule wuram guhrwalehn. "
+    },
+    {
+        "Translation": " 'He went round behind his aunt.'",
+        "id": 1271,
+        "Language": " Cas: Guhrwalehn nyulayu ngarungdjarganbahnu. "
+    }
+]
+[
+    {
+        "Translation": " 'orphan boy'",
+        "id": 1275,
+        "Language": " Y:Alln: gulum "
+    }
+]
+[
+    {
+        "Translation": " 'Bring another canoe.'",
+        "id": 1291,
+        "Language": " Cas: Yanganehbu gulgih bagul. "
+    }
+]
+[
+    {
+        "Translation": " 'My nose is blocked up with a cold in the head.'",
+        "id": 1305,
+        "Language": " Wa: Muru nganyah banydjani gulungbaydju bawurahyu. "
+    }
+]
+[
+    {
+        "Translation": " 'Did they all do it?'",
+        "id": 1319,
+        "Language": " We: Gumbiyu nyangani? "
+    }
+]
+[
+    {
+        "Translation": " 'That was the end of him.'",
+        "id": 1323,
+        "Language": " Y:Holm:Logn: Gumbiny-wehn nyula. "
+    }
+]
+[
+    {
+        "Translation": " 'These,g,asses are somewhere here.'",
+        "id": 1332,
+        "Language": " Gd: Gunah miyigubih gayu ngehr."
+    },
+    {
+        "Translation": " 'I saw him recently at this place.' ",
+        "id": 1332,
+        "Language": " Gd: Gunahgan nyule,g, nyahni nyulengahye."
+    }
+]
+[
+    {
+        "Translation": " 'over there' (answer to 'Where is the tomahawk?')",
+        "id": 1348,
+        "Language": " Y:Sha:Culhm: gundeh bagurah "
+    }
+]
+[
+    {
+        "Translation": " 'without water'",
+        "id": 1370,
+        "Language": " Y:Holm:Logn: gung-djam "
+    }
+]
+[
+    {
+        "Translation": " 'It is warmer here than there.'",
+        "id": 1375,
+        "Language": " Gd: Gunu nguhndjang gundehnyi. "
+    },
+    {
+        "Translation": " 'Sweeten that (drink) with this honey.'",
+        "id": 1375,
+        "Language": " Gd: Gudjeyu gunuyu mununi gadjalgahnyma."
+    }
+]
+[
+    {
+        "Translation": " 'What was that?' (said with deference)",
+        "id": 1383,
+        "Language": " Gd: Nyang-gur munah? "
+    }
+]
+[
+    {
+        "Translation": " 'Did I kill the wallaby?'",
+        "id": 1384,
+        "Language": " Cas: Ngadjugur bulgun bumani? "
+    }
+]
+[
+    {
+        "Translation": " 'It might rain later.'",
+        "id": 1391,
+        "Language": " Wa: Guram guwang badjilehny yuh. "
+    },
+    {
+        "Translation": " 'We would camp for one or two nights.' ",
+        "id": 1391,
+        "Language": " Wa: Ngali guram yabur guram bulahbu jubuny yunahny."
+    }
+]
+[
+    {
+        "Translation": " 'I arrived before that man did.'",
+        "id": 1398,
+        "Language": " Cas: Ngay gurbalehn bahnden, male baygal yuhdjang. "
+    }
+]
+[
+    {
+        "Translation": " 'Berrong came long long ago, with Momm\u00f3m (and) Yabur\u00f3ng.'",
+        "id": 1412,
+        "Language": " M:Liv: Birrangehn gurilahbu, ngering Mamahm, Yaburahng. "
+    }
+]
+[
+    {
+        "Translation": " 'Enough now, leave it alone.'",
+        "id": 1416,
+        "Language": " Cas: Gulube ngule, wanaliwahbe. "
+    }
+]
+[
+    {
+        "Translation": " 'The mother gave the baby some milk (the breast)'",
+        "id": 1420,
+        "Language": " Wa: Maliyu mahmidjargandu wulani malahni bidjangganyi guruhm. "
+    },
+    {
+        "Translation": " 'I want some tea with milk.' ",
+        "id": 1420,
+        "Language": " Wa: Ngay gadjalgahny-gi guruhmbil-nguhrgan. "
+    }
+]
+[
+    {
+        "Translation": " 'Look at that kangaroo!'",
+        "id": 1424,
+        "Language": " Bj: Nyah gale,g,rumani! "
+    },
+    {
+        "Translation": " 'The man killed a kangaroo yesterday.'",
+        "id": 1424,
+        "Language": " Bj: Gala baygalu bumani gurumani ngubu warbu."
+    }
+]
+[
+    {
+        "Translation": " 'If the wind changes, the rain will come.'",
+        "id": 1429,
+        "Language": " Wa: Gala buyan wahnydjarehnyi guwang mala yang giwahny. "
+    },
+    {
+        "Translation": " 'It's raining out of that cloud.' ",
+        "id": 1429,
+        "Language": " Wa: Malahya guwang bin.gahla dagamba. "
+    },
+    {
+        "Translation": " 'It rained and the river flooded.'",
+        "id": 1429,
+        "Language": " Wa: Guwangwehn balun-ngu mala ngulahrun."
+    },
+    {
+        "Translation": " 'The kangaroo is sitting there warming himself because he,g,t caught in the rain.'",
+        "id": 1429,
+        "Language": " Wa: Mala mani yehn.gala nguhnmalehla guwanggu malahni bumanah. "
+    },
+    {
+        "Translation": " 'The storm was bad here and there was a lot of rain.'",
+        "id": 1429,
+        "Language": " Wa: Jang munah mugar gadji gehrbilehn guwang."
+    },
+    {
+        "Translation": " 'It's going to rain today.'",
+        "id": 1429,
+        "Language": " Cas: Guwang badjilehny bayahny. "
+    }
+]
+[
+    {
+        "Translation": " 'Not fish, let's hunt possum.' ",
+        "id": 1433,
+        "Language": " Tw:Bray: Yugam jalum, guwany ngalawah(?) "
+    }
+]
+[
+    {
+        "Translation": " 'fishing hole'",
+        "id": 1436,
+        "Language": " Dr: Joonim quiggera "
+    }
+]
+[
+    {
+        "Translation": " 'Put the meat on the fire to be cooked'",
+        "id": 1449,
+        "Language": " Wa: Waybaramah mala bulang guybayah. "
+    },
+    {
+        "Translation": " 'Cook the meat properly'",
+        "id": 1449,
+        "Language": " Wa: Bugalmah mala guybah bulang. "
+    },
+    {
+        "Translation": " 'I came from the house that you burnt down.'",
+        "id": 1449,
+        "Language": " Wa: Ngay yang giwani gahbanu nguhmbinyu guybanah(nu) wehlu. "
+    },
+    {
+        "Translation": " 'He burnt the,g,ass'",
+        "id": 1449,
+        "Language": " Wa: Maliyu guybahla mala wudjang. "
+    },
+    {
+        "Translation": " 'The fire burnt me' ",
+        "id": 1449,
+        "Language": " Wa: Maliyu waybaru guybani nganyi. "
+    },
+    {
+        "Translation": " 'Make a fire to cook the meat (on top of the coals).'",
+        "id": 1449,
+        "Language": " Wa: Waybarmah madji guybayah mahny bulang."
+    },
+    {
+        "Translation": " 'one who has been burnt.'",
+        "id": 1449,
+        "Language": " Gd: guybanygir "
+    },
+    {
+        "Translation": " 'woman who has been burnt'",
+        "id": 1449,
+        "Language": " Gd: guyban.girgan "
+    }
+]
+[
+    {
+        "Translation": " 'Burn the,g,ass.'",
+        "id": 1450,
+        "Language": " Ng:Bray: Guybah wudjang."
+    }
+]
+[
+    {
+        "Translation": " 'I got burnt on the sand'",
+        "id": 1454,
+        "Language": " Wa: Ngay yugehn guyumbu."
+    },
+    {
+        "Translation": " 'The sand extends as far as the water.'",
+        "id": 1454,
+        "Language": " Wa: Mala guyum nyabaygu gawarehla."
+    }
+]
+[
+    {
+        "Translation": " 'fear.'",
+        "id": 1458,
+        "Language": " We:Gordn: guyihr "
+    }
+]
+[
+    {
+        "Translation": " 'Don't eat raw things.'",
+        "id": 1467,
+        "Language": " Wa: Wanah mahny jah gaygum. "
+    },
+    {
+        "Translation": " 'I'll find some resin to eat.'",
+        "id": 1467,
+        "Language": " Wa: Ngadju wulimahny man.gur jaliyah. "
+    },
+    {
+        "Translation": " 'made (him) eat.'",
+        "id": 1467,
+        "Language": " Gd: jabihnmani "
+    },
+    {
+        "Translation": " 'I want to eat.'",
+        "id": 1467,
+        "Language": " Y:Holm:Logn: Jabihgi ngayu. "
+    },
+    {
+        "Translation": " 'roasted to eat'",
+        "id": 1467,
+        "Language": " Y:Holm:Logn: guybani jabihgu "
+    },
+    {
+        "Translation": " 'I ate it.'",
+        "id": 1467,
+        "Language": " Y:Sha:Culhm: Ngaw jahni."
+    },
+    {
+        "Translation": " 'The chooks are eating.'",
+        "id": 1467,
+        "Language": " Y:Sha:Culhm: Jugi-jugi jalehla. "
+    },
+    {
+        "Translation": " '(They) carried the kangaroo to the fire for eating.' ",
+        "id": 1467,
+        "Language": " Y:Sha:Culhm: Wahrani guruhmani jiman.gu jaliyah. "
+    },
+    {
+        "Translation": " 'Eat it!'",
+        "id": 1467,
+        "Language": " Y:Sha:Culhm: Wahlu jah! "
+    },
+    {
+        "Translation": " 'teeth'",
+        "id": 1467,
+        "Language": " AT:Curr:Prior: jarbe "
+    },
+    {
+        "Translation": " 'Let's eat!'",
+        "id": 1467,
+        "Language": " Y:Sha:Culhm: Ngali jaliwah. "
+    },
+    {
+        "Translation": " 'I'm cooking food to eat for the kids.' ",
+        "id": 1467,
+        "Language": " Y:Sha:Culhm: Ngayu guybahla nungany jalihgu jahdjamgu. "
+    },
+    {
+        "Translation": " 'Don't eat (it), that food is bad, it stinks, there's maggots/flies in it.' ",
+        "id": 1467,
+        "Language": " Y:Sha:Culhm: Wunah jah, jang mali bugaw nungany, junbar in it. "
+    },
+    {
+        "Translation": " 'He's going to eat.'",
+        "id": 1467,
+        "Language": " Tw:Bray: Jabihgu."
+    },
+    {
+        "Translation": " 'Let's eat it.'",
+        "id": 1467,
+        "Language": " Tw:Bray: Ngabi jabehla. "
+    },
+    {
+        "Translation": " 'By-and-by I will eat opossum.'",
+        "id": 1467,
+        "Language": " Tw:Bray: Ngulungmay ngayu jahny (?) guyahny."
+    },
+    {
+        "Translation": " 'Don't eat.'",
+        "id": 1467,
+        "Language": " M: Wanah jabah. "
+    }
+]
+[
+    {
+        "Translation": " 'I will make spears for both the boy and the father.'",
+        "id": 1489,
+        "Language": " M:Liv: Ngayu juwan ginahny jabugay biyanggay ngeringgay. "
+    },
+    {
+        "Translation": " 'The kangaroo is frightened of the boy.'",
+        "id": 1489,
+        "Language": " Y:Sha:Culhm: Guruhman duhyinyehn jabuhbar. "
+    },
+    {
+        "Translation": " '(He) saw a/the boy.'",
+        "id": 1489,
+        "Language": " Y:Sha:Culhm: Jabuhngi nyahni."
+    },
+    {
+        "Translation": " 'The boy is chopping the tree.'",
+        "id": 1489,
+        "Language": " Y:Sha:Culhm: Galgahla jabuyu mali jali. "
+    }
+]
+[
+    {
+        "Translation": " '(He) sent a letter'",
+        "id": 1492,
+        "Language": " Bj:Holm:Fe,g,: Nguyay jagani. "
+    }
+]
+[
+    {
+        "Translation": " 'I'm Manaldjahli, my country is hard baked.'",
+        "id": 1501,
+        "Language": " Y:Sha:Culhm: Ngawu Manaljahli, nganyah jagun manal. "
+    }
+]
+[
+    {
+        "Translation": " 'a boy's foot'",
+        "id": 1508,
+        "Language": " M:Liv: jahdjamah jinang "
+    },
+    {
+        "Translation": " 'I saw children running away.'",
+        "id": 1508,
+        "Language": " M:Liv: Ngayu nyahni gawarinyun jahdjami. "
+    }
+]
+[
+    {
+        "Translation": " 'Put the trap over there so it may catch us a wallaby.' ",
+        "id": 1516,
+        "Language": " Cas: Gah babare jahnamah male mundang namayah ngaligal guruman. "
+    }
+]
+[
+    {
+        "Translation": " 'I don't like that woman.'",
+        "id": 1531,
+        "Language": " Y:Sha:Culhm: Yugam ngay malagir jalganygir. "
+    },
+    {
+        "Translation": " 'The (boy) is taller than the,g,rl.' ",
+        "id": 1531,
+        "Language": " Y:Sha:Culhm: Kurahr mamali jalganydjin mumuh. "
+    },
+    {
+        "Translation": " 'married man (literally 'woman-having')' ",
+        "id": 1531,
+        "Language": " Y:Hanln: jalgany-nguhr "
+    }
+]
+[
+    {
+        "Translation": " 'He is eating.' ",
+        "id": 1535,
+        "Language": " Y:Holm:Logn: Nyula jalehla."
+    }
+]
+[
+    {
+        "Translation": " 'Where is the man without a dog?'",
+        "id": 1550,
+        "Language": " M:Liv: Yili ngagam-djam baygal? "
+    }
+]
+[
+    {
+        "Translation": " 'I am trying to see it.'",
+        "id": 1553,
+        "Language": " Cas: Ngay gale jambanggehla nyahlela. "
+    },
+    {
+        "Translation": " 'I didn't succeed.'",
+        "id": 1553,
+        "Language": " Cas: Yagambe jambanggehn. "
+    }
+]
+[
+    {
+        "Translation": " 'Don't speak so quickly.'",
+        "id": 1564,
+        "Language": " Cas: Wanah jamgalwanah wadjele,g,."
+    }
+]
+[
+    {
+        "Translation": " 'I saw them.'",
+        "id": 1565,
+        "Language": " Y:Culhm: Ngaw nyahni janabangi. "
+    }
+]
+[
+    {
+        "Translation": " 'He missed (he threw badly), you (threw it and) missed.'",
+        "id": 1586,
+        "Language": " Wa: Jangmani maliyu nabani, wehlu nabani jangmani. "
+    },
+    {
+        "Translation": " 'You're wrong.'",
+        "id": 1586,
+        "Language": " Wa: Wahlu munah jangmaniwahr "
+    },
+    {
+        "Translation": " 'The child made her head ache by crying.'",
+        "id": 1586,
+        "Language": " Wa: Maliyu jahdjambu jangmani malahni bawur dunganahyu. "
+    }
+]
+[
+    {
+        "Translation": " 'My hand is getting sore from writing.'",
+        "id": 1591,
+        "Language": " Wa: Jambay nganyah jangwerwahla bugali-nyun. "
+    },
+    {
+        "Translation": " 'He sings badly.'",
+        "id": 1591,
+        "Language": " Wa: Mala yarbilehla jangun.gahla. "
+    }
+]
+[
+    {
+        "Translation": " 'I tried to chop the tree but it was too hard.'",
+        "id": 1598,
+        "Language": " Y:Culhm: Ngayu jambamani jali galgayah, jan. gam. "
+    }
+]
+[
+    {
+        "Translation": " 'Get down on your hands and knees.'",
+        "id": 1616,
+        "Language": " Cas: Jargeh gindilu jambaydju. "
+    }
+]
+[
+    {
+        "Translation": " 'drinking (strong drink)'",
+        "id": 1617,
+        "Language": " Y:Holm:Jackie: gira jarehla "
+    }
+]
+[
+    {
+        "Translation": " 'The man is speaking while carving the boomerang'",
+        "id": 1623,
+        "Language": " Wa: Mala baygal nguyaymalehla jarwali-nyun mala bargan. "
+    },
+    {
+        "Translation": " 'I'm scraping the,g,ound.'",
+        "id": 1623,
+        "Language": " Wa: Ngadju mala ngayal jarwahla."
+    },
+    {
+        "Translation": " 'Have you finished making the boomerang?'",
+        "id": 1623,
+        "Language": " Wa: Nyang wehlu gumbinymani jarwani bargan?"
+    }
+]
+[
+    {
+        "Translation": " 'The woman stopped singing.'",
+        "id": 1632,
+        "Language": " Wa: Mala dubay jawinywehn yarbili-nyun. "
+    },
+    {
+        "Translation": " 'The woman has stopped singing.'",
+        "id": 1632,
+        "Language": " Wa: Mala dubay jawinywenbeh yarbilinyun. "
+    }
+]
+[
+    {
+        "Translation": " 'It fell out of (his) mouth.'",
+        "id": 1640,
+        "Language": " Wa: Jehngga mala behn."
+    }
+]
+[
+    {
+        "Translation": " 'It rained heavily.'",
+        "id": 1650,
+        "Language": " Cas: Guwang badjilehn jeyir. "
+    }
+]
+[
+    {
+        "Translation": " 'What did you do with that? How did you do that?'",
+        "id": 1661,
+        "Language": " Cas: Jiginehnigur wehlu munah? "
+    }
+]
+[
+    {
+        "Translation": " 'What sort of tree is that?'",
+        "id": 1662,
+        "Language": " Cas: Jiginyehrgur male,g,wundjar? "
+    }
+]
+[
+    {
+        "Translation": " 'in the eye.' ",
+        "id": 1712,
+        "Language": " We: jiyawiya/jiyawiyi (loc). "
+    },
+    {
+        "Translation": " 'The echidnas are watching us with their eyes.'",
+        "id": 1712,
+        "Language": " Wa: Mahnyulu bunihnydju nyahla ngalingi jiyawbu. / Mahny bunihny nyahlila ngalingi jiyawbu."
+    }
+]
+[
+    {
+        "Translation": " 'I'm drinking water'",
+        "id": 1724,
+        "Language": " Wa: Ngadju jugahla nyabay / Ngay jugalehla nyabay "
+    },
+    {
+        "Translation": " 'It's bad to drink.'",
+        "id": 1724,
+        "Language": " Wa: Jang jugali-nyun "
+    },
+    {
+        "Translation": " 'Drink something!'",
+        "id": 1724,
+        "Language": " Wa: Jugah wehlu! "
+    }
+]
+[
+    {
+        "Translation": " 'One fish is jumping.'",
+        "id": 1732,
+        "Language": " Bj:Holm: Yabur jalum jugurahla. "
+    },
+    {
+        "Translation": " 'Many fish are jumping.'",
+        "id": 1732,
+        "Language": " Bj:Holm: Mabehr jalum jugurahla. "
+    }
+]
+[
+    {
+        "Translation": " 'There's a lot of smoke about.'",
+        "id": 1739,
+        "Language": " Cas: Gumbih bundahng juhm. "
+    }
+]
+[
+    {
+        "Translation": " 'That horse bucked.' ",
+        "id": 1750,
+        "Language": " Gd: Male yaraman julbandehn."
+    }
+]
+[
+    {
+        "Translation": " 'is looking down on.' ",
+        "id": 1760,
+        "Language": " Bj:Turnbl: juluhmilehla "
+    }
+]
+[
+    {
+        "Translation": " 'We are,g,ing south after our possessions.'",
+        "id": 1780,
+        "Language": " Cas: Ngali yan.gahny wanggahn.gu ngalingahgu jumguyu."
+    }
+]
+[
+    {
+        "Translation": " 'some spear, somebody's spear'",
+        "id": 1829,
+        "Language": " M:Liv: ngandurnah juwan "
+    },
+    {
+        "Translation": " 'I will make spears for both the boy and the father.' ",
+        "id": 1829,
+        "Language": " M:Liv: Ngayu juwan ginahny jabugay biyanggay ngeringgay. "
+    },
+    {
+        "Translation": " 'I have a spear.'",
+        "id": 1829,
+        "Language": " M:Liv: Ngayabaya juwan."
+    },
+    {
+        "Translation": " 'I will see (one who) will throw a spear.'",
+        "id": 1829,
+        "Language": " Tw:Curr:Bray: Ngayu nyahny juwan buwahnyi."
+    }
+]
+[
+    {
+        "Translation": " 'The meat will go down into my stomach'; ",
+        "id": 1834,
+        "Language": " Wa: Juwi ge,g,ny bulang malahgu mundugu. "
+    }
+]
+[
+    {
+        "Translation": " 'a thing which may be made to run' (e,g, a car)",
+        "id": 1838,
+        "Language": " Gd: gawarimal "
+    },
+    {
+        "Translation": " 'a thing which may be made to fly' (e,g, boomerang)",
+        "id": 1838,
+        "Language": " Gd: wayahlimal "
+    }
+]
+[
+    {
+        "Translation": " 'is doing it well'",
+        "id": 1844,
+        "Language": " Gd: bugal malehla "
+    },
+    {
+        "Translation": " 'He is running well.'",
+        "id": 1844,
+        "Language": " Gd: Gawarehla nyula bugal malehla."
+    },
+    {
+        "Translation": " 'I dried them.' ",
+        "id": 1844,
+        "Language": " Gd: Daram mani mahnyu."
+    }
+]
+[
+    {
+        "Translation": " 'You jump in the river!'",
+        "id": 1845,
+        "Language": " M:Liv: Wahlu dalbangga balunma! "
+    }
+]
+[
+    {
+        "Translation": " 'These all used to live at Pretty Gully a long time ago.'",
+        "id": 1847,
+        "Language": " Wa: gunah mabehr yehn.gandu gadji burigaliya guriyabu. "
+    },
+    {
+        "Translation": " 'All see him.' ",
+        "id": 1847,
+        "Language": " Cas: Nyahla mabehru nyulangi "
+    },
+    {
+        "Translation": " 'There are plenty of fish in this creek.'",
+        "id": 1847,
+        "Language": " Cas: Gala garbeh mabehr-djalum."
+    },
+    {
+        "Translation": " 'the old man has plenty of food.'",
+        "id": 1847,
+        "Language": " Cas: Dandaygam mabehr-nangany. "
+    },
+    {
+        "Translation": " 'There are a lot of women about here.'",
+        "id": 1847,
+        "Language": " Cas: Gahnyu mabehr bundahng dubay."
+    }
+]
+[
+    {
+        "Translation": " 'I laid his (spear) down right there.' ",
+        "id": 1851,
+        "Language": " Gd: Yinamani nyule,g,h madjibeh. "
+    }
+]
+[
+    {
+        "Translation": " 'He (who I can see) is cooking some meat for those men across there (who I can see).'",
+        "id": 1885,
+        "Language": " Wa: Maliyu guybahla bulang gahmgu ngaringgahgu. "
+    },
+    {
+        "Translation": " 'The dog got annoyed with the boy for taking his bone.'",
+        "id": 1885,
+        "Language": " Wa: Munah dabahy janguywehn malahgaya janagan-gahya gahnganah mala darigan. "
+    }
+]
+[
+    {
+        "Translation": " 'that child'",
+        "id": 1892,
+        "Language": " Bj:Fe,g,: nyamul mala "
+    },
+    {
+        "Translation": " 'that woman's child'",
+        "id": 1892,
+        "Language": " Bj:Fe,g,: malahna dubayngah nyamul "
+    },
+    {
+        "Translation": " 'the language, that language'",
+        "id": 1892,
+        "Language": " Bj:Fe,g,: mamala nguyay "
+    },
+    {
+        "Translation": " 'That's good to drink' ",
+        "id": 1892,
+        "Language": " Bj:Fe,g,: Bugal malajugalihgu. "
+    }
+]
+[
+    {
+        "Translation": " 'He (who I can see) is cooking some meat for those men across there (who I can see).'",
+        "id": 1893,
+        "Language": " Wa: Maliyu guybahla bulang gahmgu ngaringgahgu. "
+    },
+    {
+        "Translation": " 'The dog got annoyed with the boy for taking his bone.'",
+        "id": 1893,
+        "Language": " Wa: Munah dabahy janguywehn malahgaya janagan-gahya gahnganah mala darigan."
+    },
+    {
+        "Translation": " 'He will hit her.'",
+        "id": 1893,
+        "Language": " Wa: Maliyu malahni bumgahny. "
+    },
+    {
+        "Translation": " 'Stay with him.' ",
+        "id": 1893,
+        "Language": " Wa: Yehna malahya."
+    }
+]
+[
+    {
+        "Translation": " 'I'm Manaldjahli, I speak Manaldjahli.'",
+        "id": 1910,
+        "Language": " Y:Sha:Culhm: Ngayu Manaldjahli, ngay waymalehla manaldjahli."
+    }
+]
+[
+    {
+        "Translation": " 'The dog scratched you.' ",
+        "id": 1913,
+        "Language": " Wa: Mandani maliyu dabahydju. "
+    },
+    {
+        "Translation": " 'I'll scrape the bark off the tree.' ",
+        "id": 1913,
+        "Language": " Wa: Ngadju gahny mandahny bagul malahya jaliya."
+    }
+]
+[
+    {
+        "Translation": " 'Those old men told me that.' ",
+        "id": 1928,
+        "Language": " Gd: Manyeh gidjuhm gidjani nganyi munah. "
+    }
+]
+[
+    {
+        "Translation": " 'What happened to that boy who was lost?'",
+        "id": 1957,
+        "Language": " Gd: Yindje,g,nggehn mayah jabuh walany wehni. "
+    }
+]
+[
+    {
+        "Translation": " 'The,g,ass is dry there.'",
+        "id": 1960,
+        "Language": " Gd: Wudjang daram mayu. "
+    },
+    {
+        "Translation": " 'a flea from somebody's dog' ",
+        "id": 1960,
+        "Language": " Gd: wir wir mayungahnu ngagamu "
+    },
+    {
+        "Translation": " 'Some man chopped it down perhaps.'",
+        "id": 1960,
+        "Language": " Gd: Mayulu baygalu galgadjahn wanyi."
+    },
+    {
+        "Translation": " 'We will dance a corroboree there tomorrow.' ",
+        "id": 1960,
+        "Language": " Gd: Maye yawahr ngahriny ngubuh."
+    },
+    {
+        "Translation": " 'He (the clever feller) steals things.'",
+        "id": 1960,
+        "Language": " Wa: Wirgahla mayu nyang. "
+    }
+]
+[
+    {
+        "Translation": " '(He is) staying or living there.' ",
+        "id": 1961,
+        "Language": " Bj: Mamay yehn.galah. "
+    }
+]
+[
+    {
+        "Translation": " 'e,g,es' (many eagles)",
+        "id": 1966,
+        "Language": " Y:Allen: mibunn wallul "
+    }
+]
+[
+    {
+        "Translation": " 'The splinter pierced the eye.' (eye-through)",
+        "id": 1992,
+        "Language": " Gd: Miyingu gayehn barehny."
+    },
+    {
+        "Translation": " 'a snake sp. With big eyes'. ",
+        "id": 1992,
+        "Language": " Y:Sha:Culhm: Mih baralang "
+    }
+]
+[
+    {
+        "Translation": " 'a long time.' (long time very)",
+        "id": 1993,
+        "Language": " Cas: warahymil "
+    }
+]
+[
+    {
+        "Translation": " 'What is this?'",
+        "id": 2010,
+        "Language": " Y:Allen, Y:Holm:Curry: Minyang gali?"
+    },
+    {
+        "Translation": " 'What is that?'",
+        "id": 2010,
+        "Language": " Y:Holm:Logn: Nyang ga? "
+    },
+    {
+        "Translation": " 'What do you want it for?'",
+        "id": 2010,
+        "Language": " Y:Holm:Logn: Nyahgu wahlu wardam?"
+    }
+]
+[
+    {
+        "Translation": " 'What are you doing?'",
+        "id": 2011,
+        "Language": " M:Liv: Minyangalehla wiya?"
+    },
+    {
+        "Translation": " 'What is the matter?' (lit. What did)",
+        "id": 2011,
+        "Language": " M:Liv: Minyangehn? "
+    },
+    {
+        "Translation": " 'I'm doing something.'",
+        "id": 2011,
+        "Language": " M:Liv: Minyangalehla ngay."
+    },
+    {
+        "Translation": " 'What did you do yesterday?'",
+        "id": 2011,
+        "Language": " M:Liv: Minyangaluru wiya ngubu? "
+    }
+]
+[
+    {
+        "Translation": " 'How many dogs has the old man?'",
+        "id": 2013,
+        "Language": " M:Liv: Minyangbu gidjuhma ngagam? "
+    }
+]
+[
+    {
+        "Translation": " 'He went to a spot near the tree.'",
+        "id": 2016,
+        "Language": " Gd: Nyule yehni jalimir. "
+    },
+    {
+        "Translation": " 'Let us go over near the house.'",
+        "id": 2016,
+        "Language": " Gd: Yanah ngali ngumbinymir. "
+    }
+]
+[
+    {
+        "Translation": " '(That) old woman is ugly.'",
+        "id": 2020,
+        "Language": " Tw:Curr:Bray: Mirungjang. "
+    }
+]
+[
+    {
+        "Translation": " 'At Tenterfield they speak a different language.' ",
+        "id": 2052,
+        "Language": " Wa: Muhmbilihnda nguyaymalehla gulgihndilehla."
+    }
+]
+[
+    {
+        "Translation": " 'She picked up a fig to eat.' ",
+        "id": 2056,
+        "Language": " Cas: Jambul nyahn muhwalehn jaliyah. "
+    }
+]
+[
+    {
+        "Translation": " 'I shall go early tomorrow morning.'",
+        "id": 2059,
+        "Language": " Cas: Ngubu ngay mulagan yan.gahny. "
+    }
+]
+[
+    {
+        "Translation": " 'You are hungry.'",
+        "id": 2072,
+        "Language": " Bj:Holm: Mula wuya. "
+    }
+]
+[
+    {
+        "Translation": " 'Where is that a?'",
+        "id": 2087,
+        "Language": " Gd: Yile munah mugim? "
+    },
+    {
+        "Translation": " 'recently' ",
+        "id": 2087,
+        "Language": " Gd: munahgan "
+    },
+    {
+        "Translation": " 'These men took the meat away (so that it can no longer be seen).'",
+        "id": 2087,
+        "Language": " Wa: Gahnyulu baygalu gahngani munah bulang. "
+    },
+    {
+        "Translation": " 'Where has he,g,ne?' (he could be seen a moment ago)",
+        "id": 2087,
+        "Language": " Wa: Yilahwen munah? "
+    }
+]
+[
+    {
+        "Translation": " 'His stomach will burst!' ",
+        "id": 2095,
+        "Language": " Wa: Mala banggehny mundu malahna."
+    },
+    {
+        "Translation": " 'My stomach was rumbling.'",
+        "id": 2095,
+        "Language": " Wa: Nganyahyu munduyu duhnybani."
+    }
+]
+[
+    {
+        "Translation": " 'My nose is blocked up with a cold in the head.'",
+        "id": 2116,
+        "Language": " Wa: Muru nganyah bandjani gulungbaydju bawurahyu. "
+    },
+    {
+        "Translation": " 'My nose is bleeding.'",
+        "id": 2116,
+        "Language": " Wa: Gumar yehyani muruya nganyahya. "
+    }
+]
+[
+    {
+        "Translation": " 'I shot the kangaroo while it was running.'",
+        "id": 2138,
+        "Language": " Wa: Nabani ngadju mala gawari-nyun mani. "
+    },
+    {
+        "Translation": " 'The children are throwing things about.'",
+        "id": 2138,
+        "Language": " Wa: Mahny jahdjam naba-nabalehla."
+    },
+    {
+        "Translation": " 'I threw a stick at the dog.'",
+        "id": 2138,
+        "Language": " Wa: Ngadju mala dabahy nabani jaliyu. "
+    },
+    {
+        "Translation": " 'The whitemen came with guns to shoot the Aborigines.'",
+        "id": 2138,
+        "Language": " Wa: Yirali yang giwadjahn duluhlbiyu nabayah baygalni. "
+    }
+]
+[
+    {
+        "Translation": " 'my sister(s).'",
+        "id": 2154,
+        "Language": " Calley: Nanahng nganyah, nganyah nanahng "
+    }
+]
+[
+    {
+        "Translation": " 'if you cry'",
+        "id": 2166,
+        "Language": " Y:Holm: wahlu dungana"
+    }
+]
+[
+    {
+        "Translation": " 'Hurry up!'",
+        "id": 2173,
+        "Language": " Cas: Ngabarwanah!"
+    }
+]
+[
+    {
+        "Translation": " 'How many dogs has the old man?'",
+        "id": 2184,
+        "Language": " M:Liv: Minyangbu gidjuhma ngagam?"
+    },
+    {
+        "Translation": " 'Where is the dog's master/where is the man with a dog?'",
+        "id": 2184,
+        "Language": " M:Liv: Yili ngagam-nguhrgan baygal? "
+    },
+    {
+        "Translation": " 'The dogs broke (the net).'",
+        "id": 2184,
+        "Language": " Y:Holm: Ngagamjihndu gawagawani. "
+    },
+    {
+        "Translation": " 'dog's head'",
+        "id": 2184,
+        "Language": " Y:Holm:Logn: ngagama bawur "
+    }
+]
+[
+    {
+        "Translation": " 'I left early this morning.'",
+        "id": 2187,
+        "Language": " Gd: Yehni ngay ngaguyahbu bayahny. "
+    }
+]
+[
+    {
+        "Translation": " 'Don't climb the tall trees.' ",
+        "id": 2193,
+        "Language": " Wa: Wanah wandeh ngahny jali."
+    },
+    {
+        "Translation": " 'The leaves high in the tree are blowing.' ",
+        "id": 2193,
+        "Language": " Wa: Wurahng mahnyu malahya jaliya buhmbila mala ngahnydja. "
+    }
+]
+[
+    {
+        "Translation": " \u2018Who is that?' (mibiny understood - Bray)",
+        "id": 2197,
+        "Language": " Y:Allen, Tw:Curr:Bray: Gili ngahn? "
+    },
+    {
+        "Translation": " 'I don't know' (lit. 'who there?', answer to 'who is that'\u009d')",
+        "id": 2197,
+        "Language": " Tw:Curr:Bray: Ngahn gili. "
+    },
+    {
+        "Translation": " 'Which Blacks?'",
+        "id": 2197,
+        "Language": " Tw:Curr:Bray: Ngahn gili mibiny? "
+    },
+    {
+        "Translation": " 'What/which woman is that?'",
+        "id": 2197,
+        "Language": " Tw:Curr:Bray: Ngahn gili jalgany? "
+    },
+    {
+        "Translation": " 'Who is that?'",
+        "id": 2197,
+        "Language": " Y:Allen: Ngahn(a) gili? "
+    },
+    {
+        "Translation": " 'Who is there?'",
+        "id": 2197,
+        "Language": " Y:Allen: Ngahn mali? "
+    }
+]
+[
+    {
+        "Translation": " 'They danced a corroboree right down there.'",
+        "id": 2200,
+        "Language": " Wa: Yawahr madji ngahrin judjah mahnyulu."
+    },
+    {
+        "Translation": " 'The children were playing in the water.'",
+        "id": 2200,
+        "Language": " Wa: Mahny jahdjam ngahrini nyabaydja. "
+    },
+    {
+        "Translation": " 'I saw many boys while they were playing along the creek.'",
+        "id": 2200,
+        "Language": " Gd: Nyahni gumbi jabuhmangi ngahrilinyun balunbu."
+    },
+    {
+        "Translation": " 'playing' ",
+        "id": 2200,
+        "Language": " We: ngahrilah "
+    },
+    {
+        "Translation": " 'Is the water boiling?'",
+        "id": 2200,
+        "Language": " Cas: Nyang male,g,ng ngahrila "
+    },
+    {
+        "Translation": " 'We are playing, joking, together.'",
+        "id": 2200,
+        "Language": " Cas: Ngaliwar mamale ngahrila. "
+    },
+    {
+        "Translation": " 'We danced a corroboree.'",
+        "id": 2200,
+        "Language": " Cas: Ngahrin ngali yawahr. "
+    }
+]
+[
+    {
+        "Translation": " 'I tried to look for you a long time ago.'",
+        "id": 2210,
+        "Language": " Wa: Ngaywahr jambanggehn ngalawalehn gurihbu wihnyi."
+    },
+    {
+        "Translation": " 'They are looking up there.'",
+        "id": 2210,
+        "Language": " Wa: Mahny ngalawalehla malah jawi. "
+    },
+    {
+        "Translation": " 'They were looking for me.'",
+        "id": 2210,
+        "Language": " Wa: Gahnyulu nganyi ngalawani. "
+    },
+    {
+        "Translation": " 'Find a hole there to pour the ashes in.'",
+        "id": 2210,
+        "Language": " Wa: Madjungun guluny ngalawah gehrbiyah mala muruhny. "
+    },
+    {
+        "Translation": " 'He asked me too much today.'",
+        "id": 2210,
+        "Language": " Wa: Galiyu nganyi gur ngala-ngalawani bayahny. "
+    },
+    {
+        "Translation": " 'I will go turtle hunting there.'",
+        "id": 2210,
+        "Language": " Wa: Gilah ngay ngalawalehny bin.gihng. "
+    },
+    {
+        "Translation": " 'He looked for water.' ",
+        "id": 2210,
+        "Language": " Cas: Ngalawalehn nyule,g,bihnggu. / Ngalawalehn nyulayu gabihng. "
+    }
+]
+[
+    {
+        "Translation": " \u2018little moon'",
+        "id": 2222,
+        "Language": " M:Liv: ngamandalen gibam "
+    }
+]
+[
+    {
+        "Translation": " 'little moon'",
+        "id": 2231,
+        "Language": " M:Liv: ngamandalen gibam "
+    }
+]
+[
+    {
+        "Translation": " 'This is my house.'",
+        "id": 2244,
+        "Language": " Y:Sha:Culhm: Nganyah ngumbiny gali."
+    },
+    {
+        "Translation": " 'That is mine now!'",
+        "id": 2244,
+        "Language": " Gd:Geyt: Nganyahbubeh male."
+    },
+    {
+        "Translation": " 'my son'",
+        "id": 2244,
+        "Language": " Bj:Sc:Coraki: muyum nganyah"
+    }
+]
+[
+    {
+        "Translation": " 'Don't tell on me (keep it a secret).'",
+        "id": 2248,
+        "Language": " Y:Sha:Culhm: Wanah wabah nganyih. "
+    },
+    {
+        "Translation": " 'He talks too quickly for me/to me.'",
+        "id": 2248,
+        "Language": " Y:Sha:Culhm: Guginmahla gulgun malahyu nganyih."
+    }
+]
+[
+    {
+        "Translation": " 'Ask for them on the other side.'",
+        "id": 2260,
+        "Language": " Gd: Gahmuni yagaybah ngaringgahni. "
+    }
+]
+[
+    {
+        "Translation": " 'He crossed from Ballina on a raft.'",
+        "id": 2262,
+        "Language": " Cas: Ngaringbehn balunahnu burbambamalehn."
+    }
+]
+[
+    {
+        "Translation": " 'I'm hot.'",
+        "id": 2269,
+        "Language": " Y:Sha:Culhm: Nguhn ngaw."
+    },
+    {
+        "Translation": " 'I'm a stranger.'",
+        "id": 2269,
+        "Language": " Y:Culhm: Ngaw jaguhl."
+    },
+    {
+        "Translation": " 'I'm here.'",
+        "id": 2269,
+        "Language": " YLCulhm: Gagali ngaw."
+    }
+]
+[
+    {
+        "Translation": " 'I dug the,g,ound with your stick there (in that area where you can see).'",
+        "id": 2279,
+        "Language": " Wa: Munu ngayalngadju wan.gahyu jaliyu duwani."
+    },
+    {
+        "Translation": " 'Put him in the,g,ound, he's dead.'",
+        "id": 2279,
+        "Language": " Wa: Malaga ngayala yunamah balahyani nyula."
+    },
+    {
+        "Translation": " 'The house shook and so did the,g,ound.'",
+        "id": 2279,
+        "Language": " Wa: Gala nguhmbiny jihgani ngayal-ngula."
+    }
+]
+[
+    {
+        "Translation": " 'I might build a house (put it up).'",
+        "id": 2283,
+        "Language": " Y:Sha:Culhm: Ngayu yagahny ngumbiny."
+    }
+]
+[
+    {
+        "Translation": " 'Who made him cry?'",
+        "id": 2289,
+        "Language": " Gd: Ngehndu dungbihn mani?"
+    },
+    {
+        "Translation": " 'Who is he calling (to)?'",
+        "id": 2289,
+        "Language": " Gd: Ngehni ginggalehla?"
+    },
+    {
+        "Translation": " 'Who is calling out over there?'",
+        "id": 2289,
+        "Language": " Gd: Ngehn mayu ganggalehla?"
+    },
+    {
+        "Translation": " 'What's your name?'",
+        "id": 2289,
+        "Language": " Wa: Ngihn.gur wudjeh nyari?"
+    }
+]
+[
+    {
+        "Translation": " 'What's your name?'",
+        "id": 2302,
+        "Language": " Wa: Ngihn.gur wudjeh nyari? "
+    },
+    {
+        "Translation": " 'Who is that murmuring?'",
+        "id": 2302,
+        "Language": " Wa: Mayu ngihn munmuhnbalehla?"
+    },
+    {
+        "Translation": " 'Who is that knocking? (where the person can't be seen but the noise can be heard).'",
+        "id": 2302,
+        "Language": " Wa: Mayu-mayu ngihn badjilehla?"
+    },
+    {
+        "Translation": " 'Who is that?'",
+        "id": 2302,
+        "Language": " Wu: Gile ngihn? "
+    }
+]
+[
+    {
+        "Translation": " 'Did you see a boomerang like this one in the house?'",
+        "id": 2311,
+        "Language": " Gd: Ngumbinydje nyahni bargan gale nginyehr."
+    },
+    {
+        "Translation": " 'Put that on one like this one.'",
+        "id": 2311,
+        "Language": " Gd: Malahni gale nginyehre mah."
+    },
+    {
+        "Translation": " 'The other man is not like him.'",
+        "id": 2311,
+        "Language": " Gd: Gaybe baygal yagambeh nyule nginyehr."
+    },
+    {
+        "Translation": " 'A boomerang-shaped object killed him.'",
+        "id": 2311,
+        "Language": " Gd: Bargan nginyehru nabani nyuleni."
+    },
+    {
+        "Translation": " 'He wants a spearlike thing to poke through the hole.'",
+        "id": 2311,
+        "Language": " Gd: Juwan nginyehrgi nyula bugayah gabunu."
+    }
+]
+[
+    {
+        "Translation": " 'That woman lived alone together with her daughter.'",
+        "id": 2315,
+        "Language": " Cas: Mirunggan gile bigabindah ngirihny muyumdjargan yan.giluhr."
+    }
+]
+[
+    {
+        "Translation": " 'He drinks tea and milk.'",
+        "id": 2317,
+        "Language": " Wa: Maliyu jugahla gadjalahny guruhmbilngih."
+    }
+]
+[
+    {
+        "Translation": " 'That fire will be lit tomorrow.'",
+        "id": 2321,
+        "Language": " M: Munu waybaru gandjilinibahny ngubu."
+    }
+]
+[
+    {
+        "Translation": " 'People are hiding in the house.'",
+        "id": 2341,
+        "Language": " Cas: Baygal guhrbalehla ngumbinydjah."
+    }
+]
+[
+    {
+        "Translation": " 'a person who has had a dance'",
+        "id": 2342,
+        "Language": " Wa: ngahri-nguhrgan "
+    },
+    {
+        "Translation": " 'a person who has had a fight'",
+        "id": 2342,
+        "Language": " Wa: bumilih-ngurgan "
+    },
+    {
+        "Translation": " 'a person who has sung a song' ",
+        "id": 2342,
+        "Language": " Wa: yarbil-nguhrgan "
+    },
+    {
+        "Translation": " 'He is running with a lot of boomerangs.'",
+        "id": 2342,
+        "Language": " Wa:Crowl: Mala bargan-nguhrgan gawarehla. "
+    },
+    {
+        "Translation": " 'I'm going to the man who's got lots of hair to tell him something.'",
+        "id": 2342,
+        "Language": " Wa:Crowl: Ngay malahba yan.gahla baygalbah guhndun-nguhrganbah wadjiyah malahni. "
+    },
+    {
+        "Translation": " 'That tree has got some honey in it.' ",
+        "id": 2342,
+        "Language": " Wa:Crowl: Bagay-nguhrgan mala jali. "
+    },
+    {
+        "Translation": " 'He has a dog.'",
+        "id": 2342,
+        "Language": " Gd: Nyule ngagamnguhrgan. "
+    }
+]
+[
+    {
+        "Translation": " 'I am very hot.'",
+        "id": 2343,
+        "Language": " Cas: Ngay gale nguwuny bundahng."
+    }
+]
+[
+    {
+        "Translation": " 'The flood will take you a long way down there.'",
+        "id": 2345,
+        "Language": " Wa: Gahnggany maliyu ngulahru gahri juwi."
+    }
+]
+[
+    {
+        "Translation": " 'The children are sleeping.'",
+        "id": 2367,
+        "Language": " Wa: Mahny jahdjam yunahla ngurahm."
+    },
+    {
+        "Translation": " 'He rolled over in his sleep.'",
+        "id": 2367,
+        "Language": " Wa: Wahndjarehn mala ngurahmba."
+    },
+    {
+        "Translation": " 'She is lying asleep.'",
+        "id": 2367,
+        "Language": " Cas: Ngurahm nguy nyan.gan yunahla."
+    },
+    {
+        "Translation": " 'The children are asleep.'",
+        "id": 2367,
+        "Language": " Bj:Holm: Jahdjam murahm."
+    }
+]
+[
+    {
+        "Translation": " 'I have a cold.'",
+        "id": 2371,
+        "Language": " Cas: Ngay gale,g,lungbay-ngurgan. "
+    }
+]
+[
+    {
+        "Translation": " 'You go, it's too hot for you here.'",
+        "id": 2374,
+        "Language": " Cas: Yanah wudjeh, ngurun gunu wudjah."
+    }
+]
+[
+    {
+        "Translation": " 'Is that true?'",
+        "id": 2377,
+        "Language": " Cas: Nyanggur munah nguy bundahng? "
+    },
+    {
+        "Translation": " 'I really hit him / I hit him indeed.'",
+        "id": 2377,
+        "Language": " Cas: Ngadjuwar nguy nabani."
+    },
+    {
+        "Translation": " 'He fell and his arm was damaged.'",
+        "id": 2377,
+        "Language": " Cas: Nyule behn, ganggil nguy gibing-bunggehn."
+    },
+    {
+        "Translation": " 'She took a possum-skin and made a drum out of it.'",
+        "id": 2377,
+        "Language": " Cas: Gahngani gihdjay nyan.gandu, bulbing-mani nguy."
+    }
+]
+[
+    {
+        "Translation": " 'Don't speak their language!'",
+        "id": 2382,
+        "Language": " Wa: Wanah nguyaymaleh mahnyunah nguyay."
+    },
+    {
+        "Translation": " 'He is speaking quickly.'",
+        "id": 2382,
+        "Language": " Wa: Maliyu nganyi ngabar-ngabarmahla nguyaymahla."
+    },
+    {
+        "Translation": " 'The man is speaking while carving the boomerang.'",
+        "id": 2382,
+        "Language": " Wa: Mala baygal nguyaymalehla jarwalinyun mala bargan."
+    },
+    {
+        "Translation": " 'You say it.'",
+        "id": 2382,
+        "Language": " Bj:Holm: Wahlu nguyaymah."
+    }
+]
+[
+    {
+        "Translation": " 'The man is singing and the woman is dancing.'",
+        "id": 2384,
+        "Language": " Wa: Mala baygal yarbilehla mala-nguy dubaya ngahrila. "
+    },
+    {
+        "Translation": " 'Squeeze the honey there so you can drink it (then).'",
+        "id": 2384,
+        "Language": " Wa: Ngihma mala biridju madji mala jugayah-nguy. "
+    },
+    {
+        "Translation": " 'Give me that dilly-bag of yours before we,g,.' (and only then will we go)",
+        "id": 2384,
+        "Language": " Wa: Wulah nganyi mala wangah dugulduguhl ngali-ngu yan.gahnybe. "
+    }
+]
+[
+    {
+        "Translation": " 'Where are you going?'",
+        "id": 2411,
+        "Language": " Y:Holm:QLong: Numbali wahlu? "
+    }
+]
+[
+    {
+        "Translation": " 'We would go back to Pretty Gully.'",
+        "id": 2413,
+        "Language": " Wa: Ngali numbuhngginybu burin.galingah (sic). "
+    },
+    {
+        "Translation": " 'The turtle is going back to the water.'",
+        "id": 2413,
+        "Language": " Wa: Mala bin.gihng numbuhnggila nyabaygu."
+    },
+    {
+        "Translation": " 'When that wind turns it will rain.'",
+        "id": 2413,
+        "Language": " Cas: Numbuhnggina male buwihyan, guwang nguy badjilehny. "
+    }
+]
+[
+    {
+        "Translation": " 'The sun comes out in the day and then the moon comes out at night.'",
+        "id": 2416,
+        "Language": " Wa: Mala yalgan bahn.gala numgir mala-ngu gibam jubunyja "
+    },
+    {
+        "Translation": " 'today' (this visible day)",
+        "id": 2416,
+        "Language": " Y:Watsn: gali nyangga "
+    }
+]
+[
+    {
+        "Translation": " 'Birds are flying.' ",
+        "id": 2420,
+        "Language": " Y:Sha:Culhm: Bihrilah nunganybil."
+    }
+]
+[
+    {
+        "Translation": " 'Wash away the blood with water.'",
+        "id": 2426,
+        "Language": " Wa: Gimbah mahny gumar nyabaydju. "
+    },
+    {
+        "Translation": " 'He is running from there with some water.'",
+        "id": 2426,
+        "Language": " Wa: Mala gawarehla mununu nyabaydju. "
+    },
+    {
+        "Translation": " 'The water is too deep for the boy.'",
+        "id": 2426,
+        "Language": " Wa: Mala nyabay gubung malahgu janagan.gu."
+    },
+    {
+        "Translation": " 'The water is flowing over the stones.'",
+        "id": 2426,
+        "Language": " Wa: Mala nyabay gawarehla wayganda gudjanda mahnyula. "
+    }
+]
+[
+    {
+        "Translation": " 'I've lost the money.'",
+        "id": 2428,
+        "Language": " Wa: Ngadju wuhbilimani mala nyaguhng. "
+    }
+]
+[
+    {
+        "Translation": " 'Look at yourself in the water.'",
+        "id": 2429,
+        "Language": " Wa: Nyahli wudja madji nyabaydja. "
+    },
+    {
+        "Translation": " 'I look about early in the morning.'",
+        "id": 2429,
+        "Language": " Wa: Jubunydjahbu ngay nyanyahlila. "
+    },
+    {
+        "Translation": " 'I can see you all.'",
+        "id": 2429,
+        "Language": " Wa: Ngadju nyahni blaganmini."
+    },
+    {
+        "Translation": " 'The whitemen are watching us.' ",
+        "id": 2429,
+        "Language": " Wa: Mahny yirali nyahlila ngalingi."
+    },
+    {
+        "Translation": " 'seeing'",
+        "id": 2429,
+        "Language": " We: nyahlelah "
+    },
+    {
+        "Translation": " 'I see you.'",
+        "id": 2429,
+        "Language": " Cas: Ngadju wihnyi nyahla. "
+    },
+    {
+        "Translation": " 'I wish to see that fellow.'",
+        "id": 2429,
+        "Language": " Cas: Ngadju malahni nyahbigi."
+    },
+    {
+        "Translation": " 'I do not see.'",
+        "id": 2429,
+        "Language": " M:Liv: Nyahdjam ngay, Nyahbidjam ngay. "
+    },
+    {
+        "Translation": " 'I saw you cutting (it).'",
+        "id": 2429,
+        "Language": " M:Liv: Ngayu wanyi nyahni galgabalini."
+    },
+    {
+        "Translation": " '(the kids) are staring (at us).'",
+        "id": 2429,
+        "Language": " Y:Sha:Culhm: Nyahla miyiyu."
+    },
+    {
+        "Translation": " 'You see or look.'",
+        "id": 2429,
+        "Language": " Y:Holm:Logn: Wahlu nyah."
+    },
+    {
+        "Translation": " '(I have come) to see you.'",
+        "id": 2429,
+        "Language": " Y:Holm:Logn: Nyahbigu (nyabigi) wahnyi. "
+    },
+    {
+        "Translation": " 'I can see (him).'",
+        "id": 2429,
+        "Language": " Y:Holm:Curry: Ngayu nyahla."
+    },
+    {
+        "Translation": " 'The kangaroo is frightened because he sees me.'",
+        "id": 2429,
+        "Language": " Y:Sha:Culhm: Duhyiyjah guruhman nganyih nyahna. "
+    },
+    {
+        "Translation": " 'Look at the boy and the woman.'",
+        "id": 2429,
+        "Language": " Y:Sha:Culhm: Nyah malahni jabuhngi jalganyi."
+    },
+    {
+        "Translation": " 'I'm looking.'",
+        "id": 2429,
+        "Language": " Y:Sha:Culhm: Nyahlelah ngaw. "
+    },
+    {
+        "Translation": " 'Do you see that one (woman)?'",
+        "id": 2429,
+        "Language": " Tw:Curr:Bray: Wahlu nyahni gilahni? "
+    },
+    {
+        "Translation": " 'I saw her yesterday.'",
+        "id": 2429,
+        "Language": " Tw:Curr:Bray: Ngayu nyahni ngubu. "
+    },
+    {
+        "Translation": " 'I see them now.'(lit. 'there see I')",
+        "id": 2429,
+        "Language": " Tw:Curr:Bray: Gile nyahni ngayu."
+    }
+]
+[
+    {
+        "Translation": " 'What do you want?'",
+        "id": 2430,
+        "Language": " Gd: Nyahgi wahlu? "
+    }
+]
+[
+    {
+        "Translation": " 'lamb'",
+        "id": 2443,
+        "Language": " Cas: nyamul jimbang "
+    }
+]
+[
+    {
+        "Translation": " 'How many children have you?'",
+        "id": 2449,
+        "Language": " Cas: Nyangbugur wangah jahdjam?"
+    }
+]
+[
+    {
+        "Translation": " 'What did you say?'",
+        "id": 2457,
+        "Language": " Bj:Holm: Nyanggur wahlu ginani?"
+    },
+    {
+        "Translation": " 'What time is it?'",
+        "id": 2457,
+        "Language": " Bj:Holm: Nyanggur gala bayahny?"
+    }
+]
+[
+    {
+        "Translation": " 'one fellow'",
+        "id": 2506,
+        "Language": " Bj: yabur nyula"
+    }
+]
+[
+    {
+        "Translation": " '(God) showed (the rainbow, i.e. Gave it as a sign).'",
+        "id": 2508,
+        "Language": " Bj:Holm: Nyumbani."
+    }
+]
+[
+    {
+        "Translation": " 'My back is aching while I am standing up washing clothes.'",
+        "id": 2511,
+        "Language": " Gd:Geyt: Muli gadjalehla jahna-nyun janbalinyun. "
+    },
+    {
+        "Translation": " '(I) will speak to him while we are bringing the cattle.'",
+        "id": 2511,
+        "Language": " Gd: Nyule,g, gurgun mahny bulah ngali gahngaliwa-nyun. "
+    },
+    {
+        "Translation": " 'While I watch the children they will be,g,od.'",
+        "id": 2511,
+        "Language": " Gd: Nyah-nyun jahdjami bugal wan.gahny nyulangam. "
+    }
+]
+[
+    {
+        "Translation": " 'where (we) were sitting'",
+        "id": 2517,
+        "Language": " Bj:Holm: yehn.ginyan "
+    },
+    {
+        "Translation": " 'when you see me' ",
+        "id": 2517,
+        "Language": " Bj:Holm: nganyi nyahnyan wahlu "
+    }
+]
+[
+    {
+        "Translation": " 'Say it slowly.' (slow speak)",
+        "id": 2533,
+        "Language": " We: Ngambuhru wadjeh. "
+    },
+    {
+        "Translation": " 'Don't go from there unless I tell you.'",
+        "id": 2533,
+        "Language": " Wa: Wanah mununu yanah ngadju wadjehnyidjahng. "
+    },
+    {
+        "Translation": " 'What will we tell him?'",
+        "id": 2533,
+        "Language": " Wa: Nyang ngadji galahni wadjehny?"
+    },
+    {
+        "Translation": " 'How will we tell him?'",
+        "id": 2533,
+        "Language": " Wa: Jiginehny galahni wadjehny? "
+    },
+    {
+        "Translation": " 'The old man told him to bring him some honey.'",
+        "id": 2533,
+        "Language": " Wa: Maliyu dandaygambu wadjini biridju nyulangi yanginiyah. "
+    },
+    {
+        "Translation": " 'She said, I will go.'",
+        "id": 2533,
+        "Language": " Wa: Nyahn.gandu wadjini yan.gahny ngay."
+    },
+    {
+        "Translation": " 'She said she would go.'",
+        "id": 2533,
+        "Language": " Wa: Nyahn.gandu wadjini yan.gahny nyahn.gan."
+    },
+    {
+        "Translation": " 'If you don't encourage them (to learn), they won't understand anything.'",
+        "id": 2533,
+        "Language": " Wa: Yagambeh mahnyuni wadji-wadjehnyi yagambeh mahnyulu ganngahny. "
+    }
+]
+[
+    {
+        "Translation": " 'You're a stranger, where are you from?'",
+        "id": 2552,
+        "Language": " Y:Sha:Culhm: Wahlu jagul, windjigahl wahlu?"
+    }
+]
+[
+    {
+        "Translation": " 'The wind will change.'",
+        "id": 2555,
+        "Language": " Wa: Mala buyan wahndjarehny. "
+    }
+]
+[
+    {
+        "Translation": " 'Long ago one white man, a boss, was making others work.' ",
+        "id": 2559,
+        "Language": " Gd: Gurubu yabur dagay mahdja ngandurni wahngmalimahn. "
+    },
+    {
+        "Translation": " 'He's working.'",
+        "id": 2559,
+        "Language": " Wa: Wahngmalehla mala. "
+    },
+    {
+        "Translation": " 'We used to work (for) gold.'",
+        "id": 2559,
+        "Language": " Wa: Wahngmadjahn madji ngali guhl. "
+    },
+    {
+        "Translation": " 'I saw that fellow working.'",
+        "id": 2559,
+        "Language": " Cas: Ngadju malahni nyahni wangmalinyun. "
+    },
+    {
+        "Translation": " 'Work is good for you.'",
+        "id": 2559,
+        "Language": " M:Liv: Wahng wiyah banyar. "
+    }
+]
+[
+    {
+        "Translation": " 'The snake is crawling to the whiteman.'",
+        "id": 2569,
+        "Language": " Wa: Mala nguhnyba walanggiwahla malahba yiralibah. "
+    },
+    {
+        "Translation": " 'That baby will soon be crawling.' ",
+        "id": 2569,
+        "Language": " Wa: Mala jahdjam walanggehny yuh. "
+    }
+]
+[
+    {
+        "Translation": " 'He would have come with a stick and hit you with it.'",
+        "id": 2578,
+        "Language": " Wa: Crowl: Gala yangwehn wambaruga badjinibeh-nguy wihnyi."
+    }
+]
+[
+    {
+        "Translation": " 'Don't swim in the water.' ",
+        "id": 2582,
+        "Language": " Wa: Wanah yaruhma malahya nyabaydja. "
+    },
+    {
+        "Translation": " 'Don't be too noisy.'",
+        "id": 2582,
+        "Language": " Gd: Wanah garahdja."
+    },
+    {
+        "Translation": " 'Don't kill me!'",
+        "id": 2582,
+        "Language": " Gd: Wanah nganyi bumah wahlu. "
+    },
+    {
+        "Translation": " 'Don't be wicked!'",
+        "id": 2582,
+        "Language": " Gd: Wanah jang wanah. "
+    },
+    {
+        "Translation": " 'Don't do that.'",
+        "id": 2582,
+        "Language": " Wu: Wanah gineh. "
+    },
+    {
+        "Translation": " 'Don't go!' ",
+        "id": 2582,
+        "Language": " Bj:Turnbl: Wanah yana(h)!"
+    }
+]
+[
+    {
+        "Translation": " 'Stop it, leave it!' ",
+        "id": 2613,
+        "Language": " All: Wanah! "
+    },
+    {
+        "Translation": " 'He left his swag there.'",
+        "id": 2613,
+        "Language": " Gd: Gah nguy nyula wanani jumbuy. "
+    },
+    {
+        "Translation": " 'Don't kill me!' ",
+        "id": 2613,
+        "Language": " Gd: Wanah nganyi bumah. "
+    },
+    {
+        "Translation": " 'Don't do that.' ",
+        "id": 2613,
+        "Language": " Wu: Wanah gineh. "
+    },
+    {
+        "Translation": " 'Only you two were left behind.'",
+        "id": 2613,
+        "Language": " Wa: Mahnybe blaganibeh wanani. "
+    },
+    {
+        "Translation": " 'Don't go!'",
+        "id": 2613,
+        "Language": " Y:Hanln: Wanah yanbah! "
+    }
+]
+[
+    {
+        "Translation": " 'The kookaburra flew up there.'",
+        "id": 2645,
+        "Language": " We: Gahgun mala wayahlin gilah babar. "
+    },
+    {
+        "Translation": " 'flying'",
+        "id": 2645,
+        "Language": " We: wayahlelah "
+    },
+    {
+        "Translation": " 'a thing which may be made to fly (eg boomerang)'",
+        "id": 2645,
+        "Language": " Gd: wayahlimal "
+    }
+]
+[
+    {
+        "Translation": " 'Put the meat on the fire to be cooked.'",
+        "id": 2651,
+        "Language": " Wa: Waybaramah mala bulang guybayah. "
+    },
+    {
+        "Translation": " 'The man is chopping (fire)wood.'",
+        "id": 2651,
+        "Language": " Wa: Mala baygal galgalehla waybar. "
+    },
+    {
+        "Translation": " 'He chopped the tree down for firewood.'",
+        "id": 2651,
+        "Language": " Wa: Maliyu galgani jali waybargu. "
+    },
+    {
+        "Translation": " 'The fire burnt me.'",
+        "id": 2651,
+        "Language": " Wa: Maliyu waybaru guybani nganyi. "
+    },
+    {
+        "Translation": " 'Make a fire to cook the meat (on top of the coals).'",
+        "id": 2651,
+        "Language": " Wa: Waybarmah madji guybayah mahny bulang."
+    },
+    {
+        "Translation": " 'The fire has been put out'",
+        "id": 2651,
+        "Language": " Wa: Barbilehn munah waybar. "
+    },
+    {
+        "Translation": " 'Heat it over the fire.'",
+        "id": 2651,
+        "Language": " Wa: Nguhnma madji waybara. "
+    },
+    {
+        "Translation": " 'Carry firewood'",
+        "id": 2651,
+        "Language": " Cas: Waybar wahri. "
+    },
+    {
+        "Translation": " 'Go to the camp.'",
+        "id": 2651,
+        "Language": " Cas: Yanah waybargu. "
+    },
+    {
+        "Translation": " 'Put the food on the fire.'",
+        "id": 2651,
+        "Language": " Cas: Yunamah nangany waybari. "
+    }
+]
+[
+    {
+        "Translation": " 'Speak loudly.'",
+        "id": 2660,
+        "Language": " M: Waymaleh garayaleh. "
+    },
+    {
+        "Translation": " 'Speak gently.'",
+        "id": 2660,
+        "Language": " M: Waymaleh ngamuwileh. "
+    },
+    {
+        "Translation": " 'I hear speaking there.'",
+        "id": 2660,
+        "Language": " M: Ngayu ganngahla waymalinyun. "
+    },
+    {
+        "Translation": " '(He) spoke to you.'",
+        "id": 2660,
+        "Language": " Y:Sha:Culhm: Waymani wahnyi."
+    }
+]
+[
+    {
+        "Translation": " 'It is raining.'",
+        "id": 2670,
+        "Language": " Bj:Turnbl: Guwang wen.gahla. "
+    },
+    {
+        "Translation": " '(He) is getting hungry.'",
+        "id": 2670,
+        "Language": " Bj:Turnbl: Mula wen.gahla. "
+    },
+    {
+        "Translation": " '(He) is getting drunk (or drinking).'",
+        "id": 2670,
+        "Language": " Bj:Turnbl: Jarangwen.gahla. "
+    },
+    {
+        "Translation": " 'Now it is warm.'",
+        "id": 2670,
+        "Language": " Bj:Turnbl: Nguhnwen.gahla. "
+    },
+    {
+        "Translation": " 'I am getting mad/wild.'",
+        "id": 2670,
+        "Language": " Bj:Turnbl: Garingi-wen.gahla ngay. "
+    },
+    {
+        "Translation": " 'getting hungry'",
+        "id": 2670,
+        "Language": " Bj:Turnbl: Mula wen.gahla "
+    }
+]
+[
+    {
+        "Translation": " 'Where are you going to?'",
+        "id": 2685,
+        "Language": " Holm:Monsl: Yindjigu wiya?"
+    },
+    {
+        "Translation": " 'Where are you coming from?'",
+        "id": 2685,
+        "Language": " Holm:Monsl: Yindjigal wiya?"
+    },
+    {
+        "Translation": " 'Where are you going?'",
+        "id": 2685,
+        "Language": " Holm:Monsl: Yindjigu wiya? "
+    },
+    {
+        "Translation": " 'Where are you going?'",
+        "id": 2685,
+        "Language": " Holm:Monsl: Windji wahlu? "
+    },
+    {
+        "Translation": " 'You're a stranger, where you from?'",
+        "id": 2685,
+        "Language": " Y:Sha:Culhm: Wahlu jagul, windjigahl wahlu?"
+    }
+]
+[
+    {
+        "Translation": " 'all the,g,ass'",
+        "id": 2704,
+        "Language": " Bj:Holm: mabehrbu wudjang "
+    },
+    {
+        "Translation": " 'These (people) built this house of grass and leaves.'",
+        "id": 2704,
+        "Language": " Wa: Gala nguhmbiny gahnyulu bawgani wudjanggu ngeh wurahnggu. "
+    }
+]
+[
+    {
+        "Translation": " '(he) goes quickly.'",
+        "id": 2714,
+        "Language": " Y:Sha:Culhm: Wugin-yan.gahla."
+    }
+]
+[
+    {
+        "Translation": " 'He hid.'",
+        "id": 2722,
+        "Language": " Cas: Wuhrbalehn nyule "
+    }
+]
+[
+    {
+        "Translation": " 'Do you speak any English?'",
+        "id": 2739,
+        "Language": " Cas: Nyanggur wudjeh yirilingah wadjelehla wule nguyeh? "
+    }
+]
+[
+    {
+        "Translation": " 'I found him here.'",
+        "id": 2741,
+        "Language": " Cas: Ngadju nyulangi wulimani gagahba. "
+    }
+]
+[
+    {
+        "Translation": " 'She is sleeping.'",
+        "id": 2763,
+        "Language": " Cas: Wurahm nguy nyangan yunahla. "
+    }
+]
+[
+    {
+        "Translation": " 'go alone' (said to a male)",
+        "id": 2786,
+        "Language": " M:Liv: Yabuhrgin yanbali- "
+    },
+    {
+        "Translation": " 'go alone' (said to female) ",
+        "id": 2786,
+        "Language": " M:Liv: Yabuhrgin.gan yanbali- "
+    },
+    {
+        "Translation": " 'at once, with one blow, with one act'",
+        "id": 2786,
+        "Language": " M:Liv: yabuhrninba "
+    }
+]
+[
+    {
+        "Translation": " 'You make me a boomerang.'",
+        "id": 2788,
+        "Language": " Y:Holm: Wahlu nganyi bargan yaga(h). "
+    },
+    {
+        "Translation": " 'I can make a boomerang.'",
+        "id": 2788,
+        "Language": " Y:Holm: Ngayu bargan yagahla. "
+    }
+]
+[
+    {
+        "Translation": " 'I don't understand Gumbaynggir'",
+        "id": 2791,
+        "Language": " Wa: Yagambeh ngadju ganngahla gumbaynggirnah nguyay "
+    },
+    {
+        "Translation": " 'not yet' ",
+        "id": 2791,
+        "Language": " Gd: yagambu "
+    }
+]
+[
+    {
+        "Translation": " 'My hand is burning with the heat.'",
+        "id": 2796,
+        "Language": " Cas: Nganyah jambay jaguwehnbe ngawunydju."
+    }
+]
+[
+    {
+        "Translation": " 'You stop here.'",
+        "id": 2807,
+        "Language": " Y:Hanln: Yahna wahlu. "
+    },
+    {
+        "Translation": " 'sitting or staying at home'",
+        "id": 2807,
+        "Language": " Y:Holm:QLong: yahnala ngumbinya (nyumbinya sic.) "
+    },
+    {
+        "Translation": " 'I'm sitting talking.'",
+        "id": 2807,
+        "Language": " Y:Sha:Culhm: Yahn.galah ngaw waymalehla."
+    }
+]
+[
+    {
+        "Translation": " 'He will make me sick.' ",
+        "id": 2825,
+        "Language": " M:Liv: Malahyu nganyi yilyalmahny. "
+    },
+    {
+        "Translation": " 'big toe (?)'",
+        "id": 2825,
+        "Language": " M:Sc: yalyal jinang "
+    }
+]
+[
+    {
+        "Translation": " 'Let's go away to work.'",
+        "id": 2830,
+        "Language": " Cas: Yanah ngali yanbih wangmaliyah. "
+    },
+    {
+        "Translation": " 'They've,g,ne after lizards.'",
+        "id": 2830,
+        "Language": " Cas: Gahny nyulamang yehni magilgu. "
+    },
+    {
+        "Translation": " 'Come (go) with me.'",
+        "id": 2830,
+        "Language": " Cas: Yanah ngadjay. "
+    },
+    {
+        "Translation": " 'Let's go to the beach.'",
+        "id": 2830,
+        "Language": " Cas: Yanah ngali buruwar(gu). "
+    },
+    {
+        "Translation": " 'He went (across) the,g,ass.'",
+        "id": 2830,
+        "Language": " Cas: Nyule yehni wudjanggi."
+    }
+]
+[
+    {
+        "Translation": " 'He took his spears along with him.'",
+        "id": 2835,
+        "Language": " Cas: Nyule yandihndin nyulangahyu bilahru. "
+    }
+]
+[
+    {
+        "Translation": " 'I have brought (fetc,ed) him.'",
+        "id": 2837,
+        "Language": " Y:Holm: Ngayu nyulangi yanganini. "
+    }
+]
+[
+    {
+        "Translation": " 'It's \"yilah yehyani banidjargan\"\u009d (where has his wife,g,ne), it's wrong to say \"I dunno yilah yehyani\"'",
+        "id": 2844,
+        "Language": " Wa: Yilah yehyani banidjargan, yangmani. I dunno yilah yehyani. "
+    },
+    {
+        "Translation": " 'The wife abused her husband.'",
+        "id": 2844,
+        "Language": " Wa: Maliyu banidjargandu yangmani mala banidjarni. "
+    }
+]
+[
+    {
+        "Translation": " 'Where are you going to hunt?'",
+        "id": 2849,
+        "Language": " Bj:Turnbl: Yila wuhye yanbalehla ngargu?"
+    },
+    {
+        "Translation": " 'I'm going to Lismore.'",
+        "id": 2849,
+        "Language": " Bj:Turnbl: Yanbalehla dugurimba. "
+    },
+    {
+        "Translation": " 'I'm going hunting.'",
+        "id": 2849,
+        "Language": " Bj:Turnbl: Ngay yan.gahny ngahrgu. "
+    },
+    {
+        "Translation": " 'You go away.'",
+        "id": 2849,
+        "Language": " Bj:Holm: Yanah wuya. "
+    },
+    {
+        "Translation": " 'Go then.'",
+        "id": 2849,
+        "Language": " Bj:Holm: Ba yanah. "
+    },
+    {
+        "Translation": " 'Let us go.'",
+        "id": 2849,
+        "Language": " Bj:Holm: Ngali yanah. "
+    },
+    {
+        "Translation": " 'to go for a feed'",
+        "id": 2849,
+        "Language": " Bj:Holm: yanbi jabaygu "
+    },
+    {
+        "Translation": " 'I must go.'",
+        "id": 2849,
+        "Language": " Bj:Holm: Ngay yanbihgi. "
+    },
+    {
+        "Translation": " 'to go to fish' ",
+        "id": 2849,
+        "Language": " Bj:Holm: yanbihgu buralihgu "
+    },
+    {
+        "Translation": " 'You go away.'",
+        "id": 2849,
+        "Language": " Bj:Fe,g,: Yanbahla wuya. "
+    },
+    {
+        "Translation": " 'You go and fetc, me bread.'",
+        "id": 2849,
+        "Language": " Bj:Fe,g,: Yanda wuya ngaya barin.gu. "
+    },
+    {
+        "Translation": " 'I will go now.'",
+        "id": 2849,
+        "Language": " Bj:Fe,g,: Ngay yanbaleh"
+    },
+    {
+        "Translation": " 'I am going to work.'",
+        "id": 2849,
+        "Language": " Bj:Fe,g,: Yanbalehla ngay wahnggu. "
+    },
+    {
+        "Translation": " 'I will go and have a feed.'",
+        "id": 2849,
+        "Language": " Bj:Fe,g,: Yanbalehny ngay jabaygu. "
+    }
+]
+[
+    {
+        "Translation": " 'We used to go to Tabulam, and we would stay two nights.'",
+        "id": 2850,
+        "Language": " Wa: Ngali yan.gahn dahbalamna bulahbu jubuny yunahny. "
+    },
+    {
+        "Translation": " 'Where are you going?'",
+        "id": 2850,
+        "Language": " Wa: Yilah wudja yangahla? "
+    },
+    {
+        "Translation": " 'My nose is bleeding.'",
+        "id": 2850,
+        "Language": " Wa: Gumar yehyani muruya nganyahya. "
+    },
+    {
+        "Translation": " '(He's) got a runny nose.'",
+        "id": 2850,
+        "Language": " Wa: Nyugum yan.gahla "
+    },
+    {
+        "Translation": " 'Give me the dilly-bag while we're walking around.' ",
+        "id": 2850,
+        "Language": " Wa: Wulah nganyi mala dugul-duguhl yanbali-nyun. "
+    }
+]
+[
+    {
+        "Translation": " 'coming to me'",
+        "id": 2851,
+        "Language": " Y:Holm:Logn: yan.giwala ngayaba "
+    }
+]
+[
+    {
+        "Translation": " 'They were singing in the camp.'",
+        "id": 2861,
+        "Language": " M:Liv: Janabi yarbiluru waybarabu. "
+    },
+    {
+        "Translation": " 'They are singing a song.'",
+        "id": 2861,
+        "Language": " Y:Sha:Culhm: Yarbilehla/Yalbilehla. "
+    }
+]
+[
+    {
+        "Translation": " 'The wind is strong.'",
+        "id": 2864,
+        "Language": " Y:Sha:Culhm: Janggam yargeh. "
+    }
+]
+[
+    {
+        "Translation": " 'They used to sing the coroboree before the whiteman came.'",
+        "id": 2873,
+        "Language": " Wa: Yarbilidjahndu yawahrgu yagambu yirali yang giwa-nyun. "
+    },
+    {
+        "Translation": " 'I came to tell you there is a corroboree there.'",
+        "id": 2873,
+        "Language": " Wa: Gandehn ngay wadjiyah blaganmirni yawahr gilah ngahrila. "
+    }
+]
+[
+    {
+        "Translation": " '(I) saw him yesterday evening.'",
+        "id": 2877,
+        "Language": " Gd: Gunah yawunde nyahni nyule,g,. "
+    },
+    {
+        "Translation": " 'Look! We're late!'",
+        "id": 2877,
+        "Language": " Cas: Yang! Ngali yawun! "
+    },
+    {
+        "Translation": " 'I shall go tomorrow afternoon.'",
+        "id": 2877,
+        "Language": " Cas: Ngay yan.gahny yawundi ngubu. "
+    }
+]
+[
+    {
+        "Translation": " 'Where is he?'",
+        "id": 2897,
+        "Language": " Cas: Yihlagur nyule? "
+    }
+]
+[
+    {
+        "Translation": " 'Where are you going?'",
+        "id": 2902,
+        "Language": " Bj:Holm: Yila wuhye yanbalehla? "
+    },
+    {
+        "Translation": " 'Where is he?'",
+        "id": 2902,
+        "Language": " Bj:Holm: Yila nyula? "
+    },
+    {
+        "Translation": " 'Where are you going to hunt?'",
+        "id": 2902,
+        "Language": " Bj:Holm:Turnbl: Yila wuhye yanbalehla ngargu?"
+    }
+]
+[
+    {
+        "Translation": " 'Where are you going?'",
+        "id": 2904,
+        "Language": " Gd: Yilah wudja yan.gahla? "
+    }
+]
+[
+    {
+        "Translation": " 'Where are the blacks?'",
+        "id": 2906,
+        "Language": " M:Liv: Yile mibiny, yili mibiny? "
+    },
+    {
+        "Translation": " 'Where is he?'",
+        "id": 2906,
+        "Language": " Y:Allen: Yili nyule? "
+    },
+    {
+        "Translation": " 'Where are you going?'",
+        "id": 2906,
+        "Language": " Y:Holm:Jackie: Yila wahlu yanbalehla? "
+    },
+    {
+        "Translation": " 'Where are you going?'",
+        "id": 2906,
+        "Language": " Y:Holm:Fogty: Yila wahlu (gawahla)? "
+    }
+]
+[
+    {
+        "Translation": " 'He,g,ve money to the angry barber.'",
+        "id": 2920,
+        "Language": " Gd: Nyaguhng wuladjahn yinggani guhndun gawgalihgubih. "
+    }
+]
+[
+    {
+        "Translation": " '(I) did not make it.'",
+        "id": 2947,
+        "Language": " Bj:Holm: Yugumbe ngangani. "
+    },
+    {
+        "Translation": " 'I do not know.'",
+        "id": 2947,
+        "Language": " Bj:Holm: Yugumbe ngay mibiny. "
+    },
+    {
+        "Translation": " 'blind' (literally not seeing)",
+        "id": 2947,
+        "Language": " Bj:Holm: yugumbe nyahla "
+    },
+    {
+        "Translation": " 'He is not a dog.'",
+        "id": 2947,
+        "Language": " Bj:Holm: Yugam nyula dabay. "
+    }
+]
+[
+    {
+        "Translation": " 'I got sunburnt.'",
+        "id": 2950,
+        "Language": " Wa: Yugehnbe ngay yalgandu maliyu. "
+    }
+]
+[
+    {
+        "Translation": " 'The skin swelled up.'",
+        "id": 2963,
+        "Language": " Y:Sha:Culhm: Yulany bambamehn. "
+    }
+]
+[
+    {
+        "Translation": " 'We used to go to Tabulam, and we would stay two nights.'",
+        "id": 2968,
+        "Language": " Wa: Ngali yan.gahn dahbalamna bulahbudjubuny yunahny. "
+    },
+    {
+        "Translation": " 'I will lie down here/I will sleep here.'",
+        "id": 2968,
+        "Language": " Wa: Ngay gala yunahny gadji. "
+    },
+    {
+        "Translation": " 'That shield up there is on the hillside.'",
+        "id": 2968,
+        "Language": " Wa: Gala ngahnydja gilah bagarah bagah yunahla bahmbinydja. "
+    },
+    {
+        "Translation": " 'The river runs between the hills.'",
+        "id": 2968,
+        "Language": " Cas: Balun yunahla gihla dugundah. "
+    },
+    {
+        "Translation": " 'Let's go and camp somewhere out of this rain.'",
+        "id": 2968,
+        "Language": " Cas: Yanah ngali yunah galahnyi guwangnyi."
+    },
+    {
+        "Translation": " 'Lie down.'",
+        "id": 2968,
+        "Language": " Bj:Holm: Wuya yunah. "
+    }
+]

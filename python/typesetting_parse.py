@@ -174,8 +174,8 @@ def process_entry(entry):
     }
 
 
-    line_info = line_info_default
-    sense_line_info=sense_default
+    line_info = line_info_default.copy()
+    sense_line_info=sense_default.copy()
 
     #collect all items under headword
     newline=entry.split('|')
@@ -360,7 +360,7 @@ if __name__=="__main__":
 
     else:
         fileout='output'
-        filename='../typesetting/txt/z.txt'
+        filename='../typesetting/txt/a.txt'
 
 
         text=type_to_dictlist(filename)
